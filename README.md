@@ -7,16 +7,16 @@ le pôle logiciels libres d'Etalab.
 
 ## Pour code.gouv.fr
 
--   **[code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr):** Application web visible à `code.gouv.fr`.
--   **[codegouvfr-get-data](https://git.sr.ht/~etalab/codegouvfr-get-data):** Récupération des données affichées sur `code.gouv.fr`.
--   **[codegouvfr-data](https://git.sr.ht/~etalab/codegouvfr-data):** Préparation des données pour leur affichage sur `code.gouv.fr`.
+-   [code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr) : Application web pour `code.gouv.fr`.
+-   [codegouvfr-get-data](https://git.sr.ht/~etalab/codegouvfr-get-data) : Récupération des données à afficher sur `code.gouv.fr`.
+-   [codegouvfr-consolidate-data](https://git.sr.ht/~etalab/codegouvfr-consolidate-data) : Consolidation des données à afficher sur `code.gouv.fr`.
 
 
 ## Pour sill.etalab.gouv.fr
 
--   [sill](https://git.sr.ht/~etalab/sill) : Dépôt contenant les données sources du socle interministériel de logiciels libres.
--   [sill-data](https://git.sr.ht/~etalab/sill-data) : Dépôt pour la consolidation des données sources du SILL avant leur affichage sur `sill.etalab.gouv.fr`.
 -   [sill.etalab.gouv.fr](https://git.sr.ht/~etalab/sill.etalab.gouv.fr) : Application web pour `sill.etalab.gouv.fr`.
+-   [sill](https://git.sr.ht/~etalab/sill) : Définition des données sources du SILL et de PAPILLON.
+-   [sill-consolidate-data](https://git.sr.ht/~etalab/sill-consolidate-data) : Consolidation des données sources du SILL avant leur affichage sur `sill.etalab.gouv.fr`.
 
 
 ## Pour communs.numerique.gouv.fr
@@ -33,7 +33,8 @@ Autres projets :
 # Contribuer
 
 Pour tout retour de bug ou proposition de contribution sur l'un de ces
-dépôts, merci d'écrire à la liste de discussion *publique* `~etalab/logiciels-libres@lists.sr.ht`.
+dépôts, merci d'écrire à la liste de discussion *publique*
+`~etalab/logiciels-libres@lists.sr.ht`.
 
 Pour les retours devant rester confidentiels (failles de sécurité,
 demandes personnelles, etc.), écrivez à `logiciels-libres@data.gouv.fr`.
