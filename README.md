@@ -26,7 +26,7 @@ le pôle logiciels libres d'Etalab.
 
 ## Versions de préproduction
 
-Vous pouvez tester les versions de preproduction ici :
+Vous pouvez tester les versions de préproduction ici :
 
 -   <https://code.etalab.studio>
 -   <https://communs.etalab.studio>
