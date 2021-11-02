@@ -8,20 +8,20 @@ le pôle logiciels libres d'Etalab.
 ## Pour code.gouv.fr
 
 -   [code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr) : Application web pour `code.gouv.fr`.
--   [codegouvfr-get-data](https://git.sr.ht/~etalab/codegouvfr-get-data) : Récupération des données à afficher sur `code.gouv.fr`.
+-   [codegouvfr-fetch-data](https://git.sr.ht/~etalab/codegouvfr-fetch-data) : Récupération des données à afficher sur `code.gouv.fr`.
 -   [codegouvfr-consolidate-data](https://git.sr.ht/~etalab/codegouvfr-consolidate-data) : Consolidation des données à afficher sur `code.gouv.fr`.
 
 
 ## Pour sill.etalab.gouv.fr
 
 -   [sill.etalab.gouv.fr](https://git.sr.ht/~etalab/sill.etalab.gouv.fr) : Application web pour `sill.etalab.gouv.fr`.
--   [sill](https://git.sr.ht/~etalab/sill) : Définition des données sources du SILL et de PAPILLON.
+-   [sill](https://git.sr.ht/~etalab/sill) : Données sources du SILL et de PAPILLON.
 -   [sill-consolidate-data](https://git.sr.ht/~etalab/sill-consolidate-data) : Consolidation des données sources du SILL avant leur affichage sur `sill.etalab.gouv.fr`.
 
 
 ## Pour communs.numerique.gouv.fr
 
--   [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) : Site pour `communs.numerique.gouv.fr`.
+-   [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) : Code source du site `communs.numerique.gouv.fr`.
 
 Autres projets :
 
