@@ -19,9 +19,9 @@ le pôle logiciels libres d'Etalab.
 
 - [[https://git.sr.ht/~etalab/communs.numerique.gouv.fr][communs.numerique.gouv.fr]] : Code source du site =communs.numerique.gouv.fr=.
 
-** Versions de preproduction
+** Versions de préproduction
 
-Vous pouvez tester les versions de preproduction ici :
+Vous pouvez tester les versions de préproduction ici :
 
 - https://code.etalab.studio
 - https://communs.etalab.studio
