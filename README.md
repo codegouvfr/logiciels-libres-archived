@@ -23,14 +23,36 @@ le pôle logiciels libres d'Etalab.
 
 -   [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) : Code source du site `communs.numerique.gouv.fr`.
 
-Autres projets :
+
+## Versions de preproduction
+
+Vous pouvez tester les versions de preproduction ici :
+
+-   <https://code.etalab.studio>
+-   <https://communs.etalab.studio>
+-   <https://sill.etalab.studio>
+
+Ces versions sont publiées depuis la branche `master` des dépôts `code.gouv.fr`
+`communs.numerique.gouv.fr` et sill.etalab.gouv.fr.
+
+Les versions en ligne sont déployées à partir des branches `production`
+de ces mêmes dépôts.
+
+
+# Autres projets
 
 -   [guide-juridique-logiciel-libre](https://git.sr.ht/~etalab/guide-juridique-logiciel-libre)
--   [documentation-libreoffice](https://git.sr.ht/~etalab/documentation-libreoffice)
+
 -   [droit-auteur-logiciels](https://git.sr.ht/~etalab/droit-auteur-logiciels)
 
 
-# Contribuer
+# Suivre l'activité
+
+Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
+consulter la page [sr.ht/~etalab/logiciels-libres/feed](https://sr.ht/~etalab/logiciels-libres/feed).
+
+
+# Contribuer aux dépôts
 
 Pour tout retour de bug ou proposition de contribution sur l'un de ces
 dépôts, merci d'écrire à la liste de discussion *publique*
