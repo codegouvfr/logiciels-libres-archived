@@ -8,6 +8,7 @@ le pôle logiciels libres d'Etalab.
 ## Pour code.gouv.fr
 
 -   [code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr) : Application web pour `code.gouv.fr`.
+-   [codegouvfr-sources](https://git.sr.ht/~etalab/codegouvfr-sources) : Liste des comptes d'organisation du secteur public.
 -   [codegouvfr-fetch-data](https://git.sr.ht/~etalab/codegouvfr-fetch-data) : Récupération des données à afficher sur `code.gouv.fr`.
 -   [codegouvfr-consolidate-data](https://git.sr.ht/~etalab/codegouvfr-consolidate-data) : Consolidation des données à afficher sur `code.gouv.fr`.
 
