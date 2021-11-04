@@ -35,15 +35,17 @@ de ces mêmes dépôts.
 
 * Autres projets
 
-- [[https://git.sr.ht/~etalab/guide-juridique-logiciel-libre][guide-juridique-logiciel-libre]] : Un guide interactif pour savoir si vous devez publier un code source.
-- [[https://git.sr.ht/~etalab/droit-auteur-logiciels][droit-auteur-logiciels]] : Un point juridique concernant l’application du droit d’auteur à la protection des logiciels.
+** Sur SourceHut
 
-* Dépôts disponibles sur GitHub
+- [[https://git.sr.ht/~etalab/guide-juridique-logiciel-libre][guide-juridique-logiciel-libre]] : Un guide interactif pour savoir si vous devez publier un code source.
+
+** Sur GitHub
 
 - [[https://github.com/blue-hats/ateliers][blue-hats/ateliers]] : Le détail des ateliers BlueHats.
 - [[https://github.com/blue-hats/bluehats-soc][blue-hats/bluehats-soc]] : La présentation du programme BlueHats Semester of Code 2021.
 - [[https://github.com/blue-hats/journee-bluehats-osx-2021][blue-hats/journee-bluehats-osx-2021]] : Le programme de la journée BlueHats 2021.
 - [[https://github.com/etalab/documentation-libreoffice][documentation-libreoffice]] : Documentation LibreOffice rédigée par le ministère de la Transition écologique et solidaire.
+- [[https://github.com/etalab/droit-auteur-logiciels][droit-auteur-logiciels]] : Un point juridique concernant l’application du droit d’auteur à la protection des logiciels.
 
 * Suivre l'activité sur les dépôts SourceHut
 
