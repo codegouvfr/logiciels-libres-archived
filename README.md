@@ -68,10 +68,10 @@ Vos contributions sont les bienvenues !
 
 Pour des retours d'anomalie ou des propositions de contributions sur
 l'un de ces dépôts, merci d'écrire à la liste de discussion *publique*
-`~etalab/logiciels-libres@lists.sr.ht`.
+[~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
 
 Pour les retours devant rester confidentiels (failles de sécurité,
-demandes personnelles, etc.), écrivez à `logiciels-libres@data.gouv.fr`.
+demandes personnelles, etc.), écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
 
 # Licence
