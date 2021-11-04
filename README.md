@@ -32,8 +32,8 @@ Vous pouvez tester les versions de préproduction ici :
 -   <https://communs.etalab.studio>
 -   <https://sill.etalab.studio>
 
-Ces versions sont publiées depuis la branche `master` des dépôts `code.gouv.fr`
-`communs.numerique.gouv.fr` et sill.etalab.gouv.fr.
+Ces versions sont publiées depuis la branche `master` des dépôts
+[code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr), [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) et [sill.etalab.gouv.fr](https://git.sr.ht/~etalab/sill.etalab.gouv.fr).
 
 Les versions en ligne sont déployées à partir des branches `production`
 de ces mêmes dépôts.
@@ -41,12 +41,19 @@ de ces mêmes dépôts.
 
 # Autres projets
 
--   [guide-juridique-logiciel-libre](https://git.sr.ht/~etalab/guide-juridique-logiciel-libre)
+-   [guide-juridique-logiciel-libre](https://git.sr.ht/~etalab/guide-juridique-logiciel-libre) : Un guide interactif pour savoir si vous devez publier un code source.
+-   [droit-auteur-logiciels](https://git.sr.ht/~etalab/droit-auteur-logiciels) : Un point juridique concernant l’application du droit d’auteur à la protection des logiciels.
 
--   [droit-auteur-logiciels](https://git.sr.ht/~etalab/droit-auteur-logiciels)
+
+# Dépôts disponibles sur GitHub
+
+-   [blue-hats/ateliers](https://github.com/blue-hats/ateliers) : Le détail des ateliers BlueHats.
+-   [blue-hats/bluehats-soc](https://github.com/blue-hats/bluehats-soc) : La présentation du programme BlueHats Semester of Code 2021.
+-   [blue-hats/journee-bluehats-osx-2021](https://github.com/blue-hats/journee-bluehats-osx-2021) : Le programme de la journée BlueHats 2021.
+-   [documentation-libreoffice](https://github.com/etalab/documentation-libreoffice) : Documentation LibreOffice rédigée par le ministère de la Transition écologique et solidaire.
 
 
-# Suivre l'activité
+# Suivre l'activité sur les dépôts SourceHut
 
 Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
 consulter la page [sr.ht/~etalab/logiciels-libres/feed](https://sr.ht/~etalab/logiciels-libres/feed).
@@ -54,8 +61,10 @@ consulter la page [sr.ht/~etalab/logiciels-libres/feed](https://sr.ht/~etalab/lo
 
 # Contribuer aux dépôts
 
-Pour tout retour de bug ou proposition de contribution sur l'un de ces
-dépôts, merci d'écrire à la liste de discussion *publique*
+Vos contributions sont les bienvenues !
+
+Pour des retours d'anomalie ou des propositions de contributions sur
+l'un de ces dépôts, merci d'écrire à la liste de discussion *publique*
 `~etalab/logiciels-libres@lists.sr.ht`.
 
 Pour les retours devant rester confidentiels (failles de sécurité,
