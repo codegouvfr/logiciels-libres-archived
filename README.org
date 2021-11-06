@@ -68,6 +68,6 @@ demandes personnelles, etc.), écrivez à [[mailto:logiciels-libres@data.gouv.fr
 
 Le contenu de ce dépôt est sous [[file:LICENSE.md][licence Ouverte 2.0]].
 
-[[https://git.sr.ht/~etalab/readme-logiciels-libres/blob/master/LICENSE][https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square]]
+[[https://git.sr.ht/~etalab/readme-logiciels-libres/blob/master/LICENSE.md][https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square]]
 
 2021 DINUM, Etalab.
