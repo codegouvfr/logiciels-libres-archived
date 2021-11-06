@@ -68,6 +68,6 @@ demandes personnelles, etc.), écrivez à [[mailto:logiciels-libres@data.gouv.fr
 
 * Licence
 
-Le contenu de ce dépôt est sous [[file:LICENSE.md][licence Ouverte 2.0]].
-
 2021 DINUM, Etalab.
+
+Le contenu de ce dépôt est publié sous [[file:LICENSE.md][licence Ouverte 2.0]].
