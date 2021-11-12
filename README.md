@@ -6,51 +6,37 @@
 Cette page présente les codes sources développés et mis en oeuvre par
 le pôle logiciels libres d'Etalab.
 
+Le compte `~etalab` de SourceHut a deux projets :
 
-## Pour code.gouv.fr
+-   [code.gouv.fr](https://sr.ht/~etalab/code.gouv.fr/) rassemble les dépôts liés au site [code.gouv.fr](https://code.gouv.fr)
+-   [logiciels-libres](https://sr.ht/~etalab/logiciels-libres/) rassemble les autres dépôts
+
+
+## Pour le projet "code.gouv.fr"
 
 -   [code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr) : Application web pour `code.gouv.fr`.
 -   [codegouvfr-sources](https://git.sr.ht/~etalab/codegouvfr-sources) : Liste des comptes d'organisation du secteur public.
 -   [codegouvfr-fetch-data](https://git.sr.ht/~etalab/codegouvfr-fetch-data) : Récupération des données à afficher sur `code.gouv.fr`.
 -   [codegouvfr-consolidate-data](https://git.sr.ht/~etalab/codegouvfr-consolidate-data) : Consolidation des données à afficher sur `code.gouv.fr`.
-
-
-## Pour sill.etalab.gouv.fr
-
 -   [sill.etalab.gouv.fr](https://git.sr.ht/~etalab/sill.etalab.gouv.fr) : Application web pour `sill.etalab.gouv.fr`.
 -   [sill](https://git.sr.ht/~etalab/sill) : Données sources du SILL et de PAPILLON.
 -   [sill-consolidate-data](https://git.sr.ht/~etalab/sill-consolidate-data) : Consolidation des données sources du SILL avant leur affichage sur `sill.etalab.gouv.fr`.
 
+Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
+consulter la page [sr.ht/~etalab/code.gouv.fr/feed](https://sr.ht/~etalab/code.gouv.fr/feed).
 
-## Pour communs.numerique.gouv.fr
+
+## Pour le projet "logiciels-libres"
 
 -   [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) : Code source du site `communs.numerique.gouv.fr`.
-
-
-## Versions de préproduction
-
-Vous pouvez tester les versions de préproduction ici :
-
--   <https://code.etalab.studio>
--   <https://communs.etalab.studio>
--   <https://sill.etalab.studio>
-
-Ces versions sont publiées depuis la branche `master` des dépôts
-[code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr), [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) et [sill.etalab.gouv.fr](https://git.sr.ht/~etalab/sill.etalab.gouv.fr).
-
-Les versions en ligne sont déployées à partir des branches `production`
-de ces mêmes dépôts.
-
-
-# Autres projets
-
-
-## Sur SourceHut
-
 -   [guide-juridique-logiciel-libre](https://git.sr.ht/~etalab/guide-juridique-logiciel-libre) : Un guide interactif pour savoir si vous devez publier un code source.
+-   [read-logiciels-libres](https://git.sr.ht/~etalab/read-logiciels-libres) : Ce dépôt, qui présente l'ensemble.
+
+Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
+consulter la page [sr.ht/~etalab/logiciels-libres/feed](https://sr.ht/~etalab/logiciels-libres/feed).
 
 
-## Sur GitHub
+# Autres dépôts sur GitHub
 
 -   [blue-hats/ateliers](https://github.com/blue-hats/ateliers) : Le détail des ateliers BlueHats.
 -   [blue-hats/bluehats-soc](https://github.com/blue-hats/bluehats-soc) : La présentation du programme BlueHats Semester of Code 2021.
@@ -59,18 +45,12 @@ de ces mêmes dépôts.
 -   [droit-auteur-logiciels](https://github.com/etalab/droit-auteur-logiciels) : Un point juridique concernant l’application du droit d’auteur à la protection des logiciels.
 
 
-# Suivre l'activité sur les dépôts SourceHut
-
-Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
-consulter la page [sr.ht/~etalab/logiciels-libres/feed](https://sr.ht/~etalab/logiciels-libres/feed).
-
-
 # Contribuer aux dépôts
 
 Vos contributions sont les bienvenues !
 
-Pour des retours d'anomalie ou des propositions de contributions sur
-l'un de ces dépôts, merci d'écrire à la liste de discussion *publique*
+Pour des discussions générales sur les développements du pôle
+logiciels libres, merci d'écrire à la liste de discussion *publique*
 [~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
 
 Pour les retours devant rester confidentiels (failles de sécurité,
