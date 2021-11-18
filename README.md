@@ -8,19 +8,19 @@ le pôle logiciels libres d'Etalab.
 
 Le compte `~etalab` de SourceHut a deux projets :
 
--   [code.gouv.fr](https://sr.ht/~etalab/code.gouv.fr/) rassemble les dépôts liés au site [code.gouv.fr](https://code.gouv.fr)
--   [logiciels-libres](https://sr.ht/~etalab/logiciels-libres/) rassemble les autres dépôts
+-   [code.gouv.fr](https://sr.ht/~etalab/code.gouv.fr/) rassemble les dépôts liés au site [code.gouv.fr](https://code.gouv.fr).
+-   [logiciels-libres](https://sr.ht/~etalab/logiciels-libres/) rassemble les autres dépôts.
 
 
 ## Pour le projet "code.gouv.fr"
 
--   [code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr) : Application web pour `code.gouv.fr`.
+-   [code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr) : Application web pour le site <https://code.gouv.fr>.
 -   [codegouvfr-sources](https://git.sr.ht/~etalab/codegouvfr-sources) : Liste des comptes d'organisation du secteur public.
--   [codegouvfr-fetch-data](https://git.sr.ht/~etalab/codegouvfr-fetch-data) : Récupération des données à afficher sur `code.gouv.fr`.
--   [codegouvfr-consolidate-data](https://git.sr.ht/~etalab/codegouvfr-consolidate-data) : Consolidation des données à afficher sur `code.gouv.fr`.
--   [sill.etalab.gouv.fr](https://git.sr.ht/~etalab/sill.etalab.gouv.fr) : Application web pour `sill.etalab.gouv.fr`.
+-   [codegouvfr-fetch-data](https://git.sr.ht/~etalab/codegouvfr-fetch-data) : Récupération des données à afficher sur code.gouv.fr.
+-   [codegouvfr-consolidate-data](https://git.sr.ht/~etalab/codegouvfr-consolidate-data) : Consolidation des données à afficher sur code.gouv.fr.
+-   [sill.etalab.gouv.fr](https://git.sr.ht/~etalab/sill.etalab.gouv.fr) : Application web pour [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr).
 -   [sill](https://git.sr.ht/~etalab/sill) : Données sources du SILL et de PAPILLON.
--   [sill-consolidate-data](https://git.sr.ht/~etalab/sill-consolidate-data) : Consolidation des données sources du SILL avant leur affichage sur `sill.etalab.gouv.fr`.
+-   [sill-consolidate-data](https://git.sr.ht/~etalab/sill-consolidate-data) : Consolidation des données du SILL.
 
 Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
 consulter la page [sr.ht/~etalab/code.gouv.fr/feed](https://sr.ht/~etalab/code.gouv.fr/feed).
@@ -28,8 +28,8 @@ consulter la page [sr.ht/~etalab/code.gouv.fr/feed](https://sr.ht/~etalab/code.g
 
 ## Pour le projet "logiciels-libres"
 
--   [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) : Code source du site `communs.numerique.gouv.fr`.
--   [guide-juridique-logiciel-libre](https://git.sr.ht/~etalab/guide-juridique-logiciel-libre) : Un guide interactif pour savoir si vous devez publier un code source.
+-   [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) : Code source du site <https://communs.numerique.gouv.fr>.
+-   [guide-juridique-logiciel-libre](https://git.sr.ht/~etalab/guide-juridique-logiciel-libre) : Guide interactif pour savoir si vous devez publier un code source.
 -   [read-logiciels-libres](https://git.sr.ht/~etalab/read-logiciels-libres) : Ce dépôt, qui présente l'ensemble.
 
 Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
