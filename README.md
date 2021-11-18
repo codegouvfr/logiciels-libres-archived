@@ -30,7 +30,7 @@ consulter la page [sr.ht/~etalab/code.gouv.fr/feed](https://sr.ht/~etalab/code.g
 
 -   [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) : Code source du site <https://communs.numerique.gouv.fr>.
 -   [guide-juridique-logiciel-libre](https://git.sr.ht/~etalab/guide-juridique-logiciel-libre) : Guide interactif pour savoir si vous devez publier un code source.
--   [read-logiciels-libres](https://git.sr.ht/~etalab/read-logiciels-libres) : Ce dépôt, qui présente l'ensemble.
+-   [logiciels-libres](https://git.sr.ht/~etalab/read-logiciels-libres) : Ce dépôt, qui contient les sources de [ce wiki](https://man.sr.ht/~etalab/logiciels-libres/index.md).
 
 Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
 consulter la page [sr.ht/~etalab/logiciels-libres/feed](https://sr.ht/~etalab/logiciels-libres/feed).
