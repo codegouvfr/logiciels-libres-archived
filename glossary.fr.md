@@ -65,8 +65,8 @@ Les codes sources développés dans le cadre de missions de service
 public ont vocation à être publiés, dans certains conditions. Ce site
 propose de chercher dans l'ensemble des codes sources aujourd'hui
 identifiés comme provenant d'un organisme remplissant une mission de
-service public. Il a été développé par [la mission
-Etalab](https://www.etalab.gouv.fr/).
+service public. Il a été développé par
+[Etalab](https://www.etalab.gouv.fr/).
 
 ## Software heritage
 
