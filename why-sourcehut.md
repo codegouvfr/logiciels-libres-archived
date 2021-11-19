@@ -1,5 +1,5 @@
 ---
-title: Why Etalab's Free Software unit uses SourceHut
+title: Why Etalab's Free Software pole uses SourceHut
 toc: false
 ---
 
