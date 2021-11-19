@@ -44,6 +44,7 @@ Voici donc les points qui ont guidé notre choix :
   
 **Ce choix n'a pas vocation à s'imposer à d'autres administration**,
 ni même à tous les projets du pôle logiciels libres, notamment parce
-que les modes de contribution via SourceHut peuvent dérouter certains.
-Mais il reflète les principes auxquels nous sommes attachés, et nous
-espérons qu'il vous permettra de découvrir cette forge.
+que les modes de contribution via SourceHut peuvent demander un temps
+d'adaptation.  Mais il reflète les principes auxquels Etalab est
+attaché, et nous espérons qu'il vous permettra de découvrir cette
+forge.
