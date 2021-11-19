@@ -43,5 +43,5 @@ Voici pour résumer les points qui ont guidé notre choix :
   rapide](https://forgeperf.org/).
   
 Ce choix n'a pas vocation à s'imposer à d'autres administration, ni
-même à tous les projets du pôle logiciels libres : mais il reflète les
+même à tous les projets du pôle logiciels libres, mais il reflète les
 principes auxquels nous sommes attachés.
