@@ -42,6 +42,7 @@ Voici pour résumer les points qui ont guidé notre choix :
 - SourceHut est [hautement disponible et très
   rapide](https://forgeperf.org/).
   
-Ce choix n'a pas vocation à s'imposer à d'autres administration, ni
-même à tous les projets du pôle logiciels libres, mais il reflète les
-principes auxquels nous sommes attachés.
+**Ce choix n'a pas vocation à s'imposer à d'autres administration**,
+ni même à tous les projets du pôle logiciels libres, mais il reflète
+les principes auxquels nous sommes attachés, et nous espérons qu'il
+vous permettra de découvrir cette forge.
