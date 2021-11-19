@@ -21,9 +21,9 @@ Comme le montre [cette
 liste](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab),
 Etalab s'est tôt engagé dans le fait de recourir à des logiciels
 libres : c'est cet engagement qui a incité le pôle logiciels libres à
-utiliser SourceHut pour l'hébergement d'une partie de ses codes
-sources.  C'est aussi pour montrer qu'il existe d'autres forges que
-celles envisagées par défaut, et encourager les administrations à bien
+utiliser SourceHut pour publier une partie de ses codes sources.
+C'est aussi pour montrer qu'il existe d'autres forges que celles
+envisagées par défaut, et encourager les administrations à bien
 motiver leurs choix d'hébergement.
 
 Voici les points saillants qui ont guidé notre choix :
