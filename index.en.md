@@ -1,8 +1,9 @@
-# Wiki of Etalab's Free Software unit
+Wiki of Etalab's Free Software unit
+====
 
 Aller à la page d'accueil [en Français](index.md).
 
-## Presentation
+# Presentation
 
 This page is the wiki of the free software unit of
 [Etalab](https://www.etalab.gouv.fr/)/[DINUM](https://www.numerique.gouv.fr/),
@@ -14,7 +15,7 @@ We publish here various resources about
 
 - A [glossary](glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
 
-## Contributing
+# Contributing
 
 Contributions are welcome!  You can send patches to the public mailing
 list
@@ -25,7 +26,7 @@ wiki repository](https://git.sr.ht/~etalab/logiciels-libres).
 For patches to target this repository, add this parameter to your
 clone: `git config format.subjectPrefix 'PATCH logiciels-libres`
 
-## License
+# License
 
 Contents of this repository are published under the [Open License 2.0](https://spdx.org/licenses/etalab-2.0.html).
 
