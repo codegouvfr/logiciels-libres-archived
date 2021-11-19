@@ -24,17 +24,18 @@ libres : c'est cet engagement qui a incité le pôle logiciels libres à
 utiliser SourceHut pour publier une partie de ses codes sources.
 C'est aussi pour montrer qu'il existe d'autres forges que celles
 envisagées par défaut, et encourager les administrations à bien
-motiver leurs choix d'hébergement.
+motiver leur choix d'hébergement.
 
-Voici les points saillants qui ont guidé notre choix :
+Voici pour résumer les points qui ont guidé notre choix :
 
-- Le code source de SourceHut est entièrement libre.
+- Le code source de SourceHut est [entièrement libre](https://sr.ht/~sircmpwn/sourcehut/).
 
 - Parmi les applications de forge entièrement libres, SourceHut est
   celle qui a les fonctionnalités les plus avancées.
 
 - SourceHut n'exige aucune inscription pour contribuer : il suffit
-  d'une adresse email pour envoyer des patches et proposer des idées.
+  d'une adresse de courriel pour envoyer des correctifs et proposer
+  des idées.
 
 - SourceHut ne collecte aucune donnée de ses utilisateurs.
 
