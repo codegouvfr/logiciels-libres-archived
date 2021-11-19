@@ -1,5 +1,6 @@
-Wiki of Etalab's Free Software unit
-====
+---
+title: Wiki of Etalab's Free Software unit
+---
 
 Aller à la page d'accueil [en Français](index.md).
 

@@ -1,5 +1,6 @@
-Wiki du pôle logiciel libre d'Etalab
-====
+---
+title: Wiki du pôle logiciel libre d'Etalab
+---
 
 Go to the [english homepage](index.en.md).
 

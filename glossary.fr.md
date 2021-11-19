@@ -1,5 +1,6 @@
-Glossaire pour code.gouv.fr
-====
+---
+title: Glossaire pour code.gouv.fr
+---
 
 *Pour proposer une amélioration, écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).*
 
