@@ -7,7 +7,7 @@ Pour publier ses codes sources, chaque administration est libre de
 choisir entre plusieurs options, présentées en mai 2018 dans la
 [politique de contribution de l'Etat aux logiciels
 libres](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/),
-politique qui sera prochainement mise à jour.
+politique qui sera mise à jour en 2022.
 
 Un choix répandu est de publier sur GitHub.  De nombreuses autres
 administrations choisissent de publier sur GitLab ou via une instance
