@@ -9,22 +9,22 @@ choisir entre plusieurs options, présentées en mai 2018 dans la
 libres](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/),
 politique qui sera mise à jour en 2022.
 
-Un choix répandu est de publier sur GitHub.  De nombreuses autres
-administrations choisissent de publier sur GitLab ou via une instance
-GitLab locale ou interministérielle (voir [ces
-chiffres](https://code.gouv.fr/#/stats)).  Au sein d'Etalab, le pôle
-logiciels libres publie une partie de ses codes sources sur
-[SourceHut](https://sourcehut.org).  Pourquoi ?
+Comme le montrent [ces chiffres](https://code.gouv.fr/#/stats), les
+administrations choisissent souvent de publier sur GitHub.  De
+nombreuses autres publient sur GitLab ou via une instance GitLab
+locale ou interministérielle.  
 
+**Au sein d'Etalab, le pôle logiciels libres publie une partie de ses
+codes sources sur [SourceHut](https://sourcehut.org).  Pourquoi ?**
+
+Comme le montre [cette
+liste](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab),
 Etalab s'est tôt engagé dans le fait de recourir à des logiciels
-libres, comme le montre [cette
-liste](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab).
-
-C'est cet engagement qui a incité le pôle logiciels libres à utiliser
-SourceHut pour l'hébergement d'une partie de ses codes sources.  C'est
-aussi pour montrer qu'il existe d'autres forges que celles envisagées
-par défaut, et encourager les administrations à bien motiver leurs
-choix d'hébergement.
+libres : c'est cet engagement qui a incité le pôle logiciels libres à
+utiliser SourceHut pour l'hébergement d'une partie de ses codes
+sources.  C'est aussi pour montrer qu'il existe d'autres forges que
+celles envisagées par défaut, et encourager les administrations à bien
+motiver leurs choix d'hébergement.
 
 Voici les points saillants qui ont guidé notre choix :
 
