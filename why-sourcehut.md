@@ -18,14 +18,14 @@ on [SourceHut](https://sourcehut.org).  Why?**
 
 As shown in [this
 list](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab),
-Etalab has been long committed to using free software: it's mainly
+Etalab has long been committed to using free software: it's mainly
 this commitment that decided the Free Software unit to use SourceHut
 to publish most of its source code.  It's also to demonstrate that
-there are other forges than the ones that are usually considered, by
-default or by habit, and thus encourage each agency to motivate its
-choice for a forge.
+there are other forges than the ones usually considered, by default or
+by habit, and thus encourage each agency to motivate its choice for a
+forge.
 
-So here are the reasons that guided our choice:
+Here are the detailed reasons that guided our choice:
 
 - Sourcehut is [entirely free software](https://sr.ht/~sircmpwn/sourcehut/). 
 

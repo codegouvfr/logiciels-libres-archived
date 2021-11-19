@@ -26,7 +26,7 @@ sources.  C'est aussi pour montrer qu'il existe d'autres forges que
 celles envisagées par défaut ou par habitude, et ainsi encourager
 chaque administration à bien motiver ses choix d'hébergement de code.
 
-Voici donc les raisons qui ont guidé notre choix :
+Voici en détail les raisons qui ont guidé notre choix :
 
 - SourceHut est un logiciel [entièrement libre](https://sr.ht/~sircmpwn/sourcehut/).
 
