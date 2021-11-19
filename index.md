@@ -1,5 +1,6 @@
 ---
 title: Wiki du pôle logiciel libre d'Etalab
+toc: false
 ---
 
 Go to the [english homepage](index.en.md).
