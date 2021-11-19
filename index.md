@@ -14,7 +14,7 @@ pour l'administration publique.
 Nous y publions des contenus liés [code.gouv.fr](https://code.gouv.fr)
 et à nos autres produits.
 
-- Un glossaire pour [code.gouv.fr](https://code.gouv.fr)
+- Un [glossaire](glossary.fr.md) pour [code.gouv.fr](https://code.gouv.fr)
 
 ## Contribuer
 

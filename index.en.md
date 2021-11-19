@@ -12,7 +12,7 @@ the French public administration.
 We publish here various resources about
 [code.gouv.fr](https://code.gouv.fr) and our other products.
 
-- A glossary for [code.gouv.fr](https://code.gouv.fr)
+- A [glossary](glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
 
 ## Contributing
 
