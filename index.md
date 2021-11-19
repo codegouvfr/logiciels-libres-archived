@@ -1,9 +1,8 @@
-Wiki du pôle logiciel libre d'Etalab
-===
+# Wiki du pôle logiciel libre d'Etalab
 
-See the [english index](index.en.md).
+Go to the [english homepage](index.en.md).
 
-# Présentation
+## Présentation
 
 Cette page est la page d'accueil du wiki du pôle logiciels libres
 d'[Etalab](https://www.etalab.gouv.fr/)
@@ -28,7 +27,7 @@ Si vous êtes contributeur régulier, vous pouvez demander un accès en
 Pour que les patches visent ce dépôt, ajoutez ce paramètre à votre
 clone: `git config format.subjectPrefix 'PATCH logiciels-libres`
 
-# Licence
+## Licence
 
 Les contenus de ce dépôt sont publiés sous [licence Ouverte 2.0](LICENSE.md).
 

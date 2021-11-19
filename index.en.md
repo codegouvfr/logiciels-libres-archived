@@ -1,7 +1,8 @@
-Wiki of Etalab's Free Software unit
-===
+# Wiki of Etalab's Free Software unit
 
-# Presentation
+Aller à la page d'accueil [en Français](index.md).
+
+## Presentation
 
 This page is the wiki of the free software unit of
 [Etalab](https://www.etalab.gouv.fr/)/[DINUM](https://www.numerique.gouv.fr/),
@@ -24,7 +25,7 @@ wiki repository](https://git.sr.ht/~etalab/logiciels-libres).
 For patches to target this repository, add this parameter to your
 clone: `git config format.subjectPrefix 'PATCH logiciels-libres`
 
-# License
+## License
 
 Contents of this repository are published under the [Open License 2.0](https://spdx.org/licenses/etalab-2.0.html).
 
