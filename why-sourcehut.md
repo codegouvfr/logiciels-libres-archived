@@ -38,7 +38,8 @@ Here are the detailed reasons that guided our choice:
   
 - SourceHut don't collect any data from its users.
 
-**This choice is not meant to impose to other administrations**, not
-even to all of our projects, because contributing via SourceHut may
-require an effort to adapt.  But it reflects the principles we stick
-to, and we hope it will allow you to discover this forge.
+**This choice is not intended to be imposed on other
+administrations**, not even to all of our projects, because
+contributing via SourceHut may require an effort to adapt.  But it
+reflects the principles we stick to, and we hope it will allow you to
+discover this forge.
