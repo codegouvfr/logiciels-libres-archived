@@ -28,10 +28,12 @@ chaque administration à bien motiver ses choix d'hébergement de code.
 
 Voici en détail les raisons qui ont guidé notre choix :
 
-- SourceHut est un logiciel [entièrement libre](https://sr.ht/~sircmpwn/sourcehut/).
+- SourceHut est un logiciel [entièrement
+  libre](https://sr.ht/~sircmpwn/sourcehut/).
 
-- Parmi les applications de forge entièrement libres, SourceHut est
-  celle qui a les fonctionnalités les plus avancées.
+- Parmi les applications de forge entièrement libres, SourceHut est la
+  seule qui propose à la fois de l'intégration continue et des listes
+  de discussion.
 
 - Si vous voulez contribuer à un projet, vous n'avez pas besoin de
   créer de compte sur SourceHut : il suffit d'une adresse de courriel
