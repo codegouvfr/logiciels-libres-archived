@@ -30,8 +30,9 @@ Here are the detailed reasons that guided our choice:
 - Sourcehut is [entirely free
   software](https://sr.ht/~sircmpwn/sourcehut/).
 
-- Among 100% free software forges, SourceHut is the only one proposing
-  both continuous integration and mailing lists.
+- Among forges which source code is 100% free software, SourceHut is
+  the only one to propose both continuous integration and mailing
+  lists.
 
 - If you want to contribute to a project, you don't need to create an
   account on SourceHut: an email address is enough to send patches and
