@@ -44,5 +44,5 @@ Voici en détail les raisons qui ont guidé notre choix :
 **Ce choix n'a pas vocation à s'imposer à d'autres administration**,
 ni même à tous nos projets, parce que la contribution via SourceHut
 peut demander un effort d'adaptation.  Mais il reflète les principes
-auxquels Etalab est attaché, et nous espérons qu'il vous permettra de
+auxquels Etalab est attaché et nous espérons qu'il vous permettra de
 découvrir cette forge.

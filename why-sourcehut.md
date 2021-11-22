@@ -43,5 +43,5 @@ Here are the detailed reasons that guided our choice:
 **This choice is not intended to be imposed on other
 administrations**, not even to all of our projects, because
 contributing via SourceHut may require an effort to adapt.  But it
-reflects the principles we stick to, and we hope it will allow you to
+reflects the principles we stick to and we hope it will allow you to
 discover this forge.
