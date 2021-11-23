@@ -3,6 +3,8 @@ title: Pourquoi le pôle logiciel libre d'Etalab utilise SourceHut
 toc: false
 ---
 
+*Go to the [english version](why-sourcehut.md).*
+
 Pour publier ses codes sources, chaque administration est libre de
 choisir entre plusieurs options, présentées en mai 2018 dans la
 [politique de contribution de l'Etat aux logiciels

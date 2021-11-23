@@ -3,6 +3,8 @@ title: Why Etalab's Free Software pole uses SourceHut
 toc: false
 ---
 
+*Lire la [version française](pourquoi-sourcehut.md).*
+
 To publish its source code, each French public agency can pick up one
 of the options listed in the [open source contribution policy for the
 public
