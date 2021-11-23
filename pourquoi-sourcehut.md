@@ -1,5 +1,5 @@
 ---
-title: Pourquoi le pôle logiciel libre d'Etalab utilise SourceHut
+title: Pourquoi le pôle logiciels libres d'Etalab utilise SourceHut
 toc: false
 ---
 
