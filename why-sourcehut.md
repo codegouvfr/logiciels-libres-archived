@@ -40,7 +40,7 @@ Here are the detailed reasons that guided our choice:
   account on SourceHut: an email address is enough to send patches and
   to share ideas.
   
-- SourceHut don't collect any data from its users.
+- SourceHut doesn't collect any data from its users.
 
 **This choice is not intended to be imposed on other
 administrations**, not even to all of our projects, because
