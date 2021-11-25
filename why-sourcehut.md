@@ -1,5 +1,5 @@
 ---
-title: Why Etalab's Free Software pole uses SourceHut
+title: Why Etalab's Free Software unit uses SourceHut
 toc: false
 ---
 
@@ -15,13 +15,13 @@ published in May 2018 and that will be updated in 2022.
 telling: most agencies choose to publish on GitHub.  Many others use
 GitLab, either via gitlab.com or via a local instance.
 
-**At Etalab, the Free Software pole publishes most of its source code
+**At Etalab, the Free Software unit publishes most of its source code
 on [SourceHut](https://sourcehut.org).  Why?**
 
 As shown in [this
 list](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab),
 Etalab has long been committed to using free software: it's mainly
-this commitment that decided the Free Software pole to use SourceHut
+this commitment that decided the Free Software unit to use SourceHut
 to publish most of its source code.  It's also to demonstrate that
 there are other forges than the ones usually considered, by default or
 by habit, and thus encourage each agency to motivate its choice for a
