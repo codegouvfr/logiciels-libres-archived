@@ -15,7 +15,9 @@ the French public administration.
 We publish here various resources about
 [code.gouv.fr](https://code.gouv.fr) and our other products.
 
-- A [glossary](glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
+- [Glossary](glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
+- [Introduction to the catalog of recommended free software](sill.md)
+- [Why Etalab's Free Software unit uses SourceHut](why-sourcehut.md)
 
 # Contributing
 

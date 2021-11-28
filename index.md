@@ -17,7 +17,9 @@ pour l'administration publique.
 Nous y publions des contenus liés [code.gouv.fr](https://code.gouv.fr)
 et à nos autres produits.
 
-- Un [glossaire](glossary.fr.md) pour [code.gouv.fr](https://code.gouv.fr)
+- [Glossaire](glossary.fr.md) pour [code.gouv.fr](https://code.gouv.fr)
+- [Présentation du socle interministériel de logiciels libres](sill.md)
+- [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
 
 # Contribuer
 
