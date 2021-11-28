@@ -5,13 +5,13 @@ toc: false
 
 # Les critères d’entrée d’un logiciel dans le SILL
 
-1. **Le code source du logiciel est publié sous licence libre**.
-2. **Le logiciel libre est significativement utilisé** dans un organisme public.
-3. **Il existe un agent public référent SILL pour ce logiciel**.
+1. Le code source du logiciel est publié sous licence libre.
+2. Le logiciel libre est significativement utilisé dans un organisme public.
+3. Il existe un agent public référent SILL pour ce logiciel.
 
 # Comment ajouter un logiciel libre dans le SILL ?
 
-**Prérequis**: pour qu’un logiciel entre dans le SILL, il faut qu’un
+**Prérequis** : pour qu’un logiciel entre dans le SILL, il faut qu’un
 agent public se porte volontaire pour en être le *référent*.
 
 Pour proposer un nouveau logiciel dans le SILL, envoyez un mail à
@@ -30,7 +30,7 @@ le référent du logiciel.
 
 # Quels est le rôle du référent SILL ?
 
-**Le référent :**
+Le référent :
 
 1.  atteste de l’usage d’un logiciel libre dans son administration ;
 2.  collecte les informations pertinentes (de la version utilisée à des cas d’usage complets) sur le logiciel ;
@@ -39,7 +39,7 @@ le référent du logiciel.
 5.  participe aux discussions entre mainteneurs sur la liste [sill-mainteneurs](https://groupes.renater.fr/sympa/info/sill-mainteneurs) ;
 6.  cherche un référent pour le remplacer s’il vient à ne plus pouvoir être référent.
 
-**Le référent n’est pas :**
+Le référent n’est pas :
 
 - un contact de support pour l’ensemble de l’administration ;
 - obligé de rester référent toute l’année ;
@@ -97,36 +97,36 @@ référents](https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs) en envoyan
 D'autres informations sont accessibles aux référents SILL sans être
 affichées publiquement :
 
--   Le logiciel est **mûr et actif** : la longévité est constatée, il y a de
+-   Le logiciel est *mûr et actif* : la longévité est constatée, il y a de
     bonnes garanties sur la pérennité et il existe une communauté
     dynamique ainsi qu’une feuille de route.
 
--   Le logiciel est **performant**, il a une bonne couverture fonctionnelle
+-   Le logiciel est *performant*, il a une bonne couverture fonctionnelle
     par rapport au besoin.
 
--   Pour les outils de bureautique, le **logiciel est multiplateforme**.
+-   Pour les outils de bureautique, le *logiciel est multiplateforme*.
 
--   Si pertinent, le **logiciel respecte des normes et des standards**,
+-   Si pertinent, le *logiciel respecte des normes et des standards*,
     notamment ceux du [RGI](http://references.modernisation.gouv.fr/interoperabilite) et du [RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/).
 
--   Le logiciel propose des **facilités d'exploitation** : supervision,
+-   Le logiciel propose des *facilités d'exploitation* : supervision,
     administration, configuration, sauvegarde, existence d'installeurs,
     d'outils de configuration et de déploiement.
 
--   Le logiciel est **adapté aux besoins des organismes publics** français :
+-   Le logiciel est *adapté aux besoins des organismes publics* français :
     intégration dans les SI, traduction en français, besoins spécifiques
     aux grands comptes.
 
 -   L’un des organismes publics utilisateur ayant un usage significatif
-    du logiciel a **publié des informations sur cet usage**.
+    du logiciel a *publié des informations sur cet usage*.
 
 # Outils de construction du SILL
 ## Les groupes MIM qui construisent le SILL
 
 Le préfixe `MIM` signifie « Mutualisation interministérielle ».
 
-Le SILL est rédigé par deux groupes : le groupe **MIMO** qui se consacre
-aux outils de bureautique et le groupe **MIMDEVOPS** dédié aux outils de
+Le SILL est rédigé par deux groupes : le groupe *MIMO* qui se consacre
+aux outils de bureautique et le groupe *MIMDEVOPS* dédié aux outils de
 développement et de production.
 
 Chaque groupe se réunit en présentiel et échange régulièrement par
