@@ -3,13 +3,13 @@ title: Présentation du socle interministériel de logiciels libres
 toc: false
 ---
 
-## Les critères d’entrée d’un logiciel dans le SILL
+# Les critères d’entrée d’un logiciel dans le SILL
 
-1. Le code source du logiciel est publié sous licence libre.
-2. Le logiciel libre est significativement utilisé dans un organisme public.
-3. Il existe un agent public référent SILL pour ce logiciel.
+1. **Le code source du logiciel est publié sous licence libre**.
+2. **Le logiciel libre est significativement utilisé** dans un organisme public.
+3. **Il existe un agent public référent SILL pour ce logiciel**.
 
-## Comment ajouter un logiciel libre dans le SILL ?
+# Comment ajouter un logiciel libre dans le SILL ?
 
 **Prérequis**: pour qu’un logiciel entre dans le SILL, il faut qu’un
 agent public se porte volontaire pour en être le *référent*.
@@ -28,7 +28,7 @@ par une ou plusieurs administrations publiques, vous devrez d'abord
 trouver dans ces administrations un agent public volontaire pour être
 le référent du logiciel.
 
-## Quels est le rôle du référent SILL ?
+# Quels est le rôle du référent SILL ?
 
 **Le référent :**
 
@@ -45,20 +45,20 @@ le référent du logiciel.
 - obligé de rester référent toute l’année ;
 - obligé de publier son identité au-delà du groupe des référents.
 
-### Qui peut être « référent SILL » ?
+## Qui peut être « référent SILL » ?
 
 Tout agent public travaillant dans un organisme public de la fonction
 publique d'État ou hospitalière peut être référent d’un logiciel libre
 dont il connaît l’usage au sein de son administration.
 
-### Vous souhaitez être référent ?
+## Vous souhaitez être référent ?
 
 Pour cela, demandez à être inscrit sur la [liste de discussion des
 référents](https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs) en envoyant un mail à `logiciels-libres@data.gouv.fr`.
 
-## Précisions sur les critères et les informations sur les logiciels
+# Précisions sur les critères et les informations sur les logiciels
 
-### Précisions sur les critères
+## Précisions sur les critères
 
 1. Le code source du logiciel doit être publié sous l'une des licences
    libres reconnues par la [Free Software
@@ -92,7 +92,7 @@ référents](https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs) en envoyan
    référents SILL travaillent à faire évoluer le SILL de façon à ce
    que ce catalogue aide à choisir entre ces solutions multiples.
 
-### Autres informations optionnelles
+## Autres informations optionnelles
 
 D'autres informations sont accessibles aux référents SILL sans être
 affichées publiquement :
@@ -120,8 +120,8 @@ affichées publiquement :
 -   L’un des organismes publics utilisateur ayant un usage significatif
     du logiciel a **publié des informations sur cet usage**.
 
-## Outils de construction du SILL
-### Les groupes MIM qui construisent le SILL
+# Outils de construction du SILL
+## Les groupes MIM qui construisent le SILL
 
 Le préfixe `MIM` signifie « Mutualisation interministérielle ».
 
@@ -132,14 +132,14 @@ développement et de production.
 Chaque groupe se réunit en présentiel et échange régulièrement par
 messagerie ; un groupe « noyau » assure la coordination de l'ensemble.
 
-### Présentations partagées dans les groupes MIM
+## Présentations partagées dans les groupes MIM
 
 -   27/11/2019 (MIMO) : [Présentation Management Poste de travail](https://speakerdeck.com/bluehats/presentation-management-poste-de-travail)
 -   27/11/2019 (MIMO) : [Firefox for Entreprise](https://speakerdeck.com/bluehats/firefox-for-enterprise)
 -   27/11/2019 (MIMO) : [La gestion du poste de travail temps réel](https://speakerdeck.com/bluehats/la-gestion-du-poste-de-travail-temps-reel)
 -   27/11/2019 (MIMO) : [Nextcloud - Le cloud alternatif aux GAFAM](https://speakerdeck.com/bluehats/nextcloud-le-cloud-alternatif-aux-gafam)
 
-### [Archive] Les documents de construction du SILL 2020
+## [Archive] Les documents de construction du SILL 2020
 
 Les documents de construction du SILL 2020 sont disponibles via
 l'espace de partage <https://groupes.mim-libre.fr>.  Si vous êtes
@@ -152,7 +152,7 @@ accessibles ici :
 -   [MIMDEV](https://calc.mim-libre.fr/MIMDEV/edit)
 -   [MIMPROD](https://calc.mim-libre.fr/MIMPROD/edit)
 
-## Licence du SILL et de ce dépôt
+# Licence du SILL et de ce dépôt
 
 Le SILL est publié par les groupes de mutualisation interministérielle
 sous [licence Ouverte 2.0](https://github.com/etalab/Licence-Ouverte/blob/master/LO.md).
