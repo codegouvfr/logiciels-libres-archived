@@ -3,7 +3,7 @@ title: Plan d’action logiciels libres et communs numériques
 date: 2021-11-10
 ---
 
-*Autres versions: [it](plan-action-logiciels-libres-et-communs-numeriques.it.md)*
+*Autres versions: [it](plan-action-logiciels-libres-communs-numeriques.it.md)*
 
 Le plan d’action « logiciels libres et communs numériques » a été conçu par le ministère de la Transformation et de la Fonction publiques à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
 
