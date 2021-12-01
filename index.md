@@ -20,6 +20,7 @@ et à nos autres produits.
 - [Glossaire](glossary.fr.md) pour [code.gouv.fr](https://code.gouv.fr)
 - [Présentation du socle interministériel de logiciels libres](sill.md)
 - [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
+- [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)
 
 # Contribuer
 
