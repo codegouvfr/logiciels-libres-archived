@@ -1,4 +1,4 @@
----
+---
 title: Piano d'azione per il software libero e i beni comuni digitali
 date: 2021-11-10
 ---
