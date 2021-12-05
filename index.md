@@ -17,26 +17,30 @@ pour l'administration publique.
 Nous y publions des contenus liés [code.gouv.fr](https://code.gouv.fr)
 et à nos autres produits.
 
-- [Glossaire](glossary.fr.md) pour [code.gouv.fr](https://code.gouv.fr)
-- [Présentation du socle interministériel de logiciels libres](sill.md)
-- [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
 - [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)
 
 # Guides
 
+## Guides pour la publication de logiciels libres
+
 - publiccode.yml: pourquoi et comment ajouter ce fichier dans vos dépôts
 - Choisir une forge pour publier son code source
-- Contribuer à un projet libre
 - Stimuler des contributions pour votre logiciel libre
 - Publier les codes sources d'un projet longtemps resté fermé
-- Les licences libres
+- Les licences libres pour les projets de l'administration
 
-# Guides annexes
+## Guides pour le socle interministériel de logiciels libres
 
-- Créer une entité Wikidata pour un logiciel du SILL
+- [Présentation du socle interministériel de logiciels libres](sill.md)
+- [Glossaire](glossary.fr.md) pour [code.gouv.fr](https://code.gouv.fr)
 - Les licences libres acceptées pour les logiciels du SILL
-- Les licences libres autorisées pour les projets de l'administration
+- Créer une entité Wikidata pour un logiciel du SILL
+
+## Autres
+
+- Contribuer à un projet libre
 - Contribuer via la forge SourceHut
+- [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
 
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
 
