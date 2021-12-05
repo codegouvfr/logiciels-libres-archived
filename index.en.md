@@ -15,16 +15,6 @@ the French public administration.
 We publish here various resources about
 [code.gouv.fr](https://code.gouv.fr) and our other products.
 
-# Guides
-
-- [Why Etalab's Free Software unit uses SourceHut](why-sourcehut.md)
-- [\[FR\] Introduction to the catalog of recommended free software](sill.md)
-- [Glossary](glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
-
-# Archives
-
-- [Contribution Policy for Free Software of the State (2018-2021)](pocos/index.en.md)
-
 # Contributing
 
 Contributions are welcome!  You can send patches to the public mailing
@@ -34,7 +24,17 @@ If you are a regular contributor, you can request write access to [the
 wiki repository](https://git.sr.ht/~etalab/logiciels-libres).
 
 For patches to target this repository, add this parameter to your
-clone: `git config format.subjectPrefix 'PATCH logiciels-libres`
+local copy: `git config format.subjectPrefix 'PATCH logiciels-libres'`
+
+# Guides
+
+- [Why Etalab's Free Software unit uses SourceHut](why-sourcehut.md)
+- [\[FR\] Introduction to the catalog of recommended free software](sill.md)
+- [Glossary](glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
+
+# Archives
+
+- [Contribution Policy for Free Software of the State (2018-2021)](pocos/index.en.md)
 
 # License
 

@@ -17,11 +17,27 @@ pour l'administration publique.
 Nous y publions des contenus liés [code.gouv.fr](https://code.gouv.fr)
 et à nos autres produits.
 
+# Contribuer
+
+Les contributions sont les bienvenues !  Vous pouvez envoyer des
+correctifs à la liste de discussion publique
+[~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
+
+Pour indiquer que les correctifs s'adressent à ce wiki, ajoutez ceci
+dans votre copie locale :
+
+`git config format.subjectPrefix 'PATCH logiciels-libres'`
+
+Si vous êtes contributeur régulier, vous pouvez demander un accès en
+écriture sur [le dépôt du
+wiki](https://git.sr.ht/~etalab/logiciels-libres).
+
 # Guides
 
 ## Guides pour la publication de logiciels libres
 
-- publiccode.yml: pourquoi et comment ajouter ce fichier dans vos dépôts
+- publiccode.yml: pourquoi et comment ajouter ce fichier dans vos
+  dépôts
 - Choisir une forge pour publier son code source
 - Stimuler des contributions pour votre logiciel libre
 - Publier les codes sources d'un projet longtemps resté fermé
@@ -46,17 +62,6 @@ et à nos autres produits.
 # Archives
 
 - [Politique de contribution aux logiciels libres de l'Etat (2018-2021)](pocos/index.md)
-
-# Contribuer
-
-Les contributions sont les bienvenues !  Vous pouvez envoyer des
-correctifs à la liste de discussion publique
-[~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
-Si vous êtes contributeur régulier, vous pouvez demander un accès en
-écriture sur [le dépôt du wiki](https://git.sr.ht/~etalab/logiciels-libres).
-
-Pour que les patches visent ce dépôt, ajoutez ce paramètre à votre
-clone: `git config format.subjectPrefix 'PATCH logiciels-libres`
 
 # Licence
 
