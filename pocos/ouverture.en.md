@@ -1,9 +1,5 @@
 ---
 title: Opening Principles of source codes
-menu:
-  main:
-    name: "Principles"
-    weight: 20
 ---
 
 ## Preamble

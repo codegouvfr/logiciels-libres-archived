@@ -1,10 +1,5 @@
 ---
 title: Foire aux questions
-menu: 
-  main:
-    name: <abbr title="Foire aux questions">FAQ</abbr>
-    weight: 70
-layout: faq
 ---
 
 ## Périmètre 

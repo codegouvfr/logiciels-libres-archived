@@ -1,10 +1,5 @@
 ---
 title: Frequently Asked Questions
-menu:
-  main:
-    name: <abbr title="Frequently asked questions">FAQ</abbr>
-    weight: 70
-layout: faq
 ---
 
 ## Scope

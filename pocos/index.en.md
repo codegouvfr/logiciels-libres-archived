@@ -1,9 +1,5 @@
 ---
 title: Contribution Policy for Free Software of the State
-menu:
-  main:
-    name: "Introduction"
-    weight: 10
 ---
 
 __History and versions__

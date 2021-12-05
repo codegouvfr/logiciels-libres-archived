@@ -1,9 +1,5 @@
 ---
 title: Instantiate a local Contribution Policy
-menu: 
-  main:
-    name: "Instantiate"
-    weight: 40
 ---
 
 ## In summary
