@@ -25,7 +25,7 @@ The choice to create an organizational account within an existing Web platform i
 
 Choosing a forge for a project must be done according to the level of collaboration expected and the interfaces with the private repositories and the rest of the development platform.
 
-To know on which forge you should publish your source code, contact the [maintaineur](MAINTAINERS) of this policy from your ministry. If you don't know who you should get in touch with, send an email to `opensource@data.gouv.fr`.
+To know on which forge you should publish your source code, contact the [maintaineur](pocos/MAINTAINERS) of this policy from your ministry. If you don't know who you should get in touch with, send an email to `opensource@data.gouv.fr`.
 
 ## Management of personal and organizations accounts
 
@@ -43,7 +43,7 @@ To handle repositories, it is recommended to have at least two organization owne
 
 ## Inventory of organization accounts
 
-A list of known forges and organization accounts from the public sector is readable in the [comptes-organismes-publics](comptes-organismes-publics) file : if you happen to know a forge or an organization account that should appear in this list, please submit a _pull request_.
+A list of known forges and organization accounts from the public sector is readable in the [comptes-organismes-publics](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics) file : if you happen to know a forge or an organization account that should appear in this list, please submit a _pull request_.
 
 This list is used for [code.etalab.gouv.fr](https://code.etalab.gouv.fr) which allows anyone to look for repositories within all forges and organization accounts.
 
@@ -96,7 +96,7 @@ Make sure you have at least the README, CONTRIBUTING, and LICENSE files.
 
 * CONTRIBUTING: contribution guide, how to get involved and identification of the contribution process and associated licenses. Example: [https://github.com/moby/moby/blob/master/CONTRIBUTING.md](https://github.com/moby/moby/blob/master/CONTRIBUTING.md)
 
-* GOVERNANCE: describes project governance, roles and voting rights. An example is available in this repository [gouvernance.md](gouvernance.md).
+* GOVERNANCE: describes project governance, roles and voting rights. An example is available in this repository [gouvernance.md](pocos/gouvernance.md).
 
 * INSTALL: install instructions.
 

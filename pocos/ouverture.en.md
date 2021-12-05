@@ -8,7 +8,7 @@ title: Opening Principles of source codes
 
 Politics can be instantiated locally with a higher priority.
 
-See the [instantiation](Instanciation.md) section  if you want to decline this policy within your organization.
+See the [instantiation](pocos/instanciation.md) section if you want to decline this policy within your organization.
 
 ### Contribution Policy Assistance
 

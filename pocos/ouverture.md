@@ -8,7 +8,7 @@ title: Principes d’ouverture des codes sources
 
 La politique peut être instanciée localement avec une priorité plus forte.
 
-Voir la section [instanciation](Instanciation.md) si vous souhaitez décliner cette politique au sein de votre organisation.
+Voir la section [instanciation](pocos/instanciation.md) si vous souhaitez décliner cette politique au sein de votre organisation.
 
 ### Assistance sur la politique de contribution
 
@@ -81,7 +81,7 @@ Le code source des logiciels est souvent empaqueté de façon à être utilisé 
 
 Il est recommandé de distribuer, en plus du code source des logiciels, les paquets qui facilitent leur réutilisation.
 
-Pour connaître les sites sur lesquels publier vos paquets, contactez le [mainteneur](MAINTAINERS) de cette politique correspondant à votre ministère.  Si vous ne savez pas qui contacter, écrivez à `opensource@data.gouv.fr`.
+Pour connaître les sites sur lesquels publier vos paquets, contactez le [mainteneur](pocos/MAINTAINERS) de cette politique correspondant à votre ministère.  Si vous ne savez pas qui contacter, écrivez à `opensource@data.gouv.fr`.
 
 ### Certification de l'origine des contributions (DCO)
 

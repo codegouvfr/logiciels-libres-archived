@@ -25,7 +25,7 @@ Le choix de créer un compte d’organisation au sein d’une plateforme Web exi
 
 Le positionnement d’un projet sur une forge doit se faire en fonction du niveau de collaboration attendu et des interfaces avec les dépôts privés et le reste de la plateforme de développement.
 
-Pour connaître la forge sur laquelle publier votre code source, contactez le [mainteneur](MAINTAINERS) de cette politique correspondant à votre ministère.  Si vous ne savez pas qui contacter, écrivez à `opensource@data.gouv.fr`.
+Pour connaître la forge sur laquelle publier votre code source, contactez le [mainteneur](pocos/MAINTAINERS) de cette politique correspondant à votre ministère.  Si vous ne savez pas qui contacter, écrivez à `opensource@data.gouv.fr`.
 
 ## Gestion des comptes personnels et d’organisation
 
@@ -43,7 +43,7 @@ Pour la gestion des dépôts, il est recommandé d’avoir deux propriétaires e
 
 ## Inventaire des comptes d’organisation
 
-Une liste des forges publiques et des comptes d’organisation connus à ce jour est lisible dans le fichier [comptes-organismes-publics](comptes-organismes-publics) : si vous avez connaissance d’une forge ou d’un compte d’organisation d’un organisme public qui n’y figure pas, vous pouvez soumettre une proposition via une _pull request_.
+Une liste des forges publiques et des comptes d’organisation connus à ce jour est lisible dans le fichier [comptes-organismes-publics](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/comptes-organismes-publics) : si vous avez connaissance d’une forge ou d’un compte d’organisation d’un organisme public qui n’y figure pas, vous pouvez soumettre une proposition via une _pull request_.
 
 Cette liste alimente le site [code.etalab.gouv.fr](https://code.etalab.gouv.fr) qui permet de chercher des dépôts dans l’ensemble de ces forges et comptes d’organisation.
 
@@ -91,7 +91,7 @@ Assurez-vous d’avoir au minimum les fichiers README, CONTRIBUTING et LICENSE.
 
 * CONTRIBUTING : guide de contribution, comment s’impliquer et identification du processus de contribution et des licences associées. Exemple: [https://github.com/moby/moby/blob/master/CONTRIBUTING.md](https://github.com/moby/moby/blob/master/CONTRIBUTING.md)
 
-* GOVERNANCE : décrit la gouvernance du projet, les rôles et les droits de votes. Un exemple est disponible dans ce dépôt [gouvernance.md](gouvernance.md).
+* GOVERNANCE : décrit la gouvernance du projet, les rôles et les droits de votes. Un exemple est disponible dans ce dépôt [gouvernance.md](pocos/gouvernance.md).
 
 * INSTALL : description de la procédure d’installation d’un logiciel.
 
