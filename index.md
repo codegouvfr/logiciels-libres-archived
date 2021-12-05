@@ -17,8 +17,6 @@ pour l'administration publique.
 Nous y publions des contenus liés [code.gouv.fr](https://code.gouv.fr)
 et à nos autres produits.
 
-- [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)
-
 # Guides
 
 ## Guides pour la publication de logiciels libres
@@ -41,6 +39,7 @@ et à nos autres produits.
 - Contribuer à un projet libre
 - Contribuer via la forge SourceHut
 - [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
+- [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)
 
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
 

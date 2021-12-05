@@ -3,7 +3,7 @@ title: Piano d'azione per il software libero e i beni comuni digitali
 date: 2021-11-10
 ---
 
-*Altre versioni: [fr](plan-action-logiciels-libres-communs-numeriques.md)*
+*Altre versioni: [francese](plan-action-logiciels-libres-communs-numeriques.md)*
 
 Il piano d'azione "software libero e beni comuni digitali" è stato
 ideato dal Ministero della Trasformazione e della Funzione Pubblica in
