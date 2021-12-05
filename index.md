@@ -44,6 +44,10 @@ et à nos autres produits.
 
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
 
+# Archives
+
+- [Politique de contribution aux logiciels libres de l'Etat (2018-2021)](pocos/index.md)
+
 # Contribuer
 
 Les contributions sont les bienvenues !  Vous pouvez envoyer des
