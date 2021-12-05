@@ -11,7 +11,7 @@ title: Instantiate a local Contribution Policy
 ## Inventories of instantiated departmental policies
 
 * No ministerial policy instantiated to date
-* Example: < Ministry XXX >: [http: //reference.url/ministerialpolicy](http: //reference.url/ministerialpolicy)
+* Example: < Ministry XXX >: [https://reference.url/ministerialpolicy](https://reference.url/ministerialpolicy)
  
 ## Instantiation procedure
  

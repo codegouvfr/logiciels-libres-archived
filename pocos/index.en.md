@@ -43,10 +43,10 @@ Public hospital and local governments are outside the scope of this contribution
 
 The contribution policy is composed of:
 
- * [Principles of opening of source codes](ouverture.en.md)
- * [Best practices](pratique.en.md)
- * [Local Contribution Policy Instantiation](instanciation.en.md)
- * [Associated governance](gouvernance.en.md)
+ * [Principles of opening of source codes](pocos/ouverture.en.md)
+ * [Best practices](pocos/pratique.en.md)
+ * [Local Contribution Policy Instantiation](pocos/instanciation.en.md)
+ * [Associated governance](pocos/gouvernance.en.md)
 
 ## Responsibility of the document
 

@@ -11,7 +11,7 @@ title: Instanciation des politiques de contribution ministérielles
 ## Inventaires des politiques ministérielles instanciées
 
  * Aucune politique ministérielle instanciée à ce jour
- * Exemple : <Ministère XXX> : [http://reference.url/politique-ministerielle](http://reference.url/politique-ministerielle)
+ * Exemple : <Ministère XXX> : [https://reference.url/politique-ministerielle](https://reference.url/politique-ministerielle)
  
 ## Procédure d'instanciation
  
