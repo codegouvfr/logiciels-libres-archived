@@ -22,6 +22,24 @@ et à nos autres produits.
 - [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
 - [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)
 
+# Guides
+
+- publiccode.yml: pourquoi et comment ajouter ce fichier dans vos dépôts
+- Choisir une forge pour publier son code source
+- Contribuer à un projet libre
+- Stimuler des contributions pour votre logiciel libre
+- Publier les codes sources d'un projet longtemps resté fermé
+- Les licences libres
+
+# Guides annexes
+
+- Créer une entité Wikidata pour un logiciel du SILL
+- Les licences libres acceptées pour les logiciels du SILL
+- Les licences libres autorisées pour les projets de l'administration
+- Contribuer via la forge SourceHut
+
+<!-- # Projets auxquels contribue le pôle logiciels libres -->
+
 # Contribuer
 
 Les contributions sont les bienvenues !  Vous pouvez envoyer des
