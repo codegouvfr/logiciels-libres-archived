@@ -32,6 +32,10 @@ Si vous êtes contributeur régulier, vous pouvez demander un accès en
 écriture sur [le dépôt du
 wiki](https://git.sr.ht/~etalab/logiciels-libres).
 
+# Le pôle logiciels libres d'Etalab
+
+- [La mission et les engagements du pôle logiciels libres](pole-logiciels-libres-mission-et-engagements.md)
+
 # Guides pour utiliser et publier des logiciels libres
 
 ## Guides pour la publication de logiciels libres
