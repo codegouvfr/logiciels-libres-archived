@@ -63,7 +63,15 @@ wiki](https://git.sr.ht/~etalab/logiciels-libres).
 
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
 
-# Ressources audio et vidéo pour comprendre l'action du pôle logiciels libres
+# Ressources 
+
+## Marché interministériel de logiciels libres
+
+- Accès aux [études de veille sur des logiciels
+  libres](https://gitlab.adullact.net/marche-sll/etudes-de-veille/)
+  publiées dans le cadre du marché.
+
+## Ressources audio et vidéo pour comprendre l'action du pôle logiciels libres
 
 - [Intervention
   radio](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres)
