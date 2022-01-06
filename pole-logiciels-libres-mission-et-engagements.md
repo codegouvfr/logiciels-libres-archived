@@ -15,8 +15,14 @@ Il **anime** le conseil d'expertise et de mobilisation logiciels libres, qui ré
 
 # Engagements
 
-Voici nos engagements :
+Nos engagements envers nos interlocuteurs :
 
 - Documenter ce que nous faisons
-- Encourager vos contributions
-- Répondre à tous vos messages
+- Encourager et traiter les contributions
+- Répondre à tous les messages reçus
+
+Nos engagements au sein du pôle :
+
+- "No blame culture": nous nous concentrons sur les problèmes, pas les personnes.
+- "20% libre": chaque membre peut consacrer 20% de son temps à un projet de logiciel ou de connaissance libre.
+
