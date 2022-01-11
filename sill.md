@@ -45,6 +45,19 @@ Le référent n’est pas :
 - obligé de rester référent toute l’année ;
 - obligé de publier son identité au-delà du groupe des référents.
 
+## Le référent SILL est-il un expert technique de la solution ?
+
+Dans certains cas, le référent SILL est un *expert technique* du
+logiciel en question : cela signifie en gros qu'il est en mesure de
+l'installer (y compris pour les applications web), qu'il peut aider un
+autre agent public souhaitant l'installer et, en général, qu'il en
+connaît bien l'usage.
+
+Le référent n'est pas obligatoire un expert technique : il peut aussi
+être un utilisateur averti ou un référent "fonctionnel", qui sait qui
+contacter dans son administration pour trouver de l'expertise
+technique.
+
 ## Qui peut être « référent SILL » ?
 
 Tout agent public travaillant dans un organisme public de la fonction
