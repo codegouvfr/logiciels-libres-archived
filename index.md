@@ -5,32 +5,11 @@ toc: true
 
 Go to the [english homepage](index.en.md).
 
-# Présentation de cet espace collaboratif
+# Présentation de cet espace
 
-Cette page est la page d'accueil du wiki du pôle logiciels libres
-d'[Etalab](https://www.etalab.gouv.fr/)
-([DINUM](https://www.numerique.gouv.fr/)), qui pilote le [plan
-d'action logiciels libres et communs
-numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/)
-pour l'administration publique.
+Cette page est la page d'accueil du wiki du pôle logiciels libres d'[Etalab](https://www.etalab.gouv.fr/) ([DINUM](https://www.numerique.gouv.fr/)), qui pilote le [plan d'action logiciels libres et communs numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/) pour l'administration publique.
 
-Nous y publions des contenus liés à [code.gouv.fr](https://code.gouv.fr)
-et à nos autres actions et produits.
-
-# Contribuer aux contenus
-
-Les contributions sont les bienvenues !  Vous pouvez envoyer des
-correctifs à la liste de discussion publique
-[~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
-
-Pour indiquer que les correctifs s'adressent à ce wiki, ajoutez ceci
-dans votre copie locale :
-
-`git config format.subjectPrefix 'PATCH logiciels-libres'`
-
-Si vous êtes contributeur régulier, vous pouvez demander un accès en
-écriture sur [le dépôt du
-wiki](https://git.sr.ht/~etalab/logiciels-libres).
+Nous y publions des contenus liés à [code.gouv.fr](https://code.gouv.fr) et à nos autres actions et produits.
 
 # La mission et les engagements du pôle logiciels libres
 
@@ -56,7 +35,7 @@ Voir la [page dédiée](guides.md).
 
 - Accès aux [études de veille sur des logiciels libres](https://gitlab.adullact.net/marche-sll/etudes-de-veille/) publiées dans le cadre du marché.
 
-## Interventions publiques pour comprendre l'action du pôle logiciels libres
+# Interventions publiques du pôle
 
 Voir la [page dédiée](ressources.md).
 
@@ -65,6 +44,21 @@ Voir la [page dédiée](ressources.md).
 - [Politique de contribution aux logiciels libres de l'Etat (2018-2021)](pocos/index.md)
 
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
+
+# Contribuer aux contenus
+
+Les contributions sont les bienvenues !  Vous pouvez envoyer des
+correctifs à la liste de discussion publique
+[~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
+
+Pour indiquer que les correctifs s'adressent à ce wiki, ajoutez ceci
+dans votre copie locale :
+
+`git config format.subjectPrefix 'PATCH logiciels-libres'`
+
+Si vous êtes contributeur régulier, vous pouvez demander un accès en
+écriture sur [le dépôt du
+wiki](https://git.sr.ht/~etalab/logiciels-libres).
 
 # Licence
 
