@@ -5,19 +5,11 @@ toc: false
 
 # Présentation
 
-Les AMDAC sont les administrateurs ministériels des données, des
-algorithmes et des codes sources.  Vous pouvez [télécharger la liste](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/).
+Les AMDAC sont les administrateurs ministériels des données (voir [la liste des AMDAC](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/)), des algorithmes et des codes sources.
 
-Un groupe de travail "logiciels libres" permet aux AMDAC de faire des
-points réguliers sur leurs avancées liées aux logiciels libres, qu'il
-s'agisse de la *publication des codes sources*, de la mise en oeuvre
-d'une *politique d'utilisation des logiciels libres* ou des efforts de
-contribution à l'écosystème des logiciels libres.
+Un groupe de travail "logiciels libres" permet aux AMDAC de faire des points réguliers sur leurs avancées liées aux logiciels libres, qu'il s'agisse de la *publication des codes sources*, de la mise en oeuvre d'une *politique d'utilisation des logiciels libres* ou des efforts de contribution à l'écosystème des logiciels libres.
 
-La priorité est donnée aux sujets de publication des codes sources et
-à l'entraide sur des questions opérationnelles : où publier les codes
-sources, comment inciter les directions métier à le faire, où trouver
-de l'aide juridique, etc.
+La priorité est donnée aux sujets de publication des codes sources et à l'entraide sur des questions opérationnelles : où publier les codes sources, comment inciter les directions métier à le faire, où trouver de l'aide juridique, etc.
 
 # Modalités
 
