@@ -38,7 +38,15 @@ Voir la [page dédiée](pole-logiciels-libres-mission-et-engagements.md).
 
 # Groupe de travail logiciels libres au sein du réseau des AMDAC
 
+La DINUM anime un groupe de travail logiciels libres pour les administrateurs ministériels des données, des algorithmes et des codes sources.
+
 Voir la [page dédiée](gtt-ll-amdac.md).
+
+# Conseil d'expertise et de mobilisation logiciels libres
+
+La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action logiciels libres et communs numériques.  Ce conseil vise à favoriser l'entraide entre administrations et l'accès à des services proposés par l'écosystème.
+
+Voir la [page dédiée](conseil-logiciels-libres.md).
 
 # Guides pour utiliser et publier des logiciels libres
 
@@ -56,7 +64,6 @@ Voir la [page dédiée](ressources.md).
 
 - [Politique de contribution aux logiciels libres de l'Etat (2018-2021)](pocos/index.md)
 
-<!-- # Conseil d'expertise et de mobilisation logiciels libres -->
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
 
 # Licence
