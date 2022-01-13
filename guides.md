@@ -1,5 +1,5 @@
 ---
-title: Les guides du pôle logiciels libres
+title: Guides logiciels libres : utiliser, publier, contribuer
 toc: false
 ---
 
