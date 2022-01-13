@@ -19,7 +19,7 @@ toc: false
 - Les licences libres acceptées pour les logiciels du SILL
 - Créer une entité Wikidata pour un logiciel du SILL
 
-## Autres
+# Autres guides
 
 - Contribuer à un projet libre
 - Contribuer via la forge SourceHut
