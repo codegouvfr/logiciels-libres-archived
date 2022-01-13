@@ -32,75 +32,32 @@ Si vous êtes contributeur régulier, vous pouvez demander un accès en
 écriture sur [le dépôt du
 wiki](https://git.sr.ht/~etalab/logiciels-libres).
 
-# Le pôle logiciels libres d'Etalab
+# La mission et les engagements du pôle logiciels libres
 
-- [La mission et les engagements du pôle logiciels libres](pole-logiciels-libres-mission-et-engagements.md)
+Voir la [page dédiée](pole-logiciels-libres-mission-et-engagements.md).
 
 # Groupe de travail logiciels libres au sein du réseau des AMDAC
 
-- [Présentation du groupe de travail](gtt-ll-amdac.md), de son ambition et de ses modalités de fonctionnement.
+Voir la [page dédiée](gtt-ll-amdac.md).
 
 # Guides pour utiliser et publier des logiciels libres
 
-## Guides pour la publication de logiciels libres
+Voir la [page dédiée](guides.md).
 
-- publiccode.yml: pourquoi et comment ajouter ce fichier dans vos
-  dépôts
-- Choisir une forge pour publier son code source
-- Stimuler des contributions pour votre logiciel libre
-- Publier les codes sources d'un projet longtemps resté fermé
-- Les licences libres pour les projets de l'administration
+# Marché interministériel de logiciels libres
 
-## Guides pour le socle interministériel de logiciels libres
+- Accès aux [études de veille sur des logiciels libres](https://gitlab.adullact.net/marche-sll/etudes-de-veille/) publiées dans le cadre du marché.
 
-- [Présentation du socle interministériel de logiciels libres](sill.md)
-- [Glossaire](glossary.fr.md) pour [code.gouv.fr](https://code.gouv.fr)
-- Les licences libres acceptées pour les logiciels du SILL
-- Créer une entité Wikidata pour un logiciel du SILL
+## Interventions publiques pour comprendre l'action du pôle logiciels libres
 
-## Autres
-
-- Contribuer à un projet libre
-- Contribuer via la forge SourceHut
-- [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
-- [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)
-
-<!-- # Projets auxquels contribue le pôle logiciels libres -->
-
-# Ressources 
-
-## Marché interministériel de logiciels libres
-
-- Accès aux [études de veille sur des logiciels
-  libres](https://gitlab.adullact.net/marche-sll/etudes-de-veille/)
-  publiées dans le cadre du marché.
-
-## Ressources audio et vidéo pour comprendre l'action du pôle logiciels libres
-
-- [Intervention
-  radio](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres)
-  de Sabine Guillaume (DINUM, mission LABEL) et Bastien Guerry (DINUM,
-  pôle logiciels libres d'Etalab) lors de l'émission « Libre à
-  vous ! » du 14 décembre 2021, animée par l'APRIL.
-  
-- [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de
-  Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État
-  2021 : "Le logiciel libre dans l'État et les réalisations".
-  
-- [Intervention vidéo](https://www.dailymotion.com/video/x7xqldm) de
-  Bastien Guerry (DINUM) et Matthieu Faure (Adullact) lors du Forum de
-  l'Emploi Tech de l'État 2020 : "Le logiciel libre dans l'État et les
-  réalisations".
-
-- [Intervention
-  radio](https://www.libreavous.org/33-dinsic-ziklibrenbib-irfm-et-parcoursup)
-  de Xavier Béchade (DINSIC/Tchap) et Bastien Guerry (DINSIC/Etalab)
-  lors de l'émission « Libre à vous ! » du 9 juillet 2019, animée par
-  l'APRIL.
+Voir la [page dédiée](ressources.md).
 
 # Archives
 
 - [Politique de contribution aux logiciels libres de l'Etat (2018-2021)](pocos/index.md)
+
+<!-- # Conseil d'expertise et de mobilisation logiciels libres -->
+<!-- # Projets auxquels contribue le pôle logiciels libres -->
 
 # Licence
 
