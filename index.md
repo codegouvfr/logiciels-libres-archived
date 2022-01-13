@@ -39,26 +39,21 @@ Voir la [page dédiée](guides.md).
 
 Voir la [page dédiée](ressources.md).
 
-# Archives
+# Politique de contribution aux logiciels libres de l'Etat (2018-2021)
 
-- [Politique de contribution aux logiciels libres de l'Etat (2018-2021)](pocos/index.md)
+Cette politique de contribution est en cours de remplacement par les [guides](guides.md) du pôle logiciels libres mais elle est toujours valable et vous pouvez [la consulter](pocos/index.md).
 
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
 
-# Contribuer aux contenus
+# Contribuer à cet espace
 
-Les contributions sont les bienvenues !  Vous pouvez envoyer des
-correctifs à la liste de discussion publique
-[~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
+Les contributions sont les bienvenues !  Vous pouvez envoyer des correctifs à la liste de discussion publique [~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
 
-Pour indiquer que les correctifs s'adressent à ce wiki, ajoutez ceci
-dans votre copie locale :
+Pour indiquer que les correctifs s'adressent à ce wiki, ajoutez ceci dans votre copie locale :
 
 `git config format.subjectPrefix 'PATCH logiciels-libres'`
 
-Si vous êtes contributeur régulier, vous pouvez demander un accès en
-écriture sur [le dépôt du
-wiki](https://git.sr.ht/~etalab/logiciels-libres).
+Si vous êtes contributeur régulier, vous pouvez demander un accès en écriture sur [le dépôt du wiki](https://git.sr.ht/~etalab/logiciels-libres).
 
 # Licence
 

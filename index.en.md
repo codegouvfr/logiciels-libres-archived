@@ -17,7 +17,7 @@ We publish here various resources about [code.gouv.fr](https://code.gouv.fr) and
 - [\[FR\] Introduction to the catalog of recommended free software](sill.md)
 - [Glossary](glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
 
-# Archives
+# Contribution Policy for Free Software of the State (2018-2021)
 
 - [Contribution Policy for Free Software of the State (2018-2021)](pocos/index.en.md)
 
