@@ -3,7 +3,7 @@ title: Plan d’action logiciels libres et communs numériques
 date: 2021-11-10
 ---
 
-*Autres versions: [italian](plan-action-logiciels-libres-communs-numeriques.it.md)*
+*Autres versions: [anglais](plan-action-logiciels-libres-communs-numeriques.en.md), [italien](plan-action-logiciels-libres-communs-numeriques.it.md)*
 
 Le plan d’action « logiciels libres et communs numériques » a été
 conçu par le ministère de la Transformation et de la Fonction
