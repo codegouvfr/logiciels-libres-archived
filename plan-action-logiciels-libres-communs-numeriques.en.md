@@ -52,7 +52,7 @@ published on
 4. Support administrations in the creation of digital commons for the
    conduct of public policies.
 
-### Develop and support the opening and release of source codes
+# Develop and support the opening and release of source codes
 
 1. Support administrations in opening their source codes. Help
    administrations mobilize their ecosystems around published source
@@ -71,7 +71,7 @@ published on
    the publication of source codes; maintain the guides for software
    openness; support useful partnerships for software openness.
 
-### Rely on free and open source software and the digital commons to strengthen the attractiveness of the State as an employer for digital talent
+# Rely on free and open source software and the digital commons to strengthen the attractiveness of the State as an employer for digital talent
 
 1. Animate the BlueHats information and expertise exchange network;
    publish its newsletter.
