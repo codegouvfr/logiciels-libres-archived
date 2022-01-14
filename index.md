@@ -27,7 +27,7 @@ La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action
 
 Voir la [page dédiée](conseil-logiciels-libres.md).
 
-# Guides logiciels libres : utiliser, publier, contribuer
+# Guides logiciels libres : utiliser, publier et contribuer
 
 Voir la [page dédiée](guides.md).
 
