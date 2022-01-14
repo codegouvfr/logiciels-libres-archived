@@ -11,11 +11,15 @@ This page is the wiki of the free software unit of [Etalab](https://www.etalab.g
 
 We publish here various resources about [code.gouv.fr](https://code.gouv.fr) and our other products.
 
-# Guides
+# Free Software guides: using, publishing and contributing
 
 - [Why Etalab's Free Software unit uses SourceHut](why-sourcehut.md)
 - [\[FR\] Introduction to the catalog of recommended free software](sill.md)
 - [Glossary](glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
+
+# Action plan for Free Software and digital commons
+
+You can read the english translation of the French [action plan for Free Software and digital commons](- [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)).
 
 # Contribution Policy for Free Software of the State (2018-2021)
 
