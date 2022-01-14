@@ -45,6 +45,10 @@ Cette politique de contribution est en cours de remplacement par les [guides](gu
 
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
 
+# Rapports mensuels
+
+- [Janvier 2022](2022/rapport-janvier.md)
+
 # Contribuer à cet espace
 
 Les contributions sont les bienvenues !  Vous pouvez envoyer des correctifs à la liste de discussion publique [~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
