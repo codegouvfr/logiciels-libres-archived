@@ -42,7 +42,6 @@ communs.numerique.gouv.fr.
    utilizzati in modo significativo dall'amministrazione e sviluppare
    lo scambio di competenze interne (nella base interministeriale del
    software open source - SILL), includendo queste azioni:
-
    - Mettere in evidenza le librerie libere e open source  utilizzate in modo significativo;
    - Riutilizzare il codice sorgente sviluppato da altre amministrazioni;
    - Promuovere e sostenere il contributo dell'amministrazione al software libero e ai beni comuni digitali che utilizza;

@@ -45,7 +45,6 @@ l’avancée de sa mise en œuvre seront publiés sur
    l’échange d’expertise interne (dans le [socle interministériel de
    logiciels libres - SILL](https://sill.etalab.gouv.fr)), en incluant
    ces actions :
-       
    - Mettre en avant des bibliothèques libres et open source
      significativement utilisées ;
    - Réutiliser des codes sources développés par d’autres

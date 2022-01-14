@@ -38,7 +38,6 @@ published on
    the administration and develop the exchange of internal expertise
    (in the interministerial base of free software - SILL), including
    these actions: 
-
    - Highlight significantly used free and open source libraries;
    - Reuse source code developed by other administrations;
    - Promote and support the administration’s contribution to free
