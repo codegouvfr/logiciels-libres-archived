@@ -3,7 +3,7 @@ title: Ressources diverses
 toc: false
 ---
 
-# Intervention en français
+# Intervention du pôle logiciels libres en français
 
 - [Intervention radio](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres) de Sabine Guillaume (DINUM, mission LABEL) et Bastien Guerry (DINUM, pôle logiciels libres d'Etalab) lors de l'émission « Libre à vous ! » du 14 décembre 2021, animée par l'APRIL.
   
@@ -15,7 +15,7 @@ toc: false
 
 - [Intervention radio](https://www.libreavous.org/33-dinsic-ziklibrenbib-irfm-et-parcoursup) de Xavier Béchade (DINSIC/Tchap) et Bastien Guerry (DINSIC/Etalab) lors de l'émission « Libre à vous ! » du 9 juillet 2019, animée par l'APRIL.
 
-# Interventions en anglais
+# Interventions Intervention du pôle logiciels libres en anglais
 
 - Participation à la [DigitALL Public conference (Avril 2021)](https://hadea.ec.europa.eu/events/digitall-public-conference_fr) : [The role of open source in the public sector](https://digitallpublic.app.swapcard.com/event/digitall-public/planning/UGxhbm5pbmdfMzUzNTA3) ([vidéo](https://youtu.be/QgvossmO240)).
 
@@ -28,3 +28,14 @@ toc: false
 - *Encouraging a wider usage of software derived from research: Opportunity Note* 2020.  Télécharger [l'article sur HAL](https://hal.archives-ouvertes.fr/hal-02545142).
 
 - Le numéro de février 2021 de la revue « La collection numérique » de l'AMUE : « [Vive le numérique libre](https://www.amue.fr/presentation/articles/article/la-collection-numerique-parlons-libre/) » ([PDF](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N__13_-_Vive_le_Numerique_libre__fevrier_2021_.pdf)).
+
+# Éléments bibliographiques sur les communs
+
+- [Repères pour participer aux communs](http://www.cooperations.infini.fr/spip.php?article9496 "
+"), cooperations.infini.fr, 2018
+
+- [Les communs de l'information, de la connaissance et du numérique](https://contrib.eduscol.education.fr/numerique/dossier/competences/communs-information-connaissance/@@document_whole), contrib.eduscol.education.fr, 2015
+
+- [Pour en savoir plus sur les (biens) communs](https://balises.bpi.fr/pour-en-savoir-plus-sur-les-biens-communs), balises.bpi.fr, 2014
+
+
