@@ -35,7 +35,7 @@ Voir la [page dédiée](guides.md).
 
 - Accès aux [études de veille sur des logiciels libres](https://gitlab.adullact.net/marche-sll/etudes-de-veille/) publiées dans le cadre du marché.
 
-# Interventions publiques du pôle
+# Ressources (interventions, liens externes, etc.)
 
 Voir la [page dédiée](ressources.md).
 
