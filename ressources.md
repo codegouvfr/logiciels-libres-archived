@@ -38,4 +38,6 @@ toc: false
 
 - [Pour en savoir plus sur les (biens) communs](https://balises.bpi.fr/pour-en-savoir-plus-sur-les-biens-communs), balises.bpi.fr, 2014
 
+- [What You Should Read To Understand the Commons](https://wiki.p2pfoundation.net/What_You_Should_Read_To_Understand_the_Commons), wiki.p2pfoundation.net
+
 
