@@ -1,5 +1,5 @@
 ---
-title: Bénéficiaires et logiciels des marchés interministériels logiciels libres
+title: Bénéficiaires des marchés interministériels support et expertise logiciels libres
 toc: true
 ---
 
@@ -58,5 +58,4 @@ toc: true
 - Agence nationale de la sécurité des systèmes d’information (ANSSI).
 - Conseil économique social et environnemental (CESE).
 
-# Liste des logiciels libres supportés
 
