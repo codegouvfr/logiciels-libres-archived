@@ -35,11 +35,11 @@ Voir la [page dédiée](guides.md).
 
 - [Présentation](https://communs.numerique.gouv.fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/) des marchés interministériels de support et d'expertise logiciels libres.
 
-- Accès aux [études de veille sur des logiciels libres](https://gitlab.adullact.net/marche-sll/etudes-de-veille/) publiées dans le cadre du marché.
+- [Études de veille sur des logiciels libres](https://gitlab.adullact.net/marche-sll/etudes-de-veille/) publiées dans le cadre du marché.
 
-- Liste des bénéficiaires du marché de support et du marché d'expertise.
+- Liste des [bénéficiaires des marchés de support et d'expertise](marches-logiciels-libres.md).
 
-- Liste des logiciels libres concernés par les marchés de support et d'expertise (web ou csv).
+- Liste des logiciels libres concernés par les marchés de support et d'expertise [web](marches-logiciels-libres-liste-logiciels.md) ou [csv](marches-logiciels-libres-liste-logiciels.csv).
 
 # Ressources (interventions, liens externes, etc.)
 
