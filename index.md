@@ -39,7 +39,7 @@ Voir la [page dédiée](guides.md).
 
 - Liste des [bénéficiaires des marchés de support et d'expertise](marches-logiciels-libres.md).
 
-- Liste des logiciels libres concernés par les marchés de support et d'expertise [web](marches-logiciels-libres-liste-logiciels.md) ou [csv](marches-logiciels-libres-liste-logiciels.csv).
+- Liste des logiciels libres concernés par les marchés de support et d'expertise [web](marches-logiciels-libres-liste-logiciels.md) ou [csv](https://git.sr.ht/~etalab/logiciels-libres/blob/master/marches-logiciels-libres-liste-logiciels.csv).
 
 # Ressources (interventions, liens externes, etc.)
 
