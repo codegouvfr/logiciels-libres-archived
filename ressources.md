@@ -40,4 +40,8 @@ toc: false
 
 - [What You Should Read To Understand the Commons](https://wiki.p2pfoundation.net/What_You_Should_Read_To_Understand_the_Commons), wiki.p2pfoundation.net
 
+- [Dossier sur les communs de la bibliothèque municipale de Lyon](https://www.bm-lyon.fr/nos-blogs/democratie/decouvrir-444/article/les-communs)
+
+- [Revue de littérature à l'international](https://iasc-commons.org/key-publications/) par l'*International Association for the Studies of the Commons*
+
 
