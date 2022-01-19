@@ -1,5 +1,5 @@
 ---
-title: Glossary for code.gouv.fr
+title: Glossary of the Free Software Unit
 ---
 
 *To suggest an enhancement, please reach us at [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).*
