@@ -41,9 +41,10 @@ Voir la [page dédiée](guides.md).
 
 - Liste des logiciels libres concernés par les marchés de support et d'expertise [web](marches-logiciels-libres-liste-logiciels.md) ou [csv](https://git.sr.ht/~etalab/logiciels-libres/blob/master/marches-logiciels-libres-liste-logiciels.csv).
 
-# Ressources (interventions, liens externes, etc.)
+# Ressources (glossaire, interventions, liens externes, etc.)
 
-Voir la [page dédiée](ressources.md).
+- [Glossaire](glossary.fr.md) du pôle logiciels libres
+- Pour les autres ressources, voir la [page dédiée](ressources.md).
 
 # Politique de contribution aux logiciels libres de l'Etat (2018-2021)
 
