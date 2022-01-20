@@ -1,5 +1,5 @@
 ---
-title: La mission et les engagements du pôle logiciels libres
+title: Mission, engagements et rituels du pôle logiciels libres
 toc: false
 ---
 
@@ -26,3 +26,8 @@ Nos engagements au sein du pôle :
 - "No blame culture": nous nous concentrons sur les problèmes, pas les personnes.
 - "20% libre": chaque membre peut consacrer 20% de son temps à un projet de logiciel ou de connaissance libre.
 
+# Nos rituels
+
+Nous avons deux réunions d'équipe hebdomadaires : le lundi de 10h30 à 11h et le vendredi de 16h à 17h.
+
+Les membres de l'équipe interviennent tour à tour dans la réunion d'équipe Etalab pour présenter les actualités du pôle.

@@ -11,9 +11,9 @@ Cette page est la page d'accueil du wiki du pôle logiciels libres d'[Etalab](ht
 
 Nous y publions des contenus liés à [code.gouv.fr](https://code.gouv.fr) et à nos autres actions et produits.
 
-# La mission et les engagements du pôle logiciels libres
+# La mission, les engagements et les rituels du pôle logiciels libres
 
-Voir la [page dédiée](pole-logiciels-libres-mission-et-engagements.md).
+Voir la [page dédiée](pole-logiciels-libres-mission-engagements-rituels.md).
 
 # Groupe de travail logiciels libres au sein du réseau des AMDAC
 
