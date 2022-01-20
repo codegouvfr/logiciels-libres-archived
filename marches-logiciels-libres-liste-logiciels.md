@@ -25,7 +25,6 @@
 |                 25 | Func                                 | Oui      | Système d'exploitation                   |
 |                 26 | rsyslog                              | Oui      | Système d'exploitation                   |
 |                 27 | Grafana                              | Oui      | Système d'exploitation                   |
-|                 28 | Grafana Loki                         | Oui      | Système d'exploitation                   |
 |                 29 | Proxmox VE                           | Oui      | Système d'exploitation                   |
 |                 30 | Proxmox backup server                | Oui      | Système d'exploitation                   |
 |                 31 | Kubernetes                           | Oui      | Système d'exploitation                   |
@@ -48,14 +47,11 @@
 |                 49 | Keycloak                             | Oui      | Infrastructure (proxies, annuaires, DNS) |
 |                 50 | CUPS                                 | Non      | Infrastructure (proxies, annuaires, DNS) |
 |                 52 | Amavisd-new                          | Oui      | Messagerie                               |
-|                 53 | Postgrey                             | Oui      | Messagerie                               |
-|                 54 | Pflogsumm                            | Oui      | Messagerie                               |
 |                 55 | Cyrus IMAP                           | Oui      | Messagerie                               |
 |                 56 | Sendmail                             | Non      | Messagerie                               |
 |                 57 | Spamassassin                         | Oui      | Messagerie                               |
 |                 58 | rspamd                               | Oui      | Messagerie                               |
 |                 59 | Postfix                              | Oui      | Messagerie                               |
-|                 60 | Postfwd                              | Non      | Messagerie                               |
 |                 61 | OpenDKIM                             | Oui      | Messagerie                               |
 |                 62 | OpenDMARC                            | Oui      | Messagerie                               |
 |                 63 | pyspf                                | Oui      | Messagerie                               |
@@ -82,10 +78,7 @@
 |                 86 | Gunicorn                             | Non      | Serveurs d'applications                  |
 |                 88 | MySQL                                | Oui      | SGBD                                     |
 |                 89 | MariaDB                              | Oui      | SGBD                                     |
-|                 90 | GALERA                               | Non      | SGBD                                     |
 |                 91 | PostgreSQL                           | Oui      | SGBD                                     |
-|                 92 | PostGis                              | Oui      | SGBD                                     |
-|                 93 | pg_upgrade                           | Oui      | SGBD                                     |
 |                 94 | Ora2pg                               | Oui      | SGBD                                     |
 |                 95 | PgAdmin                              | Oui      | SGBD                                     |
 |                 96 | PhpMyAdmin                           | Non      | SGBD                                     |
@@ -101,19 +94,6 @@
 |                106 | Metabase                             | Oui      | SGBD                                     |
 |                107 | InfluxDB                             | Non      | SGBD                                     |
 |                109 | Apache HTTP Server                   | Oui      | Serveur web                              |
-|                110 | mod_jk                               | Non      | Serveur web                              |
-|                111 | mod_ssl                              | Non      | Serveur web                              |
-|                112 | mod_perl                             | Non      | Serveur web                              |
-|                113 | mod_php                              | Non      | Serveur web                              |
-|                114 | mod_tsa                              | Oui      | Serveur web                              |
-|                115 | mod_proxy                            | Oui      | Serveur web                              |
-|                116 | mod_python                           | Non      | Serveur web                              |
-|                117 | mod_status                           | Oui      | Serveur web                              |
-|                118 | mod_security                         | Oui      | Serveur web                              |
-|                119 | mod_auth_kerb                        | Oui      | Serveur web                              |
-|                120 | mod_auth_ldap                        | Oui      | Serveur web                              |
-|                121 | mod_authz_ldap                       | Oui      | Serveur web                              |
-|                122 | mod_nss                              | Non      | Serveur web                              |
 |                123 | AwStats                              | Oui      | Serveur web                              |
 |                124 | Matomo (Ex. Piwik)                   | Oui      | Serveur web                              |
 |                125 | Nginx                                | Oui      | Serveur web                              |
@@ -133,10 +113,7 @@
 |                140 | ClamAV                               | Oui      | Sécurité                                 |
 |                141 | HAVP                                 | Oui      | Sécurité                                 |
 |                142 | c-icap                               | Oui      | Sécurité                                 |
-|                143 | c-icap modules                       | Oui      | Sécurité                                 |
 |                144 | BAREOS                               | Non      | Sécurité                                 |
-|                145 | webUI                                | Non      | Sécurité                                 |
-|                146 | contrib                              | Non      | Sécurité                                 |
 |                147 | VAULT                                | Non      | Sécurité                                 |
 |                148 | Promotheus                           | Non      | Sécurité                                 |
 |                150 | libpcap                              | Oui      | Réseaux                                  |
@@ -146,55 +123,20 @@
 |                154 | OpenVSwitch                          | Oui      | Réseaux                                  |
 |                155 | tcpdump                              | Non      | Réseaux                                  |
 |                157 | NAGIOS                               | Oui      | Supervision                              |
-|                158 | PLUGINS STANDARD NAGIOS              | Non      | Supervision                              |
-|                159 | Check_mk                             | Non      | Supervision                              |
 |                160 | Centreon                             | Oui      | Supervision                              |
 |                161 | Zabbix                               | Oui      | Supervision                              |
-|                162 | Graylog                              | Non      | Supervision                              |
 |                163 | rrdtool                              | Oui      | Supervision                              |
-|                164 | Cacti                                | Oui      | Supervision                              |
 |                165 | OCS inventory NG                     | Oui      | Supervision                              |
-|                166 | Agent OCS Android                    | Non      | Supervision                              |
-|                167 | Agent OCS Windows                    | Non      | Supervision                              |
-|                168 | Agent OCS Unix/Linux                 | Non      | Supervision                              |
 |                169 | Fusion Inventory                     | Oui      | Supervision                              |
 |                170 | GLPI                                 | Oui      | Supervision                              |
-|                171 | BEHAVIOR                             | Non      | Supervision                              |
-|                172 | Escalation                           | Non      | Supervision                              |
-|                173 | PDF                                  | Non      | Supervision                              |
-|                174 | Datainjection                        | Non      | Supervision                              |
-|                175 | Timelinetickets                      | Non      | Supervision                              |
-|                176 | Survey                               | Non      | Supervision                              |
-|                177 | OCS                                  | Non      | Supervision                              |
-|                178 | Webservice                           | Non      | Supervision                              |
-|                179 | Reports                              | Non      | Supervision                              |
 |                180 | MBeanMonitor                         | Oui      | Supervision                              |
-|                181 | FusionInventory For GLPI             | Oui      | Supervision                              |
 |                183 | Webmin                               | Oui      | Administration                           |
 |                184 | UltraVNC                             | Oui      | Administration                           |
 |                185 | XRDP                                 | Non      | Administration                           |
 |                187 | LibreOffice                          | Oui      | Bureautique                              |
-|                188 | Grammalecte                          | Oui      | Bureautique                              |
-|                189 | Lirecouleur                          | Non      | Bureautique                              |
-|                190 | Geooo                                | Non      | Bureautique                              |
-|                191 | OooHG                                | Non      | Bureautique                              |
 |                192 | Firefox                              | Oui      | Bureautique                              |
 |                193 | Gridlex                              | Oui      | Bureautique                              |
-|                194 | Selenium Builder                     | Oui      | Bureautique                              |
-|                195 | Selenium IDE                         | Oui      | Bureautique                              |
-|                196 | fluentlenium                         | Oui      | Bureautique                              |
-|                197 | HTML Validator                       | Oui      | Bureautique                              |
-|                198 | AddBlock+                            | Oui      | Bureautique                              |
-|                199 | IE Tab2                              | Oui      | Bureautique                              |
-|                200 | Flashblock                           | Oui      | Bureautique                              |
 |                201 | Thunderbird                          | Oui      | Bureautique                              |
-|                202 | Lightning                            | Oui      | Bureautique                              |
-|                203 | Obm-Connector                        | Oui      | Bureautique                              |
-|                204 | Autozip                              | Oui      | Bureautique                              |
-|                205 | Myspell                              | Non      | Bureautique                              |
-|                206 | Multildap                            | Non      | Bureautique                              |
-|                207 | Quote Color                          | Non      | Bureautique                              |
-|                208 | XsearchBar                           | Non      | Bureautique                              |
 |                209 | ImageMagick                          | Oui      | Bureautique                              |
 |                210 | Explorer++                           | Oui      | Bureautique                              |
 |                211 | Sumatra                              | Oui      | Bureautique                              |
@@ -207,106 +149,13 @@
 |                219 | Logstash                             | Non      | Exploitation                             |
 |                220 | SnakeTail                            | Non      | Exploitation                             |
 |                222 | PHP                                  | Oui      | Outils et langages                       |
-|                223 | PHP-FPM                              | Oui      | Outils et langages                       |
 |                224 | Perl                                 | Oui      | Outils et langages                       |
 |                225 | Python                               | Oui      | Outils et langages                       |
-|                226 | NppFTP                               | Oui      | Outils et langages                       |
 |                227 | Eclipse                              | Oui      | Outils et langages                       |
-|                228 | Eclipse TPTP                         | Non      | Outils et langages                       |
-|                229 | Eclipse WTP                          | Oui      | Outils et langages                       |
-|                230 | GEF                                  | Oui      | Outils et langages                       |
-|                231 | checkstyle, plugin Eclipse           | Oui      | Outils et langages                       |
-|                232 | Eclipse DTP                          | Oui      | Outils et langages                       |
-|                233 | M2eclipse                            | Oui      | Outils et langages                       |
-|                234 | Spring IDE                           | Oui      | Outils et langages                       |
-|                235 | MyLyn                                | Oui      | Outils et langages                       |
-|                236 | PyDev                                | Oui      | Outils et langages                       |
-|                237 | Jautodoc                             | Oui      | Outils et langages                       |
-|                238 | GMF                                  | Oui      | Outils et langages                       |
-|                239 | Metrics                              | Oui      | Outils et langages                       |
-|                240 | CAP                                  | Oui      | Outils et langages                       |
-|                241 | Hibernate Tools                      | Oui      | Outils et langages                       |
-|                242 | Subclipse                            | Oui      | Outils et langages                       |
-|                243 | Subversive                           | Oui      | Outils et langages                       |
-|                244 | SonarQube                            | Oui      | Outils et langages                       |
-|                245 | SonarLint                            | Oui      | Outils et langages                       |
-|                246 | Jasper Studio                        | Oui      | Outils et langages                       |
-|                247 | jsf                                  | Non      | Outils et langages                       |
-|                248 | Memory Analyser Tool (MAT)           | Oui      | Outils et langages                       |
-|                249 | Clippets                             | Oui      | Outils et langages                       |
-|                250 | EclEmma                              | Oui      | Outils et langages                       |
-|                251 | ERMaster                             | Oui      | Outils et langages                       |
-|                252 | ShellEd                              | Oui      | Outils et langages                       |
-|                253 | Xtext                                | Oui      | Outils et langages                       |
-|                254 | TailConsole                          | Oui      | Outils et langages                       |
-|                255 | GrepConsole                          | Oui      | Outils et langages                       |
-|                256 | MoreUnit                             | Oui      | Outils et langages                       |
-|                257 | Oomph                                | Oui      | Outils et langages                       |
-|                258 | WDT                                  | Oui      | Outils et langages                       |
-|                259 | DLTK                                 | Oui      | Outils et langages                       |
-|                260 | DBeaver                              | Oui      | Outils et langages                       |
 |                261 | Papyrus                              | Oui      | Outils et langages                       |
 |                262 | SQuirreL SQL                         | Oui      | Outils et langages                       |
 |                263 | ANT                                  | Oui      | Outils et langages                       |
-|                264 | Ant-Contrib                          | Oui      | Outils et langages                       |
 |                265 | Maven et plugins                     | Oui      | Outils et langages                       |
-|                266 | Swagger-codegen-maven-plugin         | Non      | Outils et langages                       |
-|                267 | maven-javancss-plugin                | Non      | Outils et langages                       |
-|                268 | clean                                | Non      | Outils et langages                       |
-|                269 | compiler                             | Non      | Outils et langages                       |
-|                270 | deploy                               | Non      | Outils et langages                       |
-|                271 | install                              | Non      | Outils et langages                       |
-|                272 | resources                            | Non      | Outils et langages                       |
-|                273 | site                                 | Non      | Outils et langages                       |
-|                274 | surefire                             | Non      | Outils et langages                       |
-|                275 | verifier                             | Non      | Outils et langages                       |
-|                276 | ear                                  | Non      | Outils et langages                       |
-|                277 | ejb                                  | Non      | Outils et langages                       |
-|                278 | jar                                  | Non      | Outils et langages                       |
-|                279 | rar                                  | Non      | Outils et langages                       |
-|                280 | war                                  | Non      | Outils et langages                       |
-|                281 | changelog                            | Non      | Outils et langages                       |
-|                282 | changes                              | Non      | Outils et langages                       |
-|                283 | checkstyle, plugin Maven             | Non      | Outils et langages                       |
-|                284 | doap                                 | Non      | Outils et langages                       |
-|                285 | docck                                | Non      | Outils et langages                       |
-|                286 | javadoc                              | Non      | Outils et langages                       |
-|                287 | jxr                                  | Non      | Outils et langages                       |
-|                288 | pmd (pluging Maven)                  | Non      | Outils et langages                       |
-|                289 | project-info-reports                 | Non      | Outils et langages                       |
-|                290 | surefire-report                      | Non      | Outils et langages                       |
-|                291 | ant                                  | Non      | Outils et langages                       |
-|                292 | antlr                                | Non      | Outils et langages                       |
-|                293 | antrun                               | Non      | Outils et langages                       |
-|                294 | archetype                            | Non      | Outils et langages                       |
-|                295 | assembly                             | Non      | Outils et langages                       |
-|                296 | dependency                           | Non      | Outils et langages                       |
-|                297 | gpg                                  | Non      | Outils et langages                       |
-|                298 | help                                 | Non      | Outils et langages                       |
-|                299 | invoker                              | Non      | Outils et langages                       |
-|                300 | one                                  | Non      | Outils et langages                       |
-|                301 | plugin                               | Non      | Outils et langages                       |
-|                302 | release                              | Non      | Outils et langages                       |
-|                303 | remote-ressources                    | Non      | Outils et langages                       |
-|                304 | repository                           | Non      | Outils et langages                       |
-|                305 | scm                                  | Non      | Outils et langages                       |
-|                306 | source                               | Non      | Outils et langages                       |
-|                307 | eclipse                              | Non      | Outils et langages                       |
-|                308 | jdepend                              | Non      | Outils et langages                       |
-|                309 | sql                                  | Non      | Outils et langages                       |
-|                310 | cargo                                | Non      | Outils et langages                       |
-|                311 | jalopy                               | Oui      | Outils et langages                       |
-|                312 | jalopy console                       | Non      | Outils et langages                       |
-|                313 | javancss-maven-plugin                | Non      | Outils et langages                       |
-|                314 | rpm-maven-plugin                     | Non      | Outils et langages                       |
-|                315 | Wagon                                | Oui      | Outils et langages                       |
-|                316 | Selenium plugin                      | Oui      | Outils et langages                       |
-|                317 | Castor-Maven                         | Oui      | Outils et langages                       |
-|                318 | Xslt-Maven                           | Oui      | Outils et langages                       |
-|                319 | DbUnit                               | Oui      | Outils et langages                       |
-|                320 | TagList                              | Oui      | Outils et langages                       |
-|                321 | jaxws-maven-plugin                   | Oui      | Outils et langages                       |
-|                322 | m2e Maven Eclipse Integration        | Oui      | Outils et langages                       |
 |                323 | Xdoclet                              | Oui      | Outils et langages                       |
 |                324 | OWASP CSRF Guard                     | Oui      | Outils et langages                       |
 |                325 | Owasp Java HTML Sanitizer            | Oui      | Outils et langages                       |
@@ -320,7 +169,6 @@
 |                333 | Cargo                                | Oui      | Outils et langages                       |
 |                334 | Open Jdk                             | Oui      | Outils et langages                       |
 |                335 | R                                    | Oui      | Outils et langages                       |
-|                336 | Haven                                | Oui      | Outils et langages                       |
 |                337 | RStudio                              | Oui      | Outils et langages                       |
 |                338 | RShiny                               | Oui      | Outils et langages                       |
 |                339 | Metrics                              | Oui      | Outils et langages                       |
@@ -333,16 +181,10 @@
 |                346 | Information System Designer          | Non      | Outils et langages                       |
 |                348 | Struts 1                             | Oui      | Framework de développement               |
 |                349 | Struts 2                             | Oui      | Framework de développement               |
-|                350 | stxx                                 | Oui      | Framework de développement               |
-|                351 | tiles                                | Oui      | Framework de développement               |
 |                352 | PrimeFace                            | Oui      | Framework de développement               |
 |                353 | JSTL                                 | Oui      | Framework de développement               |
 |                354 | Spring Framework                     | Oui      | Framework de développement               |
-|                355 | Spring WebFlow                       | Oui      | Framework de développement               |
-|                356 | Spring Security                      | Oui      | Framework de développement               |
-|                357 | Spring Batch                         | Oui      | Framework de développement               |
 |                358 | MyFaces                              | Oui      | Framework de développement               |
-|                359 | Tomahawk                             | Oui      | Framework de développement               |
 |                360 | OSWorkflow                           | Oui      | Framework de développement               |
 |                361 | Quartz                               | Oui      | Framework de développement               |
 |                362 | Torque                               | Oui      | Framework de développement               |
@@ -361,33 +203,6 @@
 |                375 | Wsdl4j                               | Oui      | Framework de développement               |
 |                376 | JAX-WS RI                            | Oui      | Framework de développement               |
 |                377 | Apache Commons                       | Oui      | Framework de développement               |
-|                378 | Apache Commons attributes            | Non      | Framework de développement               |
-|                379 | Apache Commons beanutils             | Non      | Framework de développement               |
-|                380 | Apache Commons betwixt               | Non      | Framework de développement               |
-|                381 | Apache Commons CLI                   | Non      | Framework de développement               |
-|                382 | Apache Commons codec                 | Non      | Framework de développement               |
-|                383 | Apache Commons collections           | Non      | Framework de développement               |
-|                384 | Apache Commons configuration         | Non      | Framework de développement               |
-|                385 | Apache Commons daemon                | Non      | Framework de développement               |
-|                386 | Apache Commons dbcp                  | Non      | Framework de développement               |
-|                387 | Apache Commons dbutils               | Non      | Framework de développement               |
-|                388 | Apache Commons digester              | Non      | Framework de développement               |
-|                389 | Apache Commons discovery             | Non      | Framework de développement               |
-|                390 | Apache Commons EL                    | Non      | Framework de développement               |
-|                391 | Apache Commons fileupload            | Non      | Framework de développement               |
-|                392 | Apache Commons httpclient            | Non      | Framework de développement               |
-|                393 | Apache Commons io                    | Non      | Framework de développement               |
-|                394 | Apache Commons jelly                 | Non      | Framework de développement               |
-|                395 | Apache Commons JEXL                  | Non      | Framework de développement               |
-|                396 | Apache Commons JXpath                | Non      | Framework de développement               |
-|                397 | Apache Commons lang                  | Non      | Framework de développement               |
-|                398 | Apache Commons launcher              | Non      | Framework de développement               |
-|                399 | Apache Commons logging               | Non      | Framework de développement               |
-|                400 | Apache Commons modeler               | Non      | Framework de développement               |
-|                401 | Apache Commons net                   | Non      | Framework de développement               |
-|                402 | Apache Commons pool                  | Non      | Framework de développement               |
-|                403 | Apache Commons primitives            | Non      | Framework de développement               |
-|                404 | Apache Commons validator             | Non      | Framework de développement               |
 |                405 | Antlr                                | Oui      | Framework de développement               |
 |                406 | cglib                                | Oui      | Framework de développement               |
 |                407 | ehcache                              | Oui      | Framework de développement               |
@@ -404,7 +219,6 @@
 |                418 | ServiceMix                           | Oui      | Framework de développement               |
 |                419 | ActiveMQ                             | Oui      | Framework de développement               |
 |                420 | WSO2 API Management                  | Oui      | Framework de développement               |
-|                421 | Identity Server                      | Oui      | Framework de développement               |
 |                422 | XADES4j                              | Oui      | Framework de développement               |
 |                423 | Jquery UI                            | Oui      | Framework de développement               |
 |                424 | bootstrap                            | Non      | Framework de développement               |
@@ -433,7 +247,6 @@
 |                448 | Squash TM                            | Oui      | Outils de tests                          |
 |                449 | SoapUI                               | Oui      | Outils de tests                          |
 |                450 | Selenium plugin                      | Non      | Outils de tests                          |
-|                451 | Java Client Driver                   | Non      | Outils de tests                          |
 |                452 | Tanaguru                             | Oui      | Outils de tests                          |
 |                453 | Asqatasun                            | Non      | Outils de tests                          |
 |                455 | GeoServer                            | Oui      | SIG                                      |
@@ -461,13 +274,9 @@
 |                478 | GRR                                  | Oui      | Collaboratif                             |
 |                479 | COLLABORA online                     | Non      | Collaboratif                             |
 |                480 | Moodle                               | Non      | Collaboratif                             |
-|                481 | Bigbluebutton                        | Non      | Collaboratif                             |
-|                482 | H5P                                  | Non      | Collaboratif                             |
-|                483 | Fordson (thèmes)                     | Non      | Collaboratif                             |
 |                484 | PulseAudio                           | Non      | Collaboratif                             |
 |                485 | RocketChat                           | Non      | Collaboratif                             |
 |                486 | Bigbluebutton                        | Non      | Collaboratif                             |
-|                487 | Greenlight                           | Non      | Collaboratif                             |
 |                488 | Wekan                                | Non      | Collaboratif                             |
 |                489 | Publik                               | Oui      | Collaboratif                             |
 |                490 | Sogo                                 | Oui      | Collaboratif                             |
@@ -478,19 +287,14 @@
 |                496 | DSpace                               | Oui      | Publication                              |
 |                497 | JasperStudio                         | Oui      | Publication                              |
 |                498 | MediaWiki                            | Oui      | Publication                              |
-|                499 | PdfBook                              | Oui      | Publication                              |
 |                500 | Lucene                               | Oui      | Publication                              |
 |                501 | Solr                                 | Non      | Publication                              |
 |                502 | ElasticSearch                        | Oui      | Publication                              |
-|                503 | Filebeat                             | Non      | Publication                              |
-|                504 | Kibana                               | Oui      | Publication                              |
 |                505 | OpenSearchServer                     | Oui      | Publication                              |
 |                506 | Datafaris                            | Oui      | Publication                              |
 |                507 | XWiki                                | Oui      | Publication                              |
 |                508 | StatusNet                            | Oui      | Publication                              |
-|                509 | eZpublish                            | Oui      | Publication                              |
 |                510 | Drupal-core                          | Oui      | Publication                              |
-|                511 | Boost                                | Oui      | Publication                              |
 |                514 | phpBB                                | Non      | Publication                              |
 |                515 | SURICATA                             | Non      | Publication                              |
 |                516 | The Hive                             | Non      | Publication                              |
