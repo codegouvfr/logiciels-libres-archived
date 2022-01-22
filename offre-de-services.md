@@ -5,7 +5,7 @@ toc: false
 
 # Accompagnement à l'ouverture des codes sources
 
-Pour toute demande concernant l'ouverture des codes sources, veuillez vous adresser à votre Administrateur ministériel des données, des algorithmes et des codes source ([voir la liste](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/)).
+Pour toute demande concernant l'ouverture des codes sources, veuillez vous adresser à votre administrateur ministériel des données, des algorithmes et des codes sources ([voir la liste](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/)).
 
 Vous pouvez mettre l'adresse `logiciels-libres@data.gouv.fr` en copie de façon à ce que nous puissions répondre et/ou suivre la demande.
 
@@ -45,7 +45,7 @@ Les questions courantes sont :
 - Existe-il un équivalent libre pour le logiciel X ?
 - Où trouver des prestataires pour le logiciel X ?
 
-Voir [cette page de documentation du SILL](https://man.sr.ht/~etalab/logiciels-libres/sill.md) qui peut vous aider.
+Avant de nous écrire, veuillez lire [cette page de documentation du SILL](https://man.sr.ht/~etalab/logiciels-libres/sill.md).
 
 ## Sur les marchés interministériels de support et d'expertise
 
@@ -91,6 +91,6 @@ Le pôle logiciels libres ne propose pas (encore) de formations liées aux logic
 
 # Nous ne répondons pas
 
-- Aux demandes de formation (tant qu'elles n'existent pas).
-- Aux demandes de promotion d'un logiciel libre dans l'administration.
+- Aux demandes de formation (celles-ci n'existent pas encore).
+- Aux demandes de promotion d'un logiciel (libre ou non) dans l'administration.
 - Aux demandes qui n'entrent dans aucune des catégories listées.
