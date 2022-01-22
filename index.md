@@ -15,6 +15,14 @@ Nous y publions des contenus liés à [code.gouv.fr](https://code.gouv.fr) et à
 
 Voir la [page dédiée](pole-logiciels-libres-mission-engagements-rituels.md).
 
+# Où échanger avec d'autres agents publics libristes ?
+
+Si vous avez accès à Tchap (https://tchap.gouv.fr):
+
+- le salon [SILL](https://www.tchap.gouv.fr/#/room/#SILLutRYrgV:agent.dinum.tchap.gouv.fr) (Socle interministériel de logiciels libres)
+- le salon [BlueHats](https://www.tchap.gouv.fr/#/room/#BlueHats21LW8XE:agent.dinum.tchap.gouv.fr)
+- la salon [MimLibre](https://www.tchap.gouv.fr/#/room/#MimixQlxMNQc:agent.interieur.tchap.gouv.fr)
+
 # Groupe de travail logiciels libres au sein du réseau des AMDAC
 
 La DINUM anime un groupe de travail logiciels libres pour les administrateurs ministériels des données, des algorithmes et des codes sources.
