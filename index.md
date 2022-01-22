@@ -15,6 +15,15 @@ Nous y publions des contenus liés à [code.gouv.fr](https://code.gouv.fr) et à
 
 Voir la [page dédiée](pole-logiciels-libres-mission-engagements-rituels.md).
 
+# L'offre de services du pôle logiciels libres
+
+Le pôle logiciels libres d'Etalab aide les administrations publiques
+sur tous les sujets concernant l'ouverture de leurs codes sources,
+l'utilisation de logiciels libres et le recrutement de compétences
+liées au logiciel libre (utilisation et ouverture).
+
+Voir la [page dédiée](offre-de-services.md).
+
 # Où échanger avec d'autres agents publics libristes ?
 
 Si vous avez accès à [Tchap](https://tchap.gouv.fr):
