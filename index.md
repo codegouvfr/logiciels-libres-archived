@@ -17,11 +17,15 @@ Voir la [page dédiée](pole-logiciels-libres-mission-engagements-rituels.md).
 
 # Où échanger avec d'autres agents publics libristes ?
 
-Si vous avez accès à Tchap (https://tchap.gouv.fr):
+Si vous avez accès à [Tchap](https://tchap.gouv.fr):
 
 - le salon [SILL](https://www.tchap.gouv.fr/#/room/#SILLutRYrgV:agent.dinum.tchap.gouv.fr) (Socle interministériel de logiciels libres)
 - le salon [BlueHats](https://www.tchap.gouv.fr/#/room/#BlueHats21LW8XE:agent.dinum.tchap.gouv.fr)
 - la salon [MimLibre](https://www.tchap.gouv.fr/#/room/#MimixQlxMNQc:agent.interieur.tchap.gouv.fr)
+
+Si vous avez accès à [OSMOSE](https://osmose.numerique.gouv.fr):
+
+- la [communauté Logiciels Libres d'OSMOSE](https://osmose.numerique.gouv.fr/jcms/c_2013888/fr/communaute-opensource-logiciel-libre-de-l-etat-bluehats?jsp=plugins%2FCollaborativeSpacePlugin%2Fjsp%2Fmembers.jsp&memberView=signups&start=0&pageSize=5&pagerAll=true&reverse=false&portletId=a_19102&portletDomId=c_2013903_0_a_19102_0)
 
 # Groupe de travail logiciels libres au sein du réseau des AMDAC
 
