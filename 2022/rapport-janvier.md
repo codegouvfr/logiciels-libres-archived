@@ -18,8 +18,10 @@ toc: true
 # Renforcer l'attractivité du secteur public
 
 - Organisation de l'atelier BlueHats sur la stratégie Open Source de RTE
-# Etalab
+
+# Etalab et vie interne du pôle
 
 - Co-organisation d'un atelier sur la documentation interne
 - Entretiens pour le recrutement du poste de chargé·e de communautés et de contributions
 - Participation à l'évaluation des dossiers pour l'accélérateur d'initiatives citoyennes
+- Ajout de contenus sur le wiki du pôle logiciels libres
