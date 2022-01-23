@@ -29,7 +29,7 @@ You can read the english translation of the French [action plan for Free Softwar
 
 - [Contribution Policy for Free Software of the State (2018-2021)](pocos/index.en.md)
 
-# Contributing
+# Contributing to this wiki
 
 Contributions are welcome!  You can send patches to the public mailing list [~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).  If you are a regular contributor, you can request write access to [the wiki repository](https://git.sr.ht/~etalab/logiciels-libres).
 
