@@ -24,4 +24,6 @@ toc: true
 - Co-organisation d'un atelier sur la documentation interne
 - Entretiens pour le recrutement du poste de chargé·e de communautés et de contributions
 - Participation à l'évaluation des dossiers pour l'accélérateur d'initiatives citoyennes
+- Traduction du plan d'action logiciels libres en anglais
+- Publication de présentations du pôle en français et anglais
 - Ajout de contenus sur le wiki du pôle logiciels libres
