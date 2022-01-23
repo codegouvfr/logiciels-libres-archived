@@ -24,7 +24,7 @@ liées au logiciel libre (utilisation et ouverture).
 
 Voir la [page dédiée](offre-de-services.md).
 
-# Où échanger avec d'autres agents publics libristes ?
+# Où échanger avec d'autres agents publics libristes et la communauté BlueHats ?
 
 ## Espaces publics
 
