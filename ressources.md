@@ -19,6 +19,10 @@ toc: false
 
 - Participation à la [DigitALL Public conference (Avril 2021)](https://hadea.ec.europa.eu/events/digitall-public-conference_fr) : [The role of open source in the public sector](https://digitallpublic.app.swapcard.com/event/digitall-public/planning/UGxhbm5pbmdfMzUzNTA3) ([vidéo](https://youtu.be/QgvossmO240)).
 
+# Présentations/diaporamas en ligne
+
+Vous pouvez [retrouver en ligne nos présentations](https://speakerdeck.com/bluehats) ou certaines faites par d'autres administrations lors d'ateliers BlueHats.
+
 # Ressources pour l'enseignement supérieur, la recherche et l'innovation
 
 - *Je code : quels sont mes droits ? Quelles sont mes obligations ?*  2019.  Télécharger [l'article sur HAL](https://hal.archives-ouvertes.fr/hal-02399517).
