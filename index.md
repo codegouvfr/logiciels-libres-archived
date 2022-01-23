@@ -80,7 +80,7 @@ Cette politique de contribution est en cours de remplacement par les [guides](gu
 
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
 
-# Rapports mensuels
+# Rapports mensuels du pôle logiciels libres
 
 - [Janvier 2022](2022/rapport-janvier.md)
 
@@ -94,7 +94,7 @@ Pour indiquer que les correctifs s'adressent à ce wiki, ajoutez ceci dans votre
 
 Si vous êtes contributeur régulier, vous pouvez demander un accès en écriture sur [le dépôt du wiki](https://git.sr.ht/~etalab/logiciels-libres).
 
-# Licence
+# Licence des contenus de cet espace
 
 Les contenus de ce dépôt sont publiés sous [licence Ouverte 2.0](LICENSE.md).
 

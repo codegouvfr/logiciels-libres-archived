@@ -5,7 +5,7 @@ toc: true
 
 Aller à la page d'accueil [en Français](index.md).
 
-# Presentation
+# Introduction
 
 This page is the wiki of the free software unit of [Etalab](https://www.etalab.gouv.fr/)/[DINUM](https://www.numerique.gouv.fr/), in charge of the action plan for free software and digital commons for the French public administration.
 
@@ -35,7 +35,7 @@ Contributions are welcome!  You can send patches to the public mailing list [~et
 
 For patches to target this repository, add this parameter to your local copy: `git config format.subjectPrefix 'PATCH logiciels-libres'`
 
-# License
+# License of this document
 
 Contents of this repository are published under the [Open License 2.0](https://spdx.org/licenses/etalab-2.0.html).
 
