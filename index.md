@@ -29,7 +29,7 @@ Voir la [page dédiée](offre-de-services.md).
 ## Espaces publics
 
 - Le canal public IRC `#bluehats` du serveur `irc.libera.chat`: vous pouvez [vous connecter via une interface web](https://web.libera.chat/).
-- La [liste de discussion publique #BlueHats](https://lists.sr.ht/~etalab/bluehats): vous pouvez vous y abonner en écrivant à `~etalab/bluehats+subscribe@lists.sr.ht` et y envoyer des mails en écrivant à `~etalab/bluehats@lists.sr.ht`.
+- La [liste de discussion publique #BlueHats](https://lists.sr.ht/~etalab/bluehats): vous pouvez vous y abonner en écrivant à `~etalab/bluehats+subscribe@lists.sr.ht` et y envoyer des mails *en texte brut* en écrivant à `~etalab/bluehats@lists.sr.ht`.
 
 ## Espaces réservés aux agents publics
 
