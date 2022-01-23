@@ -27,6 +27,10 @@ Consultez le tableau de suivi des ouvertures de code source via [ouverture.data.
 
 # Suivi des engagements
 
+Les engagements ci-dessous ont été pris par les ministères via les [feuilles de route ministérielles sur la politique de la donnée](https://www.data.gouv.fr/en/datasets/feuilles-de-route-ministerielles-sur-la-politique-de-la-donnee-des-algorithmes-et-des-codes-sources/).
+
+Vous pouvez télécharger le tableau ci-dessous au format .csv.
+
 | Ministère | Thématiques                                     | Actions                                                                                                                                                                                                                                                                                                                                                                                                                                             | Echéances |
 |-----------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | MCTRCT    | Codes sources                                   | Systématiser la publication des nouveaux codes sources, à l’instar des projets portés au sein de l'Incubateur des Territoires                                                                                                                                                                                                                                                                                                                       | S1 2022   |
