@@ -26,6 +26,8 @@ Voir la [page dédiée](offre-de-services.md).
 
 # Où échanger avec d'autres agents publics libristes et la communauté BlueHats ?
 
+Les BlueHats sont toutes les personnes qui souhaitent montrer qu'elles contribuent à des logiciels libres développés et/ou utilisés par l'administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi les citoyens qui reconnaissent que leurs actions pour des logiciels libres aide les projets de l'administration.
+
 Voir la [page dédiée](espaces-communication-bluehats.md).
 
 # Groupe de travail logiciels libres au sein du réseau des AMDAC
@@ -43,6 +45,12 @@ Voir la [page dédiée](conseil-logiciels-libres.md).
 # Guides logiciels libres : utiliser, publier et contribuer
 
 Voir la [page dédiée](guides.md).
+
+# BlueHats Semester of Code
+
+`BlueHats Semester of Code` est un programme de stages de 6 mois permettant de contribuer à des logiciels libres utilisés dans les administrations.  Il est destiné aux étudiants de CentraleSupélec de 2ème année en césure.
+
+Voir la [page dédiée](bluehats-semester-of-code.md).
 
 # Marchés interministériels de support et d'expertise logiciels libres
 
