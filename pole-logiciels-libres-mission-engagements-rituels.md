@@ -28,7 +28,7 @@ Nos engagements au sein du pôle :
 
 # Nos rituels
 
-Nous maintenons une présence publique ("office hours") sur le canal IRC `#bluehats` du serveur `irc.libera.chat` tous les lundi de 16h à 17h.  Si vous n'avez pas de client IRC, vous pouvez [rejoindre le salon de discussion publique via cette interface web](https://web.libera.chat/).
+Nous maintenons une présence publique sur le canal IRC `#bluehats` du serveur `irc.libera.chat` tous les lundi de 16h à 17h.  Si vous n'avez pas de client IRC, vous pouvez [rejoindre le salon de discussion publique via cette interface web](https://web.libera.chat/).
 
 Nous avons deux réunions d'équipe hebdomadaires : le lundi de 10h30 à 11h et le vendredi de 16h à 17h.
 
