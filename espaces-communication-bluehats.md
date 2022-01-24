@@ -8,7 +8,7 @@ toc: true
 - Le canal public IRC `#bluehats` du serveur `irc.libera.chat`: vous pouvez [vous connecter via une interface web](https://web.libera.chat/).
 - La [liste de discussion publique #BlueHats](https://lists.sr.ht/~etalab/bluehats): vous pouvez vous y abonner en écrivant à `~etalab/bluehats+subscribe@lists.sr.ht` et y envoyer des mails *en texte brut* en écrivant à `~etalab/bluehats@lists.sr.ht`.
 
-# Espaces privés ouverts aux agents et non-agents
+# Espaces privés ouverts à tous
 
 - La liste de discussion privée `service-public-libre` gérée par l'association [ADULLACT](https://adullact.org/): vous devez d'abord créer un compte et/ou vous connecter depuis [la page d'accueil](https://listes.adullact.org/sympa) puis demander à être abonné depuis [la page de la liste](https://listes.adullact.org/sympa/info/service-public-libre).
 
