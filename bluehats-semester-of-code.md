@@ -29,4 +29,4 @@ La gratification des étudiants correspond à la gratification légale et elle e
 - **18 février 2022** Visioconférence d'information pour les communautés de logiciels libres.
 - **11 février 2022** Visioconférence d'information pour les étudiants intéressés.
 - **Du 7 février au 6 mars 2022**: Sélection et construction des projets de stages.
-- **7 février 2022**: Appel public à projets de stages auprès des administrations et des communautés de logiciels libres.
+- **7 février 2022**: Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
