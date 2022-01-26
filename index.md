@@ -24,12 +24,6 @@ liées au logiciel libre (utilisation et ouverture).
 
 Voir la [page dédiée](offre-de-services.md).
 
-# Où échanger avec d'autres agents publics libristes et la communauté BlueHats ?
-
-Les BlueHats sont toutes les personnes qui souhaitent montrer qu'elles contribuent à des logiciels libres développés et/ou utilisés par l'administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi les citoyens qui reconnaissent que leurs actions pour des logiciels libres aide les projets de l'administration.
-
-Voir la [page dédiée](espaces-communication-bluehats.md).
-
 # Groupe de travail logiciels libres au sein du réseau des AMDAC
 
 La DINUM anime un groupe de travail logiciels libres pour les administrateurs ministériels des données, des algorithmes et des codes sources.
@@ -46,7 +40,7 @@ Voir la [page dédiée](conseil-logiciels-libres.md).
 
 Voir la [page dédiée](guides.md).
 
-# BlueHats Semester of Code
+# Présentation du programme "BlueHats Semester of Code"
 
 `BlueHats Semester of Code` est un programme de stages de 6 mois permettant de contribuer à des logiciels libres utilisés dans les administrations.  Il est destiné aux étudiants de CentraleSupélec de 2ème année en césure.
 
@@ -62,6 +56,16 @@ Voir la [page dédiée](bluehats-semester-of-code.md).
 
 - Liste des logiciels libres concernés par les marchés de support et d'expertise [web](marches-logiciels-libres-liste-logiciels.md) ou [csv](https://git.sr.ht/~etalab/logiciels-libres/blob/master/marches-logiciels-libres-liste-logiciels.csv).
 
+# Où échanger avec d'autres agents publics libristes et la communauté BlueHats ?
+
+Les BlueHats sont toutes les personnes qui souhaitent montrer qu'elles contribuent à des logiciels libres développés et/ou utilisés par l'administration publique : les agents publics impliqués dans le développement de ces logiciels, bien sûr, mais aussi les citoyens qui reconnaissent que leurs actions pour des logiciels libres aide les projets de l'administration.
+
+Voir la [page dédiée](espaces-communication-bluehats.md).
+
+# Rapports mensuels du pôle logiciels libres
+
+- [Janvier 2022](2022/rapport-janvier.md)
+
 # Ressources (glossaire, interventions, liens externes, etc.)
 
 - [Glossaire](glossary.fr.md) du pôle logiciels libres
@@ -72,10 +76,6 @@ Voir la [page dédiée](bluehats-semester-of-code.md).
 Cette politique de contribution est en cours de remplacement par les [guides](guides.md) du pôle logiciels libres mais elle est toujours valable et vous pouvez [la consulter](pocos/index.md).
 
 <!-- # Projets auxquels contribue le pôle logiciels libres -->
-
-# Rapports mensuels du pôle logiciels libres
-
-- [Janvier 2022](2022/rapport-janvier.md)
 
 # Contribuer à cet espace
 
