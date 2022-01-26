@@ -83,7 +83,7 @@ Nous répondons par écrit aux questions de culture générale sur le logiciel l
 
 # Mise en relation
 
-Nous pouvons par écrit vous aider à entrer en contact avec des communautés de l'administration actives autour des logiciels libres.  Voir [cette liste](https://man.sr.ht/~etalab/logiciels-libres/#o-changer-avec-dautres-agents-publics-libristes).
+Nous pouvons par écrit vous aider à entrer en contact avec des communautés de l'administration actives autour des logiciels libres.  Voir [cette liste](https://man.sr.ht/~etalab/logiciels-libres/#o-changer-avec-dautres-agents-publics-libristes-et-la-communaut-bluehats).
 
 # Formations
 
