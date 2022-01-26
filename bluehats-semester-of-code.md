@@ -30,3 +30,8 @@ La gratification des étudiants correspond à la gratification légale et elle e
 - **11 février 2022** Visioconférence d'information pour les étudiants intéressés.
 - **Du 7 février au 6 mars 2022**: Sélection et construction des projets de stages.
 - **7 février 2022**: Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
+
+# Projets inspirants à l'international
+
+- [Open Source Research Experience](https://cross.ucsc.edu/news/news/2021_summerstudents.html)
+- [Google Summer of Code](https://summerofcode.withgoogle.com)
