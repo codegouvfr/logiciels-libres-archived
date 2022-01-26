@@ -15,6 +15,11 @@ Nous y publions des contenus liés à [code.gouv.fr](https://code.gouv.fr) et à
 
 Voir la [page dédiée](pole-logiciels-libres-mission-engagements-rituels.md).
 
+# Les partenariats DINUM portés par le pôle logiciels libres
+
+- Partenariat avec l'ADULLACT ([PDF](docs/Convention_Adullact-Dinum-2022.pdf))
+- Partenariat avec l'école CentraleSupélec
+
 # L'offre de services du pôle logiciels libres
 
 Le pôle logiciels libres d'Etalab aide les administrations publiques
