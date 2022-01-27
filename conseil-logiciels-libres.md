@@ -33,7 +33,7 @@ La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action
 
 Les réunions sont privées et ont lieu via [ce lien de visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).
 
-- 4 mars 14h-16h : administrations
+- 11 mars 14h-16h : administrations
 - 8 avril 14h-16h : écosystème
 - 3 juin 14h-16h : tout le conseil
 - 9 septembre 14h-16h : administrations
