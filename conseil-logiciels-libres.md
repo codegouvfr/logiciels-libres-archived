@@ -33,9 +33,9 @@ La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action
 
 Les réunions sont privées et ont lieu via [ce lien de visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).
 
-- 11 mars 14h-16h : administrations
-- 8 avril 14h-16h : écosystème
-- 3 juin 14h-16h : tout le conseil
-- 9 septembre 14h-16h : administrations
-- 14 octobre 14h-16h : écosystème
-- 9 décembre : tout le conseil
+- 11 mars 14h-16h : administrations ([.ics](evenements/conseil-logiciels-libres-reunion-administrations-1.ics))
+- 8 avril 14h-16h : écosystème ([.ics](evenements/conseil-logiciels-libres-reunion-ecosysteme-1.ics))
+- 3 juin 14h-16h : tout le conseil ([.ics](evenements/conseil-logiciels-libres-reunion-administrations-ecosysteme-1.ics))
+- 9 septembre 14h-16h : administrations ([.ics](evenements/conseil-logiciels-libres-reunion-administrations-2.ics))
+- 14 octobre 14h-16h : écosystème ([.ics](evenements/conseil-logiciels-libres-reunion-ecosysteme-2.ics))
+- 9 décembre : tout le conseil ([.ics](evenements/conseil-logiciels-libres-reunion-administrations-ecosysteme-2.ics))

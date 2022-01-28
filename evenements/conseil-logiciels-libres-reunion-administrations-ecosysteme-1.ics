@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20220126T141244Z
+UID:20b53d9b-3cda-4301-8378-89ec4e3d9799
+DTSTART;TZID=Europe/Paris:20220603T140000
+DTEND;TZID=Europe/Paris:20220603T160000
+SUMMARY:Conseil logiciels libres : réunion administrations et écosystème (1
+ /2)
+DESCRIPTION:Lien de visi
+ oconférence :\n<https://webinaire.numerique.gouv.fr//meeting/signin/362/cr
+ eator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>\n\nPage de docume
+ ntation sur le conseil :\n<https://man.sr.ht/~etalab/logiciels-libres/cons
+ eil-logiciels-libres.md>
+CATEGORIES:RTL
+END:VEVENT
+END:VCALENDAR
