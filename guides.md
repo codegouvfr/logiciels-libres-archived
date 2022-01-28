@@ -5,8 +5,7 @@ toc: false
 
 # Guides pour la publication de logiciels libres
 
-- publiccode.yml: pourquoi et comment ajouter ce fichier dans vos
-  dépôts
+- publiccode.yml: pourquoi et comment ajouter ce fichier dans vos dépôts
 - Choisir une forge pour publier son code source
 - Stimuler des contributions pour votre logiciel libre
 - Publier les codes sources d'un projet longtemps resté fermé

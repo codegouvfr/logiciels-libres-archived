@@ -39,7 +39,7 @@ Nous répondons à tous les emails reçus :
 
 Nous ne répondons pas systématiquement aux sollicitations sur les réseaux sociaux.
 
-## Nos engagements au sein du pôle :
+## Nos engagements au sein du pôle
 
 - Culture produit : nous articulons tout ce que nous faisons autour de *produits* (logiciels, services en ligne, ressources).  Ceux-ci servent notre mission et reflètent nos engagements.
 - *No blame culture*" : nous nous concentrons sur les problèmes, pas les personnes.
