@@ -15,7 +15,7 @@ La priorité est donnée aux sujets de publication des codes sources et à l'ent
 
 Les réunions de ce groupe ont lieu en 2022 via [ce lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) à ces dates/heures :
 
-- 4 mars 11h-12h30
+- 11 mars 11h-12h30
 - 6 mai 11h-12h30
 - 1 juillet 11h-12h30
 - 1 septembre 11h-12h30
