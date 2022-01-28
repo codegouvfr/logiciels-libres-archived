@@ -15,4 +15,3 @@ toc: true
 - La [gazette BlueHats](https://communs.numerique.gouv.fr/gazette/)
 - Les [ateliers BlueHats](https://communs.numerique.gouv.fr/bluehats/ateliers/)
 - Les [guides](guides.md) du pôle logiciels libres
-- [Ce wiki](https://man.sr.ht/~etalab/logiciels-libres/)
