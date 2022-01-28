@@ -37,6 +37,10 @@ liées au logiciel libre (utilisation et ouverture).
 
 Voir la [page dédiée](offre-de-services.md).
 
+# Comment suivre les activités du pôle logiciels libres ?
+
+Voici la [page dédiée](veille.md) aux ressources pour organiser votre veille.
+
 # Groupe de travail logiciels libres au sein du réseau des AMDAC
 
 La DINUM anime un groupe de travail logiciels libres pour les administrateurs ministériels des données, des algorithmes et des codes sources.
