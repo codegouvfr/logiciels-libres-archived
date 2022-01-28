@@ -15,15 +15,34 @@ Il **anime** le conseil d'expertise et de mobilisation logiciels libres, qui ré
 
 # Engagements
 
-Nos engagements envers nos interlocuteurs :
+## Nos engagements envers nos interlocuteurs
 
+Nos interlocuteurs prioritaires sont :
+
+- les administrations centrales
+- les autres organismes publics
+- les acteurs de l'écosystème du logiciel libre, nationaux et internationaux
+- les citoyens français
+
+Nous engagements vis-à-vis des ces interlocuteurs sont :
+
+- Publier sous licence libre
+- Utiliser des logiciels libres
 - Documenter ce que nous faisons
 - Encourager et traiter les contributions
-- Répondre à tous les messages reçus
 
-Nos engagements au sein du pôle :
+Nous répondons à tous les emails reçus :
 
-- "No blame culture": nous nous concentrons sur les problèmes, pas les personnes.
+- sur `logiciels-libres@data.gouv.fr`
+- sur `~etalab/logiciels-libres@lists.sr.ht`
+- sur `~etalab/codegouvfr-devel@lists.sr.ht`
+
+Nous ne répondons pas systématiquement aux sollicitations sur les réseaux sociaux.
+
+## Nos engagements au sein du pôle :
+
+- Culture produit : nous articulons tout ce que nous faisons autour de *produits* (logiciels, services en ligne, ressources).  Ceux-ci servent notre mission et reflètent nos engagements.
+- *No blame culture*" : nous nous concentrons sur les problèmes, pas les personnes.
 - "20% libre": chaque membre peut consacrer 20% de son temps à un projet de logiciel ou de connaissance libre.
 
 # Nos rituels
