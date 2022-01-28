@@ -18,7 +18,7 @@ Voir la [page dédiée](pole-logiciels-libres-mission-engagements-rituels.md).
 # Les partenariats DINUM portés par le pôle logiciels libres
 
 - Partenariat avec l'ADULLACT ([PDF](docs/Convention_Adullact-Dinum-2022.pdf))
-- Partenariat avec l'école CentraleSupélec
+- Partenariat avec l'école CentraleSupélec pour le BlueHats Semester of Code ([PDF](docs/Convention_CentraleSupelec-Dinum-2021.pdf))
 
 # Les produits du pôle logiciels libres
 
