@@ -14,7 +14,7 @@ Pour suivre les contributions du pôle logiciels libres au mouvement [BlueHats](
 
 Pour connaître les nouveaux logiciels libres recommandés pour et développés par le secteur public :
 
-- Vous abonner [au flux RSS des mises à jour du SILL (socle interministériel de logiciels libres)](https://sill.etalab.gouv.fr/updates.xml) pour suivre les logiciels libres recommandés
+- Vous abonner [au flux RSS des mises à jour du SILL (socle interministériel de logiciels libres)](https://sill.etalab.gouv.fr/updates.xml), notamment pour connaître les nouveaux logiciels libres recommandés
 - Vous abonner [au flux RSS des nouveaux dépôts de code.gouv.fr](https://code.gouv.fr/data/latest.xml)
 
 Pour suivre les calendrier des réunions des groupes de travail internes :
