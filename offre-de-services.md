@@ -36,7 +36,7 @@ Vous pouvez aussi, en tant qu'acteur privé ou public, vous créer un compte sur
 
 ## Sur le socle interministériel de logiciels libres (SILL)
 
-Pour toute question concernant le SILL, écrivez à `logiciels-libres@data.gouv.fr`.
+Pour toute question concernant le SILL, écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
 Les questions courantes sont :
 
@@ -65,7 +65,7 @@ Les questions courantes sont :
 - Dois-je exiger la cession de la propriété intellectuelle sur les codes sources spécifiques qui seront développés dans le marché ?
 - Dois-je préciser sous quelle licence libre je souhaite publier les développements spécifiques faits dans le cadre du marché ?
 
-N'hésitez pas à écrire à `logiciels-libres@data.gouv.fr` pour toutes ces questions.
+N'hésitez pas à écrire à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr) pour toutes ces questions.
 
 # Accompagnement stratégique
 
@@ -75,7 +75,7 @@ Cet accompagnement peut se faire par écrit, par rendez-vous ou via le [groupe d
 
 Si vous êtes *décideur pour l'utilisation et/ou le développement de logiciels dans un organisme public*, nous pouvons aussi vous aider par écrit ou par rendez-vous à définir et mettre en oeuvre une stratégie de publication et d'utilisation pour votre établissement.
 
-Pour un premier contact, écrivez à `logiciels-libres@data.gouv.fr`.
+Pour un premier contact, écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
 # Culture générale
 
