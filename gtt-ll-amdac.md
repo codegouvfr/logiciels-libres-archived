@@ -21,6 +21,8 @@ Les réunions de ce groupe ont lieu en 2022 via [ce lien de visio](https://webin
 - 1 septembre 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-4-sur-5.ics))
 - 3 novembre 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-5-sur-5.ics))
 
+Vous pouvez télécharger le [calendrier .ics](/evenements/rdv-gtt-ll.ics) de toutes les réunions.
+
 # Suivi des ouvertures de codes sources
 
 Consultez le tableau de suivi des ouvertures de code source via [ouverture.data.gouv.fr](https://ouverture.data.gouv.fr. "Tableau de suivi des ouvertures de code source - Lien externe").
