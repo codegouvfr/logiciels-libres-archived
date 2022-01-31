@@ -19,8 +19,8 @@ Pour connaître les nouveaux logiciels libres recommandés pour et développés 
 
 Pour suivre les calendrier des réunions des groupes de travail internes :
 
-- [Calendrier .ics pour le groupe de travail logiciels libres](/evenements/rdv-gtt-ll.ics) du réseau des AMDAC
-- [Calendrier .ics pour le conseil](/evenements/rdv-conseil-logiciels-libres.ics) d'expertise et de mobilisation logiciels libres
+- [Calendrier .ics pour le groupe de travail logiciels libres](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-gtt-ll.ics) du réseau des AMDAC
+- [Calendrier .ics pour le conseil](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-conseil-logiciels-libres.ics) d'expertise et de mobilisation logiciels libres
 
 Pour suivre les dépôts de codes sources du pôle logiciels libres :
 

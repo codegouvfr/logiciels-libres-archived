@@ -33,7 +33,7 @@ La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action
 
 Les réunions sont privées et ont lieu via [ce lien de visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).
 
-Vous pouvez télécharger le [calendrier .ics](/evenements/rdv-conseil-logiciels-libres.ics) de toutes les réunions.
+Vous pouvez télécharger le [calendrier .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-conseil-logiciels-libres.ics) de toutes les réunions.
 
 - 11 mars 14h-16h : administrations ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-1.ics))
 - 8 avril 14h-16h : écosystème ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-ecosysteme-1.ics))

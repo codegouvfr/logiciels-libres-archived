@@ -15,7 +15,7 @@ La priorité est donnée aux sujets de publication des codes sources et à l'ent
 
 Les réunions de ce groupe ont lieu en 2022 via [ce lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).
 
-Vous pouvez télécharger le [calendrier .ics](/evenements/rdv-gtt-ll.ics) de toutes les réunions.
+Vous pouvez télécharger le [calendrier .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-gtt-ll.ics) de toutes les réunions.
 
 - 11 mars 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-1-sur-5.ics))
 - 6 mai 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2-sur-5.ics))

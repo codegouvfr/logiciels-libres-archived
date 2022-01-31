@@ -66,7 +66,7 @@ Chaque agent public est invité à proposer un atelier BlueHats en [nous
 
 Voir le [dépôt dédié](https://github.com/blue-hats/ateliers/blob/main/ateliers.org).
 
-Télécharger [le calendrier des ateliers BlueHats au format .ics](/evenements/ateliers-bluehats.ics).
+Télécharger [le calendrier des ateliers BlueHats au format .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
 
 # Présentation du programme "BlueHats Semester of Code"
 
