@@ -57,6 +57,17 @@ Voir la [page dédiée](conseil-logiciels-libres.md).
 
 Voir la [page dédiée](guides.md).
 
+# Présentation des ateliers BlueHats animés par le pôle
+
+Les [ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/) animés par le pôle logiciels libres permettent de découvrir des solutions libres déployées dans des administrations.
+
+Chaque agent public est invité à proposer un atelier BlueHats en [nous
+écrivant](mailto:logiciels-libres@data.gouv.fr).
+
+Voir le [dépôt dédié](https://github.com/blue-hats/ateliers/blob/main/ateliers.org).
+
+Télécharger [le calendrier des ateliers BlueHats au format .ics](/evenements/ateliers-bluehats.ics).
+
 # Présentation du programme "BlueHats Semester of Code"
 
 `BlueHats Semester of Code` est un programme de stages de 6 mois permettant de contribuer à des logiciels libres utilisés dans les administrations.  Il est destiné aux étudiants de CentraleSupélec de 2ème année en césure.
