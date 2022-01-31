@@ -17,6 +17,11 @@ Pour connaître les nouveaux logiciels libres recommandés pour et développés 
 - Vous abonner [au flux RSS des mises à jour du SILL (socle interministériel de logiciels libres)](https://sill.etalab.gouv.fr/updates.xml) pour suivre les logiciels libres recommandés
 - Vous abonner [au flux RSS des nouveaux dépôts de code.gouv.fr](https://code.gouv.fr/data/latest.xml)
 
+Pour suivre les calendrier des réunions des groupes de travail internes :
+
+- [Calendrier .ics pour le groupe de travail logiciels libres](/evenements/rdv-gtt-ll.ics) du réseau des AMDAC
+- [Calendrier .ics pour le conseil](/evenements/rdv-conseil-logiciels-libres.ics) d'expertise et de mobilisation logiciels libres
+
 Pour suivre les dépôts de codes sources du pôle logiciels libres :
 
 - Suivre [les développements du projet logiciels-libres](https://sr.ht/~etalab/logiciels-libres/feed)
