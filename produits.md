@@ -17,7 +17,7 @@ Les produits peuvent être des sites web, des ressources, des logiciels.
 - [code.gouv.fr](https://code.gouv.fr): le site pour trouver des codes sources publiés par les administrations.
 - [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr): le site pour trouver des logiciels libres recommandés aux administrations.
 - La [gazette BlueHats](https://communs.numerique.gouv.fr/gazette/)
-- Les [ateliers BlueHats](https://communs.numerique.gouv.fr/bluehats/ateliers/)
+- Les [ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/)
 - Les [guides](guides.md) du pôle logiciels libres
 
 # Logiciels
