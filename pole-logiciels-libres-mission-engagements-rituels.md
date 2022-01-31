@@ -41,9 +41,10 @@ Nous ne répondons pas systématiquement aux sollicitations sur les réseaux soc
 
 ## Nos engagements au sein du pôle
 
-- Culture produit : nous articulons tout ce que nous faisons autour de *produits* (logiciels, services en ligne, ressources).  Ceux-ci servent notre mission et reflètent nos engagements.
-- *No blame culture*" : nous nous concentrons sur les problèmes, pas les personnes.
-- "20% libre": chaque membre peut consacrer 20% de son temps à un projet de logiciel ou de connaissance libre.
+- *Culture produit* : Nous articulons tout ce que nous faisons autour de *produits* (logiciels, services en ligne, ressources), lesquels servent notre mission et reflètent nos engagements.
+- *Free software first* : Nous publions dès le premier commit le plus de nos codes sources possible et nous utilisons le plus possible de logiciels libres.
+- *No blame culture* : Nous nous concentrons sur les problèmes, pas les personnes.
+- *20% libre* : Chaque membre peut consacrer 20% de son temps à un projet de logiciel ou de connaissance libre.
 
 # Nos rituels
 
