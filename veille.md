@@ -6,18 +6,18 @@ toc: true
 Pour des informations générales :
 
 - Vous abonner au compte Twitter [@codegouvfr](https://twitter.com/codegouvfr)
-- Recevoir la gazette BlueHats par courriel : [lien d'inscription](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
+- Recevoir les annonces d'[ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/) et la [gazette BlueHats](https://communs.numerique.gouv.fr/gazette/) par courriel : [lien d'inscription](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
 
 Pour suivre les contributions du pôle logiciels libres au mouvement [BlueHats](https://communs.numerique.gouv.fr/bluehats/) :
 
-- Vous abonner [au flux RSS des mises à jour "BlueHats"](https://communs.numerique.gouv.fr/feed/feed.xml) du site `communs.numerique.gouv.fr`, vous informant des nouvelles gazettes et des nouveaux ateliers
+- Vous abonner [au flux RSS des mises à jour "BlueHats"](https://communs.numerique.gouv.fr/feed/feed.xml) du site `communs.numerique.gouv.fr`, vous informant des gazettes parues et des ateliers ayant eu lieu
 
-Pour suivre l'évolution des nouveaux logiciels libres recommandés pour et développés par le secteur public :
+Pour connaître les nouveaux logiciels libres recommandés pour et développés par le secteur public :
 
 - Vous abonner [au flux RSS des mises à jour du SILL (socle interministériel de logiciels libres)](https://sill.etalab.gouv.fr/updates.xml) pour suivre les logiciels libres recommandés
 - Vous abonner [au flux RSS des nouveaux dépôts de code.gouv.fr](https://code.gouv.fr/data/latest.xml)
 
-Pour suivre nos développements de codes sources :
+Pour suivre les dépôts de codes sources du pôle logiciels libres :
 
 - Suivre [les développements du projet logiciels-libres](https://sr.ht/~etalab/logiciels-libres/feed)
 - Suivre [les développements du projet code.gouv.fr](https://sr.ht/~etalab/code.gouv.fr/feed)
