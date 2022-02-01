@@ -92,7 +92,9 @@ Voir la [page dédiée](espaces-communication-bluehats.md).
 
 # Rapports mensuels du pôle logiciels libres
 
-- [Janvier 2022](2022/rapport-janvier.md)
+- [Année 2021](2021/rapport.md)
+- [Janvier 2022](2022/01.md)
+- [Février 2022](2022/02.md)
 
 # Ressources (glossaire, interventions, liens externes, etc.)
 
