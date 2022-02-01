@@ -90,7 +90,7 @@ Les BlueHats sont toutes les personnes qui souhaitent montrer qu'elles contribue
 
 Voir la [page dédiée](espaces-communication-bluehats.md).
 
-# Rapports mensuels du pôle logiciels libres
+# Rapports du pôle logiciels libres
 
 - [Année 2021](2021/rapport.md)
 - [Janvier 2022](2022/01.md)
