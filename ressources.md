@@ -5,6 +5,8 @@ toc: false
 
 # Intervention du pôle logiciels libres en français
 
+- [Intervention lors du wébinaire de la mission LABEL (DINUM)](https://speakerdeck.com/bluehats/de-lexpression-de-besoin-au-deploiement-et-a-la-maintenance-les-etapes-clefs-de-lappropriation-des-solutions-libres) : De l'expression de besoin au déploiement et à la maintenance : les étapes clefs de l'appropriation des solutions libres.  1er février 2022.
+
 - [Intervention radio](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres) de Sabine Guillaume (DINUM, mission LABEL) et Bastien Guerry (DINUM, pôle logiciels libres d'Etalab) lors de l'émission « Libre à vous ! » du 14 décembre 2021, animée par l'APRIL.
   
 - [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État 2021 : "Le logiciel libre dans l'État et les réalisations".
