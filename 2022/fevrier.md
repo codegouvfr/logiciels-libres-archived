@@ -1,0 +1,14 @@
+---
+title: Rapports mensuels du pôle logiciel libre d'Etalab
+toc: true
+---
+
+# Utiliser
+# Publier
+# Accompagner
+
+- Présentation dans le cadre des wébinaires de la mission LABEL :
+  « Logiciels libres : des besoins au déploiement »
+
+# Renforcer l'attractivité du secteur public
+# Etalab et vie interne du pôle
