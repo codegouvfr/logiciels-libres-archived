@@ -7,16 +7,16 @@ La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action
 
 # Organismes publics auxquels sont rattachés les participants coté administrations
 
-- ANSSI
+- AMUE
 - ANCT
-- DGFIP
+- ANSSI
 - CNIL
 - DAJ du MEFR
+- DGFIP
+- INRIA
+- MEAE
 - MENJS
 - MESRI
-- AMUE
-- MEAE
-- INRIA
 
 # Membres de l'écosystème logiciels libres
 
@@ -25,6 +25,7 @@ La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action
 - [CNLL](https://cnll.fr/)
 - [Code for France](https://codefor.fr/)
 - [Eclipse Foundation](https://www.eclipse.org/org/foundation/)
+- [Hub Open Source - Systematic Paris Region](https://systematic-paris-region.org/hubs-enjeux/hub-open-source/)
 - [Mozilla](https://www.mozilla.org)
 - [OW2](https://www.ow2.org)
 - [TOSIT](https://tosit.fr)
