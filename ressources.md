@@ -50,4 +50,4 @@ Vous pouvez [retrouver en ligne nos présentations](https://speakerdeck.com/blue
 
 - [Revue de littérature à l'international](https://iasc-commons.org/key-publications/) par l'*International Association for the Studies of the Commons*
 
-
+- [Vers une République des biens communs ?](https://www.colloque-tv.com/colloques/vers-une-republique-des-biens-communs), Centre Culturel International de Cerisy, 2016.
