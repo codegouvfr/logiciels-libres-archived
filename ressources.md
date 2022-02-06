@@ -5,21 +5,29 @@ toc: false
 
 # Intervention du pôle logiciels libres en français
 
-- [Intervention lors du wébinaire de la mission LABEL (DINUM)](https://speakerdeck.com/bluehats/de-lexpression-de-besoin-au-deploiement-et-a-la-maintenance-les-etapes-clefs-de-lappropriation-des-solutions-libres) : De l'expression de besoin au déploiement et à la maintenance : les étapes clefs de l'appropriation des solutions libres.  1er février 2022.
+- 3 février 2022 : Présentation de la synthèse de ateliers sur les logiciels libres dans la recherche lors des [Rencontres sur les enjeux du logiciel libre dans la recherche](https://www.ouvrirlascience.fr/rencontres-sur-les-enjeux-du-logiciel-libre-dans-la-recherche-ouvrir-et-promouvoir-les-codes-sources-produits-par-la-recherche/).
 
-- [Intervention radio](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres) de Sabine Guillaume (DINUM, mission LABEL) et Bastien Guerry (DINUM, pôle logiciels libres d'Etalab) lors de l'émission « Libre à vous ! » du 14 décembre 2021, animée par l'APRIL.
+- 1er février 2022 : [Intervention lors du wébinaire de la mission LABEL (DINUM)](https://speakerdeck.com/bluehats/de-lexpression-de-besoin-au-deploiement-et-a-la-maintenance-les-etapes-clefs-de-lappropriation-des-solutions-libres) : De l'expression de besoin au déploiement et à la maintenance : les étapes clefs de l'appropriation des solutions libres.
+
+- 14 décembre 2021 : [Intervention radio](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres) de Sabine Guillaume (DINUM, mission LABEL) et Bastien Guerry (DINUM, pôle logiciels libres d'Etalab) lors de l'émission « Libre à vous ! », animée par l'APRIL.
   
-- [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État 2021 : "Le logiciel libre dans l'État et les réalisations".
+- 1er décembre 2021 : [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État 2021 : "Le logiciel libre dans l'État et les réalisations".
 
-- [Conférence-débat](https://video.finances.gouv.fr/amd.html) « Open source et traitement des données, un modèle viable ? » au Ministère de l'Économie, des Finances et de la Relance.  21 octobre 2021.
+- 21 octobre 2021 : [Conférence-débat](https://video.finances.gouv.fr/amd.html) « Open source et traitement des données, un modèle viable ? » au Ministère de l'Économie, des Finances et de la Relance.  
 
-- [Intervention vidéo](https://www.dailymotion.com/video/x7xqldm) de Bastien Guerry (DINUM) et Matthieu Faure (Adullact) lors du Forum de l'Emploi Tech de l'État 2020 : "Le logiciel libre dans l'État et les réalisations".
+- 9 décembre 2020 : [Intervention vidéo](https://www.dailymotion.com/video/x7xqldm) de Bastien Guerry (DINUM) et Matthieu Faure (Adullact) lors du Forum de l'Emploi Tech de l'État 2020 : "Le logiciel libre dans l'État et les réalisations".
 
-- [Intervention radio](https://www.libreavous.org/33-dinsic-ziklibrenbib-irfm-et-parcoursup) de Xavier Béchade (DINSIC/Tchap) et Bastien Guerry (DINSIC/Etalab) lors de l'émission « Libre à vous ! » du 9 juillet 2019, animée par l'APRIL.
+- 9 juillet 2019 : [Intervention radio](https://www.libreavous.org/33-dinsic-ziklibrenbib-irfm-et-parcoursup) de Xavier Béchade (DINSIC/Tchap) et Bastien Guerry (DINSIC/Etalab) lors de l'émission « Libre à vous ! », animée par l'APRIL.
 
-# Interventions Intervention du pôle logiciels libres en anglais
+# Intervention du pôle logiciels libres en anglais
 
-- Participation à la [DigitALL Public conference (Avril 2021)](https://hadea.ec.europa.eu/events/digitall-public-conference_fr) : [The role of open source in the public sector](https://digitallpublic.app.swapcard.com/event/digitall-public/planning/UGxhbm5pbmdfMzUzNTA3) ([vidéo](https://youtu.be/QgvossmO240)).
+- 6 février 2021 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/9000_public_code_repositories/) : We listed +9000 public code repositories. Now what? How to build valuable services on top of fragile assets.
+
+- 5 février 2021 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/open_research_french_ecosystem/) : What is special about open source research software and why does it matters? Reporting about progresses and challenges from the French ecosystem.
+
+- 4 février : Participation au panel "Building Public Sector Capacity: Open Source and Digital Sovereignty" lors du [EU Open Source Policy Summit](https://summit.openforumeurope.org)
+
+- Avril 2021 : Participation à la [DigitALL Public conference](https://hadea.ec.europa.eu/events/digitall-public-conference_fr) : [The role of open source in the public sector](https://digitallpublic.app.swapcard.com/event/digitall-public/planning/UGxhbm5pbmdfMzUzNTA3) ([vidéo](https://youtu.be/QgvossmO240)).
 
 # Présentations/diaporamas en ligne
 
@@ -27,13 +35,13 @@ Vous pouvez [retrouver en ligne nos présentations](https://speakerdeck.com/blue
 
 # Ressources pour l'enseignement supérieur, la recherche et l'innovation
 
-- *Je code : quels sont mes droits ? Quelles sont mes obligations ?*  2019.  Télécharger [l'article sur HAL](https://hal.archives-ouvertes.fr/hal-02399517).
+- *Je code : quels sont mes droits ? Quelles sont mes obligations ?*  2019.  Télécharger [l'article sur HAL](https://hal.archives-ouvertes.fr/hal-02399517).
 
 - *Note d’opportunité sur la valorisation des logiciels issus de la recherche* 2020.  Lire sur [ouvrirlascience.fr](https://www.ouvrirlascience.fr/note-dopportunite-sur-la-valorisation-des-logiciels-issus-de-la-recherche/).
 
 - *Encouraging a wider usage of software derived from research: Opportunity Note* 2020.  Télécharger [l'article sur HAL](https://hal.archives-ouvertes.fr/hal-02545142).
 
-- Le numéro de février 2021 de la revue « La collection numérique » de l'AMUE : « [Vive le numérique libre](https://www.amue.fr/presentation/articles/article/la-collection-numerique-parlons-libre/) » ([PDF](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N__13_-_Vive_le_Numerique_libre__fevrier_2021_.pdf)).
+- Le numéro de février 2021 de la revue « La collection numérique » de l'AMUE : « [Vive le numérique libre](https://www.amue.fr/presentation/articles/article/la-collection-numerique-parlons-libre/) » ([PDF](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N__13_-_Vive_le_Numerique_libre__fevrier_2021_.pdf)).
 
 # Éléments bibliographiques sur les communs
 
