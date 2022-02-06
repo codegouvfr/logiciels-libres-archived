@@ -13,6 +13,8 @@ toc: false
   
 - 1er décembre 2021 : [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État 2021 : "Le logiciel libre dans l'État et les réalisations".
 
+- 30 novembre 2021 : [Intervention vidéo](https://www.youtube.com/watch?v=LocTNyTT4Sw) lors du [5ème anniversaire de Software Heritage à l'Unesco](https://www.softwareheritage.org/news/events/swh5years/).
+
 - 21 octobre 2021 : [Conférence-débat](https://video.finances.gouv.fr/amd.html) « Open source et traitement des données, un modèle viable ? » au Ministère de l'Économie, des Finances et de la Relance.  
 
 - 9 décembre 2020 : [Intervention vidéo](https://www.dailymotion.com/video/x7xqldm) de Bastien Guerry (DINUM) et Matthieu Faure (Adullact) lors du Forum de l'Emploi Tech de l'État 2020 : "Le logiciel libre dans l'État et les réalisations".
