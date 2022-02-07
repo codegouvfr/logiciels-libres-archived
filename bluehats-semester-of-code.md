@@ -17,7 +17,9 @@ Les élèves stagiaires auront la possibilité d'être accueillis sur place à l
 
 **Gratification** : La DINUM subventionne Centralesupélec qui prend en charge la gratification de stage au montant légal.
 
-**Accueil physique** : La DINUM accueille les stagiaires physiquement via des conventions d'accueil signées avec CentraleSupélec pour chaque stagiaire.
+**Accueil physique** : La DINUM accueille les stagiaires physiquement via des conventions d'accueil signées pour chaque stagiaire.
+
+**Promo BlueHats** : Les stagiaires sont incités à former une promo pour travailler ensemble, même s'ils contribuent à des projets différents.
 
 **Encadrement** : L'encadrement est assuré par le ou les mentor(s) du projet libre, des enseignants côté Centralesupélec et l'équipe du pôle logiciels libres côté DINUM.
 
