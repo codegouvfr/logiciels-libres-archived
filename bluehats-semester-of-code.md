@@ -27,7 +27,7 @@ Les élèves stagiaires auront la possibilité d'être accueillis sur place à l
 
 Si vous êtes une administration, une entreprise, une association ou une communauté et que vous publiez un logiciel libre pour lequel vous cherchez des contributeurs, vous pouvez proposer une idée de contribution.
 
-Vous pouvez vous inspirer des [premières idées collectées](https://github.com/blue-hats/bluehats-soc) et en cours de consolidation.
+Vous pouvez vous inspirer des [premières idées collectées](https://github.com/blue-hats/bluehats-soc#propositions-de-stage) et en cours de consolidation.
 
 CentraleSupélec et la DINUM sélectionnent les idées de contributions en fonction de l'intérêt du projet et des conditions d'encadrement du stage.
 
