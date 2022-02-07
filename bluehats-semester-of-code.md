@@ -25,9 +25,11 @@ Les élèves stagiaires auront la possibilité d'être accueillis sur place à l
 
 Si vous êtes une administration, une entreprise, une association ou une communauté et que vous publiez un logiciel libre pour lequel vous cherchez des contributeurs, vous pouvez proposer une idée de contribution.
 
+Vous pouvez vous inspirer des [premières idées collectées](https://github.com/blue-hats/bluehats-soc) et en cours de consolidation.
+
 CentraleSupélec et la DINUM sélectionnent les idées de contributions en fonction de l'intérêt du projet et des conditions d'encadrement du stage.
 
-La proposition que vous nous enverrez peut évoluer jusqu'au 15 mars.
+La proposition que vous nous enverrez peut évoluer *jusqu'au 15 mars*.
 
 ## Les engagements des porteurs de projets
 
@@ -49,11 +51,15 @@ Au bout de trois mois, selon la façon dont le stage se passe, Centralesupélec 
 
 ## Les engagements des stagiaires
 
+En tant que stagiaires, vous formez en 2022 la 1ère « promotion BlueHats ».
+
+Vous vous engagez à respecter les conventions d'accueil signées avec la DINUM, notamment pour le télétravail.
+
 Vous vous rendez disponibles pour l'encadrement proposé par les mentors, celui des enseignants de Centralesupélec et celui du pôle logiciels libres de la DINUM.
 
-Vous n'avez pas d'obligation en terme de production de livrables.
-
 Vous nous envoyez tous les mois une note écrite pour résumer vos contributions.
+
+Vous n'avez pas d'obligation en terme de production de livrables.
 
 Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager de vous faire contribuer à un autre projet, selon vos compétences et vos envies.
 
