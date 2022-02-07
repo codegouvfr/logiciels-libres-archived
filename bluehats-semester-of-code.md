@@ -29,7 +29,7 @@ Vous pouvez vous inspirer des [premières idées collectées](https://github.com
 
 CentraleSupélec et la DINUM sélectionnent les idées de contributions en fonction de l'intérêt du projet et des conditions d'encadrement du stage.
 
-La proposition que vous nous enverrez peut évoluer *jusqu'au 15 mars*.
+La proposition que vous nous enverrez peut évoluer *jusqu'au 6 mars*.
 
 ## Les engagements des porteurs de projets
 
@@ -67,11 +67,11 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 
 - **15 mars au 15 mai 2022** : Recrutement des étudiants sur entretien DINUM/CentraleSupélec.
 - **8 mars 2022** : Publication des projets sélectionnés.
-- **4 mars 2022** Visioconférence d'information pour les enseignants/encadrants.
-- **18 février 2022** Visioconférence d'information pour les communautés de logiciels libres.
-- **11 février 2022** Visioconférence d'information pour les étudiants intéressés.
-- **Du 7 février au 6 mars 2022**: Sélection et construction des projets de stages.
-- **7 février 2022**: Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
+- **4 mars 2022** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les enseignants/encadrants.
+- **18 février 2022** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les communautés de logiciels libres.
+- **11 février 2022 à 17h** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les étudiants intéressés.
+- **Du 7 février au 6 mars 2022** : Sélection et construction des projets de stages.
+- **8 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
 
 # Projets inspirants à l'international
 
