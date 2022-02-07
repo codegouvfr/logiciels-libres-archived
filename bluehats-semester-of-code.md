@@ -5,21 +5,57 @@ toc: true
 
 # Présentation
 
-`BlueHats Semester of Code` est un programme de stages de 6 mois permettant de contribuer à des logiciels libres utilisés dans les administrations.  Il est destiné aux étudiants de CentraleSupélec de 2ème année en césure.
+`BlueHats Semester of Code` est un programme de stages permettant à des étudiantes et étudiants de contribuer à des logiciels libres.
 
-Ce programme est le fruit d'un partenariat entre l'école CentraleSupélec et la direction interministérielle du numérique, qui contribue au mouvement BlueHats dans le cadre du plan d'action logiciels libres et communs numériques de l'Etat. Les élèves stagiaires auront la possibilité d'être accueillis sur place à la DINUM (20 avenue de Ségur, 75007, Paris.)
+L'édition 2022 est le fruit d'un partenariat entre l'école CentraleSupélec et la DINUM ; elle destinée aux étudiants de CentraleSupélec en année césure après leur 2ème d'école.
 
-# Les premières propositions de contributions
+Les élèves stagiaires auront la possibilité d'être accueillis sur place à la DINUM, au 20 avenue de Ségur, 75007, Paris.
 
-Les [premières propositions](https://github.com/blue-hats/bluehats-soc) de contributions n'ont pas trouvé de stagiaires.
+# Comment ça marche ?
 
-Nous travaillons actuellement pour solliciter de nouveaux sujets de stages auprès de l'administration et des communautés de logiciels libres.
+**Durée** : Les stages durent six mois, du 1er septembre au 28 février 2023.
 
-# Modalités
+**Gratification** : La DINUM subventionne Centralesupélec qui prend en charge la gratification de stage au montant légal.
 
-Les stages auront lieu du 1er septembre 2022 à fin février 2023.
+**Accueil physique** : La DINUM accueille les stagiaires physiquement via des conventions d'accueil signées avec CentraleSupélec pour chaque stagiaire.
 
-La gratification des étudiants correspond à la gratification légale et elle est prise en charge par la DINUM dans le cadre de son partenariat avec CentraleSupélec.
+**Encadrement** : L'encadrement est assuré par le ou les mentor(s) du projet libre, des enseignants côté Centralesupélec et l'équipe du pôle logiciels libres côté DINUM.
+
+## Phase de proposition et de sélection des projets
+
+Si vous êtes une administration, une entreprise, une association ou une communauté et que vous publiez un logiciel libre pour lequel vous cherchez des contributeurs, vous pouvez proposer une idée de contribution.
+
+CentraleSupélec et la DINUM sélectionnent les idées de contributions en fonction de l'intérêt du projet et des conditions d'encadrement du stage.
+
+La proposition que vous nous enverrez peut évoluer jusqu'au 15 mars.
+
+## Les engagements des porteurs de projets
+
+Que vous soyez une administration, une entreprise, une association ou une communauté, vous n'avez pas d'autres engagements que d'encadrer et stimuler les contributions du stagiaire (voir ci-dessous les engagements des mentors).
+
+Vous n'avez pas à gérer la gratification de stage ni à signer quoi que ce soit avec la DINUM ou Centralesupélec.
+
+Vous n'avez pas à accueillir le stagiaire dans des locaux.
+
+## Les engagements des mentors
+
+Vous vous assurez que le stagiaire apprend à contribuer à votre projet et progresse.
+
+Vous nous alertez si le stage ne se passe pas comme vous l'espérez.
+
+Vous nous envoyez une note écrite tous les mois pour résumer les contributions du stagiaire.
+
+Au bout de trois mois, selon la façon dont le stage se passe, Centralesupélec et la DINUM se réservent la possibilité de proposer à l'étudiant de contribuer sur un autre projet.
+
+## Les engagements des stagiaires
+
+Vous vous rendez disponibles pour l'encadrement proposé par les mentors, celui des enseignants de Centralesupélec et celui du pôle logiciels libres de la DINUM.
+
+Vous n'avez pas d'obligation en terme de production de livrables.
+
+Vous nous envoyez tous les mois une note écrite pour résumer vos contributions.
+
+Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager de vous faire contribuer à un autre projet, selon vos compétences et vos envies.
 
 # Calendrier
 
