@@ -5,7 +5,7 @@ toc: true
 
 # Présentation
 
-Les licences listées sur cette page correspondent aux licences reconnues libres *à la fois* par la Free Software Foundation et l'Open Source Initiative, à l'exception de quatre licences CeCILL (reconnues soit par la FSF soit par l'OSI).
+Les licences listées sur cette page correspondent aux licences reconnues libres *à la fois* par la Free Software Foundation et l'Open Source Initiative, à l'exception de quelques licences CeCILL (reconnues soit par la FSF soit par l'OSI).
 
 Nous nous sommes appuyés sur https://spdx.org/licenses/ pour la constituer.
 
