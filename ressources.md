@@ -23,9 +23,9 @@ toc: false
 
 # Intervention du pôle logiciels libres en anglais
 
-- 6 février 2021 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/9000_public_code_repositories/) : We listed +9000 public code repositories. Now what? How to build valuable services on top of fragile assets.
+- 6 février 2021 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/9000_public_code_repositories/) : We listed +9000 public code repositories. Now what? How to build valuable services on top of fragile assets.  [Watch the video](https://dai.ly/x87r20r).
 
-- 5 février 2021 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/open_research_french_ecosystem/) : What is special about open source research software and why does it matters? Reporting about progresses and challenges from the French ecosystem.
+- 5 février 2021 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/open_research_french_ecosystem/) : What is special about open source research software and why does it matters? Reporting about progresses and challenges from the French ecosystem.  [Watch the video](https://dai.ly/x87r1wo).
 
 - 4 février : Participation au panel "Building Public Sector Capacity: Open Source and Digital Sovereignty" lors du [EU Open Source Policy Summit](https://summit.openforumeurope.org)
 
