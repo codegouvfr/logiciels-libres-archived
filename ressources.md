@@ -45,12 +45,18 @@ Vous pouvez [retrouver en ligne nos présentations](https://speakerdeck.com/blue
 
 - Le numéro de février 2021 de la revue « La collection numérique » de l'AMUE : « [Vive le numérique libre](https://www.amue.fr/presentation/articles/article/la-collection-numerique-parlons-libre/) » ([PDF](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N__13_-_Vive_le_Numerique_libre__fevrier_2021_.pdf)).
 
-# Éléments bibliographiques sur les communs
+# Éléments sur les communs
+
+## Sur les communs numériques
+
+- Synthèse [PDF](https://numerique-en-communs.fr/wp-content/uploads/2020/12/synthese-communs.pdf) « Le commun numérique et sa ressource » proposée par la [mission Société Numérique](https://societenumerique.gouv.fr/), janvier 2022.
+
+- [Les communs de l'information, de la connaissance et du numérique](https://contrib.eduscol.education.fr/numerique/dossier/competences/communs-information-connaissance/@@document_whole), contrib.eduscol.education.fr, 2015
+
+## Sur les communs en général
 
 - [Repères pour participer aux communs](http://www.cooperations.infini.fr/spip.php?article9496 "
 "), cooperations.infini.fr, 2018
-
-- [Les communs de l'information, de la connaissance et du numérique](https://contrib.eduscol.education.fr/numerique/dossier/competences/communs-information-connaissance/@@document_whole), contrib.eduscol.education.fr, 2015
 
 - [Pour en savoir plus sur les (biens) communs](https://balises.bpi.fr/pour-en-savoir-plus-sur-les-biens-communs), balises.bpi.fr, 2014
 
