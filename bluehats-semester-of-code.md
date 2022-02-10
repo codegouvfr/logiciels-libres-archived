@@ -31,7 +31,7 @@ Vous pouvez vous inspirer des [premières idées collectées](https://github.com
 
 CentraleSupélec et la DINUM sélectionnent les idées de contributions en fonction de l'intérêt du projet et des conditions d'encadrement du stage.
 
-La proposition que vous nous enverrez peut évoluer *jusqu'au 6 mars*.
+La proposition que vous nous enverrez peut évoluer *jusqu'au 6 mars à 23h59*.
 
 ## Les engagements des porteurs de projets
 
@@ -67,13 +67,16 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 
 # Calendrier
 
-- **8 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
-- **Du 8 février au 6 mars 2022** : Sélection et construction des projets de stages.
+- **10 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
+- **Jusqu'au 6 mars 2022 23h39** : Sélection et construction des projets de stages.
+- **8 mars 2022** : Publication des projets sélectionnés.
+- **Du 15 mars au 15 mai 2022** : Recrutement des étudiants sur entretien DINUM/CentraleSupélec.
+
+# Moments d'information publics
+
 - **18 février 2022** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les communautés de logiciels libres.
 - **23 février 2022 à 17h** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les étudiants intéressés.
 - **4 mars 2022** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les enseignants/encadrants.
-- **8 mars 2022** : Publication des projets sélectionnés.
-- **15 mars au 15 mai 2022** : Recrutement des étudiants sur entretien DINUM/CentraleSupélec.
 
 # Projets inspirants à l'international
 
