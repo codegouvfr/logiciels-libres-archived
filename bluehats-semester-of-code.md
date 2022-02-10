@@ -7,25 +7,27 @@ toc: true
 
 `BlueHats Semester of Code` est un programme de stages permettant à des étudiantes et étudiants de contribuer à des logiciels libres.
 
-L'édition 2022 est le fruit d'un partenariat entre l'école CentraleSupélec et la DINUM.  Le programme s'adresse aux étudiants de CentraleSupélec en année césure après leur 2ème d'école.
+L'édition 2022 est le fruit d'un partenariat entre l'école CentraleSupélec et la DINUM.
 
-Les élèves stagiaires auront la possibilité d'être accueillis sur place à la DINUM, au 20 avenue de Ségur, 75007, Paris.
+Le programme s'adresse aux étudiants de CentraleSupélec en année césure après leur 2ème d'école.
+
+Les élèves stagiaires auront la possibilité d'être accueillis sur place à Etalab (DINUM), au 20 avenue de Ségur, 75007, Paris.
 
 # Comment ça marche ?
 
-**Durée** : Les stages durent six mois, du 1er septembre au 28 février 2023.
+**Durée** : Les stages durent six mois, du 1er septembre 2022 au 28 février 2023.
 
 **Gratification** : La DINUM subventionne Centralesupélec qui prend en charge la gratification de stage au montant légal.
 
-**Accueil physique** : La DINUM accueille les stagiaires physiquement via des conventions d'accueil signées pour chaque stagiaire.
+**Accueil physique** : La DINUM reçoit les stagiaires physiquement via des conventions d'accueil signées pour chaque stagiaire.
 
-**Promo BlueHats** : Les stagiaires sont incités à former une promo pour travailler ensemble, même s'ils contribuent à des projets différents.
+**Promo BlueHats** : Les stagiaires sont incités à former une promotion pour travailler ensemble, même s'ils contribuent à des projets distincts.
 
-**Encadrement** : L'encadrement est assuré par le ou les mentor(s) du projet libre, des enseignants côté Centralesupélec et l'équipe du pôle logiciels libres côté DINUM.
+**Encadrement** : L'encadrement est assuré par le ou les mentor(s) du logiciel libre, des enseignants côté Centralesupélec et l'équipe du pôle logiciels libres côté Etalab.
 
 ## Phase de proposition et de sélection des projets
 
-Si vous êtes une administration, une entreprise, une association ou une communauté et que vous publiez un logiciel libre pour lequel vous cherchez des contributeurs, vous pouvez proposer une idée de contribution.
+Si vous êtes une administration, une entreprise française, une association ou un collectif et que vous publiez un logiciel libre pour lequel vous cherchez des contributeurs, vous pouvez proposer une idée de contribution.
 
 Vous pouvez vous inspirer des [premières idées collectées](https://github.com/blue-hats/bluehats-soc#propositions-de-stage) et en cours de consolidation.
 
