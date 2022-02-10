@@ -74,13 +74,13 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 - **8 mars 2022** : Publication des projets sélectionnés.
 - **Du 15 mars au 15 mai 2022** : Recrutement des étudiants sur entretien DINUM/CentraleSupélec.
 
-# Moments d'information publics
+# Webinaires d'information ouverts à tous
 
 - **18 février 2022** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les communautés de logiciels libres.
 - **23 février 2022 à 17h** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les étudiants intéressés.
 - **4 mars 2022** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les enseignants/encadrants.
 
-# Projets inspirants à l'international
+# Autres projets inspirants à l'international
 
-- [Open Source Research Experience](https://cross.ucsc.edu/news/news/2021_summerstudents.html)
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
+- [Open Source Research Experience](https://cross.ucsc.edu/news/news/2021_summerstudents.html)
