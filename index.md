@@ -90,6 +90,24 @@ Les BlueHats sont toutes les personnes qui souhaitent montrer qu'elles contribue
 
 Voir la [page dédiée](espaces-communication-bluehats.md).
 
+# Logiciels libres auxquels le pôle contribue
+
+Les membres du pôle logiciels libres ont le droit de prendre sur leur temps de travail à hauteur de 20% maximu pour contribuer à des logiciels libres.  Parmi eux:
+
+- https://github.com/InseeFrLab/onyxia-web
+- https://github.com/InseeFrLab/keycloakify
+- https://github.com/InseeFrLab/onyxia-ui
+- https://github.com/garronej/tss-react 
+- https://github.com/garronej/ts-ci
+- https://github.com/garronej/redux-clean-architecture
+- https://github.com/garronej/denoify
+- https://github.com/garronej/evt
+- https://github.com/garronej/tsafe
+- https://github.com/garronej/cra-envs  
+- https://github.com/garronej/powerhooks
+- https://github.com/thieryw/gitlanding
+- https://git.savannah.gnu.org/cgit/emacs/org-mode.git/
+
 # Rapports du pôle logiciels libres
 
 - [Année 2021](2021/rapport.md)
