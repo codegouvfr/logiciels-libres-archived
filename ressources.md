@@ -11,7 +11,7 @@ toc: false
 
 - 14 décembre 2021 : [Intervention radio](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres) de Sabine Guillaume (DINUM, mission LABEL) et Bastien Guerry (DINUM, pôle logiciels libres d'Etalab) lors de l'émission « Libre à vous ! », animée par l'APRIL.
   
-- 1er décembre 2021 : [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État 2021 : "Le logiciel libre dans l'État et les réalisations".  Lire la [transcription](https://wiki.april.org/w/Le_logiciel_libre_dans_l%27%C3%89tat_et_les_r%C3%A9alisations_-_Bastien_Guerry).
+- 1er décembre 2021 : [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État 2021 : "Le logiciel libre dans l'État et les réalisations".  Lire la [transcription](https://www.librealire.org/le-logiciel-libre-dans-l-etat-et-les-realisations).
 
 - 30 novembre 2021 : [Intervention vidéo](https://www.youtube.com/watch?v=LocTNyTT4Sw) lors du [5ème anniversaire de Software Heritage à l'Unesco](https://www.softwareheritage.org/news/events/swh5years/).
 
