@@ -13,7 +13,7 @@ toc: true
 
 L'édition 2022 est le fruit d'un partenariat entre l'école CentraleSupélec et la DINUM.
 
-Le programme s'adresse aux étudiants de CentraleSupélec en année césure après leur 2ème d'école.
+Le programme s'adresse aux étudiants de CentraleSupélec en année césure après leur 2ème année d'école.
 
 Les élèves stagiaires auront la possibilité d'être accueillis sur place à Etalab (DINUM), au 20 avenue de Ségur, 75007, Paris.
 
