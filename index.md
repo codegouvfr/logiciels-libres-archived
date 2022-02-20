@@ -3,7 +3,7 @@ title: Wiki du pôle logiciel libre d'Etalab
 toc: true
 ---
 
-Go to the [english homepage](index.en.md).
+*For resources in english, please check this [page](index.en.md).*
 
 # Présentation de cet espace
 
