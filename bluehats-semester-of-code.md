@@ -37,6 +37,8 @@ Vous pouvez vous inspirer des [premières idées collectées](https://github.com
 
 CentraleSupélec et la DINUM sélectionnent les idées de contributions en fonction de l'intérêt du projet et des conditions d'encadrement du stage.
 
+Nous mettons aussi comme condition que le logiciel soit publié sous l'une des licences libres listées sur [cette page](licences-libres-dinum.md).
+
 La proposition que vous nous enverrez peut évoluer *jusqu'au 6 mars à 23h59*.
 
 ## Les engagements des porteurs de projets
