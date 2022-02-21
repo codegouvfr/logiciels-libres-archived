@@ -49,7 +49,7 @@ Voir la [page dédiée](gtt-ll-amdac.md).
 
 # Conseil d'expertise et de mobilisation logiciels libres
 
-La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action logiciels libres et communs numériques.  Ce conseil vise à favoriser l'entraide entre administrations et l'accès à des services proposés par l'écosystème.
+La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action logiciels libres et communs numériques.  Ce conseil vise à favoriser l'entraide entre administrations et l'accès à des services proposés par l'écosystème logiciels libres.
 
 Voir la [page dédiée](conseil-logiciels-libres.md).
 
