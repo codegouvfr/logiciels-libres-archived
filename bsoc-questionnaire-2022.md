@@ -3,7 +3,7 @@ title: BlueHats Semester of Code - questiionnaire pour les projets
 toc: true
 ---
 
-Cette page présente l'ensemble des questions posées via le [formulaire BlueHats Semester of Code](https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582) via lequel les porteurs d'idées peuvent se manifester avant le 6 mars 2022 à 23h59.
+Cette page présente l'ensemble des questions posées via le [formulaire BlueHats Semester of Code](https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582) via lequel les porteurs d'idées peuvent se manifester avant le 6 mars 2022 à 23h59.  Les entrées marquées d'un astérisque sont obligatoires.
 
 # Votre structure
 
