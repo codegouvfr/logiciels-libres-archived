@@ -1,5 +1,5 @@
 ---
-title: BlueHats Semester of Code - questiionnaire pour les projets
+title: BlueHats Semester of Code - questionnaire pour les projets
 toc: true
 ---
 
