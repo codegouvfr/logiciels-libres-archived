@@ -106,6 +106,9 @@ Les membres du pôle logiciels libres ont le droit de prendre sur leur temps de 
 - https://github.com/garronej/cra-envs  
 - https://github.com/garronej/powerhooks
 - https://github.com/thieryw/gitlanding
+- https://git.sr.ht/~bzg/woof
+- https://git.sr.ht/~bzg/subscribe/
+- https://git.sr.ht/~bzg/choices
 - https://git.savannah.gnu.org/cgit/emacs/org-mode.git/
 
 # Rapports du pôle logiciels libres
