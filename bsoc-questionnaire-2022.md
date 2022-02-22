@@ -40,6 +40,7 @@ Cette page présente l'ensemble des questions posées via le [formulaire BlueHat
 # Le logiciel libre qui fera l'objet de contributions
 
 ## URL de la présentation publique de votre proposition de contribution
+## Nom(s) du ou des logiciel(s) sur le(s)quel(s) le contributeur sera embarqué?
 ## URL vers le dépôt de code source*
 ## Quelle est la licence libre sous laquelle est publié le logiciel?*
 ## Depuis quand existe ce logiciel libre?
@@ -63,6 +64,9 @@ Cette page présente l'ensemble des questions posées via le [formulaire BlueHat
 
 ## Par quel canal échangent les contributeurs?
 ## Quelles sont les compétences exigées pour le stagiaire contributeur?*
+## Sur quoi porteront les contributions?
+
+*Avez-vous déjà une idée de ce sur quoi vous souhaitez que la contribution du stagiaire porte? De nouvelles fonctionnalités? L'amélioration de fonctionnalités existantes? La correction de bugs? La documentation?*
 
 # Votre encadrement
 ## Votre structure*
