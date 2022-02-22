@@ -97,13 +97,13 @@ Les membres du pôle logiciels libres ont le droit de prendre sur leur temps de 
 - https://github.com/InseeFrLab/onyxia-web
 - https://github.com/InseeFrLab/keycloakify
 - https://github.com/InseeFrLab/onyxia-ui
-- https://github.com/garronej/tss-react 
+- https://github.com/garronej/tss-react
 - https://github.com/garronej/ts-ci
 - https://github.com/garronej/redux-clean-architecture
 - https://github.com/garronej/denoify
 - https://github.com/garronej/evt
 - https://github.com/garronej/tsafe
-- https://github.com/garronej/cra-envs  
+- https://github.com/garronej/cra-envs
 - https://github.com/garronej/powerhooks
 - https://github.com/thieryw/gitlanding
 - https://git.sr.ht/~bzg/woof
@@ -141,4 +141,3 @@ Si vous êtes contributeur régulier, vous pouvez demander un accès en écritur
 # Licence des contenus de cet espace
 
 Les contenus de ce dépôt sont publiés sous [licence Ouverte 2.0](LICENSE.md).
-
