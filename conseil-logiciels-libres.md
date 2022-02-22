@@ -17,6 +17,7 @@ La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action
 - MEAE
 - MENJS
 - MESRI
+- Software Heritage
 
 # Membres de l'écosystème logiciels libres
 
