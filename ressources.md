@@ -45,7 +45,9 @@ Vous pouvez [retrouver en ligne nos présentations](https://speakerdeck.com/blue
 
 - *Encouraging a wider usage of software derived from research: Opportunity Note* 2020.  Télécharger [l'article sur HAL](https://hal.archives-ouvertes.fr/hal-02545142).
 
-- Le numéro de février 2021 de la revue « La collection numérique » de l'AMUE : « [Vive le numérique libre](https://www.amue.fr/presentation/articles/article/la-collection-numerique-parlons-libre/) » ([PDF](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N__13_-_Vive_le_Numerique_libre__fevrier_2021_.pdf)).
+- Le n°13 (février 2021) de la revue « La collection numérique » de l'Amue : « [Vive le numérique libre](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N__13_-_Vive_le_Numerique_libre__fevrier_2021_.pdf) ».
+
+- Le n°19 (février 2022) de la revue « La collection numérique » de l'Amue : « [Les veilles](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf) ».
 
 # Éléments sur les communs
 
