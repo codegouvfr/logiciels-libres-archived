@@ -50,10 +50,11 @@ Nous ne répondons pas systématiquement aux sollicitations sur les réseaux soc
 
 # Nos rituels
 
-Nous maintenons une présence publique sur le canal IRC `#bluehats` du serveur `irc.libera.chat` tous les lundi de 16h à 17h.  Si vous n'avez pas de client IRC, vous pouvez [rejoindre le salon de discussion publique via cette interface web](https://web.libera.chat/).
+Nous avons une réunion d'équipe hebdomadaire le vendredi de 16h à 18h.
 
-Nous avons deux réunions d'équipe hebdomadaires : le lundi de 10h30 à 11h et le vendredi de 16h à 17h.
+Chaque membre envoie tous les lundi un mail à `logiciels-libres@data.gouv.fr` faisant le point sur ce qu'il a fait et ce qu'il va faire.
 
 Les membres de l'équipe interviennent tour à tour dans la réunion d'équipe Etalab pour présenter les actualités du pôle.
 
-Chaque membre envoie tous les lundi un mail à `logiciels-libres@data.gouv.fr` faisant le point sur ce qu'il a fait et ce qu'il va faire.
+Nous maintenons une présence publique sur le canal IRC `#bluehats` du serveur `irc.libera.chat` tous les lundi de 16h à 17h.  Si vous n'avez pas de client IRC, vous pouvez [rejoindre le salon de discussion publique via cette interface web](https://web.libera.chat/).
+
