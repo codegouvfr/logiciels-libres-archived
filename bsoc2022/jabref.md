@@ -1,5 +1,5 @@
 ---
-title: BSOC 2022: JabRef
+title: "BSOC 2022: JabRef"
 toc: false
 ---
 

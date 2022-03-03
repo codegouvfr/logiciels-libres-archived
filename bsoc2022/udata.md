@@ -1,5 +1,5 @@
 ---
-title: BSOC 2022: udata
+title: "BSOC 2022: uData"
 toc: false
 ---
 

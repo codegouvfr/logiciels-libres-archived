@@ -1,5 +1,5 @@
 ---
-title: BSOC 2022: Collec-Science
+title: "BSOC 2022: Collec-Science"
 toc: false
 ---
 

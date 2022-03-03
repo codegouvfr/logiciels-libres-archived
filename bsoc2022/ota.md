@@ -1,5 +1,5 @@
 ---
-title: BSOC 2022: Open Terms Archive
+title: "BSOC 2022: Open Terms Archive"
 toc: false
 ---
 

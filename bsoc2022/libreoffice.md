@@ -1,5 +1,5 @@
 ---
-title: BSOC 2022: LibreOffice
+title: "BSOC 2022: LibreOffice"
 toc: false
 ---
 

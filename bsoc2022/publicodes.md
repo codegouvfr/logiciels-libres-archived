@@ -1,5 +1,5 @@
 ---
-title: BSOC 2022: publi.codes
+title: "BSOC 2022: publi.codes"
 toc: false
 ---
 
