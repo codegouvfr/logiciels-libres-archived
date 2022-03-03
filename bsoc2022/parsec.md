@@ -1,5 +1,6 @@
 ---
 title: PARSEC
+toc: false
 ---
 
 *Rejoindre une petite équipe (7-8 personnes) et participer au developpement de [PARSEC](https://parsec.cloud).*
