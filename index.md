@@ -92,7 +92,7 @@ Voir la [page dédiée](espaces-communication-bluehats.md).
 
 # Logiciels libres auxquels le pôle contribue
 
-Les membres du pôle logiciels libres ont le droit de prendre sur leur temps de travail à hauteur de 20% maximu pour contribuer à des logiciels libres.  Parmi eux:
+Les membres du pôle logiciels libres ont le droit de prendre sur leur temps de travail à hauteur de 20% maximum pour contribuer à des logiciels libres.  Parmi eux:
 
 - https://github.com/InseeFrLab/onyxia-web
 - https://github.com/InseeFrLab/keycloakify
