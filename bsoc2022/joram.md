@@ -1,5 +1,5 @@
 ---
-title: BSOC 2022: Joram
+title: "BSOC 2022: Joram"
 toc: false
 ---
 
