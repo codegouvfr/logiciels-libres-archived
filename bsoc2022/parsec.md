@@ -1,5 +1,5 @@
 ---
-title: PARSEC
+title: BSOC 2022: PARSEC
 toc: false
 ---
 
