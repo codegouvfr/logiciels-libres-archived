@@ -14,7 +14,7 @@ Pour comprendre ce que fait Tutor, il faut d'abord comprendre ce qu'est Open edX
 Pour rejoindre la communauté open source, la priorité est mise sur la personnalité et les compétences non techniques. On part du principe que les stagiaires devront être formés aux outils et méthodes et que les compétences purement techniques seront acquises durant le stage.
 
 - Compétences techniques : 
-  - Bonne connaissance de Linux, de git et la ligne de commande
+  - Bonne connaissance de GNU/Linux, de git et la ligne de commande
 - Compétences bonus : 
   - Connaissance de Python, Django, Docker, React et les autres composants utilisés dans Open edX (MySQL, MongoDB, Redis, Elasticsearch, Celery, Caddy...)
 - Compétences non techniques : 

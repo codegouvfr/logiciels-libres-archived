@@ -3,22 +3,20 @@ title: "BSOC 2022: JabRef"
 toc: false
 ---
 
-*Contribuez au développement d'un logiciel leader dans la gestion bibliographique, qui est utilisé par des chercheurs du monde entier dans différentes disciplines.*
-
-*Le développement de [JabRef](https://www.jabref.org/) étant orienté pour attirer des contributeurs externes (sans expérience préalable du logiciel), nous sommes confiant que le stagiaire n'aura pas de mal à débuter.*
+*Contribuez au développement d'un logiciel leader dans la gestion bibliographique, qui est utilisé par des chercheurs du monde entier dans différentes disciplines. Le développement de [JabRef](https://www.jabref.org/) étant orienté pour attirer des contributeurs externes (sans expérience préalable du logiciel), nous sommes confiant que le stagiaire n'aura pas de mal à débuter.*
 
 ## Présentation du logiciel
 
 JabRef est un logiciel de gestion bibliographique libre qui utilise BibTeX et BibLaTeX comme formats natifs. JabRef fournit une interface conviviale pour éditer des fichiers Bib(La)TeX, pour importer des références à partir de bases de données scientifiques en ligne et pour gérer et effectuer des recherches sur des fichiers Bib(La)TeX.
 
-JabRef est programmé en Java et est disponible sur Windows, Linux et Mac OS X. JabRef est distribué sous les termes de la licence MIT depuis la version 3.6 (et était précédemment sous GPL).
+JabRef est programmé en Java et est disponible sur Windows, GNU/Linux et Mac OS X. JabRef est distribué sous les termes de la licence MIT depuis la version 3.6 (et était précédemment sous GPL).
 
 ## Compétences exigées pour le stagiaire contributeur
 
 - Compétences techniques : 
-    - Java, JavaFX, Git
+  - Java, JavaFX, Git
 - Compétences autres : 
-    - Être en mesure de comprendre l'anglais et de pouvoir l'écrire
+  - Être en mesure de comprendre l'anglais et de pouvoir l'écrire
 
 ## Missions proposées
 
