@@ -3,7 +3,7 @@ title: "BSOC 2022: SemApps"
 toc: false
 ---
 
-*[SemApps](semapps.org) (**Sem**antic **App**lications): tools for linked data applications*
+*[SemApps](https://semapps.org) (**Sem**antic **App**lications) : des outils pour des applications en linked data.*
 
 ## Présentation du logiciel
 
