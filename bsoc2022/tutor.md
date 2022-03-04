@@ -28,14 +28,15 @@ Plus important encore que de contribuer de manière purement technique, le·la s
 ## Missions proposées
 
 Par ordre croissant de complexité :
-    - Utiliser Tutor pour lancer une plateforme Open edX et comprendre son fonctionnement.
-    - Participer aux réunions (en ligne) des working groups d'Open edX pour comprendre les rouages de la communauté et rencontrer les principaux membres.
-    - Résoudre les tickets Tutor et Open edX labellés "good first issues".
-    - Comprendre le fonctionnement des plugins Tutor.
-    - Répondre aux questions des utilisateurs posées sur les forum de Tutor (https://discuss.overhang.io/) et d'Open edX (https://discuss.openedx.org/)
-    - Réaliser la mise à jour d'un ou plusieurs plugins Tutor dans le cadre de la nouvelle release Open edX, prévue pour décembre 2022.
-    - Détecter, signaler auprès de la communauté, et éventuellement résoudre les problèmes rencontrés lors de cette mise à jour.
-    - Les initiatives seront encouragées, que ce soit dans le domaine technique, marketing (live streams, présentations...) ou commercial.
+
+- Utiliser Tutor pour lancer une plateforme Open edX et comprendre son fonctionnement.
+- Participer aux réunions (en ligne) des working groups d'Open edX pour comprendre les rouages de la communauté et rencontrer les principaux membres.
+- Résoudre les tickets Tutor et Open edX labellés "good first issues".
+- Comprendre le fonctionnement des plugins Tutor.
+- Répondre aux questions des utilisateurs posées sur les forum de Tutor (https://discuss.overhang.io/) et d'Open edX (https://discuss.openedx.org/)
+- Réaliser la mise à jour d'un ou plusieurs plugins Tutor dans le cadre de la nouvelle release Open edX, prévue pour décembre 2022.
+- Détecter, signaler auprès de la communauté, et éventuellement résoudre les problèmes rencontrés lors de cette mise à jour.
+- Les initiatives seront encouragées, que ce soit dans le domaine technique, marketing (live streams, présentations...) ou commercial.
 
 ## Quel encadrement pour le stagiaire ?
 
