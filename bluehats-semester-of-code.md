@@ -3,10 +3,6 @@ title: BlueHats Semester of Code
 toc: true
 ---
 
-**Vous souhaitez soumettre une idée de contribution à votre logiciel libre ?  Merci de remplir [ce questionnaire](https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582) avant le 6 mars 23h59.**
-
-*Vous pouvez lire [toutes les questions du formulaire](bsoc-questionnaire-2022.md) via cette page.*
-
 # Présentation
 
 `BlueHats Semester of Code` est un programme de stages permettant à des étudiantes et étudiants de contribuer à des logiciels libres.
@@ -76,7 +72,7 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 # Calendrier
 
 - **10 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
-- **Jusqu'au 6 mars 2022 23h39** : Sélection et construction des idées de contribution - les porteurs de projets sont invités à répondre à [ce questionnaire](https://framaforms.org/bluehats-semester-of-code-encadrer-un-contributeur-sur-votre-logiciel-libre-1645087582), dont les questions sont listées sur [cette page](bsoc-questionnaire-2022.md).
+- **Jusqu'au 6 mars 2022** : Sélection et construction des idées de contribution - les porteurs de projets ont répondu à [ce questionnaire](bsoc-questionnaire-2022.md).
 - **8 mars 2022** : Publication des projets sélectionnés.
 - **Du 15 mars au 15 mai 2022** : Recrutement des étudiants sur entretien DINUM/CentraleSupélec.
 
