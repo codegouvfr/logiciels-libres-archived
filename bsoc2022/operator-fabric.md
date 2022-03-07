@@ -3,12 +3,14 @@ title: "BSOC 2022: Operator Fabric"
 toc: false
 ---
 
+*Rejoingez un projet RTE et Linux Foundation*
+
 ## Présentation du logiciel
 
-[OperatorFabric](https://opfab.github.io/) est une plateforme modulaire, extensible et industrielle destinée à être utilisée dans le domaine de l'électricité, de l'eau et d'autres services publics. Elle vise à faciliter les activités opérationnelles des services publics de deux manières :
+[OperatorFabric](https://opfab.github.io/) est une plateforme modulaire, extensible et industrielle destinée à être utilisée pour la coordination des opérateurs temps réel dans les domaines industriels vitaux de l’électricité, du gaz, de l’eau ou d’autres services publics. Elle vise à faciliter les activités opérationnelles des services publics de deux manières :
 
-- Centraliser les événements commerciaux en temps réel en un seul endroit pour éviter d'avoir plusieurs écrans/logiciels.
-- Faciliter les interactions entre les centres de contrôle opérationnels.
+- Centraliser les événements industriels en temps réel en un seul endroit pour éviter d’avoir plusieurs écrans/logiciels.
+- Faciliter les interactions entre les centres de contrôle opérationnels 24/7.
 
 ## Compétences exigées pour le stagiaire contributeur
 
@@ -24,6 +26,8 @@ toc: false
     - Capacités d'interactions humaines / pro activité
 
 ## Missions proposées
+
+Au sein de la communauté Open Source OpFab le stagiaire contribue à l’amélioration du quick start guide (rituel d’onboarding de tout membre) puis pourra développer les modules périphériques (plugins) voire dans le coeur du code commun en fonction de ses compétences et appétences. Ses développements logiciels, ses tests et la documentation qui les accompagnent serviront directement les utilisateurs finaux (opérateurs temps réel) des entreprises utilisatrices.
 
 ## Quel encadrement pour le stagiaire ?
 
