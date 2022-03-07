@@ -29,8 +29,6 @@ Les élèves stagiaires auront la possibilité d'être accueillis sur place à E
 
 Si vous êtes une administration, une entreprise française, une association ou un collectif et que vous publiez un logiciel libre pour lequel vous cherchez des contributeurs, vous pouvez proposer une idée de contribution.
 
-Vous pouvez vous inspirer des [premières idées collectées](https://github.com/blue-hats/bluehats-soc#propositions-de-stage) et en cours de consolidation.
-
 CentraleSupélec et la DINUM sélectionnent les idées de contributions en fonction de l'intérêt du projet et des conditions d'encadrement du stage.
 
 Nous mettons aussi comme condition que le logiciel soit publié sous l'une des licences libres listées sur [cette page](licences-libres-dinum.md).
@@ -89,3 +87,7 @@ Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.h
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [Open Source Research Experience](https://cross.ucsc.edu/news/news/2021_summerstudents.html)
+
+# Archives
+
+- Les [premières idées collectées](https://github.com/blue-hats/bluehats-soc#propositions-de-stage) à l'automne 2021 lors du premier appel à idées pour le BlueHats Semester of Code.
