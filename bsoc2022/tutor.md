@@ -42,9 +42,10 @@ Par ordre croissant de complexité :
 
 ## Quel encadrement pour le stagiaire ?
 
+Vous travaillerez directement avec le mainteneur principal de Tutor (Régis Behmo), mais également avec le reste de la communauté Open edX qui se réunit fréquemment en ligne.
+
 - Communication synchrone (5-7h/semaine) :
   - Séances de peer programming, afin de se familiariser avec la base de code. 
   - Participation aux réunion des différents groupes de travail Open edX, afin de décider quelles sont les parties du code les plus pertinentes. 
   - Travail synchrone dès que des points bloquants apparaîtront.
 - Communication asynchrone par les moyens de communication habituels de la communauté : forums, emails, Slack.
-
