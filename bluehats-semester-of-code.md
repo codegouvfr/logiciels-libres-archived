@@ -7,11 +7,11 @@ toc: true
 
 `BlueHats Semester of Code` est un programme de stages permettant à des étudiantes et étudiants de contribuer à des logiciels libres.
 
-L'édition 2022 est le fruit d'un partenariat entre l'école CentraleSupélec et la DINUM.
-
-Le programme s'adresse aux étudiants de CentraleSupélec en année césure après leur 2ème année d'école.
+L'édition 2022 est le fruit d'un partenariat entre l'école CentraleSupélec et la DINUM.  Le programme s'adresse aux étudiants de CentraleSupélec en année césure après leur 2ème année d'école.
 
 Les élèves stagiaires auront la possibilité d'être accueillis sur place à Etalab (DINUM), au 20 avenue de Ségur, 75007, Paris.
+
+*Si cette première année se passe bien, nous espérons rééditer l'expérience les années suivantes en impliquant d'autres formations.*
 
 # Comment ça marche ?
 
@@ -33,7 +33,7 @@ CentraleSupélec et la DINUM sélectionnent les idées de contributions en fonct
 
 Nous mettons aussi comme condition que le logiciel soit publié sous l'une des licences libres listées sur [cette page](licences-libres-dinum.md).
 
-La proposition que vous nous enverrez peut évoluer *jusqu'au 6 mars à 23h59*.
+Les projets retenus pour 2022 sont lisibles sur [cette page](https://communs.etalab.studio/bluehats/bsoc-contributions-2022/).
 
 ## Les engagements des porteurs de projets
 
@@ -69,17 +69,17 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 
 # Calendrier
 
-- **10 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
-- **Jusqu'au 6 mars 2022** : Sélection et construction des idées de contribution - les porteurs de projets ont répondu à [ce questionnaire](bsoc-questionnaire-2022.md).
-- **8 mars 2022** : Publication des [projets sélectionnés](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/).
+- [x] **10 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
+- [x] **Jusqu'au 6 mars 2022** : Sélection et construction des idées de contribution - les porteurs de projets ont répondu à [ce questionnaire](bsoc-questionnaire-2022.md).
+- [x] **8 mars 2022** : Publication des [projets sélectionnés](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/).
 - **Du 15 mars au 15 mai 2022** : Recrutement des étudiants sur entretien DINUM/CentraleSupélec/Porteurs.
 
 # Webinaires d'information ouverts à tous
 
 Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-bsoc.ics).
 
-- **18 février 2022 à 17h** : [Revoir la visioconférence](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1645199743002) d'information pour les porteurs de logiciels libres (administrations, entreprises, associations et collectifs.)
-- **23 février 2022 à 17h** : Visioconférence d'information pour les étudiants intéressés.
+- [x] **18 février 2022 à 17h** : [Revoir la visioconférence](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1645199743002) d'information pour les porteurs de logiciels libres (administrations, entreprises, associations et collectifs.)
+- [x] **23 février 2022 à 17h** : Visioconférence d'information pour les étudiants intéressés.
 - **9 mars 2022 à 17h15** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les étudiants intéressés.
 - **23 mars 2022 à 17h** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les enseignants/encadrants.
 
