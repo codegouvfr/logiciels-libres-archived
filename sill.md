@@ -165,6 +165,15 @@ accessibles ici :
 -   [MIMDEV](https://calc.mim-libre.fr/MIMDEV/edit)
 -   [MIMPROD](https://calc.mim-libre.fr/MIMPROD/edit)
 
+# Différences entre le SILL et le catalogue GouvTech
+
+- Le SILL ne contient que des logiciels, GouvTech contient aussi des services en ligne.
+- Le SILL ne contient que des logiciels libres, GouvTech contient aussi des solutions propriétaires.
+- Chaque logiciel libre du SILL a un agent public "référent", les entrées de GouvTech sont référencées par les entreprises ou les associations qui portent les solutions.
+- Un logiciel libre développé par une administration (comme VITAM) peut entrer dans le SILL, GouvTech ne référence pas les projets de l'administration.
+- Le SILL ne contient que des solutions actuellement utilisées et déployées dans l'administration par l'administration : si une administration sous-traite le déploiement d'un logiciel libre en SaaS (une instance Nextcloud, par exemple), cette administration ne peut pas se proposer comme "référente".
+- Les référents SILL forment donc un réseau d'agents publics experts qui ont une connaissance de première main des logiciels recommandés.
+
 # Licence du SILL et de ce dépôt
 
 Le SILL est publié par les groupes de mutualisation interministérielle
