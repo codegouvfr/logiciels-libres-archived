@@ -11,23 +11,24 @@ toc: false
 
 ## Compétences exigées pour le stagiaire contributeur
 
-- Compétences techniques :
-  - Git (gestion de branches et convention de prefix pour les commits)
-  - NodeJS (maitrise syntaxe ES7 avec async / await)
-  - VueJS 2 (+ NuxtJS + Vuetify)
-  - MongoDB 4 / ElasticSearch 7
-  - Docker / docker-compose
-  - Connaissance des architectures REST / protocle HTTP
+Compétences techniques :
+
+- Git (gestion de branches et convention de prefix pour les commits)
+- NodeJS (maitrise syntaxe ES7 avec async / await)
+- VueJS 2 (+ NuxtJS + Vuetify)
+- MongoDB 4 / ElasticSearch 7
+- Docker / docker-compose
+- Connaissance des architectures REST / protocle HTTP
 
 ## Missions proposées
 
 - Compléter des fonctionnalités existantes
-- Etudier la transition vers VueJS 3
+- Étudier la transition vers VueJS 3
 - Développer des Web Components
-- Réfléchir à des méthodes permettant d'etudier l'empreinte carbone de la solution
+- Réfléchir à des méthodes permettant d'étudier l'empreinte carbone de la solution
 
 ## Quel encadrement pour le stagiaire ?
 
-- Encadrement par 1 développeur full-stack senior qui a déjà encadré plusieurs stagiaires
+- Encadrement par 1 développeur *full-stack* senior qui a déjà encadré plusieurs stagiaires
 - 1h par jour d'accompagnement
 - Communication et échanges par chat / visio conférence / tickets
