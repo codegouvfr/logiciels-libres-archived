@@ -36,4 +36,9 @@ L'objectif principal est de faciliter l'adoption de udata par ses réutilisateur
 
 ## Quel encadrement pour le stagiaire ?
 
+Deux mentors :
 
+- Lead développeuse data.gouv.fr, avec une expérience d'encadrement
+- Directeur Technique Etalab, avec une expérience d’encadrement
+
+Le ou la stagiaire participera aux rituels de l’équipe data.gouv.fr, notamment relatifs aux sprints de deux semaines que nous suivons. Il ou elle sera intégrée aux canaux de communication de l’équipe, notamment Mattermost. Ses sujets seront définis en continu dans le cadre fixé préalablement et à l’aune des avancées et discussions pendant le stage.
