@@ -1,6 +1,6 @@
 ---
 title: Présentation du socle interministériel de logiciels libres
-toc: false
+toc: true
 ---
 
 # Les critères d’entrée d’un logiciel dans le SILL
