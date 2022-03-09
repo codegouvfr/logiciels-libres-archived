@@ -7,7 +7,9 @@ toc: false
 
 ## Présentation du logiciel
 
-Pour comprendre ce que fait Tutor, il faut d'abord comprendre ce qu'est Open edX. Open edX est un logiciel d'éducation en ligne utilisé par un grand nombre d'universités et de ministères de l'éducation dans le monde entier, du MIT au ministère de l'éducation de la Thaïlande. Tutor est une distribution Open edX basée sur Docker qui en simplifie drastiquement l'installation et l'administration. Depuis cette année, Tutor est la distribution officielle d'Open edX.
+Pour comprendre ce que fait [Tutor](https://docs.tutor.overhang.io), il faut d'abord comprendre ce qu'est Open edX. Open edX est un logiciel d'éducation en ligne utilisé dans tous les pays, du MIT à Tsinghua en passant par le ministère de l'éducation de la France, de l'Equateur ou de la Thaïlande.
+
+Tutor est une distribution Open edX basée sur Docker qui en simplifie drastiquement l'installation et l'administration. Depuis cette année, Tutor est la distribution officielle d'Open edX.
 
 ## Compétences exigées pour le stagiaire contributeur
 
