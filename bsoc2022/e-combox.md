@@ -3,7 +3,7 @@ title: "BSOC 2022: e-comBox"
 toc: false
 ---
 
-*Un projet utile, techniquement riche et ambitieux, avec un encadrement professionnel au sein une équipe conviviale.*
+*Déployer des applications métiers ( (PGI, e-commerce, etc.) en quelques clics c'est le défi relevé par l'e-comBox !  Application Web épousant des technologies modernes (Angular, TypeScript et Docker), intuitive et facile d'utilisation par des enseignants au service des apprentissages, l'e-comBox ne cesse de s'enrichir de nouvelles fonctionnalités. Votre contribution à ce projet ambitieux, au sein d'une équipe conviviale et experte, sera la bienvenue !*
 
 ## Présentation du logiciel
 
@@ -21,7 +21,8 @@ Compétences techniques :
 Savoir-être professionnels : 
 
 - Être autonome, curieux et créatif
-- Être capable de travailler en mode projet (Tuleap-Campus)
+- être capable de monter en compétences sur des nouvelles techniques et technologies
+- Être capable de travailler en mode projet (Tuleap-Campus et Gitlab)
 - Savoir faire preuve de rigueur et de méthode
 
 ## Missions proposées
