@@ -3,9 +3,7 @@ title: "BSOC 2022: Sysma"
 toc: false
 ---
 
-*Sysma : contribuez au développement du mode offline de l'outil de reconquête de la qualité de l'eau.*
-
-*Rejoignez nous et développez la version mobile de terrain de notre WebSIG open source Sysma dans le contexte de la protection de l'environnement : la surveillance et l'amélioration de la qualité de nos eaux.*
+*Rejoignez nous et développez la version mobile de terrain de notre WebSIG open source Sysma dans le contexte de la protection de l’environnement : la surveillance et l’amélioration de la qualité de nos eaux.*
 
 ## Présentation du logiciel
 
