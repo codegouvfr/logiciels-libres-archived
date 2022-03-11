@@ -7,7 +7,7 @@ toc: false
 
 - Choisir et/ou déployer une forge pour publier vos codes sources
 - Stimuler des contributions pour votre logiciel libre
-- Publier les codes sources d'un projet longtemps resté fermé
+- Publier les codes sources d'un projet jusque-là fermé
 - publiccode.yml: pourquoi et comment ajouter ce fichier dans vos dépôts
 - Comment prioriser les codes sources à ouvrir ?
 - Les licences libres pour les projets de l'administration
