@@ -19,7 +19,7 @@ Pour avoir de l’impact, nous développons des partenariats avec des acteurs pu
 - Compétences bonus :
   - Pour contribuer à des réutilisations : développement web.
   - Pour contribuer au Core : JavaScript et anglais technique.
-- Compétences autres : 
+- Compétences autres :
   - Intérêt pour les enjeux de protection des droits des utilisateurs.
   - Bienveillance et attention à la communication interpersonnelle.
 
@@ -38,10 +38,10 @@ Notre équipe est distribuée (Île Maurice, Paris, Grenoble, Pyrénées, Suisse
 Nous travaillons de manière asynchrone (issues GitHub, messagerie…) et avons un temps partagé d'une journée toutes les 2 semaines, avec autant d'échanges en visio que nécessaire entre-temps.
 
 - Product Manager ([Matti Schneider](https://twitter.com/Matti_SG_FR)) :
-  - 1 à 2 heures dédiées en visio par semaine, avec un accompagnement renforcé au démarrage 
+  - 1 à 2 heures dédiées en visio par semaine, avec un accompagnement renforcé au démarrage
   - Temps en asynchrone et à la demande
-- Tech & UX ([Clément Biron](https://github.com/clementbiron)) : 
-  - 1 à 2 heures dédiées en visio par semaine, avec un accompagnement renforcé au démarrage 
+- Tech & UX ([Clément Biron](https://github.com/clementbiron)) :
+  - 1 à 2 heures dédiées en visio par semaine, avec un accompagnement renforcé au démarrage
   - Temps en asynchrone et à la demande
 - (selon la zone de contribution) Tech Lead ([Nicolas Dupont](https://github.com/ndpnt)) :
   - 1 à 3 heures dédiées en visio par semaine, avec un accompagnement renforcé au démarrage
