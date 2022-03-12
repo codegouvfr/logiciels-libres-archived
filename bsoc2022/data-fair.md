@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Data Fair"
+title: "BSOC 2022 : Data Fair"
 toc: false
 ---
 

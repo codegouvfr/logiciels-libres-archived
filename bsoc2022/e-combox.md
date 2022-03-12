@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: e-comBox"
+title: "BSOC 2022 : e-comBox"
 toc: false
 ---
 

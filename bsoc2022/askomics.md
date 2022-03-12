@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022:"
+title: "BSOC 2022 : AskOmics"
 toc: false
 ---
 

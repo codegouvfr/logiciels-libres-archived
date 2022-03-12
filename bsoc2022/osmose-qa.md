@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Osmose-QA"
+title: "BSOC 2022 : Osmose-QA"
 toc: false
 ---
 

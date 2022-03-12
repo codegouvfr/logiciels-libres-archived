@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Onyxia"
+title: "BSOC 2022 : Onyxia"
 toc: false
 ---
 

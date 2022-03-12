@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: PowSyBl"
+title: "BSOC 2022 : PowSyBl"
 toc: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Datafari"
+title: "BSOC 2022 : Datafari"
 toc: false
 ---
 

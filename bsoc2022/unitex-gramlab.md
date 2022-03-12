@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Unitex/Gramlab"
+title: "BSOC 2022 : Unitex/Gramlab"
 toc: false
 ---
 

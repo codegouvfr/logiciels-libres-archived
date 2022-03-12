@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Koha"
+title: "BSOC 2022 : Koha"
 toc: false
 ---
 

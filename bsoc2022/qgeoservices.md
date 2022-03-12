@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: QGIS"
+title: "BSOC 2022 : QGIS"
 toc: false
 ---
 

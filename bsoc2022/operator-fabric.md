@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Operator Fabric"
+title: "BSOC 2022 : Operator Fabric"
 toc: false
 ---
 

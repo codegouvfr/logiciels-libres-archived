@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Wallabag"
+title: "BSOC 2022 : Wallabag"
 toc: false
 ---
 

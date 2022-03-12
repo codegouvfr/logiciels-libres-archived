@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: XWiki"
+title: "BSOC 2022 : XWiki"
 toc: false
 ---
 

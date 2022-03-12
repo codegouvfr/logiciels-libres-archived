@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: VideoLAN"
+title: "BSOC 2022 : VideoLAN"
 toc: false
 ---
 

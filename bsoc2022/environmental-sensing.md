@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Environmental Sensing"
+title: "BSOC 2022 : Environmental Sensing"
 toc: false
 ---
 

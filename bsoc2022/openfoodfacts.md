@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Open Food Facts"
+title: "BSOC 2022 : Open Food Facts"
 toc: false
 ---
 

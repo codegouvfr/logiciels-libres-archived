@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: GIMP"
+title: "BSOC 2022 : GIMP"
 toc: false
 ---
 

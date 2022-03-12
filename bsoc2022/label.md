@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Label"
+title: "BSOC 2022 : Label"
 toc: false
 ---
 

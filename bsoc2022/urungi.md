@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Urungi"
+title: "BSOC 2022 : Urungi"
 toc: false
 ---
 

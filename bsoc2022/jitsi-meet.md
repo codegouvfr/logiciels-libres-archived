@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Jitsi Meet"
+title: "BSOC 2022 : Jitsi Meet"
 toc: false
 ---
 

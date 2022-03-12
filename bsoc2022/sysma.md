@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Sysma"
+title: "BSOC 2022 : Sysma"
 toc: false
 ---
 

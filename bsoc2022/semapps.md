@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: SemApps"
+title: "BSOC 2022 : SemApps"
 toc: false
 ---
 

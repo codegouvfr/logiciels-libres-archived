@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Cryptpad"
+title: "BSOC 2022 : Cryptpad"
 toc: false
 ---
 

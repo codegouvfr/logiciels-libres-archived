@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Squash TM"
+title: "BSOC 2022 : Squash TM"
 toc: false
 ---
 

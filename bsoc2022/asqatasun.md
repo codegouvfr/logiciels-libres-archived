@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Asqatasun"
+title: "BSOC 2022 : Asqatasun"
 toc: false
 ---
 

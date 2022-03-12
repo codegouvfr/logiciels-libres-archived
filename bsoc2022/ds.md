@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Démarches simplifiées"
+title: "BSOC 2022 : Démarches simplifiées"
 toc: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Tutor"
+title: "BSOC 2022 : Tutor"
 toc: false
 ---
 

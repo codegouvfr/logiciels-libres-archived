@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Bokeh"
+title: "BSOC 2022 : Bokeh"
 toc: false
 ---
 

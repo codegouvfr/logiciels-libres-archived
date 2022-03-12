@@ -1,5 +1,5 @@
 ---
-title: "BSOC 2022: Digirisk"
+title: "BSOC 2022 : Digirisk"
 toc: false
 ---
 
