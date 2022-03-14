@@ -59,11 +59,11 @@ Au bout de trois mois, selon la façon dont le stage se passe, Centralesupélec 
 
 À partir du 15 mars, les étudiants pourront remplir un questionnaire en ligne via lequel ils pourront se présenter, préciser leurs motivations et indiquer le ou les projets auxquels ils souhaitent contribuer.
 
-Entre le 1er et le 15 avril, CentraleSupélec et le pôle logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs choix de projets.
+CentraleSupélec et le pôle logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs candidatures.  Il y aura trois échanges les 13 avril, 27 avril et 18 mai pour traiter les candidatures au fil de l'eau (voir [#Calendrier](le calendrier).
 
-Entre le 15 avril et le 15 mai, CentraleSupélec et le pôle logiciels libres organiseront des réunions entre chaque étudiant et les mentors des projets libres pour vérifier que tout le monde s'entend bien sur les choix etles objectifs du stage.
+Entre le 13 avril et fin mai, CentraleSupélec et le pôle logiciels libres organiseront des réunions entre chaque étudiant retenu et les mentors des projets libres pour vérifier que tout le monde s'entend bien sur les choix et les objectifs du stage.
 
-À partir du 15 mai, les étudiants engagent les procédures administratives pour la signature des conventions.
+Avant juin, les étudiants engagent les procédures administratives pour la signature des conventions.
 
 ## Les engagements des stagiaires
 
@@ -84,10 +84,11 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 - **10 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
 - **Jusqu'au 6 mars 2022** : Sélection et construction des idées de contribution - les porteurs de projets ont répondu à [ce questionnaire](bsoc-questionnaire-2022.md).
 - **8 mars 2022** : Publication des [projets sélectionnés](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/).
-- **Du 15 mars au 15 mai 2022** : Recrutement des étudiants sur entretien DINUM/CentraleSupélec/Porteurs.
-- **Entre le 1er et le 15 avril** : Visioconférence avec les étudiants candidats
-- **Entre le 15 avril et 15 mai** : Rencontres entre les mentors des projets et les étudiants
-- **Avant le 15 mai** : Confirmation définitive par les étudiants et engagement des signatures de conventions
+- **Du 15 mars au 15 mai 2022 23h59** : Les étudiants peuvent candidater en remplissant un formulaire.
+- **13 avril 17h15** : Rencontre CS/DINUM en [visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) avec un premier groupe de candidats.
+- **27 avril 17h15** : Rencontre CS/DINUM en [visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) avec un deuxième groupe de candidats.
+- **18 mai 17h15** : Rencontre CS/DINUM en [visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) avec le dernier groupe de candidats.
+- **Avant fin mai** : Confirmation définitive par les étudiants et engagement des signatures de conventions.
 
 ## Webinaires d'information
 
