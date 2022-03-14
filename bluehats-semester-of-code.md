@@ -3,6 +3,8 @@ title: BlueHats Semester of Code
 toc: true
 ---
 
+**Voir [les projets projets prêts à accueillir les contributions](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/) de la promotion BlueHats.**
+
 # Présentation
 
 `BlueHats Semester of Code` est un programme de stages permettant à des étudiantes et étudiants de contribuer à des logiciels libres.
@@ -66,6 +68,16 @@ Vous nous envoyez tous les mois une note écrite pour résumer vos contributions
 Vous n'avez pas d'obligation en terme de production de livrables.
 
 Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager de vous faire contribuer à un autre projet, selon vos compétences et vos envies.
+
+# Comment est faite la sélection
+
+À partir du 15 mars, les étudiants pourront remplir un questionnaire en ligne via lequel ils pourront se présenter, préciser leurs motivations et indiquer le ou les projets auxquels ils souhaitent contribuer.
+
+Entre le 1er et le 15 avril, CentraleSupélec et le pôle logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs choix de projets.
+
+Entre le 15 avril et le 15 mai, CentraleSupélec et le pôle logiciels libres organiseront des réunions entre chaque étudiant et les mentors des projets libres pour vérifier que tout le monde s'entend bien sur les choix etles objectifs du stage.
+
+À partir du 15 mai, les étudiants engagent les procédures administratives pour la signature des conventions.
 
 # Calendrier
 
