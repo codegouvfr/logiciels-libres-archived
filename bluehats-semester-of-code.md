@@ -3,7 +3,7 @@ title: BlueHats Semester of Code
 toc: true
 ---
 
-**Voir [les projets projets prêts à accueillir les contributions](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/) de la promotion BlueHats.**
+**Vous êtes étudiants en 2ème année à CentraleSupélec et recherchez un stage pour votre année de césure ?  Vous pouvez candidater via [ce formulaire](https://framaforms.org/candidature-bluehats-semester-of-code-1647254344) pour rejoindre le programme BlueHats Semester of Code !  Vous contribuerez à l'un des [projets projets prêts à accueillir les contributions](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/) de la promotion BlueHats.**
 
 # Présentation du programme BlueHats Semester of Code
 
@@ -57,7 +57,7 @@ Au bout de trois mois, selon la façon dont le stage se passe, Centralesupélec 
 
 # Phase de sélection des étudiants
 
-À partir du 15 mars, les étudiants pourront remplir un questionnaire en ligne via lequel ils pourront se présenter, préciser leurs motivations et indiquer le ou les projets auxquels ils souhaitent contribuer.
+À partir du 15 mars, les étudiants peuvent remplir [ce formulaire en ligne](https://framaforms.org/candidature-bluehats-semester-of-code-1647254344) via lequel ils pourront se présenter, préciser leurs motivations et indiquer le ou les projets auxquels ils souhaitent contribuer.
 
 CentraleSupélec et le pôle logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs candidatures.  Il y aura trois échanges les 13 avril, 27 avril et 18 mai pour traiter les candidatures au fil de l'eau (voir [le calendrier](#calendrier)).
 
@@ -84,7 +84,7 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 - **10 février 2022** : Appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
 - **Jusqu'au 6 mars 2022** : Sélection des propositions de contribution (cf. ce [questionnaire](bsoc-questionnaire-2022.md)).
 - **8 mars 2022** : Publication des [projets sélectionnés](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/).
-- **15 mars au 15 mai 2022 23h59** : Les étudiants peuvent candidater en remplissant un formulaire.
+- **15 mars au 15 mai 2022 23h59** : Les étudiants peuvent candidater en remplissant [ce formulaire](https://framaforms.org/candidature-bluehats-semester-of-code-1647254344).
 - **13 avril 17h15** : Rencontre CS/DINUM en [visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) avec un premier groupe de candidats.
 - **27 avril 17h15** : Rencontre CS/DINUM en [visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) avec un deuxième groupe de candidats.
 - **18 mai 17h15** : Rencontre CS/DINUM en [visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) avec le dernier groupe de candidats.
