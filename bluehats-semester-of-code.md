@@ -82,7 +82,7 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 # Calendrier
 
 - **10 février 2022** : Appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
-- **Jusqu'au 6 mars 2022** : Sélection et construction des idées de contribution - les porteurs de projets ont répondu à [ce questionnaire](bsoc-questionnaire-2022.md).
+- **Jusqu'au 6 mars 2022** : Sélection des propositions de contribution (cf. ce [questionnaire](bsoc-questionnaire-2022.md)).
 - **8 mars 2022** : Publication des [projets sélectionnés](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/).
 - **Du 15 mars au 15 mai 2022 23h59** : Les étudiants peuvent candidater en remplissant un formulaire.
 - **13 avril 17h15** : Rencontre CS/DINUM en [visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) avec un premier groupe de candidats.
