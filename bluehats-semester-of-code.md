@@ -81,7 +81,7 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 
 # Calendrier
 
-- **10 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
+- **10 février 2022** : Appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
 - **Jusqu'au 6 mars 2022** : Sélection et construction des idées de contribution - les porteurs de projets ont répondu à [ce questionnaire](bsoc-questionnaire-2022.md).
 - **8 mars 2022** : Publication des [projets sélectionnés](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/).
 - **Du 15 mars au 15 mai 2022 23h59** : Les étudiants peuvent candidater en remplissant un formulaire.
