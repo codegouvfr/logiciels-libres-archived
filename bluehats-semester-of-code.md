@@ -5,7 +5,7 @@ toc: true
 
 **Voir [les projets projets prêts à accueillir les contributions](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/) de la promotion BlueHats.**
 
-# Présentation
+# Présentation du programme BlueHats Semester of Code
 
 `BlueHats Semester of Code` est un programme de stages permettant à des étudiantes et étudiants de contribuer à des logiciels libres.
 
@@ -15,7 +15,7 @@ Les élèves stagiaires auront la possibilité d'être accueillis sur place à E
 
 *Si cette première année se passe bien, nous espérons rééditer l'expérience les années suivantes en impliquant d'autres formations.*
 
-# Comment ça marche ?
+## Comment ça marche ?
 
 **Durée** : Les stages durent six mois, du 1er septembre 2022 au 28 février 2023.
 
