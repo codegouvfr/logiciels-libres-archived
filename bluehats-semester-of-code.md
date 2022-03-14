@@ -27,7 +27,7 @@ Les élèves stagiaires auront la possibilité d'être accueillis sur place à E
 
 **Encadrement** : L'encadrement est assuré par le ou les mentor(s) du logiciel libre, des enseignants côté Centralesupélec et l'équipe du pôle logiciels libres côté Etalab.
 
-## Phase de proposition et de sélection des projets
+# Phase de sélection des projets
 
 Si vous êtes une administration, une entreprise française, une association ou un collectif et que vous publiez un logiciel libre pour lequel vous cherchez des contributeurs, vous pouvez proposer une idée de contribution.
 
@@ -43,7 +43,7 @@ Que vous soyez une administration, une entreprise, une association ou une commun
 
 Vous n'avez pas à gérer la gratification de stage ni à signer quoi que ce soit avec la DINUM ou Centralesupélec.
 
-Vous n'avez pas à accueillir le stagiaire dans des locaux.
+Vous n'avez pas à accueillir le stagiaire dans des locaux mais c'est possible si vous le souhaitez.
 
 ## Les engagements des mentors
 
@@ -54,6 +54,16 @@ Vous nous alertez si le stage ne se passe pas comme vous l'espérez.
 Vous nous envoyez une note écrite tous les mois pour résumer les contributions du stagiaire.
 
 Au bout de trois mois, selon la façon dont le stage se passe, Centralesupélec et la DINUM se réservent la possibilité de proposer à l'étudiant de contribuer sur un autre projet.
+
+# Phase de sélection des étudiants
+
+À partir du 15 mars, les étudiants pourront remplir un questionnaire en ligne via lequel ils pourront se présenter, préciser leurs motivations et indiquer le ou les projets auxquels ils souhaitent contribuer.
+
+Entre le 1er et le 15 avril, CentraleSupélec et le pôle logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs choix de projets.
+
+Entre le 15 avril et le 15 mai, CentraleSupélec et le pôle logiciels libres organiseront des réunions entre chaque étudiant et les mentors des projets libres pour vérifier que tout le monde s'entend bien sur les choix etles objectifs du stage.
+
+À partir du 15 mai, les étudiants engagent les procédures administratives pour la signature des conventions.
 
 ## Les engagements des stagiaires
 
@@ -69,16 +79,6 @@ Vous n'avez pas d'obligation en terme de production de livrables.
 
 Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager de vous faire contribuer à un autre projet, selon vos compétences et vos envies.
 
-# Comment est faite la sélection
-
-À partir du 15 mars, les étudiants pourront remplir un questionnaire en ligne via lequel ils pourront se présenter, préciser leurs motivations et indiquer le ou les projets auxquels ils souhaitent contribuer.
-
-Entre le 1er et le 15 avril, CentraleSupélec et le pôle logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs choix de projets.
-
-Entre le 15 avril et le 15 mai, CentraleSupélec et le pôle logiciels libres organiseront des réunions entre chaque étudiant et les mentors des projets libres pour vérifier que tout le monde s'entend bien sur les choix etles objectifs du stage.
-
-À partir du 15 mai, les étudiants engagent les procédures administratives pour la signature des conventions.
-
 # Calendrier
 
 - **10 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
@@ -89,7 +89,7 @@ Entre le 15 avril et le 15 mai, CentraleSupélec et le pôle logiciels libres or
 - **Entre le 15 avril et 15 mai** : Rencontres entre les mentors des projets et les étudiants
 - **Avant le 15 mai** : Confirmation définitive par les étudiants et engagement des signatures de conventions
 
-# Webinaires d'information ouverts à tous
+## Webinaires d'information
 
 Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-bsoc.ics).
 
@@ -98,11 +98,11 @@ Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.h
 - **9 mars 2022 à 17h15** : [Revoir la visioconférence](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1646842235126) d'information pour les étudiants intéressés.
 - **23 mars 2022 à 17h** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les enseignants/encadrants.
 
-# Autres projets inspirants à l'international
+# Ressources
+
+- Les [premières idées collectées](https://github.com/blue-hats/bluehats-soc#propositions-de-stage) à l'automne 2021 lors du premier appel à idées pour le BlueHats Semester of Code.
+
+## Autres projets inspirants à l'international
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [Open Source Research Experience](https://cross.ucsc.edu/news/news/2021_summerstudents.html)
-
-# Archives
-
-- Les [premières idées collectées](https://github.com/blue-hats/bluehats-soc#propositions-de-stage) à l'automne 2021 lors du premier appel à idées pour le BlueHats Semester of Code.
