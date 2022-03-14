@@ -59,7 +59,7 @@ Au bout de trois mois, selon la façon dont le stage se passe, Centralesupélec 
 
 À partir du 15 mars, les étudiants pourront remplir un questionnaire en ligne via lequel ils pourront se présenter, préciser leurs motivations et indiquer le ou les projets auxquels ils souhaitent contribuer.
 
-CentraleSupélec et le pôle logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs candidatures.  Il y aura trois échanges les 13 avril, 27 avril et 18 mai pour traiter les candidatures au fil de l'eau (voir [#Calendrier](le calendrier).
+CentraleSupélec et le pôle logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs candidatures.  Il y aura trois échanges les 13 avril, 27 avril et 18 mai pour traiter les candidatures au fil de l'eau (voir [le calendrier](#Calendrier)).
 
 Entre le 13 avril et fin mai, CentraleSupélec et le pôle logiciels libres organiseront des réunions entre chaque étudiant retenu et les mentors des projets libres pour vérifier que tout le monde s'entend bien sur les choix et les objectifs du stage.
 
