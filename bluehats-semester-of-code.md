@@ -81,18 +81,21 @@ Entre le 15 avril et le 15 mai, CentraleSupélec et le pôle logiciels libres or
 
 # Calendrier
 
-- [x] **10 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
-- [x] **Jusqu'au 6 mars 2022** : Sélection et construction des idées de contribution - les porteurs de projets ont répondu à [ce questionnaire](bsoc-questionnaire-2022.md).
-- [x] **8 mars 2022** : Publication des [projets sélectionnés](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/).
+- **10 février 2022** : Relance de l'appel à sujets de stages auprès des administrations et des communautés de logiciels libres.
+- **Jusqu'au 6 mars 2022** : Sélection et construction des idées de contribution - les porteurs de projets ont répondu à [ce questionnaire](bsoc-questionnaire-2022.md).
+- **8 mars 2022** : Publication des [projets sélectionnés](https://communs.numerique.gouv.fr/bluehats/bsoc-contributions-2022/).
 - **Du 15 mars au 15 mai 2022** : Recrutement des étudiants sur entretien DINUM/CentraleSupélec/Porteurs.
+- **Entre le 1er et le 15 avril** : Visioconférence avec les étudiants candidats
+- **Entre le 15 avril et 15 mai** : Rencontres entre les mentors des projets et les étudiants
+- **Avant le 15 mai** : Confirmation définitive par les étudiants et engagement des signatures de conventions
 
 # Webinaires d'information ouverts à tous
 
 Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-bsoc.ics).
 
-- [x] **18 février 2022 à 17h** : [Revoir la visioconférence](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1645199743002) d'information pour les porteurs de logiciels libres (administrations, entreprises, associations et collectifs.)
-- [x] **23 février 2022 à 17h** : Visioconférence d'information pour les étudiants intéressés.
-- [x] **9 mars 2022 à 17h15** : [Revoir la visioconférence](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1646842235126) d'information pour les étudiants intéressés.
+- **18 février 2022 à 17h** : [Revoir la visioconférence](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1645199743002) d'information pour les porteurs de logiciels libres (administrations, entreprises, associations et collectifs.)
+- **23 février 2022 à 17h** : Visioconférence d'information pour les étudiants intéressés.
+- **9 mars 2022 à 17h15** : [Revoir la visioconférence](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1646842235126) d'information pour les étudiants intéressés.
 - **23 mars 2022 à 17h** : [Visioconférence](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b) d'information pour les enseignants/encadrants.
 
 # Autres projets inspirants à l'international
