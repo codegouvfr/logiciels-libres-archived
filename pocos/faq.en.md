@@ -45,7 +45,7 @@ Please email the contact address provided in this policy.
 
 ### "How to choose among the different licenses offered?"
 
-See [Opening / Default Authorization to Contribute to FSF or OSI Licensed Projects](ouverture.en.md#permission-by-fail-to-contribute-to-projects-sublicense-fsf- or-osi) and [Opening / Authorization to contribute a new project with decree licenses](ouverture.en.md#authorization-by-fail-to-contribute-a-new- project-with-the-licenses-of-the decree).
+See [Opening / Default Authorization to Contribute to FSF or OSI Licensed Projects](/~etalab/logiciels-libres/pocos/ouverture.en.md#default-permission-to-contribute-to-fsf-or-osi-licensed-projects) and [Opening / Authorization to contribute a new project with decree licenses](/~etalab/logiciels-libres/pocos/ouverture.en.md#default-permission-to-contribute-a-new-project-under-the-licenses-listed-by-the-decree).
 
 Feel free to come back to us using the contact address for any questions or advice.
 
