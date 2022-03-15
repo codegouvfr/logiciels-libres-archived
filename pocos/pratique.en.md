@@ -51,7 +51,7 @@ You can also reference an organization account as a government account in GitHub
 
 1. Register if you have not done so already in the community [https://github.com/government/welcome](https://github.com/government/welcome)
 
-2. Reference your organization account by adding it on the page: [https://github.com/github/government.github.com/blob/gh-pages/_data/governments.yml](https:// github.com/github/government.github.com/blob/gh-pages/_data/governments.yml) as per [https://government.github.com/community/](https://government.github .com / community /)
+2. Reference your organization account by adding it on [this page](https:// github.com/github/government.github.com/blob/gh-pages/_data/governments.yml) as per [government.github.com/community/](https://government.github.com/community/)
 
 ## Distinction of personal / professional contributions
 
