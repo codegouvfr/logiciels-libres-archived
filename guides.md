@@ -21,6 +21,7 @@ toc: false
 
 # Autres guides
 
+- Guide de sensibilisation générale au logiciel libre, par et pour les administrations
 - Contribuer à un projet libre extérieur à l'administration
 - Contribuer via la forge SourceHut
 - [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
