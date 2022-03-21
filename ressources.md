@@ -5,7 +5,7 @@ toc: false
 
 # Intervention du pôle logiciels libres en français
 
-- 17 mars 2022 : Présentation du pôle logiciels libres à l'IRILL ([annonce](https://www.irill.org/events/2022/170322.html)).
+- 17 mars 2022 : [Présentation](https://dai.ly/x898gm2) du pôle logiciels libres à l'IRILL ([annonce](https://www.irill.org/events/2022/170322.html)).
 
 - 3 février 2022 : Présentation de la synthèse de ateliers sur les logiciels libres dans la recherche lors des [Rencontres sur les enjeux du logiciel libre dans la recherche](https://www.ouvrirlascience.fr/rencontres-sur-les-enjeux-du-logiciel-libre-dans-la-recherche-ouvrir-et-promouvoir-les-codes-sources-produits-par-la-recherche/).
 
