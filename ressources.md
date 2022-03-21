@@ -13,11 +13,11 @@ toc: false
 
 - 14 décembre 2021 : [Intervention radio](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres) de Sabine Guillaume (DINUM, mission LABEL) et Bastien Guerry (DINUM, pôle logiciels libres d'Etalab) lors de l'émission « Libre à vous ! », animée par l'APRIL.
 
-- 1er décembre 2021 : [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État 2021 : "Le logiciel libre dans l'État et les réalisations".  Lire la [transcription](https://www.librealire.org/le-logiciel-libre-dans-l-etat-et-les-realisations).
+- 1er décembre 2021 : [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État 2021 : "Le logiciel libre dans l'État et les réalisations".  Lire la [transcription](https://www.librealire.org/le-logiciel-libre-dans-l-etat-et-les-realisations) de l'April.
 
 - 30 novembre 2021 : [Intervention vidéo](https://www.youtube.com/watch?v=LocTNyTT4Sw) lors du [5ème anniversaire de Software Heritage à l'Unesco](https://www.softwareheritage.org/news/events/swh5years/).
 
-- 21 octobre 2021 : [Conférence-débat](https://dai.ly/x898gok) « Open source et traitement des données, un modèle viable ? » au Ministère de l'Économie, des Finances et de la Relance.
+- 21 octobre 2021 : [Conférence-débat](https://dai.ly/x898gok) « Open source et traitement des données, un modèle viable ? » au Ministère de l'Économie, des Finances et de la Relance.  Lire la [transcription](https://www.librealire.org/open-source-et-traitement-des-donnees-un-modele-fiable) de l'April.
 
 - 9 décembre 2020 : [Intervention vidéo](https://www.dailymotion.com/video/x7xqldm) de Bastien Guerry (DINUM) et Matthieu Faure (Adullact) lors du Forum de l'Emploi Tech de l'État 2020 : "Le logiciel libre dans l'État et les réalisations".
 
