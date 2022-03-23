@@ -35,7 +35,7 @@ toc: false
 
 # Positionnements politiques
 
-- Intervention [vidéo](https://dai.ly/x89ayg9) de la ministre Amélie de Montchalin lors du sommet européen sur les politiques open source du 4 février 2022.
+- Intervention [vidéo](https://dai.ly/x89b1cq) de la ministre Amélie de Montchalin lors du sommet européen sur les politiques open source du 4 février 2022.
 
 - Déclaration de Strasbourg sur les valeurs et défis communs aux administrations publiques européennes ([PDF](https://www.transformation.gouv.fr/files/presse/Declaration_Strasbourg_valeurs_defis_administrations_publiques_europeennes_1.pdf)), 17 mars 2022.
 
