@@ -33,7 +33,15 @@ toc: false
 
 - 20 Avril 2021 : Participation à la [DigitALL Public conference](https://hadea.ec.europa.eu/events/digitall-public-conference_fr) : [The role of open source in the public sector](https://digitallpublic.app.swapcard.com/event/digitall-public/planning/UGxhbm5pbmdfMzUzNTA3) ([vidéo](https://youtu.be/QgvossmO240)).
 
-# Présentations/diaporamas en ligne
+# Positionnements politiques
+
+- Intervention [vidéo](https://dai.ly/x89ayg9) de la ministre Amélie de Montchalin lors du sommet européen sur les politiques open source du 4 février 2022.
+
+- Déclaration de Strasbourg sur les valeurs et défis communs aux administrations publiques européennes ([PDF](https://www.transformation.gouv.fr/files/presse/Declaration_Strasbourg_valeurs_defis_administrations_publiques_europeennes_1.pdf)), 17 mars 2022.
+
+- Commissioner Thierry Breton talking about the benefits of open source at the 2021 Open Source Policy Summit ([video](https://www.youtube.com/watch?v=I5e_ngrzm1E)).
+
+# Présentations et diaporamas en ligne
 
 Vous pouvez [retrouver en ligne nos présentations](https://speakerdeck.com/bluehats) ou certaines faites par d'autres administrations lors d'ateliers BlueHats.
 
@@ -71,3 +79,4 @@ Vous pouvez [retrouver en ligne nos présentations](https://speakerdeck.com/blue
 - [Revue de littérature à l'international](https://iasc-commons.org/key-publications/) par l'*International Association for the Studies of the Commons*
 
 - [Vers une République des biens communs ?](https://www.colloque-tv.com/colloques/vers-une-republique-des-biens-communs), Centre Culturel International de Cerisy, 2016.
+
