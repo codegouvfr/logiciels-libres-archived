@@ -3,12 +3,13 @@ title: "BSOC 2022 : Esup-Pod"
 toc: false
 ---
 
-**Contribuez à Esup-Pod : plateforme opensource de gestion de vidéo pour l'éducation nationale, l'enseignement supérieur et la recherche.**
+*Contribuez à Esup-Pod : plateforme opensource de gestion de vidéo pour l'éducation nationale, l'enseignement supérieur et la recherche.*
 
 ## Présentation du logiciel
 
-La plateforme Esup-Pod a été à l’origine initiée pour répondre au
-besoin de l'université Lille1, sciences et technologies, dès 2014.
+La plateforme [Esup-Pod](https://github.com/EsupPortail/Esup-Pod) a
+été à l’origine initiée pour répondre au besoin de l'université
+Lille1, sciences et technologies, dès 2014.
 
 L'objectif de cette plateforme était de rendre visible la production
 vidéo étudiante, de proposer un lieu de dépôt pour toute vidéo
