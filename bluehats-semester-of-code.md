@@ -101,7 +101,7 @@ Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.h
 
 # Ressources
 
-- Les [premières idées collectées](https://github.com/blue-hats/bluehats-soc#propositions-de-stage) à l'automne 2021 lors du premier appel à idées pour le BlueHats Semester of Code.
+- Les [idées collectées](https://github.com/blue-hats/bluehats-soc#propositions-de-stage) à l'automne 2021 lors du premier appel à idées pour le BlueHats Semester of Code - cet appel n'a pas permis de mobiliser des étudiants.
 
 ## Autres projets inspirants à l'international
 
