@@ -113,9 +113,11 @@ Les membres du pôle logiciels libres ont le droit de prendre sur leur temps de 
 
 # Rapports du pôle logiciels libres
 
-- [Année 2021](2021/rapport.md)
-- [Janvier 2022](2022/01.md)
-- [Février 2022](2022/02.md)
+- [Année 2021](2021/index.md)
+- [Année 2022](2022/index.md)
+  - [Janvier 2022](2022/01.md)
+  - [Février 2022](2022/02.md)
+  - [Mars 2022](2022/03.md)
 
 # Ressources (glossaire, interventions, liens externes, etc.)
 
