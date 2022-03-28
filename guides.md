@@ -5,6 +5,7 @@ toc: false
 
 # Guides pour la publication de logiciels libres
 
+- La publication du code source d'un projet, guide de A à Z
 - Choisir et/ou déployer une forge pour publier vos codes sources
 - Stimuler des contributions pour votre logiciel libre
 - Publier les codes sources d'un projet jusque-là fermé
@@ -24,6 +25,7 @@ toc: false
 - Guide de sensibilisation générale au logiciel libre, par et pour les administrations
 - Contribuer à un projet libre extérieur à l'administration
 - Contribuer via la forge SourceHut
+- Faire l'inventaire de vos dépendances libres critiques
 - [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
 - [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)
 - [Politique de contribution aux logiciels libres de l’État](pocos/index.md)
