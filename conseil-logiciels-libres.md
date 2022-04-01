@@ -8,7 +8,6 @@ La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action
 # Organismes publics auxquels sont rattachés les participants coté administrations
 
 - AMUE
-- ANCT
 - ANSSI
 - CNIL
 - DAJ du MEFR
