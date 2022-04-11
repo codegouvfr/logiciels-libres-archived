@@ -107,3 +107,4 @@ Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.h
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com)
 - [Open Source Research Experience](https://cross.ucsc.edu/news/news/2021_summerstudents.html)
+- [outreachy.org](https://www.outreachy.org)
