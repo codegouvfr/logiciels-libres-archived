@@ -5,7 +5,7 @@ toc: false
 
 ## Présentation du logiciel
 
-[Datafari](https://gitlab.datafari.com/datafari-community/datafari https://github.com/francelabs/datafari) est une moteur de recherche pour entreprise open source. C'est le produit idéal pour tous ceux qui ont besoin de rechercher et d'analyser leurs données et documents d'entreprise, tant au niveau du contenu que des métadonnées.
+[Datafari](https://gitlab.datafari.com/datafari-community/datafari) est une moteur de recherche pour entreprise open source. C'est le produit idéal pour tous ceux qui ont besoin de rechercher et d'analyser leurs données et documents d'entreprise, tant au niveau du contenu que des métadonnées.
 
 ## Compétences exigées pour le stagiaire contributeur
 
