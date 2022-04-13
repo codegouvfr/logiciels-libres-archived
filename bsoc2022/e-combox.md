@@ -3,7 +3,7 @@ title: "BSOC 2022 : e-comBox"
 toc: false
 ---
 
-*Déployer des applications métiers ( (PGI, e-commerce, etc.) en quelques clics c'est le défi relevé par l'e-comBox !  Application Web épousant des technologies modernes (Angular, TypeScript et Docker), intuitive et facile d'utilisation par des enseignants au service des apprentissages, l'e-comBox ne cesse de s'enrichir de nouvelles fonctionnalités. Votre contribution à ce projet ambitieux, au sein d'une équipe conviviale et experte, sera la bienvenue !*
+*Déployer des applications métiers (PGI, e-commerce, etc.) en quelques clics c'est le défi relevé par l'e-comBox !  Application Web épousant des technologies modernes (Angular, TypeScript et Docker), intuitive et facile d'utilisation par des enseignants au service des apprentissages, l'e-comBox ne cesse de s'enrichir de nouvelles fonctionnalités. Votre contribution à ce projet ambitieux, au sein d'une équipe conviviale et experte, sera la bienvenue !*
 
 ## Présentation du logiciel
 
