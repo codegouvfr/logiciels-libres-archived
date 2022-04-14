@@ -8,7 +8,7 @@ Voir les rapports mensuels:
 - [Janvier 2022](01.md)
 - [Février 2022](02.md)
 - [Mars 2022](03.md)
-<!-- - [Avril 2022](04.md) -->
+- [Avril 2022](04.md)
 <!-- - [Mai 2022](05.md) -->
 <!-- - [Juin 2022](06.md) -->
 <!-- - [Juillet 2022](07.md) -->
