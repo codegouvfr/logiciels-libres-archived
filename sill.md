@@ -15,7 +15,8 @@ toc: true
 agent public se porte volontaire pour en être le *référent*.
 
 Pour proposer un nouveau logiciel dans le SILL, envoyez un mail à
-[sill-mainteneurs@groupes.renater.fr](mailto:sill-mainteneurs@groupes.renater.fr) en précisant :
+[sill-mainteneurs@groupes.renater.fr](mailto:sill-mainteneurs@groupes.renater.fr)
+en précisant :
 
 -   de quel logiciel libre il s'agit ;
 -   quel usage en est fait dans votre administration ;
@@ -60,9 +61,9 @@ technique.
 
 ## Qui peut être « référent SILL » ?
 
-Tout agent public travaillant dans un organisme public de la fonction
-publique d'État ou hospitalière peut être référent d’un logiciel libre
-dont il connaît l’usage au sein de son administration.
+Tout agent public travaillant dans un organisme public peut être
+référent d’un logiciel libre dont il connaît l’usage au sein de son
+administration.
 
 ## Vous souhaitez être référent ?
 
@@ -83,19 +84,23 @@ référents](https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs) en envoyan
    cas de doute sur une licence, le groupe noyau qui coordonne
    l'ensemble du SILL est libre de refuser un logiciel.
    
-2. « Utilisé » veut dire que le logiciel est *installé* dans le
-   système d'information ou sur des postes de travail des agents : les
-   logiciels libres utilisés en *Software as a Service* par un
-   prestataire ne sont pas éligibles à la recommandation dans le SILL,
-   les prestataires ou éditeurs sont invités à les référencer dans le
-   catalogue [GouvTech](https://catalogue.numerique.gouv.fr/).
+2. « Utilisé » veut dire que le logiciel est installé sur des postes
+   de travail des agents ou sur des serveurs gérés par
+   l'administration, le tout à l'initiative de son service de
+   rattachement.
+
    "Significativement" peut porter sur le fait que le logiciel est en
    production, qu'il est utilisé depuis longtemps, par de nombreux
    agents ou qu'il est critique pour l'organisme public porteur.
-   
-3. Un agent public de la fonction publique d'État ou hospitalière pour
-   ce logiciel libre, qui accepte d'être inscrit à la liste
-   `sill-mainteneurs@groupes.renater.fr`.
+
+   Les logiciels libres utilisés en *Software as a Service* sur des
+   serveurs qui ne sont pas gérés par l'administration ne sont pas
+   éligibles à la recommandation dans le SILL.  Les prestataires ou
+   éditeurs sont invités à les référencer dans le catalogue
+   [GouvTech](https://catalogue.numerique.gouv.fr/).
+
+3. Un agent public pour ce logiciel libre, qui accepte d'être inscrit
+   à la liste `sill-mainteneurs@groupes.renater.fr`.
 
 4. Plusieurs logiciels aux fonctionnalités similaires peuvent figurer
    dans le SILL (voir par exemple ces [éditeurs de
@@ -110,28 +115,32 @@ référents](https://listes.etalab.gouv.fr/listinfo/sill-mainteneurs) en envoyan
 D'autres informations sont accessibles aux référents SILL sans être
 affichées publiquement :
 
--   Le logiciel est *mûr et actif* : la longévité est constatée, il y a de
-    bonnes garanties sur la pérennité et il existe une communauté
+-   Le logiciel est *mûr et actif* : la longévité est constatée, il y
+    a de bonnes garanties sur la pérennité et il existe une communauté
     dynamique ainsi qu’une feuille de route.
 
--   Le logiciel est *performant*, il a une bonne couverture fonctionnelle
-    par rapport au besoin.
+-   Le logiciel est *performant*, il a une bonne couverture
+    fonctionnelle par rapport au besoin.
 
 -   Pour les outils de bureautique, le *logiciel est multiplateforme*.
 
 -   Si pertinent, le *logiciel respecte des normes et des standards*,
-    notamment ceux du [RGI](http://references.modernisation.gouv.fr/interoperabilite) et du [RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/).
+    notamment ceux du
+    [RGI](http://references.modernisation.gouv.fr/interoperabilite) et
+    du
+    [RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/).
 
 -   Le logiciel propose des *facilités d'exploitation* : supervision,
-    administration, configuration, sauvegarde, existence d'installeurs,
-    d'outils de configuration et de déploiement.
+    administration, configuration, sauvegarde, existence
+    d'installeurs, d'outils de configuration et de déploiement.
 
--   Le logiciel est *adapté aux besoins des organismes publics* français :
-    intégration dans les SI, traduction en français, besoins spécifiques
-    aux grands comptes.
+-   Le logiciel est *adapté aux besoins des organismes publics*
+    français : intégration dans les SI, traduction en français,
+    besoins spécifiques aux grands comptes.
 
--   L’un des organismes publics utilisateur ayant un usage significatif
-    du logiciel a *publié des informations sur cet usage*.
+-   L’un des organismes publics utilisateur ayant un usage
+    significatif du logiciel a *publié des informations sur cet
+    usage*.
 
 # Outils de construction du SILL
 ## Les groupes MIM qui construisent le SILL
