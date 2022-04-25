@@ -25,6 +25,7 @@ toc: false
 
 # Positionnements politiques
 
+- Intervention [vidéo](https://youtu.be/TwCb_AAkCx8?t=2412) d'Amélie de Montchalin sur les logiciels libres des administrations européennes lors de la conférence des ministres européens chargés de l'administration publique du 17 mars 2022.
 - Intervention [vidéo](https://dai.ly/x89b1cq) de la ministre Amélie de Montchalin lors du sommet européen sur les politiques open source du 4 février 2022.
 - Déclaration de Strasbourg sur les valeurs et défis communs aux administrations publiques européennes ([PDF](https://www.transformation.gouv.fr/files/presse/Declaration_Strasbourg_valeurs_defis_administrations_publiques_europeennes_1.pdf)), 17 mars 2022.
 - Commissioner Thierry Breton talking about the benefits of open source at the 2021 Open Source Policy Summit ([video](https://www.youtube.com/watch?v=I5e_ngrzm1E)).
