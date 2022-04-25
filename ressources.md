@@ -6,12 +6,13 @@ toc: false
 # Intervention du pôle logiciels libres en français
 
 - 1er avril 2022 : [Intervention](https://dai.ly/x8a0i85) de Bastien Guerry en clôture de la [journée du libre éducatif](https://dane.ac-lyon.fr/spip/Journee-Du-Libre-Educatif-1er), Lyon.
-- 17 mars 2022 : [Présentation](https://dai.ly/x898gm2) du pôle logiciels libres à l'IRILL ([annonce](https://www.irill.org/events/2022/170322.html)).
+- 17 mars 2022 : [Présentation](https://dai.ly/x898gm2) du pôle logiciels libres à l'IRILL ([annonce](https://www.irill.org/events/2022/170322.html)).
 - 3 février 2022 : Présentation de la synthèse de ateliers sur les logiciels libres dans la recherche lors des [rencontres sur les enjeux du logiciel libre dans la recherche](https://communs.numerique.gouv.fr/rencontres/floss-esr-2022/).
 - 1er février 2022 : [Intervention lors du wébinaire de la mission LABEL (DINUM)](https://speakerdeck.com/bluehats/de-lexpression-de-besoin-au-deploiement-et-a-la-maintenance-les-etapes-clefs-de-lappropriation-des-solutions-libres) : De l'expression de besoin au déploiement et à la maintenance : les étapes clefs de l'appropriation des solutions libres.
 - 14 décembre 2021 : [Intervention radio](https://www.libreavous.org/126-plan-d-action-du-gouvernement-sur-les-logiciels-libres) de Sabine Guillaume (DINUM, mission LABEL) et Bastien Guerry (DINUM, pôle logiciels libres d'Etalab) lors de l'émission « Libre à vous ! », animée par l'APRIL.
 - 1er décembre 2021 : [Intervention vidéo](https://www.dailymotion.com/video/x85zvwx) de Bastien Guerry (DINUM) lors du Forum de l'Emploi Tech de l'État 2021 : "Le logiciel libre dans l'État et les réalisations".  Lire la [transcription](https://www.librealire.org/le-logiciel-libre-dans-l-etat-et-les-realisations) de l'April.
 - 21 octobre 2021 : [Conférence-débat](https://dai.ly/x898gok) « Open source et traitement des données, un modèle viable ? » au Ministère de l'Économie, des Finances et de la Relance.  Lire la [transcription](https://www.librealire.org/open-source-et-traitement-des-donnees-un-modele-fiable) de l'April.
+- 3 juin 2021 : [Présentation de la licence Ouverte 2.0](https://meta.wikimedia.org/wiki/Webinaire_wiki,_data_et_GLAM_2021/Programme/R%C3%A9sum%C3%A9s_des_interventions#Pr%C3%A9sentation_de_la_licence_Ouverte_2.0_et_du_Code_des_relations_entre_le_public_et_l'administration) : tous les contenus de data.gouv.fr sont réutilisables sur Wikidata.
 - 9 décembre 2020 : [Intervention vidéo](https://www.dailymotion.com/video/x7xqldm) de Bastien Guerry (DINUM) et Matthieu Faure (Adullact) lors du Forum de l'Emploi Tech de l'État 2020 : "Le logiciel libre dans l'État et les réalisations".
 - 9 juillet 2019 : [Intervention radio](https://www.libreavous.org/33-dinsic-ziklibrenbib-irfm-et-parcoursup) de Xavier Béchade (DINSIC/Tchap) et Bastien Guerry (DINSIC/Etalab) lors de l'émission « Libre à vous ! », animée par l'APRIL.
 
@@ -40,7 +41,7 @@ Vous pouvez [retrouver en ligne nos présentations](https://speakerdeck.com/blue
 - *Note d’opportunité sur la valorisation des logiciels issus de la recherche* 2020.  Lire sur [ouvrirlascience.fr](https://www.ouvrirlascience.fr/note-dopportunite-sur-la-valorisation-des-logiciels-issus-de-la-recherche/).
 - *Encouraging a wider usage of software derived from research: Opportunity Note* 2020.  Télécharger [l'article sur HAL](https://hal.archives-ouvertes.fr/hal-02545142).
 - Le n°13 (février 2021) de la revue « La collection numérique » de l'Amue : « [Vive le numérique libre](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N__13_-_Vive_le_Numerique_libre__fevrier_2021_.pdf) ».
-- Le n°19 (février 2022) de la revue « La collection numérique » de l'Amue : « [Les veilles](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf) ».
+- Le n°19 (février 2022) de la revue « La collection numérique » de l'Amue : « [Les veilles](https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf) ».
 
 # Éléments sur les communs
 
