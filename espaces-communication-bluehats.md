@@ -2,7 +2,7 @@
 title: Où échanger avec d'autres agents publics libristes et la communauté BlueHats ?
 toc: true
 ---
-
+# Télécharger le [livret PDF de présentation](docs/pole-logiciels-libres-produits-bluehats.pdf)
 # Espaces publics ouverts à tous
 
 - La [liste de discussion publique #BlueHats](https://lists.sr.ht/~etalab/bluehats): vous pouvez vous y abonner en écrivant à `~etalab/bluehats+subscribe@lists.sr.ht` et y envoyer des mails *en texte brut* en écrivant à `~etalab/bluehats@lists.sr.ht`.  **Attention :** quand vous écrivez à la liste, celle-ci ne vous envoie pas de copie de vos propres mails.
