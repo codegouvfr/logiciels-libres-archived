@@ -13,7 +13,7 @@ Conçu pour faciliter son appropriation par des équipes non spécialistes en ca
 
 L'outil permet de saisir des objets géographiques, de les décrire et d'y associer des fiches actions. Il permet le suivi dans le temps des informations, la constitution automatique de bilans. Il s'appuie sur un module dictionnaire permettant de décrire tous types de thématiques métiers.
 
-Depuis 2019, Sysma fait l'objet d'une mise à disposition auprès de nombreuses structures de gestion des bassins versants dans le cadre d'une démarche de mutualisation des coûts d'administration et d'hébergement. 
+Depuis 2019, Sysma fait l'objet d'une mise à disposition auprès de nombreuses structures de gestion des bassins versants dans le cadre d'une démarche de mutualisation des coûts d'administration et d'hébergement.
 
 **Sysma est aujourd'hui utilisé par une quinzaine de structures pour une centaine d'utilisateurs** (techniciens de rivière, ingénieurs et géomaticiens).
 
@@ -23,11 +23,11 @@ Sa simplicité d'utilisation, d'installation et d'administration, la facilité d
 
 ## Compétences exigées pour le stagiaire contributeur
 
-- Compétences techniques : 
+- Compétences techniques :
   - Connaissance environnement linux : devops/sysadmin, shell, Docker...
   - Connaissance d'un langage backend : PHP idéalement ou python
   - Connaissance admin DB (postgresql, SQL)
-- Savoir-être professionnel : 
+- Savoir-être professionnel :
   - Bonne capacité de communication
   - Autonomie
 
@@ -37,12 +37,12 @@ Sa simplicité d'utilisation, d'installation et d'administration, la facilité d
 - Avec les 3 membres de l'équipe de dev et data, vous participerez à l'élaboration de la version terrain de Sysma. Vous devrez identifier puis mettre en oeuvre des outils permettant de résoudre un de nos problèmes complexes : la synchronisation des données entre une base de données de référence sur un serveur et des clients sur le terrain suceptibles de continuer à saisir des données tout en étant hors-ligne.
 - Etude des methodes et technologies permettant le fonctionnement offline satisfaisant d'une webapp liée à une base de données telle que Sysma.
 - Evaluations, benchmarks puis choix des technologies les plus adaptées.
-- Développement et tests sur cible de type Raspberry ou Android. 
+- Développement et tests sur cible de type Raspberry ou Android.
 
 ## Quel encadrement pour le stagiaire ?
 
 Vous serez encadré par 3 ingénieurs. Comptez sur leur disponibilité particulièrement en début de stage puis 30min par jour en moyenne.
-- Sebatien Renou: Reponsable SI, développeur, créateur de Sysma. 12 ans à l'EPTB SN, 17 ans d'expérience dans le développement d'outils web au service des thématiques environnementales.
-- Antoine Riviere :  Chargé de mission observatoire, développeur, administrateur SGDB, 7 ans à l'EPTB SN, 20 ans d'expérence dans les SIG/SGBD open-sources. 
+- Sébastien Renou: Reponsable SI, développeur, créateur de Sysma. 12 ans à l'EPTB SN, 17 ans d'expérience dans le développement d'outils web au service des thématiques environnementales.
+- Antoine Riviere :  Chargé de mission observatoire, développeur, administrateur SGDB, 7 ans à l'EPTB SN, 20 ans d'expérence dans les SIG/SGBD open-sources.
 - Alexandre Rivière: Ingénieur/développeur. 1 an à l'EPTB-SN. 17 ans d'expériences dont plusieurs années sur des projets open-sources (ROS, dophin-emu).
 - **Perspective :** Sur la période 2022-2023 nous organiserons l'accéleration du développement de Sysma en accompagnement de son déploiement/utilisation croissant sur les territoires. Cette accélération se fera avec le recrutement de développeurs supplémentaires. La sécurisation des financements nécessaires est en cours.
