@@ -91,8 +91,8 @@ Le pôle logiciels libres ne propose pas (encore) de formations liées aux logic
 
 # Nous ne répondons pas
 
+- Aux demandes qui n'entrent dans aucune des catégories listées ci-dessus.
 - Aux demandes de formation (celles-ci n'existent pas encore).
 - Aux demandes de promotion d'un logiciel (libre ou non) dans l'administration.
-- Aux demandes qui n'entrent dans aucune des catégories listées.
-- Aux demandes techniques sur la mise en oeuvre des systèmes d'information
-- Aux demandes techniques sur des logiciels libres particuliers
+- Aux demandes techniques sur la mise en oeuvre de systèmes d'information.
+- Aux demandes techniques sur des logiciels libres ou non libres particuliers.
