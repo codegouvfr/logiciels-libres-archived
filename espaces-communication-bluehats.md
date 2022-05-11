@@ -2,6 +2,7 @@
 title: Où échanger avec d'autres agents publics libristes et la communauté BlueHats ?
 toc: true
 ---
+
 # Télécharger le [livret PDF de présentation](docs/pole-logiciels-libres-produits-bluehats.pdf)
 # Espaces publics ouverts à tous
 
