@@ -7,9 +7,9 @@ toc: true
 
 Les licences listées sur cette page correspondent aux licences reconnues libres *à la fois* par la Free Software Foundation et l'Open Source Initiative, à l'exception de quelques licences CeCILL (reconnues soit par la FSF soit par l'OSI).
 
-Nous nous sommes appuyés sur https://spdx.org/licenses/ pour la constituer.
+Nous nous sommes appuyés sur la page https://spdx.org/licenses pour la constituer.
 
-Les logiciels libres référencés dans le [catalogue GouvTech](https://catalogue.numerique.gouv.fr/catalogue?distribution=Logiciel%20libre) et le [socle interministériel de logiciels libres](https://sill.etalab.gouv.fr/) doivent être publiées sous l'une des licences listées dans cette page.
+Les logiciels libres référencés dans le [catalogue GouvTech](https://catalogue.numerique.gouv.fr/catalogue?distribution=Logiciel%20libre) et le [socle interministériel de logiciels libres](https://sill.etalab.gouv.fr/) doivent être publiés sous l'une des licences listées dans cette page.
 
 # Licences libres (reconnues FSF & OSI) utilisables pour les projets de l'administration
 
