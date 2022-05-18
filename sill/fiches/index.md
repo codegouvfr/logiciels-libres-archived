@@ -1,6 +1,6 @@
 ---
 title: Fiches détaillées pour des logiciels libres du SILL
-toc: true
+toc: false
 ---
 
 # Fiches existantes
