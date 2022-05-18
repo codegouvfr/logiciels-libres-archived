@@ -21,7 +21,7 @@ publiques des trois fonctions publiques, les « référents SILL ».
 Pour toute question, vous pouvez écrire au pôle logiciels libres qui
 anime cette communauté : <logiciels-libres@data.gouv.fr>
 
-## Pourquoi ce catalogue ?
+# Pourquoi ce catalogue ?
 
 Le SILL aide les administrations à s'y retrouver dans les logiciels
 libres dont elles doivent considérer l'utilisation, en respect de
@@ -36,7 +36,7 @@ numérique](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033205068)
 > l'achat ou de l'utilisation, de tout ou partie, de ces systèmes
 > d'information. »
 
-## Les critères d'entrée d'un logiciel dans le SILL
+# Les critères d'entrée d'un logiciel dans le SILL
 
 Pour qu'un logiciel libre figure au SILL :
 
@@ -61,7 +61,7 @@ contenus](https://sill.etalab.gouv.fr/fr/software?id=36)) : les
 référents SILL travaillent à faire évoluer le SILL de façon à ce que
 ce catalogue aide à choisir entre ces solutions multiples.
 
-## Comment ajouter un logiciel libre dans le SILL ?
+# Comment ajouter un logiciel libre dans le SILL ?
 
 Pour qu'un logiciel soit référencé dans le SILL, il faut qu'un ou
 plusieurs agents publics se portent volontaires pour en être les
@@ -72,16 +72,16 @@ Pour devenir référent SILL, créez un compte sur
 soit ajouter un nouveau logiciel libre, soit vous ajouter comme
 référent d'un logiciel libre déjà présent.
 
-## Que signifie être « référent » d'un logiciel ?
+# Que signifie être « référent » d'un logiciel ?
 
-### Qui peut être « référent SILL » ?
+## Qui peut être « référent SILL » ?
 
 **Tout agent public** travaillant dans un organisme public de l'une
 des trois fonctions publiques peut être référent d'un logiciel libre
 dont il a l'usage sur son poste de travail ou dont il connaît l'usage
 dans son administration.
 
-### Quels sont les tâches du référent ?
+## Quels sont les tâches du référent ?
 
 **Le référent :**
 
@@ -99,13 +99,13 @@ dans son administration.
 5.  cherche un référent pour le remplacer s'il vient à ne plus pouvoir
     être référent.
 
-### Qui a accès au référent SILL d'un logiciel ?
+## Qui a accès au référent SILL d'un logiciel ?
 
 Seules les personnes inscrites sur le site
 [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr) peuvent accéder aux
 courriels des référents SILL.
 
-## Documentation des cas d'usage (\"fiches\" SILL)
+# Documentation des cas d'usage (\"fiches\" SILL)
 
 À la saisie d'une fiche SILL, il est demandé au référent de présenter
 rapidement le cas d'usage du logiciel dans son administration ou sur
@@ -117,7 +117,7 @@ fiche détaillée plus complète en contribuant à ce wiki.
 Vous trouvez la liste des fiches rédigées à ce jour dans le répertoire
 *sill/fiches/*.
 
-## Licence du SILL et de ce dépôt
+# Licence du SILL et de ce dépôt
 
 Le SILL est publié par les groupes de mutualisation interministérielle
 sous [licence Ouverte
