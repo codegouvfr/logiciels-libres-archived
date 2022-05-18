@@ -117,7 +117,7 @@ fiche détaillée plus complète en contribuant à ce wiki.
 Vous trouvez la liste des fiches rédigées à ce jour dans le répertoire
 [sill/fiches/](sill/fiches/index.md).
 
-# Licence du SILL et de ce dépôt
+# Licence des données du SILL
 
 Le SILL est publié par les groupes de mutualisation interministérielle
 sous [licence Ouverte
