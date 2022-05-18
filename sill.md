@@ -122,6 +122,3 @@ Vous trouvez la liste des fiches rédigées à ce jour dans le répertoire
 Le SILL est publié par les groupes de mutualisation interministérielle
 sous [licence Ouverte
 2.0](https://github.com/etalab/Licence-Ouverte/blob/master/LO.md).
-
-Ce dépôt est publié sous [licence Ouverte
-2.0](https://github.com/etalab/Licence-Ouverte/blob/master/LO.md).
