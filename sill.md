@@ -40,9 +40,9 @@ numérique](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033205068)
 
 Pour qu'un logiciel libre figure au SILL :
 
--   Son code source doit être publié sous l'une des *licences libres
-    acceptées*, sans délai entre la publication du code source et
-    celle des fichiers exécutables.
+-   Son code source doit être publié sous l'une des [licences libres
+    acceptées](licences-libres-dinum.md), sans délai entre la
+    publication du code source et celle des fichiers exécutables.
 
 -   Il doit être déployé par la DSI d'un établissement ou installé par
     un agent public sur son poste de travail.
