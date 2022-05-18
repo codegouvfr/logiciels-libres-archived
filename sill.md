@@ -115,7 +115,7 @@ Si les référents d'un logiciel le souhaitent, ils peuvent proposer une
 fiche détaillée plus complète en contribuant à ce wiki.
 
 Vous trouvez la liste des fiches rédigées à ce jour dans le répertoire
-*sill/fiches/*.
+[sill/fiches/](sill/fiches/index.md).
 
 # Licence du SILL et de ce dépôt
 
