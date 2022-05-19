@@ -16,7 +16,7 @@ est accessible sur le site
 [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr).
 
 Il est construit de façon collaborative par une communauté d'agents
-publiques des trois fonctions publiques, les « référents SILL ».
+publics, les « référents SILL ».
 
 Pour toute question, vous pouvez écrire au pôle logiciels libres qui
 anime cette communauté : <logiciels-libres@data.gouv.fr>
@@ -76,10 +76,10 @@ référent d'un logiciel libre déjà présent.
 
 ## Qui peut être « référent SILL » ?
 
-**Tout agent public** travaillant dans un organisme public de l'une
-des trois fonctions publiques peut être référent d'un logiciel libre
-dont il a l'usage sur son poste de travail ou dont il connaît l'usage
-dans son administration.
+**Tout agent public** titulaire ou contractuel travaillant dans un
+organisme public de l'une des trois fonctions publiques peut être
+référent d'un logiciel libre dont il a l'usage sur son poste de
+travail ou dont il connaît l'usage dans son administration.
 
 ## Quels sont les tâches du référent ?
 
