@@ -44,8 +44,8 @@ Pour qu'un logiciel libre figure au SILL :
     acceptées](licences-libres-dinum.md), sans délai entre la
     publication du code source et celle des fichiers exécutables.
 
--   Il doit être déployé par la DSI d'un établissement ou installé par
-    un agent public sur son poste de travail.
+-   Il doit être déployé par la DSI d'un établissement public ou
+    installé par un agent public sur son poste de travail.
 
 Les logiciels libres utilisés en *Software as a Service* sur des
 serveurs qui ne sont pas gérés par l'administration ne sont pas
