@@ -47,10 +47,14 @@ Pour qu'un logiciel libre figure au SILL :
 -   Il doit être déployé par la DSI d'un établissement public ou
     installé par un agent public sur son poste de travail.
 
-Les logiciels libres utilisés en *Software as a Service* sur des
-serveurs qui ne sont pas gérés par l'administration ne sont pas
-éligibles à la recommandation dans le SILL. Les prestataires ou
-éditeurs sont invités à les référencer dans le catalogue
+Les logiciels libres utilisés en *Software as a Service* peuvent être
+référencés à condition que l'administration soit techniquement ou
+administrativement en charge des serveurs où sont déployés les
+logiciels.
+
+Les prestataires ou éditeurs de solutions *SaaS* s'appuyant sur des
+logiciels libres hébergés sur des serveurs que l'administration ne
+gère pas sont invités à référencer leurs solutions dans le catalogue
 [GouvTech](https://catalogue.numerique.gouv.fr/).
 
 Plusieurs logiciels aux fonctionnalités similaires peuvent figurer
