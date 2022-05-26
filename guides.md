@@ -23,7 +23,7 @@ toc: false
 # Autres guides
 
 - Guide de sensibilisation générale au logiciel libre, par et pour les administrations
-- Contribuer à un projet libre extérieur à l'administration
+- Contribuer à un projet libre extérieur à l'administration (signature des CLA, etc.)
 - Contribuer via la forge SourceHut
 - Faire l'inventaire de vos dépendances libres critiques
 - [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
