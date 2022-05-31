@@ -3,6 +3,7 @@ title: Liste des logiciels libres du marché de support interministériel
 toc: true
 ---
 
+Pour le détail des versions inclues dans le marché, sollicitez votre coordinateur ministériel.  Si vous ne connaissez pas votre coordinateur ministériel, envoyez un mail à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
 # Logiciels libres au marché de support
 

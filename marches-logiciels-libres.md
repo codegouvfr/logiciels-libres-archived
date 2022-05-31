@@ -3,10 +3,9 @@ title: Bénéficiaires des marchés interministériels support et expertise logi
 toc: true
 ---
 
-Si votre établissement est bénéficiaire de l'un des deux marchés et si
-vous ne connaissez pas le courriel de contact de votre coordinateur,
-vous pouvez nous le demander en écrivant à
-[logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+Si votre établissement est bénéficiaire de l'un des deux marchés et si vous ne connaissez pas le courriel de contact de votre coordinateur, vous pouvez nous le demander en écrivant à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+
+Nous publions aussi la [liste des logiciels libres pour lesquels vous pouvez demander du support](marches-logiciels-libres-liste-logiciels.md) ainsi que la [liste des contributions faites aux projets libres](marches-logiciels-libres-liste-contributions.md) via le marché.
 
 # Liste des bénéficiaires du marché interministériel support logiciels libres
   
