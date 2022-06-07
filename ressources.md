@@ -3,8 +3,10 @@ title: Ressources diverses
 toc: false
 ---
 
-# Intervention du pôle logiciels libres en français
+# Interventions du pôle logiciels libres en français
 
+- 2 juin 2022_: Présentation du pôle lors de la commission SSI de l'[ADBU](https://adbu.fr/)
+- 12 mai 2022 : Participation du pôle à la journée du développement de la DGA MI (Rennes)
 - 1er avril 2022 : [Intervention](https://dai.ly/x8a0i85) de Bastien Guerry en clôture de la [journée du libre éducatif](https://dane.ac-lyon.fr/spip/Journee-Du-Libre-Educatif-1er), Lyon.
 - 17 mars 2022 : [Présentation](https://dai.ly/x898gm2) du pôle logiciels libres à l'IRILL ([annonce](https://www.irill.org/events/2022/170322.html)).
 - 3 février 2022 : Présentation de la synthèse de ateliers sur les logiciels libres dans la recherche lors des [rencontres sur les enjeux du logiciel libre dans la recherche](https://communs.numerique.gouv.fr/rencontres/floss-esr-2022/).
@@ -16,7 +18,7 @@ toc: false
 - 9 décembre 2020 : [Intervention vidéo](https://www.dailymotion.com/video/x7xqldm) de Bastien Guerry (DINUM) et Matthieu Faure (Adullact) lors du Forum de l'Emploi Tech de l'État 2020 : "Le logiciel libre dans l'État et les réalisations".
 - 9 juillet 2019 : [Intervention radio](https://www.libreavous.org/33-dinsic-ziklibrenbib-irfm-et-parcoursup) de Xavier Béchade (DINSIC/Tchap) et Bastien Guerry (DINSIC/Etalab) lors de l'émission « Libre à vous ! », animée par l'APRIL.
 
-# Intervention du pôle logiciels libres en anglais
+# Interventions du pôle logiciels libres en anglais
 
 - 6 février 2022 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/9000_public_code_repositories/) : We listed +9000 public code repositories. Now what? How to build valuable services on top of fragile assets.  [Watch the video](https://dai.ly/x87r20r).
 - 5 février 2022 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/open_research_french_ecosystem/) : What is special about open source research software and why does it matters? Reporting about progresses and challenges from the French ecosystem.  [Watch the video](https://dai.ly/x87r1wo).
