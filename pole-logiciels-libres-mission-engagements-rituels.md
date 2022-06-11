@@ -1,6 +1,6 @@
 ---
 title: Mission, engagements et rituels du pôle logiciels libres
-toc: false
+toc: true
 ---
 
 # Mission
