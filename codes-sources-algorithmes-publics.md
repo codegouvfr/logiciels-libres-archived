@@ -1,6 +1,6 @@
 ---
 title: Codes sources d'algorithmes publics
-toc: true
+toc: false
 ---
 
 La Loi pour une République numérique pose deux principes :
@@ -13,8 +13,7 @@ La Loi pour une République numérique pose deux principes :
 
 Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](https://github.com/etalab/ouverture-des-codes-sources-publics).
 
-
-# Algorithmes publics aujourd'hui publiés
+# Algorithmes publics dont le code source est publié
 
 | Thème / objet                             | Producteur                                                                     | URL de publication                                                                                                                                                                                    | Informations complémentaires                                                                                                        | Licence                                                                                     |
 |-------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
@@ -32,4 +31,7 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 | Saphir                                    | [Trésor](https://www.tresor.economie.gouv.fr/)                                 | [Github](https://github.com/DGTresor/Saphir) ou [Framagit](https://framagit.org/DGTresor/Saphir)                                                                                                      | [Github](https://github.com/DGTresor/Saphir/blob/master/README.md)                                                                  | [CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)                        |
 | Allocation de retour à l'emploi           | [Pôle emploi](https://www.pole-emploi.fr)                                      | [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/calcul-de-lallocation-daide-au-retour-a-lemploi-are/) ou [pole-emploi.fr](https://www.pole-emploi.fr/candidat/algorithmes-@/index.jspz?id=568707) | [Pôle emploi](https://www.pole-emploi.fr/candidat/algorithmes-@/index.jspz?id=568707)                                               | [CeCILL-C](http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html)                     |
 | Titre Emploi Service Entreprise           | [URSSAF](https://www.urssaf.org)                                               | [urssaf.org](https://www.urssaf.org/home/tese-code-source.html)                                                                                                                                       | [CeCILL](http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.html)                                                               |                                                                                             |
+
+*En cas d'absence de licence, le droit s'applique normalement et le code source est librement réutilisable par tous.
+
 
