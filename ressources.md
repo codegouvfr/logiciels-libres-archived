@@ -5,7 +5,7 @@ toc: false
 
 # Interventions du pôle logiciels libres en français
 
-- 2 juin 2022_: Présentation du pôle lors de la commission SSI de l'[ADBU](https://adbu.fr/)
+- 2 juin 2022 : Présentation du pôle lors de la commission SSI de l'[ADBU](https://adbu.fr)
 - 12 mai 2022 : Participation du pôle à la journée du développement de la DGA MI (Rennes)
 - 1er avril 2022 : [Intervention](https://dai.ly/x8a0i85) de Bastien Guerry en clôture de la [journée du libre éducatif](https://dane.ac-lyon.fr/spip/Journee-Du-Libre-Educatif-1er), Lyon.
 - 17 mars 2022 : [Présentation](https://dai.ly/x898gm2) du pôle logiciels libres à l'IRILL ([annonce](https://www.irill.org/events/2022/170322.html)).
