@@ -7,7 +7,7 @@ toc: true
 # Espaces publics ouverts à tous
 
 - La [liste de discussion publique #BlueHats](https://lists.sr.ht/~etalab/bluehats): vous pouvez vous y abonner en écrivant à `~etalab/bluehats+subscribe@lists.sr.ht` et y envoyer des mails *en texte brut* en écrivant à `~etalab/bluehats@lists.sr.ht`.  **Attention :** quand vous écrivez à la liste, celle-ci ne vous envoie pas de copie de vos propres mails.
-- Le canal public IRC `#bluehats` du serveur `irc.libera.chat`: vous pouvez [vous connecter via une interface web](https://web.libera.chat/#bluehats).
+- Le canal public IRC `#bluehats` du serveur `irc.libera.chat`: vous pouvez [vous connecter via une interface web](https://web.libera.chat/#bluehats).  Le pôle logiciels libres est présent tous les lundi de 16h à 17h pour répondre à des questions.
 
 # Espaces réservés aux agents publics
 
