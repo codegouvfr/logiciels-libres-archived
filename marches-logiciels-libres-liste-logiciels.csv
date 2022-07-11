@@ -1,0 +1,311 @@
+awx
+ansible
+apache directory
+apache hadoop
+apache oozie
+apache ranger
+apache spark
+apache tez
+apache kafka
+apache superset
+asqatasun
+bareos
+bigbluebutton
+collabora online
+cups
+docker
+dovecot
+fluentd
+gitlab
+gunicorn
+influxdb
+information system designer
+intellij
+kali linux
+linstor
+logstash
+maarch courrier
+maarch rm
+metricbeat
+moodle
+nats.io
+noyau centos
+noyau debian
+noyau ubuntu
+peertube
+phpmyadmin
+prodftpd
+promotheus
+pulseaudio
+rocketchat
+scenari greffons
+spip
+suricata
+scenari
+selenium plugin
+sendmail
+snaketail
+solr
+spring boot
+suitecrm
+symfony
+the hive
+truenas core
+vault
+wekan
+xrdp
+zend engine
+bootstrap
+gravitee
+jsch
+phpbb
+pmd
+portainer
+tcpdump
+
+# logiciels libres critiques au marché de support
+389 directory server
+activemq
+alfresco community
+amavisd-new
+angularjs
+ant
+antlr
+apache commons
+apache http server
+apache xml security
+audit
+awstats
+axis
+bacula
+bouncycastle
+bugzilla
+cargo
+castor
+centreon
+cglib
+c-icap
+clamav
+cobbler
+cyrus imap
+datafaris
+datalift
+dbunit
+display tag
+dojo
+dom4j
+drbd
+drbdlinks
+driver jdbc pour postgresql
+drools expert
+drupal-core
+dspace
+eclipse
+ehcache
+elasticsearch
+explorer++
+filezilla client
+filezilla serveur
+firebird
+firefox
+fop
+fpdf
+fpdi
+framadate
+freeradius
+func
+fusion forge
+fusion inventory
+ganttproject
+gatling
+geoserver
+gfs2
+git
+glibc
+glpi
+gnucobol
+gnupg
+grafana
+gridlex
+grr
+haproxy
+havp
+heartbeat
+hibernate
+horde
+ibatis
+imagemagick
+isc bind
+isc dhcp
+itext
+jasperreports
+jasperstudio
+jaxen
+jaxrpc
+jax-ws ri
+jboss
+jenkins
+jersey
+jfrog artifactory
+jmeter
+joget
+joomla !
+jquery ui
+jstl
+junit
+kanboard
+keepalived
+keepass
+keycloak
+kubernetes
+lemonldap::ng
+libnss-pgsql
+libpcap
+libreoffice
+libvirt
+limesurvey
+log4j
+logback
+logrotate
+lucene
+lvm
+lvs (linux virtual server) / ipvsadm
+mantis
+mariadb
+matomo (ex. piwik)
+maven et plugins
+mbeanmonitor
+mediawiki
+metabase
+metrics
+minio
+mit kerberos
+mongodb
+mpdf
+mx4j
+myfaces
+mysql
+nagios
+neo4j
+neo4j-ogm
+nextcloud
+nexus
+nfs
+nginx
+nmap
+nodejs
+nss_ldap
+ntp
+nvda
+ocs inventory ng
+opendkim
+opendmarc
+openfire (anciennement wildfire)
+open jdk
+openldap
+opennebula
+opensc
+opensearchserver
+openssh (dont sftp server)
+openssl
+opensta
+openvpn
+openvswitch
+ora2pg
+osworkflow
+owasp csrf guard
+owasp java html sanitizer
+papyrus
+passbolt ce
+pdftk
+pentaho ce
+perl
+petals
+pgadmin
+php
+postfix
+postgresql
+primeface
+projectlibre
+proxmox backup server
+proxmox ve
+publik
+puppet
+putty
+pyspf
+python
+qgis
+quartz
+r
+rancher
+redis
+redmine
+regexp
+repmgr
+roundcube
+rrdtool
+rshiny
+rspamd
+rstudio
+rsync
+rsyslog
+rundeck
+saaj
+sabredav
+samba
+servicemix
+shorewall
+sl4j
+slony-i
+smarty
+snort
+soapui
+sogo
+sonar
+spamassassin
+spring framework
+squash tm
+squid
+squidguard
+squirrel sql
+statusnet
+struts 1
+struts 2
+stunnel
+sumatra
+svn
+sympa
+syslog-ng
+sysstat (sar & isag)
+talend open studio
+tanaguru
+testlink
+tftp-server
+thunderbird
+tomcat
+torque
+tortoise svn
+ultravnc
+varnish
+veyon
+virt-manager
+vsftpd
+webmin
+winpt
+winscp3
+wordpress
+wsdl4j
+wso2 api management
+xades4j
+xalan-java
+xdoclet
+xerces2 java
+xmlbeans
+xml graphics common
+xmlsec
+xmltask
+xwiki
+zabbix
+zammad
+zookeeper
+z-push
