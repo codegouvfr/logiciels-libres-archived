@@ -19,7 +19,7 @@ GitLab, either via gitlab.com or via a local instance.
 on [SourceHut](https://sourcehut.org).  Why?**
 
 As shown in [this
-list](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab),
+list](https://github.com/etalab/etalab/blob/main/travailler-chez-etalab/nos-outils/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab-),
 Etalab has long been committed to using free software: it's mainly
 this commitment that decided the Free Software unit to use SourceHut
 to publish most of its source code.  It's also to demonstrate that

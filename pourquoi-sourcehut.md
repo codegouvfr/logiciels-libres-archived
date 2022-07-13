@@ -20,7 +20,7 @@ une instance locale.
 codes sources sur [SourceHut](https://sourcehut.org).  Pourquoi ?**
 
 Comme le montre [cette
-liste](https://github.com/etalab/etalab/blob/master/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab),
+liste](https://github.com/etalab/etalab/blob/main/travailler-chez-etalab/nos-outils/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab-),
 Etalab s'est tôt engagé dans le fait de recourir à des logiciels
 libres : c'est d'abord cet engagement qui a décidé le pôle logiciels
 libres à utiliser SourceHut pour publier une partie de ses codes
