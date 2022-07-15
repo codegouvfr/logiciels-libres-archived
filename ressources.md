@@ -7,7 +7,7 @@ toc: false
 
 - 2 juin 2022 : Présentation du pôle lors de la commission SSI de l'[ADBU](https://adbu.fr)
 - 12 mai 2022 : Participation du pôle à la journée du développement de la DGA MI (Rennes)
-- 1er avril 2022 : [Intervention](https://dai.ly/x8a0i85) de Bastien Guerry en clôture de la [journée du libre éducatif](https://dane.ac-lyon.fr/spip/Journee-Du-Libre-Educatif-1er), Lyon.
+- 1er avril 2022 : [Intervention](https://dai.ly/x8a0i85) de Bastien Guerry en clôture de la [journée du libre éducatif](https://dane.ac-lyon.fr/spip/Journee-Du-Libre-Educatif-1er), Lyon.  Lire la [transcription](https://www.librealire.org/cloture-de-la-journee-du-libre-educatif-2022) de l'April.
 - 17 mars 2022 : [Présentation](https://dai.ly/x898gm2) du pôle logiciels libres à l'IRILL ([annonce](https://www.irill.org/events/2022/170322.html)).
 - 3 février 2022 : Présentation de la synthèse de ateliers sur les logiciels libres dans la recherche lors des [rencontres sur les enjeux du logiciel libre dans la recherche](https://communs.numerique.gouv.fr/rencontres/floss-esr-2022/).
 - 1er février 2022 : [Intervention lors du wébinaire de la mission LABEL (DINUM)](https://speakerdeck.com/bluehats/de-lexpression-de-besoin-au-deploiement-et-a-la-maintenance-les-etapes-clefs-de-lappropriation-des-solutions-libres) : De l'expression de besoin au déploiement et à la maintenance : les étapes clefs de l'appropriation des solutions libres.
