@@ -85,6 +85,11 @@ organisme public de l'une des trois fonctions publiques peut être
 référent d'un logiciel libre dont il a l'usage sur son poste de
 travail ou dont il connaît l'usage dans son administration.
 
+Les référents SILL sont inscrits à la liste de discussion
+`sill-mainteneurs@groupes.renater.fr`.  S'ils le souhaitent, ils
+peuvent s'en désinscrire eux-mêmes ou demander à
+`logiciels-libres@data.gouv.fr` de les désinscrire.
+
 ## Quels sont les tâches du référent ?
 
 **Le référent :**
@@ -109,7 +114,7 @@ Seules les personnes inscrites sur le site
 [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr) peuvent accéder aux
 courriels des référents SILL.
 
-# Documentation des cas d'usage (\"fiches\" SILL)
+# Documentation des cas d'usage (fiches SILL « cas d'usage »)
 
 À la saisie d'une fiche SILL, il est demandé au référent de présenter
 rapidement le cas d'usage du logiciel dans son administration ou sur
@@ -120,6 +125,12 @@ fiche détaillée plus complète en contribuant à ce wiki.
 
 Vous trouvez la liste des fiches rédigées à ce jour dans le répertoire
 [sill/fiches/](sill/fiches/index.md).
+
+# Documentation des logiciels libres présents dans un SI (fiches SILL « SI-LL »)
+
+Les référents qui le souhaitent peuvent proposer une fiche « SI-LL »
+pour décrire les logiciels libres présents dans leur SI, avec des
+liens vers le SILL pour les logiciels libres déjà référencés au SILL.
 
 # Licence des données du SILL
 
