@@ -5,6 +5,7 @@ toc: false
 
 # Interventions du pôle logiciels libres en français
 
+- 9 juin 2022 : Courte [vidéo](https://twitter.com/Mi_NumEco_Gouv/status/1534841165740224515) sur le lien entre logiciels libres et écoresponsabilité
 - 2 juin 2022 : Présentation du pôle lors de la commission SSI de l'[ADBU](https://adbu.fr)
 - 12 mai 2022 : Participation du pôle à la journée du développement de la DGA MI (Rennes)
 - 1er avril 2022 : [Intervention](https://dai.ly/x8a0i85) de Bastien Guerry en clôture de la [journée du libre éducatif](https://dane.ac-lyon.fr/spip/Journee-Du-Libre-Educatif-1er), Lyon.  Lire la [transcription](https://www.librealire.org/cloture-de-la-journee-du-libre-educatif-2022) de l'April.
