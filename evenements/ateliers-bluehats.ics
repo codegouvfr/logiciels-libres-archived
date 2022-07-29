@@ -1,95 +1,616 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-X-WR-CALNAME:ateliers
+X-WR-CALNAME:rdv-bluehats
 PRODID:-//Bastien Guerry//Emacs with Org mode//EN
 X-WR-TIMEZONE:Europe/Paris
 X-WR-CALDESC:Ateliers #BlueHats
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
+UID:TS1-db85ac78-0e93-4445-8290-4cd7a8b2c15c
+DTSTART:20220930T110000
+DTEND:20220930T123000
+SUMMARY:30 septembre : Présentation de LocoKit\, un outil libre Low-code\,
+ avec le  projet CaPel du Parc national de Port-Cros
+DESCRIPTION:<2022-09-30 ven. 11:00>–<2022-09-30 ven. 12:30>\n\nIntervenants
+  : Mathieu Dartigues\, créateur de LocoKit et Développeur\nweb Makina Corp
+ us - David Poncin Parc National de Port-Cros.
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-7e20fbd3-3326-4395-84c2-e178c31f3a1b
+DTSTART:20221223T110000
+DTEND:20221223T123000
+SUMMARY:S: 23 décembre  : Date libre pour un atelier BlueHats
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-739a6283-fd8a-463e-aec0-87aae93c0dc2
+DTSTART:20221209T110000
+DTEND:20221209T123000
+SUMMARY:S: 9 décembre : Présentation PMB (2/2)
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-901b282d-ac1c-4abe-8593-b92a88f04683
+DTSTART:20221125T110000
+DTEND:20221125T123000
+SUMMARY:S: 25 novembre : Présentation PMB (1/2)
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-05d29c8c-74a5-4f6f-8d70-eba43ba0b97e
+DTSTART:20221028T110000
+DTEND:20221028T123000
+SUMMARY:S: 28 octobre : Présentation de [TDP] (<https://github.com/TOSIT-IO
+ /TDP>)
+DESCRIPTION:Fin 2020\, dans le cadre du groupe TOSiT\, différents échanges
+ ont eu\nlieu entre le secrétariat général des ministères économiques et\nf
+ inanciers et les grands groupes français afin de partager l’ensemble\ndes
+ difficultés rencontrées suite au rachat.\n\nUn axe fondamental de la polit
+ ique des administrations françaises et\ndes grands groupes français consis
+ te à garder la maîtrise de leurs\nsystèmes d'information. C'est la raison
+ pour laquelle\, parmi les\ndifférents participants\, EDF et DGFiP avec le
+ SG MEFR ont décidé de\nmutualiser leurs efforts et d'opter pour le dévelop
+ pement d'une\ndistribution libre Hadoop nommée Trunk Data Platform ([TDP]\
+ n(<https://github.com/TOSIT-IO/TDP>)).\n\nLa construction de cette distrib
+ ution a pour objectif d'assurer\nl’autonomie et la souveraineté des Partie
+ s dans le domaine du Big\nData\, et de réaliser des économies considérable
+ s par rapport aux\nsolutions existantes.\n\nD'autres participants au group
+ e [TOSiT] (<https://tosit.fr/>) (RTE\,\nOCDE\, BPCE\, Orange\, ScaledRisk\
+ , etc) ont exprimé leur enthousiasme à\nnous rejoindre dans le cadre de ce
+  projet.\n\n• 11h-12h30 dans [le salon de visioconférence BlueHats]\n  (<h
+ ttps://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84
+ c9902a44b481830388d5d69c808eb669da0a5b>)\n\nIntervenants :\n\n• Sinh-Chung
+  NGUYEN : Responsable technique du projet TDP\n• Mehdi BEN AISSA : Consult
+ ant et Expert technique du projet TDP\n• Olivier MAZAIN : Responsable de l
+ a section DIODE au sein de la\n  DTNUM/Pôle Données (directeur du projet T
+ DP)
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-d6167d10-be4c-4d15-b0ac-7aff7000e3b4
+DTSTART:20221014T110000
+DTEND:20221014T123000
+SUMMARY:S: 14 octobre : Présentation de [Docusaurus](<https://docusaurus.io
+ >)
+DESCRIPTION:Docusaurus est un outil développé par [Meta Open Source]\n(<htt
+ ps://opensource.fb.com>) (Facebook) pour créer rapidement des\nsites de do
+ cumentation.\n\nIl s'agit d'un générateur de site statique sous license MI
+ T\, basé sur\nReact\, et avec des opinions fortes.\n\nL'idée est de déploy
+ er sa documentation le plus rapidement possible\,\nsans avoir à assembler
+ une stack technique\, et de voir plus tard pour\nla personnalisation.\n\nI
+ l permet de se concentrer sur l'essentiel: l'écriture du contenu en\nMarkd
+ own. Il reste cependant puissant et flexible\, capable de\nrespecter votre
+  image de marque.\n\nAprès 4 ans de développement\, la version 2.0 vient d
+ e sortir\nofficiellement\, mais la beta était déjà largement utilisée en\n
+ production (voi [la galerie]\n(<https://docusaurus.io/showcase>)). Quelque
+ s exemples: [Figma]\n(<https://www.figma.com/plugin-docs/>)\, [Snapchat]\n
+ (<https://docs.snap.com>)\, [React-Native] (<https://reactnative.dev>)\,\n
+ [Jest] (<https://jestjs.io>) [Supabase] (<https://supabase.com/docs>)\,\n[
+ Ionic] (<https://ionicframework.com/docs>).\n\nSébastien fera une démo liv
+ e des fonctionalités principales de\nDocusaurus\, de l'initialisation jusq
+ u'au déploiement en production\,\npuis répondra aux questions posées.\n\n•
+  Le [code source] (<https://github.com/facebook/docusaurus>)\n• Le [site d
+ u projet] (<https://docusaurus.io/>)\n\nIntervenants :\n\n• [Sébastien Lor
+ ber] (<https://sebastienlorber.com>)\, maintaineur\n  principal de Docusau
+ rus
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-e1c1904b-246e-4521-9dd3-499785c47550
+DTSTART:20220930T110000
+DTEND:20220930T123000
+SUMMARY:S: 30 septembre : Présentation du logiciel libre [LocoKit] (<https:
+ //locokit.io>) à travers la plate-forme [CaPeL] (<https://capel.portcros-p
+ arcnational.fr/>)
+DESCRIPTION:Présentation du logiciel libre [LocoKit] (<https://locokit.io>)
+  à\ntravers la plate-forme [CaPeL]\n(<https://capel.portcros-parcnational.
+ fr/>)\, Carnet de Plongées en\nLigne du Parc national de Port-Cros.\n\nvoi
+ r le [code source] (<https://github.com/locokit/locokit>) et la\n[document
+ ation] (<https://docs.locokit.io>).\n\nIntervenants :\n\n• David Poncin\,
+ Responsable Systèmes d'Information\, Parc national de\n  Port-Cros\n• Gaël
+ le Urvoy\, Technicienne Mer\, Parc national de Port-Cros\n• Mathieu Dartig
+ ues\, Développeur Makina Corpus\n\nDans le cadre de la gestion de la plong
+ ée sur son Aire Marine Protégée\n(AMP)\, le Parc national de Port-Cros a f
+ ait développer en partenariat\navec Makina Corpus l'outil CaPeL (Carnet de
+  Plongées en Ligne)\npermettant :\n\n• aux plongeurs individuels et aux st
+ ructures de plongées de\n  1. signer le règlement pour obtenir l'autorisat
+ ion de plongée\n  2. déclarer ses plongées pour obtenir des statistiques s
+ ur son\n     activité de plongée\n  3. déclarer de nouveaux spots de plong
+ ée et demander leur\n     publication\n• au Parc national de Port-Cros de\
+ n  1. disposer d'une base de données centralisant les signatures de\n
+ règlements et les plongées\, en lieu et place de données tableur\n  2. acc
+ ueillir d'autres aires marines protégées sur la plate-forme\,\n     et sim
+ plifier les démarches des plongeurs/structures\n  3. générer des statistiq
+ ues sur l'activité de plongée au sein de\n     l'AMP\n\nCette application
+ web a été développée grâce à une brique low-code\nlibre\, LocoKit\, permet
+ tant :\n\n• une configuration souple et évolutive du modèle de données\n•
+ une configuration des écrans de l'application à partir des données\n  de l
+ 'application\n• une gestion des permissions d'accès selon le rôle de l'uti
+ lisateur\n• un déclenchement des processus à partir des interactions de\n
+  l'utilisateur (génération d'un PDF pour la signature du règlement\,\n  pa
+ r exemple)\n• une visualisation / interaction adaptée sur les données\n  g
+ éographiques\n\nCet atelier permettra de vous présenter la plate-forme CaP
+ eL à travers\nses différents usages ainsi que les possibilités de réutilis
+ ation\nqu'offrent l'outil.\n\nVous découvrirez également l'outil libre Loc
+ oKit et les différentes\nfonctionnalités qui ont été utilisées dans le cad
+ re de la fabrication\nde CaPeL.
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-bd42ba42-4e7e-40ef-bc95-fea8d4814d15
+DTSTART:20220916T110000
+DTEND:20220916T123000
+SUMMARY:S: 16 septembre : Date libre pour un atelier BlueHats
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-9a86675d-a40a-49b3-b4ea-790eac273faf
+DTSTART:20220902T110000
+DTEND:20220902T123000
+SUMMARY:S: 2 septembre : Des outils pour mettre en valeur votre projet libr
+ e
+DESCRIPTION:Quels outils et méthodes pour parvenir à ce que votre projet li
+ bre\nsoit vu\, réutilisé et éventuellement trouve des contributeurs ?\n\nN
+ ous ferons un retour d'expérience sur :\n\n• Comment crée rapidement votre
+  README.md afin qu'il soit facteur de\n  crédibilité pour votre projet.\n•
+  Comment mettre en place un site promotionnel grâce a [GitLanding]\n  (<ht
+ tps://www.gitlanding.dev>)\n• Comment mettre en place un site de documenta
+ tion collaboratif avec\n  [GitBook] (<https://wwwgitbook.com>)\n• Quels so
+ nt les canaux de communications qui permettent d'avoir des\n  yeux sur vot
+ re projet lorsque vous n'avez pas d'influence\n  particulière sur les rése
+ aux sociaux.\n\nIntervenants : [Joseph Garrone] (<https://github.com/garro
+ nej>)\,\n[William Thiery] (<https://github.com/thieryw>)\n\n• 11h-12h30 da
+ ns [le salon de visioconférence BlueHats]\n  (<https://webinaire.numerique
+ .gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c80
+ 8eb669da0a5b>)
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-f6f9495d-cdb3-49f3-928f-09eb1b115129
+DTSTART:20220708T110000
+DTEND:20220708T123000
+SUMMARY:S: 8 juillet : Présentation de l'outil [Keycloakify] (<https://keyc
+ loakify.dev>)
+DESCRIPTION:Présentation de l'outil [Keycloakify] (<https://keycloakify.dev
+ >) qui\npermet de personnaliser les pages de login et register de Keycloak
+ .\n\nGrâce à Keycloakify\, plus besoin d'arbitrer entre l'UX et la sécurit
+ é\,\nvos utilisateurs ne se rendront même pas compte qu'ils sont redirigés
+ .\n\nIntervenant: [Joseph Garrone] (<https://github.com/garronej>).\n\n• 1
+ 1h-12h30 dans [le salon de visioconférence BlueHats]\n  (<https://webinair
+ e.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830
+ 388d5d69c808eb669da0a5b>)
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-f6f9495d-cdb3-49f3-928f-09eb1b115129
+DTSTAMP:20220729T132437Z
+DTSTART:20220708T110000
+SUMMARY:8 juillet : Présentation de l'outil [Keycloakify] (<https://keycloa
+ kify.dev>)
+DESCRIPTION:Présentation de l'outil [Keycloakify] (<https://keycloakify.dev
+ >) qui\npermet de personnaliser les pages de login et register de Keycloak
+ .\n\nGrâce à Keycloakify\, plus besoin d'arbitrer entre l'UX et la sécurit
+ é\,\nvos utilisateurs ne se rendront même pas compte qu'ils sont redirigés
+ .\n\nIntervenant: [Joseph Garrone] (<https://github.com/garronej>).\n\n• 1
+ 1h-12h30 dans [le salon de visioconférence BlueHats]\n  (<https://webinair
+ e.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830
+ 388d5d69c808eb669da0a5b>)
+CATEGORIES:BLH
+SEQUENCE:1
+PRIORITY:5
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-22f6e624-848a-4293-8308-3ad21ba030eb
+DTSTART:20220624T110000
+DTEND:20220624T123000
+SUMMARY:S: 24 juin : Présentation des marchés de support et d'expertise log
+ iciels libres
+DESCRIPTION:Depuis une vingtaine d’années\, les logiciels libres ont fait l
+ eur\nentrée dans les SI des administrations.  Afin d’en sécuriser\nl’utili
+ sation croissante\, des marchés de support et d’expertise ont\nété mis en
+ place. Ces marchés pilotés par la DGFiP sont aux bénéfices\nde l’ensemble
+ des administrations d’État.  L’objet de cette\nprésentation est d’en prése
+ nter le fonctionnement\, les moyens de\nsollicitation et les productions.\
+ n\nIntervenant: Bruno Gaschet (DGFiP)\n\n• 11h-12h30 dans [le salon de vis
+ ioconférence BlueHats]\n  (<https://webinaire.numerique.gouv.fr//meeting/s
+ ignin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>)
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-22f6e624-848a-4293-8308-3ad21ba030eb
+DTSTAMP:20220729T132437Z
+DTSTART:20220624T110000
+SUMMARY:24 juin : Présentation des marchés de support et d'expertise logici
+ els libres
+DESCRIPTION:Depuis une vingtaine d’années\, les logiciels libres ont fait l
+ eur\nentrée dans les SI des administrations.  Afin d’en sécuriser\nl’utili
+ sation croissante\, des marchés de support et d’expertise ont\nété mis en
+ place. Ces marchés pilotés par la DGFiP sont aux bénéfices\nde l’ensemble
+ des administrations d’État.  L’objet de cette\nprésentation est d’en prése
+ nter le fonctionnement\, les moyens de\nsollicitation et les productions.\
+ n\nIntervenant: Bruno Gaschet (DGFiP)\n\n• 11h-12h30 dans [le salon de vis
+ ioconférence BlueHats]\n  (<https://webinaire.numerique.gouv.fr//meeting/s
+ ignin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>)
+CATEGORIES:BLH
+SEQUENCE:1
+PRIORITY:5
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
+UID:SC-bcaa3d2f-e5b2-40e2-aadd-9c7f267ffbc7
+DTSTART:20220610T110000
+DTEND:20220610T123000
+SUMMARY:S: 10 juin : Présentation du logiciel libre GeoRivière
+DESCRIPTION:• 11h-12h30 dans [le salon de visioconférence BlueHats]\n  (<ht
+ tps://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c
+ 9902a44b481830388d5d69c808eb669da0a5b>)\n\nPrésentation du logiciel libre
+ [GeoRivière]\n(<https://makina-corpus.com/sig-webmapping/georiviere-outil-
+ gestion-suivi-cours-eau#corps>)\n- voir le [code source] (<https://github.
+ com/Georiviere>) et la\n[documentation] (<https://georiviere.readthedocs.i
+ o/en/stable/>).\n\nIntervenants :\n\n1. Thomas Magnin-Feysot\, Chargé de m
+ ission SIG/Informatique/\n   Evaluation\, Parc naturel régional du Haut-Ju
+ ra\n2. Emmanuelle Helly\, Développeuse Python/Django/Geotrek/GeoRivière\,\
+ n   Makina Corpus\n\nDans le cadre de l’exercice de la GEMAPI (GEstion des
+  Milieux\nAquatiques et Préventions des Inondations) sur son territoire\,
+ le Parc\nnaturel régional du haut-Jura a fait développer en partenariat av
+ ec\nMakina Corpus l’outil GeoRivière visant à organiser les données et à\n
+ accompagner les techniciens dans leurs tâches courantes de gestion et\nde
+ suivi des cours d'eau.\n\nL’outil permet sur un territoire de compétence o
+ u sur un bassin\nversant :\n\n1. d’avoir une base de données cartographiqu
+ e partagée\, cohérente et\n   valide à long terme. Cette base permet de ca
+ pitaliser l’ensemble\n   des informations sur le long terme \;\n2. de stru
+ cturer les observations terrain effectuées par l’équipe\n   technique pour
+  mieux connaître et gérer les rivières \;\n3. d’organiser et visualiser l’
+ ensemble des données de suivi et de\n   surveillance des cours d’eau \;\n4
+ . de planifier les actions d’entretien courant et de restauration des\n
+ milieux aquatiques\, en permettant une gestion administrative et\n   finan
+ cière facilitée.\n\nCette application web se veut générique et paramétrabl
+ e dans\nl'objectif d'une utilisation par toutes autres collectivités\ntitu
+ laires de la compétence GEMAPI\, intervenant dans des contextes\nhydrogéol
+ ogiques différents. Il est possible d'importer des données\nexternes\, not
+ amment celles des APIs Hub'eau température\, qualité de\nl'eau et hydromét
+ rie\, d'autres intégrations sont prévues par la suite.\n\nLe choix volonta
+ ire d'utiliser des technologies Open Source et de\nlibérer de 100% du code
+  de développement permet à tout gestionnaire de\nrivière intéressé de télé
+ charger\, de déployer et de faire évoluer\nlibrement GeoRivière. Le dévelo
+ ppement de nouvelles fonctionnalités\nseront accessibles à toute la « comm
+ unauté d’utilisateurs ».\n\nCet atelier permettra de vous présenter l’outi
+ l et ses différentes\nfonctionnalités ainsi que les possibilités de déploi
+ ement et\nd’utilisation sur votre territoire.
+CATEGORIES:BLH
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-bcaa3d2f-e5b2-40e2-aadd-9c7f267ffbc7
+DTSTAMP:20220729T132437Z
+DTSTART:20220610T110000
+SUMMARY:10 juin : Présentation du logiciel libre GeoRivière
+DESCRIPTION:• 11h-12h30 dans [le salon de visioconférence BlueHats]\n  (<ht
+ tps://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c
+ 9902a44b481830388d5d69c808eb669da0a5b>)\n\nPrésentation du logiciel libre
+ [GeoRivière]\n(<https://makina-corpus.com/sig-webmapping/georiviere-outil-
+ gestion-suivi-cours-eau#corps>)\n- voir le [code source] (<https://github.
+ com/Georiviere>) et la\n[documentation] (<https://georiviere.readthedocs.i
+ o/en/stable/>).\n\nIntervenants :\n\n1. Thomas Magnin-Feysot\, Chargé de m
+ ission SIG/Informatique/\n   Evaluation\, Parc naturel régional du Haut-Ju
+ ra\n2. Emmanuelle Helly\, Développeuse Python/Django/Geotrek/GeoRivière\,\
+ n   Makina Corpus\n\nDans le cadre de l’exercice de la GEMAPI (GEstion des
+  Milieux\nAquatiques et Préventions des Inondations) sur son territoire\,
+ le Parc\nnaturel régional du haut-Jura a fait développer en partenariat av
+ ec\nMakina Corpus l’outil GeoRivière visant à organiser les données et à\n
+ accompagner les techniciens dans leurs tâches courantes de gestion et\nde
+ suivi des cours d'eau.\n\nL’outil permet sur un territoire de compétence o
+ u sur un bassin\nversant :\n\n1. d’avoir une base de données cartographiqu
+ e partagée\, cohérente et\n   valide à long terme. Cette base permet de ca
+ pitaliser l’ensemble\n   des informations sur le long terme \;\n2. de stru
+ cturer les observations terrain effectuées par l’équipe\n   technique pour
+  mieux connaître et gérer les rivières \;\n3. d’organiser et visualiser l’
+ ensemble des données de suivi et de\n   surveillance des cours d’eau \;\n4
+ . de planifier les actions d’entretien courant et de restauration des\n
+ milieux aquatiques\, en permettant une gestion administrative et\n   finan
+ cière facilitée.\n\nCette application web se veut générique et paramétrabl
+ e dans\nl'objectif d'une utilisation par toutes autres collectivités\ntitu
+ laires de la compétence GEMAPI\, intervenant dans des contextes\nhydrogéol
+ ogiques différents. Il est possible d'importer des données\nexternes\, not
+ amment celles des APIs Hub'eau température\, qualité de\nl'eau et hydromét
+ rie\, d'autres intégrations sont prévues par la suite.\n\nLe choix volonta
+ ire d'utiliser des technologies Open Source et de\nlibérer de 100% du code
+  de développement permet à tout gestionnaire de\nrivière intéressé de télé
+ charger\, de déployer et de faire évoluer\nlibrement GeoRivière. Le dévelo
+ ppement de nouvelles fonctionnalités\nseront accessibles à toute la « comm
+ unauté d’utilisateurs ».\n\nCet atelier permettra de vous présenter l’outi
+ l et ses différentes\nfonctionnalités ainsi que les possibilités de déploi
+ ement et\nd’utilisation sur votre territoire.
+CATEGORIES:BLH
+SEQUENCE:1
+PRIORITY:5
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20220729T132437Z
 UID:SC-31e8ca2d-ff70-4171-b349-997b1237dafc
-DTSTART:20220527T110000
-DTEND:20220527T123000
-SUMMARY:S: 27 mai : session à prendre
+DTSTART:20220520T110000
+DTEND:20220520T120000
+SUMMARY:S: 20 mai : Présentation de Catala
+DESCRIPTION:Un certain nombre d’administrations et d’entreprises maintienne
+ nt des\nprogrammes informatiques afin de calculer des montants d’impôt\,\n
+ allocations\, cotisations\, pensions\, etc. à partir de données de leurs\n
+ usagers. Transformer les textes de loi qui régissent ces calculs en\ncode
+ est une tâche très difficile\, car elle requiert une double\nexpertise jur
+ idique et informatique. De plus\, la complexité inhérente\ndes textes de l
+ oi et leur style de rédaction empêche activement la\nconstitution d’une ba
+ se de code saine et maintenable. En s’inspirant\ndes travaux de Sarah Laws
+ ky\, professeure de droit fiscal et titulaire\nd’un doctorat en logique\,
+ le langage dédié Catala propose un nouveau\nprocessus de transformation de
+  la loi en code\, basé sur la\nprogrammation littéraire et en binôme. Le c
+ ompilateur de Catala\, basé\nsur une sémantique formelle du langage\, perm
+ et également l’intégration\ndu code dans virtuellement n’importe quelle ar
+ chitecture legacy grâce\nà la compilation. Le projet est soutenu par une é
+ quipe\ninterdisciplinaire comprenant notamment Denis Merigoux\, doctorant
+ en\ninformatique à l’Inria\, et Liane Huttner\, doctorante en droit à Pari
+ s\nI.\n\n• Le site web du langage : <https://catala-lang.org>\n• Le dépôt
+ des sources : <https://github.com/CatalaLang/catala>\n• Un article accessi
+ ble en français :\n  <https://hal.inria.fr/hal-03128248/document>\n\nInter
+ vention de Denis Merigoux.\n\n• [Revoir la session]\n  (<https://communs.n
+ umerique.gouv.fr/ateliers/catala/>)
 CATEGORIES:BLH
 END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
-UID:SC-a83e559c-fbfa-4a53-89de-0371af893ca5
-DTSTART:20220513T110000
-DTEND:20220513T123000
-SUMMARY:S: 13 mai : session à prendre
+BEGIN:VTODO
+UID:TODO-31e8ca2d-ff70-4171-b349-997b1237dafc
+DTSTAMP:20220729T132437Z
+DTSTART:20220520T110000
+SUMMARY:20 mai : Présentation de Catala
+DESCRIPTION:Un certain nombre d’administrations et d’entreprises maintienne
+ nt des\nprogrammes informatiques afin de calculer des montants d’impôt\,\n
+ allocations\, cotisations\, pensions\, etc. à partir de données de leurs\n
+ usagers. Transformer les textes de loi qui régissent ces calculs en\ncode
+ est une tâche très difficile\, car elle requiert une double\nexpertise jur
+ idique et informatique. De plus\, la complexité inhérente\ndes textes de l
+ oi et leur style de rédaction empêche activement la\nconstitution d’une ba
+ se de code saine et maintenable. En s’inspirant\ndes travaux de Sarah Laws
+ ky\, professeure de droit fiscal et titulaire\nd’un doctorat en logique\,
+ le langage dédié Catala propose un nouveau\nprocessus de transformation de
+  la loi en code\, basé sur la\nprogrammation littéraire et en binôme. Le c
+ ompilateur de Catala\, basé\nsur une sémantique formelle du langage\, perm
+ et également l’intégration\ndu code dans virtuellement n’importe quelle ar
+ chitecture legacy grâce\nà la compilation. Le projet est soutenu par une é
+ quipe\ninterdisciplinaire comprenant notamment Denis Merigoux\, doctorant
+ en\ninformatique à l’Inria\, et Liane Huttner\, doctorante en droit à Pari
+ s\nI.\n\n• Le site web du langage : <https://catala-lang.org>\n• Le dépôt
+ des sources : <https://github.com/CatalaLang/catala>\n• Un article accessi
+ ble en français :\n  <https://hal.inria.fr/hal-03128248/document>\n\nInter
+ vention de Denis Merigoux.\n\n• [Revoir la session]\n  (<https://communs.n
+ umerique.gouv.fr/ateliers/catala/>)
 CATEGORIES:BLH
-END:VEVENT
+SEQUENCE:1
+PRIORITY:5
+STATUS:COMPLETED
+END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-392067d7-a3c3-43d6-be8d-33232ddf159a
 DTSTART:20220422T110000
 DTEND:20220422T123000
-SUMMARY:S: 22 avril : session à prendre
+SUMMARY:S: 22 avril : Présentation de Démarches simplifiées
+DESCRIPTION:Démarches Simplifiées (DS) est le logiciel libre pour créer des
+ \ndémarches administratives en ligne. Il offre une utilisation facile et\n
+ intuitive autant pour l'agent créant la démarche\, que le citoyen\nsouhait
+ ant la remplir.\n\nLe logiciel DS compte aujourd'hui trois instances publi
+ ques (celle de\nla DINUM\, celle de l'ADULLACT et celle du GIP Territoire
+ Numérique\nBourgogne-Franche-Comté)\n\nLa DINUM\, Direction Interministéri
+ el du Numérique est la "DSI de\nl'État". L'ADULLACT est l'association de c
+ ollectivités\, créée il y a\nmaintenant 20 ans\, pour mutualiser les logic
+ iels libre dans les\ndomaines métiers des collectivités.\n\n• [Revoir la s
+ ession]\n  (<https://communs.numerique.gouv.fr/ateliers/demarches-simplifi
+ ees/>)\n\nIntervenants :\n\n• Christophe ROBILLARD [@krichtof] (<https://g
+ ithub.com/krichtof>)\,\n  DINUM\n• Pascal KUCZYNSKI\, ADULLACT\n• Matthieu
+  FAURE [@mfaure] (<https://github.com/mfaure>)\, ADULLACT\n\n• 11h00-12h30
+  dans [le salon de visioconférence BlueHats]\n  (<https://webinaire.numeri
+ que.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69
+ c808eb669da0a5b>)\n\nProgramme prévisionnel :\n\n• DS de l'idée initale à
+ aujourd'hui un logiciel reconnu\n• Nouveaux besoins\, le virage avec les c
+ ollectivités\n• DINUM / ADULLACT : récit d'une collaboration pour un commu
+ n\n  numérique
 CATEGORIES:BLH
 END:VEVENT
+BEGIN:VTODO
+UID:TODO-392067d7-a3c3-43d6-be8d-33232ddf159a
+DTSTAMP:20220729T132437Z
+DTSTART:20220422T110000
+SUMMARY:22 avril : Présentation de Démarches simplifiées
+DESCRIPTION:Démarches Simplifiées (DS) est le logiciel libre pour créer des
+ \ndémarches administratives en ligne. Il offre une utilisation facile et\n
+ intuitive autant pour l'agent créant la démarche\, que le citoyen\nsouhait
+ ant la remplir.\n\nLe logiciel DS compte aujourd'hui trois instances publi
+ ques (celle de\nla DINUM\, celle de l'ADULLACT et celle du GIP Territoire
+ Numérique\nBourgogne-Franche-Comté)\n\nLa DINUM\, Direction Interministéri
+ el du Numérique est la "DSI de\nl'État". L'ADULLACT est l'association de c
+ ollectivités\, créée il y a\nmaintenant 20 ans\, pour mutualiser les logic
+ iels libre dans les\ndomaines métiers des collectivités.\n\n• [Revoir la s
+ ession]\n  (<https://communs.numerique.gouv.fr/ateliers/demarches-simplifi
+ ees/>)\n\nIntervenants :\n\n• Christophe ROBILLARD [@krichtof] (<https://g
+ ithub.com/krichtof>)\,\n  DINUM\n• Pascal KUCZYNSKI\, ADULLACT\n• Matthieu
+  FAURE [@mfaure] (<https://github.com/mfaure>)\, ADULLACT\n\n• 11h00-12h30
+  dans [le salon de visioconférence BlueHats]\n  (<https://webinaire.numeri
+ que.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69
+ c808eb669da0a5b>)\n\nProgramme prévisionnel :\n\n• DS de l'idée initale à
+ aujourd'hui un logiciel reconnu\n• Nouveaux besoins\, le virage avec les c
+ ollectivités\n• DINUM / ADULLACT : récit d'une collaboration pour un commu
+ n\n  numérique
+CATEGORIES:BLH
+SEQUENCE:1
+PRIORITY:5
+STATUS:COMPLETED
+END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-103c951d-f48e-44c8-a494-5c18befc0318
 DTSTART:20220408T110000
 DTEND:20220408T123000
-SUMMARY:S: 8 avril : session à prendre
+SUMMARY:S: 8 avril : Atelier avec France Brevets
+DESCRIPTION:France Brevets est une structure qui accompagne depuis plus de
+ 10 ans\nles organismes de recherche\, startups\, PMEs\, grands groupes ain
+ si que\nl’État français en matière de propriété intellectuelle.\n\nDans ce
+ t atelier\, France Brevets illustrera la relation entre les\nlogiciels ope
+ n source et les brevets\, et fournira un éclairage sur les\ninformations c
+ lé à connaitre avant la publication du code ouvert.\n\n• [Revoir la sessio
+ n]\n  (<https://communs.numerique.gouv.fr/ateliers/france-brevets/>)\n\nIn
+ tervenants :\n\n• Didier Patry\, Président / DG\n• Guillaume Ménage\, DG A
+ djoint\n• Adriano Spatola\, Chargé d'affaires
 CATEGORIES:BLH
 END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
-UID:SC-775fb255-27c9-4508-b6d6-3b03141e9e16
-DTSTART:20220325T110000
-DTEND:20220325T123000
-SUMMARY:S: 25 mars : Présentation de Catala
+BEGIN:VTODO
+UID:TODO-103c951d-f48e-44c8-a494-5c18befc0318
+DTSTAMP:20220729T132437Z
+DTSTART:20220408T110000
+SUMMARY:8 avril : Atelier avec France Brevets
+DESCRIPTION:France Brevets est une structure qui accompagne depuis plus de
+ 10 ans\nles organismes de recherche\, startups\, PMEs\, grands groupes ain
+ si que\nl’État français en matière de propriété intellectuelle.\n\nDans ce
+ t atelier\, France Brevets illustrera la relation entre les\nlogiciels ope
+ n source et les brevets\, et fournira un éclairage sur les\ninformations c
+ lé à connaitre avant la publication du code ouvert.\n\n• [Revoir la sessio
+ n]\n  (<https://communs.numerique.gouv.fr/ateliers/france-brevets/>)\n\nIn
+ tervenants :\n\n• Didier Patry\, Président / DG\n• Guillaume Ménage\, DG A
+ djoint\n• Adriano Spatola\, Chargé d'affaires
 CATEGORIES:BLH
-END:VEVENT
+SEQUENCE:1
+PRIORITY:5
+STATUS:COMPLETED
+END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-40920d34-5bce-4a06-832f-05888021200b
-DTSTART:20220311T110000
-DTEND:20220311T123000
+DTSTART:20220311T093000
+DTEND:20220311T110000
 SUMMARY:S: 11 mars : Présentation de Squash TM
+LOCATION:https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/36
+ 9/hash/84c9902a44b481830388d5d69c808eb669da0a5b
+DESCRIPTION:Squash TM est une application full web de gestion de patrimoine
+  de\ntest. Sa philosophie et son ergonomie apportent un cadre structurant\
+ npour initier une activité de test comme pour l'industrialiser\, dans\ndes
+  contextes projet Cycle en V ou Agile.\n\nSquash TM permet de raffiner les
+  spécifications de l'application en\nexigences\, d'en vérifier la couvertu
+ re par des cas de tests\, et\nd'organiser ces cas de test dans des campagn
+ es de tests à exécuter.\nUn espace dédié au pilotage permet en outre d'ass
+ urer le suivi de la\nqualité du système testé\, et l'avancée de sa qualifi
+ cation.\n\nDans cet atelier\, Gérald Berjot et Sébastien Touzet nous prése
+ nteront\nl'activité de test fonctionnel au sein de l'Agirc-Arrco\, et comm
+ ent\nles testeurs utilisent Squash TM pour garantir la qualité de leurs\na
+ pplications.\n\n• [Revoir la session]\n  (<https://communs.numerique.gouv.
+ fr/ateliers/squash-tm/>)
 CATEGORIES:BLH
 END:VEVENT
+BEGIN:VTODO
+UID:TODO-40920d34-5bce-4a06-832f-05888021200b
+DTSTAMP:20220729T132437Z
+DTSTART:20220311T093000
+SUMMARY:11 mars : Présentation de Squash TM
+LOCATION:https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/36
+ 9/hash/84c9902a44b481830388d5d69c808eb669da0a5b
+DESCRIPTION:Squash TM est une application full web de gestion de patrimoine
+  de\ntest. Sa philosophie et son ergonomie apportent un cadre structurant\
+ npour initier une activité de test comme pour l'industrialiser\, dans\ndes
+  contextes projet Cycle en V ou Agile.\n\nSquash TM permet de raffiner les
+  spécifications de l'application en\nexigences\, d'en vérifier la couvertu
+ re par des cas de tests\, et\nd'organiser ces cas de test dans des campagn
+ es de tests à exécuter.\nUn espace dédié au pilotage permet en outre d'ass
+ urer le suivi de la\nqualité du système testé\, et l'avancée de sa qualifi
+ cation.\n\nDans cet atelier\, Gérald Berjot et Sébastien Touzet nous prése
+ nteront\nl'activité de test fonctionnel au sein de l'Agirc-Arrco\, et comm
+ ent\nles testeurs utilisent Squash TM pour garantir la qualité de leurs\na
+ pplications.\n\n• [Revoir la session]\n  (<https://communs.numerique.gouv.
+ fr/ateliers/squash-tm/>)
+CATEGORIES:BLH
+SEQUENCE:1
+PRIORITY:5
+STATUS:COMPLETED
+END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-7d62157c-7d58-4d74-8d15-68ade1c0d094
 DTSTART:20220225T110000
 DTEND:20220225T123000
 SUMMARY:S: 25 février : Présentation de la licence European Union Public Li
  cence
 DESCRIPTION:Présentation de la licence "European Union Public Licence" par\
- nPatrice-Emmanuel Schmitz.\n\n• 11h00-12h30 dans [le salon de visioconfére
- nce BlueHats]\n  (<https://webinaire.numerique.gouv.fr//meeting/signin/362
- /creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>)
+ nPatrice-Emmanuel Schmitz.\n\n• [Revoir la session]\n  (<https://communs.n
+ umerique.gouv.fr/ateliers/eupl/>)
 CATEGORIES:BLH
 END:VEVENT
+BEGIN:VTODO
+UID:TODO-7d62157c-7d58-4d74-8d15-68ade1c0d094
+DTSTAMP:20220729T132437Z
+DTSTART:20220225T110000
+SUMMARY:25 février : Présentation de la licence European Union Public Licen
+ ce
+DESCRIPTION:Présentation de la licence "European Union Public Licence" par\
+ nPatrice-Emmanuel Schmitz.\n\n• [Revoir la session]\n  (<https://communs.n
+ umerique.gouv.fr/ateliers/eupl/>)
+CATEGORIES:BLH
+SEQUENCE:1
+PRIORITY:5
+STATUS:COMPLETED
+END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-084a3ea7-fcad-4cca-9074-e632afe92c31
 DTSTART:20220211T110000
-DTEND:20220211T123000
+DTEND:20220211T120000
 SUMMARY:S: 11 février : Présentation de l'outil VersLeLibre (AMUE)
-DESCRIPTION:Bertrand Mocquet et David Rongeat de l’Amue (www.amue.fr) prése
- nteront\nun outil méthodologique\, VersLeLibre\, qui permet des autoévalua
- tions\nde solutions numériques pour prévoir l’ouverture de leur code.\n\nI
- ls placeront ce dispositif dans le contexte Enseignement Supérieur et\nRec
- herche et la stratégie de l’Amue\, présenteront leur retour\nd’expériences
-  avec ce dispositif.\n\nIls animeront enfin un échange pour que cet outils
-  devienne une\nsolution d’autoévaluation pour toutes les solutions numériq
- ues\ncandidates à l’ouverture de leur code.\n\nVous pouvez consulter le do
- cument de présentation de [l'outil\nVersLeLibre au format PDF]\n(<https://
- data.amue.fr/ressources/VersLeLibre_UnOutilDAideALaDecisionAAllerVersLeLib
- re_VersionFinale_V2-CCBYSA.pdf>).\n\n• 11h00-12h30 dans [le salon de visio
- conférence BlueHats]\n  (<https://webinaire.numerique.gouv.fr//meeting/sig
- nin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>)\n• Int
- ervention de Bertrand Mocquet et David Rongeat (Amue)
+DESCRIPTION:Bertrand Mocquet et David Rongeat de l’[Amue] (<https://www.amu
+ e.fr>)\nprésenteront un outil méthodologique\, VersLeLibre\, qui permet de
+ s\nautoévaluations de solutions numériques pour prévoir l’ouverture de\nle
+ ur code.\n\nIls placeront ce dispositif dans le contexte Enseignement Supé
+ rieur et\nRecherche et la stratégie de l’Amue\, présenteront leur retour\n
+ d’expériences avec ce dispositif.\n\nIls animeront enfin un échange pour q
+ ue cet outil devienne une\nsolution d’autoévaluation pour toutes les solut
+ ions numériques\ncandidates à l’ouverture de leur code.\n\nVous pouvez con
+ sulter le document de présentation de [l'outil\nVersLeLibre au format PDF]
+ \n(<https://data.amue.fr/ressources/VersLeLibre_UnOutilDAideALaDecisionAAl
+ lerVersLeLibre_VersionFinale_V2-CCBYSA.pdf>).\n\n• [Revoir la session]\n
+ (<https://communs.numerique.gouv.fr/ateliers/amue-verslelibre/>)\n• Interv
+ ention de Bertrand Mocquet et David Rongeat (Amue)
 CATEGORIES:BLH
 END:VEVENT
+BEGIN:VTODO
+UID:TODO-084a3ea7-fcad-4cca-9074-e632afe92c31
+DTSTAMP:20220729T132437Z
+DTSTART:20220211T110000
+SUMMARY:11 février : Présentation de l'outil VersLeLibre (AMUE)
+DESCRIPTION:Bertrand Mocquet et David Rongeat de l’[Amue] (<https://www.amu
+ e.fr>)\nprésenteront un outil méthodologique\, VersLeLibre\, qui permet de
+ s\nautoévaluations de solutions numériques pour prévoir l’ouverture de\nle
+ ur code.\n\nIls placeront ce dispositif dans le contexte Enseignement Supé
+ rieur et\nRecherche et la stratégie de l’Amue\, présenteront leur retour\n
+ d’expériences avec ce dispositif.\n\nIls animeront enfin un échange pour q
+ ue cet outil devienne une\nsolution d’autoévaluation pour toutes les solut
+ ions numériques\ncandidates à l’ouverture de leur code.\n\nVous pouvez con
+ sulter le document de présentation de [l'outil\nVersLeLibre au format PDF]
+ \n(<https://data.amue.fr/ressources/VersLeLibre_UnOutilDAideALaDecisionAAl
+ lerVersLeLibre_VersionFinale_V2-CCBYSA.pdf>).\n\n• [Revoir la session]\n
+ (<https://communs.numerique.gouv.fr/ateliers/amue-verslelibre/>)\n• Interv
+ ention de Bertrand Mocquet et David Rongeat (Amue)
+CATEGORIES:BLH
+SEQUENCE:1
+PRIORITY:5
+STATUS:COMPLETED
+END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-6e0a70f6-2fea-48aa-bb0c-00aec0c0e871
 DTSTART:20220128T110000
 DTEND:20220128T123000
@@ -98,62 +619,56 @@ DESCRIPTION:Rudder est un logiciel d'automatisation des infrastructures sys
  tèmes\,\nqu'elles soient sur site\, dans le cloud ou en hybride.  Il assur
  e le\ndéploiement ainsi que le maintien opérationnel et de sécurité au\nni
  veau OS\, middleware et applicatif.  Une interface Web centralise la\ngest
- ion des serveurs\, et apporte ainsi un contrôle global et une\nvisibilité 
- accrue\, permettant de les maintenir fiables et sécurisés en\npermanence. 
+ ion des serveurs\, et apporte ainsi un contrôle global et une\nvisibilité
+ accrue\, permettant de les maintenir fiables et sécurisés en\npermanence.
  Son fonctionnement repose sur des rôles et directives\nattribués à des gro
  upes. La collecte des informations se fait par\nl'intermédiaire d'un agent
-  installé sur chaque nœud.\n\nPour plus d'informations\, visitez le [site 
+  installé sur chaque nœud.\n\nPour plus d'informations\, visitez le [site
  Rudder]\n(<https://www.rudder.io/>).  Rudder est aussi référencé dans le [
- SILL]\n(<https://sill.etalab.gouv.fr/fr/software?id=164>).\n\nLors de cet 
+ SILL]\n(<https://sill.etalab.gouv.fr/fr/software?id=164>).\n\nLors de cet
  atelier\, Alexandre Brianceau\, CEO de [Normation]\n(<https://www.rudder.i
  o/company/>)\, l’éditeur de Rudder\, présentera la\nsolution et son histor
  ique. Emmanuel Roguet\, responsable du Centre de\nResponsabilité Technique
-  Hébergement du Ministère de l’Éducation\nNationale présentera ce service 
+  Hébergement du Ministère de l’Éducation\nNationale présentera ce service
  et ses missions. Stéphane Paillet\,\nsysadmin GNU Linux au sein de CRT fer
- a ensuite un retour d’expérience\nde l’utilisation du logiciel au sein de 
- la Plateforme d’Hébergement\nMutualisé de l’Éducation Nationale.\n\n• 11h0
- 0-12h30 : dans [le salon de visioconférence BlueHats]\n  (<https://webinai
- re.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b48183
- 0388d5d69c808eb669da0a5b>)\n• Intervention d'Alexandre Brianceau\, Emmanue
- l Roguet et Stéphane\n  Paillet\, suivi d'une session de questions et répo
- nses.
+ a ensuite un retour d’expérience\nde l’utilisation du logiciel au sein de
+ la Plateforme d’Hébergement\nMutualisé de l’Éducation Nationale.\n\n• Inte
+ rvention d'Alexandre Brianceau\, Emmanuel Roguet et Stéphane\n  Paillet\,
+ suivi d'une session de questions et réponses.
 CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-6e0a70f6-2fea-48aa-bb0c-00aec0c0e871
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20220128T110000
 SUMMARY:28 janvier : Présentation de Rudder
 DESCRIPTION:Rudder est un logiciel d'automatisation des infrastructures sys
  tèmes\,\nqu'elles soient sur site\, dans le cloud ou en hybride.  Il assur
  e le\ndéploiement ainsi que le maintien opérationnel et de sécurité au\nni
  veau OS\, middleware et applicatif.  Une interface Web centralise la\ngest
- ion des serveurs\, et apporte ainsi un contrôle global et une\nvisibilité 
- accrue\, permettant de les maintenir fiables et sécurisés en\npermanence. 
+ ion des serveurs\, et apporte ainsi un contrôle global et une\nvisibilité
+ accrue\, permettant de les maintenir fiables et sécurisés en\npermanence.
  Son fonctionnement repose sur des rôles et directives\nattribués à des gro
  upes. La collecte des informations se fait par\nl'intermédiaire d'un agent
-  installé sur chaque nœud.\n\nPour plus d'informations\, visitez le [site 
+  installé sur chaque nœud.\n\nPour plus d'informations\, visitez le [site
  Rudder]\n(<https://www.rudder.io/>).  Rudder est aussi référencé dans le [
- SILL]\n(<https://sill.etalab.gouv.fr/fr/software?id=164>).\n\nLors de cet 
+ SILL]\n(<https://sill.etalab.gouv.fr/fr/software?id=164>).\n\nLors de cet
  atelier\, Alexandre Brianceau\, CEO de [Normation]\n(<https://www.rudder.i
  o/company/>)\, l’éditeur de Rudder\, présentera la\nsolution et son histor
  ique. Emmanuel Roguet\, responsable du Centre de\nResponsabilité Technique
-  Hébergement du Ministère de l’Éducation\nNationale présentera ce service 
+  Hébergement du Ministère de l’Éducation\nNationale présentera ce service
  et ses missions. Stéphane Paillet\,\nsysadmin GNU Linux au sein de CRT fer
- a ensuite un retour d’expérience\nde l’utilisation du logiciel au sein de 
- la Plateforme d’Hébergement\nMutualisé de l’Éducation Nationale.\n\n• 11h0
- 0-12h30 : dans [le salon de visioconférence BlueHats]\n  (<https://webinai
- re.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b48183
- 0388d5d69c808eb669da0a5b>)\n• Intervention d'Alexandre Brianceau\, Emmanue
- l Roguet et Stéphane\n  Paillet\, suivi d'une session de questions et répo
- nses.
+ a ensuite un retour d’expérience\nde l’utilisation du logiciel au sein de
+ la Plateforme d’Hébergement\nMutualisé de l’Éducation Nationale.\n\n• Inte
+ rvention d'Alexandre Brianceau\, Emmanuel Roguet et Stéphane\n  Paillet\,
+ suivi d'une session de questions et réponses.
 CATEGORIES:BLH
 SEQUENCE:1
 PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-66d9c0ac-802f-4868-87a7-00ef01edf69c
 DTSTART:20220114T110000
 DTEND:20220114T123000
@@ -165,13 +680,13 @@ DESCRIPTION:Présentation de la Stratégie Open Source externe de RTE et de s
  étique en adaptant les\ninfrastructures de réseau et les processus opérati
  onnels.  Pour cela\,\nl’entreprise mise en particulier sur des solutions l
  ogicielles.  En\n2018\, RTE a décidé de s’engager dans une démarche open s
- ource\nambitieuse pour répondre aux enjeux d’innovation et d’accélération 
+ ource\nambitieuse pour répondre aux enjeux d’innovation et d’accélération
  de\nla feuille de route logicielle tout en préservant la performance\nopér
  ationnelle.\n\nUne collaboration avec The Linux Foundation a notamment abo
  uti à la\ncréation de LF Energy\, première fondation consacrée aux besoins
   de la\ntransition énergétique.  Aujourd’hui LF Energy héberge 6 projets c
  oeur\nde métier de RTE et réunit une quarantaine de membres.  RTE cherche\
- négalement à développer son implication dans les communautés open\nsource 
+ négalement à développer son implication dans les communautés open\nsource
  autres\, en participant à des initiatives telles que TOSIT\n(association d
  e grands-comptes consommateurs d’open source) ou Hermine\n(projet communau
  taire initié par Inno3 sur la conformité).\n\nLe témoignage portera sur le
@@ -179,20 +694,17 @@ DESCRIPTION:Présentation de la Stratégie Open Source externe de RTE et de s
  urce dans une verticale industrielle\ntelle que l’énergie.\n\nIl sera comp
  lété par un aperçu de l'initiative Inner source de RTE\, le\nDevStudio\, b
  asé sur un socle 100% open source et permettant de\nfaciliter la transitio
- n vers un mode de développement ouvert.\n\n• 11h00-12h30 dans [le salon de
-  visioconférence BlueHats]\n  (<https://webinaire.numerique.gouv.fr//meeti
- ng/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>)\
- n• Intervention de Gwilherm Poullennec et Lucian Balea\n• Consulter la [pr
- emière]\n  (<https://speakerdeck.com/bluehats/strategie-rte-une-strategie-
- open-source-au-coeur-des-activites-logicielles-de-demain>)\n  et la [deuxi
- ème]\n  (<https://speakerdeck.com/bluehats/strategie-rte-presentation-du-d
- evstudio>)\n  présentations\n• [Revoir la session] (<https://dai.ly/x873d6
- i>)
+ n vers un mode de développement ouvert.\n\n• [Revoir la session]\n  (<http
+ s://communs.numerique.gouv.fr/ateliers/rte/>)\n• Intervention de Gwilherm
+ Poullennec et Lucian Balea\n• Consulter la [première]\n  (<https://speaker
+ deck.com/bluehats/strategie-rte-une-strategie-open-source-au-coeur-des-act
+ ivites-logicielles-de-demain>)\n  et la [deuxième]\n  (<https://speakerdec
+ k.com/bluehats/strategie-rte-presentation-du-devstudio>)\n  présentations
 CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-66d9c0ac-802f-4868-87a7-00ef01edf69c
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20220114T110000
 SUMMARY:14 janvier : Stratégie Open Source de RTE
 DESCRIPTION:Présentation de la Stratégie Open Source externe de RTE et de s
@@ -202,13 +714,13 @@ DESCRIPTION:Présentation de la Stratégie Open Source externe de RTE et de s
  étique en adaptant les\ninfrastructures de réseau et les processus opérati
  onnels.  Pour cela\,\nl’entreprise mise en particulier sur des solutions l
  ogicielles.  En\n2018\, RTE a décidé de s’engager dans une démarche open s
- ource\nambitieuse pour répondre aux enjeux d’innovation et d’accélération 
+ ource\nambitieuse pour répondre aux enjeux d’innovation et d’accélération
  de\nla feuille de route logicielle tout en préservant la performance\nopér
  ationnelle.\n\nUne collaboration avec The Linux Foundation a notamment abo
  uti à la\ncréation de LF Energy\, première fondation consacrée aux besoins
   de la\ntransition énergétique.  Aujourd’hui LF Energy héberge 6 projets c
  oeur\nde métier de RTE et réunit une quarantaine de membres.  RTE cherche\
- négalement à développer son implication dans les communautés open\nsource 
+ négalement à développer son implication dans les communautés open\nsource
  autres\, en participant à des initiatives telles que TOSIT\n(association d
  e grands-comptes consommateurs d’open source) ou Hermine\n(projet communau
  taire initié par Inno3 sur la conformité).\n\nLe témoignage portera sur le
@@ -216,22 +728,19 @@ DESCRIPTION:Présentation de la Stratégie Open Source externe de RTE et de s
  urce dans une verticale industrielle\ntelle que l’énergie.\n\nIl sera comp
  lété par un aperçu de l'initiative Inner source de RTE\, le\nDevStudio\, b
  asé sur un socle 100% open source et permettant de\nfaciliter la transitio
- n vers un mode de développement ouvert.\n\n• 11h00-12h30 dans [le salon de
-  visioconférence BlueHats]\n  (<https://webinaire.numerique.gouv.fr//meeti
- ng/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>)\
- n• Intervention de Gwilherm Poullennec et Lucian Balea\n• Consulter la [pr
- emière]\n  (<https://speakerdeck.com/bluehats/strategie-rte-une-strategie-
- open-source-au-coeur-des-activites-logicielles-de-demain>)\n  et la [deuxi
- ème]\n  (<https://speakerdeck.com/bluehats/strategie-rte-presentation-du-d
- evstudio>)\n  présentations\n• [Revoir la session] (<https://dai.ly/x873d6
- i>)
+ n vers un mode de développement ouvert.\n\n• [Revoir la session]\n  (<http
+ s://communs.numerique.gouv.fr/ateliers/rte/>)\n• Intervention de Gwilherm
+ Poullennec et Lucian Balea\n• Consulter la [première]\n  (<https://speaker
+ deck.com/bluehats/strategie-rte-une-strategie-open-source-au-coeur-des-act
+ ivites-logicielles-de-demain>)\n  et la [deuxième]\n  (<https://speakerdec
+ k.com/bluehats/strategie-rte-presentation-du-devstudio>)\n  présentations
 CATEGORIES:BLH
 SEQUENCE:1
 PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-5d0f2313-191a-4a7b-944b-bbcecb2fb171
 DTSTART:20211210T110000
 DTEND:20211210T123000
@@ -257,7 +766,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-5d0f2313-191a-4a7b-944b-bbcecb2fb171
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20211210T110000
 SUMMARY:10 décembre : Propriété intellectuelle dans les marchés publics
 LOCATION:https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/36
@@ -283,7 +792,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-c3366ad4-c98d-4cfd-82f6-dd0f423e42aa
 DTSTART:20211022T110000
 DTEND:20211022T123000
@@ -294,9 +803,9 @@ DESCRIPTION:Le médialab de SciencesPo\, fondé par Bruno Latour il y a maint
  bjectif de faire travailler ensemble chercheur·se·s en sciences\nsociales\
  , designers et ingénieur·e·s. Dans le cadre de ses projets\, il\nconçoit e
  t maintient une multitude d'outils Open Source pour la\nrecherche et la so
- ciété civile. Faisons ensemble une brève visite\nguidée de ces différents 
+ ciété civile. Faisons ensemble une brève visite\nguidée de ces différents
  outils\, pouvant aller des applications web\ndestinées aux étudiants jusqu
- 'aux outils en ligne de commande pour la\ncollecte de données en ligne ou 
+ 'aux outils en ligne de commande pour la\ncollecte de données en ligne ou
  aux librairies de code bas-niveau\nservant à optimiser certains calculs.\n
  \n• 11h00-12h30 dans [le salon de visioconférence BlueHats]\n  (<https://w
  ebinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44
@@ -309,7 +818,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-c3366ad4-c98d-4cfd-82f6-dd0f423e42aa
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20211022T110000
 SUMMARY:22 octobre : Présentation des outils et librairies Open Source déve
  loppés par le médialab de Sciences Po
@@ -318,9 +827,9 @@ DESCRIPTION:Le médialab de SciencesPo\, fondé par Bruno Latour il y a maint
  bjectif de faire travailler ensemble chercheur·se·s en sciences\nsociales\
  , designers et ingénieur·e·s. Dans le cadre de ses projets\, il\nconçoit e
  t maintient une multitude d'outils Open Source pour la\nrecherche et la so
- ciété civile. Faisons ensemble une brève visite\nguidée de ces différents 
+ ciété civile. Faisons ensemble une brève visite\nguidée de ces différents
  outils\, pouvant aller des applications web\ndestinées aux étudiants jusqu
- 'aux outils en ligne de commande pour la\ncollecte de données en ligne ou 
+ 'aux outils en ligne de commande pour la\ncollecte de données en ligne ou
  aux librairies de code bas-niveau\nservant à optimiser certains calculs.\n
  \n• 11h00-12h30 dans [le salon de visioconférence BlueHats]\n  (<https://w
  ebinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44
@@ -335,20 +844,20 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-5dfc28b6-197a-43b4-9086-2661ad00ab25
 DTSTART:20211008T110000
 DTEND:20211008T123000
-SUMMARY:S: 8 octobre : Les outils Framasoft dans l'administration publique 
+SUMMARY:S: 8 octobre : Les outils Framasoft dans l'administration publique
  et présentation de framaforms/[Yakforms] (<https://framablog.org/2021/05/2
  5/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/>)
 CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-5dfc28b6-197a-43b4-9086-2661ad00ab25
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20211008T110000
-SUMMARY:8 octobre : Les outils Framasoft dans l'administration publique et 
+SUMMARY:8 octobre : Les outils Framasoft dans l'administration publique et
  présentation de framaforms/[Yakforms] (<https://framablog.org/2021/05/25/o
  ubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/>)
 CATEGORIES:BLH
@@ -357,16 +866,16 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-5e179321-784f-48be-879b-212afd0b3d8f
 DTSTART:20210924T110000
 DTEND:20210924T123000
 SUMMARY:S: 24 septembre : Présentation du Standard pour un code informatiqu
  e public\, et retour d'expérience OpenFisca (EN)
 DESCRIPTION:_English version follows_\n\nLe Standard pour un code informati
- que public est un ensemble de\ncritères qui ont pour vocation d’aider les 
- administrations publiques à\nrapprocher les politiques publiques avec les 
- logiciels qui les\nimplémentent : le code source du calcul de l’impôt sur 
+ que public est un ensemble de\ncritères qui ont pour vocation d’aider les
+ administrations publiques à\nrapprocher les politiques publiques avec les
+ logiciels qui les\nimplémentent : le code source du calcul de l’impôt sur
  le revenu\, des\nprestations sociales\, des algorithmes de Parcoursup…\n\n
  Alors que\, de plus en plus\, ces logiciels s’assimilent aux règles de\nla
   loi qu’ils implémentent\, leur contrôle démocratique se déploie\ndoucemen
@@ -374,7 +883,7 @@ DESCRIPTION:_English version follows_\n\nLe Standard pour un code informati
  istrations et de la société civile\, et rendre compte de\nleur utilisation
  .\n\nMais si le cadre légal est pourtant déjà là - lois Informatique et\nL
  ibertés\, CADA\, Valter\, Lemaire\, le RGPD - alors pourquoi un\ndéploieme
- nt si doux ? Depuis le « Dam »\, aux Pays-Bas\, la Foundation\nfor Public 
+ nt si doux ? Depuis le « Dam »\, aux Pays-Bas\, la Foundation\nfor Public
  Code nous propose une approche pragmatique par le code\, le\nStandard pour
   un code informatique public.\n\nLa fondation accompagne\, depuis 2020\, l
  a communauté OpenFisca dans\nl’adoption du « standard ». Cela tombe bien p
@@ -388,16 +897,16 @@ DESCRIPTION:_English version follows_\n\nLe Standard pour un code informati
  ess to higher\neducation\, etc.\n\nWhile this software increasingly assimi
  lates to the rules of the law\nthey implement\, their democratic control i
  s yet slowly deployed: the\nopening of their source codes\, the facilitati
- on of contributions by\nadministrations and the civil society\, and their 
+ on of contributions by\nadministrations and the civil society\, and their
  democratic\naccountability.\n\nBut if the legal framework is there already
-  —acts Data Protection\,\nCADA\, Valter\, Lemaire\, GDPR— then why such a 
+  —acts Data Protection\,\nCADA\, Valter\, Lemaire\, GDPR— then why such a
  slow deployment? From the\n“Dam” in the Netherlands\, the Foundation for P
  ublic Code offers us a\npragmatic code-based approach\, the Standard for P
  ublic Code.\n\nSince 2020\, the foundation has been supporting the OpenFis
  ca community\nin adopting the "standard". This is a good thing since OpenF
- isca is\,\nin fact\, a libre and contributive software to write the rules 
+ isca is\,\nin fact\, a libre and contributive software to write the rules
  of the\nlaw into computer code\, and powered since 2014 by the administrat
- ion!\n\nBut where are we at? Come and find out!\n\n• 11h00-12h30 dans [le 
+ ion!\n\nBut where are we at? Come and find out!\n\n• 11h00-12h30 dans [le
  salon de visioconférence BlueHats]\n  (<https://webinaire.numerique.gouv.f
  r//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669d
  a0a5b>)\n• 11h00-11h30 : Intervention de de la\n• 11h30-12h00 : Interventi
@@ -408,14 +917,14 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-5e179321-784f-48be-879b-212afd0b3d8f
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210924T110000
 SUMMARY:24 septembre : Présentation du Standard pour un code informatique p
  ublic\, et retour d'expérience OpenFisca (EN)
 DESCRIPTION:_English version follows_\n\nLe Standard pour un code informati
- que public est un ensemble de\ncritères qui ont pour vocation d’aider les 
- administrations publiques à\nrapprocher les politiques publiques avec les 
- logiciels qui les\nimplémentent : le code source du calcul de l’impôt sur 
+ que public est un ensemble de\ncritères qui ont pour vocation d’aider les
+ administrations publiques à\nrapprocher les politiques publiques avec les
+ logiciels qui les\nimplémentent : le code source du calcul de l’impôt sur
  le revenu\, des\nprestations sociales\, des algorithmes de Parcoursup…\n\n
  Alors que\, de plus en plus\, ces logiciels s’assimilent aux règles de\nla
   loi qu’ils implémentent\, leur contrôle démocratique se déploie\ndoucemen
@@ -423,7 +932,7 @@ DESCRIPTION:_English version follows_\n\nLe Standard pour un code informati
  istrations et de la société civile\, et rendre compte de\nleur utilisation
  .\n\nMais si le cadre légal est pourtant déjà là - lois Informatique et\nL
  ibertés\, CADA\, Valter\, Lemaire\, le RGPD - alors pourquoi un\ndéploieme
- nt si doux ? Depuis le « Dam »\, aux Pays-Bas\, la Foundation\nfor Public 
+ nt si doux ? Depuis le « Dam »\, aux Pays-Bas\, la Foundation\nfor Public
  Code nous propose une approche pragmatique par le code\, le\nStandard pour
   un code informatique public.\n\nLa fondation accompagne\, depuis 2020\, l
  a communauté OpenFisca dans\nl’adoption du « standard ». Cela tombe bien p
@@ -437,16 +946,16 @@ DESCRIPTION:_English version follows_\n\nLe Standard pour un code informati
  ess to higher\neducation\, etc.\n\nWhile this software increasingly assimi
  lates to the rules of the law\nthey implement\, their democratic control i
  s yet slowly deployed: the\nopening of their source codes\, the facilitati
- on of contributions by\nadministrations and the civil society\, and their 
+ on of contributions by\nadministrations and the civil society\, and their
  democratic\naccountability.\n\nBut if the legal framework is there already
-  —acts Data Protection\,\nCADA\, Valter\, Lemaire\, GDPR— then why such a 
+  —acts Data Protection\,\nCADA\, Valter\, Lemaire\, GDPR— then why such a
  slow deployment? From the\n“Dam” in the Netherlands\, the Foundation for P
  ublic Code offers us a\npragmatic code-based approach\, the Standard for P
  ublic Code.\n\nSince 2020\, the foundation has been supporting the OpenFis
  ca community\nin adopting the "standard". This is a good thing since OpenF
- isca is\,\nin fact\, a libre and contributive software to write the rules 
+ isca is\,\nin fact\, a libre and contributive software to write the rules
  of the\nlaw into computer code\, and powered since 2014 by the administrat
- ion!\n\nBut where are we at? Come and find out!\n\n• 11h00-12h30 dans [le 
+ ion!\n\nBut where are we at? Come and find out!\n\n• 11h00-12h30 dans [le
  salon de visioconférence BlueHats]\n  (<https://webinaire.numerique.gouv.f
  r//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669d
  a0a5b>)\n• 11h00-11h30 : Intervention de de la\n• 11h30-12h00 : Interventi
@@ -459,7 +968,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-9551fa17-3818-4ad2-ba69-6fa70e19247a
 DTSTART:20210910T110000
 DTEND:20210910T123000
@@ -470,8 +979,8 @@ DESCRIPTION:Bref historique de la Messagerie Collaborative de l'État (MCE)\
  e la dernière interface totalement intégrée (Suite collaborative).\n\n• 11
  h-12h30 dans [le salon de visioconférence BlueHats]\n  (<https://webinaire
  .numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b4818303
- 88d5d69c808eb669da0a5b>)\n• 11h-11h45 : Intervention du Groupe Messagerie 
- et Conférence à\n  Distance\, MTE/SNUM avec appui de la société Apitech\n 
+ 88d5d69c808eb669da0a5b>)\n• 11h-11h45 : Intervention du Groupe Messagerie
+ et Conférence à\n  Distance\, MTE/SNUM avec appui de la société Apitech\n
   • Présentation de la MCE (ce que c'est / ce que ce n'est pas) et\n    bre
  f historique\,\n  • Vision stratégique de cette solution de messagerie Ope
  nSource\,\n    Patrick Chaléat et Cyril Aeck\, Chef et Adjoint du groupe\n
@@ -485,7 +994,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-9551fa17-3818-4ad2-ba69-6fa70e19247a
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210910T110000
 SUMMARY:10 septembre : Présentation de la Messagerie Collaborative de l'Éta
  t
@@ -494,8 +1003,8 @@ DESCRIPTION:Bref historique de la Messagerie Collaborative de l'État (MCE)\
  e la dernière interface totalement intégrée (Suite collaborative).\n\n• 11
  h-12h30 dans [le salon de visioconférence BlueHats]\n  (<https://webinaire
  .numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b4818303
- 88d5d69c808eb669da0a5b>)\n• 11h-11h45 : Intervention du Groupe Messagerie 
- et Conférence à\n  Distance\, MTE/SNUM avec appui de la société Apitech\n 
+ 88d5d69c808eb669da0a5b>)\n• 11h-11h45 : Intervention du Groupe Messagerie
+ et Conférence à\n  Distance\, MTE/SNUM avec appui de la société Apitech\n
   • Présentation de la MCE (ce que c'est / ce que ce n'est pas) et\n    bre
  f historique\,\n  • Vision stratégique de cette solution de messagerie Ope
  nSource\,\n    Patrick Chaléat et Cyril Aeck\, Chef et Adjoint du groupe\n
@@ -511,7 +1020,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-17879e63-7c5f-482f-816a-d8bf8944526c
 DTSTART:20210625T110000
 DTEND:20210625T123000
@@ -530,7 +1039,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-17879e63-7c5f-482f-816a-d8bf8944526c
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210625T110000
 SUMMARY:25 juin : Quelles motivations pour contribuer à des projets open so
  urce ? (suite)
@@ -549,7 +1058,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-da718b73-3c72-45d8-b482-237c0569cee2
 DTSTART:20210611T110000
 DTEND:20210611T123000
@@ -558,14 +1067,14 @@ DESCRIPTION:EOLE est l'acronyme de Ensemble Ouvert Libre et Évolutif. Il s'
  agit\nd'un projet collaboratif basé sur la philosophie du logiciel libre.\
  nIl est réalisé par le Pôle de compétence logiciels libres du Ministère\nd
  e L’Éducation Nationale avec l’appui du Ministère de la Transition\nÉcolog
- ique et Solidaire.  Il propose des solutions clé en main pour la\nmise en 
- place de serveurs principalement pour les établissements\nd’enseignements 
+ ique et Solidaire.  Il propose des solutions clé en main pour la\nmise en
+ place de serveurs principalement pour les établissements\nd’enseignements
  et les services administratifs.\n\nIssu du projet éponyme\, la méta-distri
  bution EOLE est l'association\nd'une distribution GNU/Linux (Ubuntu\, en l
  'occurrence) et d’outils\nspécifiques d'intégration et d'administration dé
  veloppés\nspécifiquement.\n\nDepuis 20 ans EOLE accompagne les grands proj
- ets numériques du\nMinistère de l’Éducation.  L'utilisation des logiciels 
- libres\,\névolutifs et adaptables\, la gouvernance agile au plus près des 
+ ets numériques du\nMinistère de l’Éducation.  L'utilisation des logiciels
+ libres\,\névolutifs et adaptables\, la gouvernance agile au plus près des
  besoins\nutilisateurs\, la mutualisation des compétences\, toutes ses prat
  iques\nmise en œuvre par le pôle ont permis de suivre les évolutions des\n
  usages numériques sans rupture technologique et à moindre coût.\n\nEole fi
@@ -577,21 +1086,21 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-da718b73-3c72-45d8-b482-237c0569cee2
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210611T110000
 SUMMARY:11 juin : Présentation du pôle EOLE et de www.mim-libre.fr
 DESCRIPTION:EOLE est l'acronyme de Ensemble Ouvert Libre et Évolutif. Il s'
  agit\nd'un projet collaboratif basé sur la philosophie du logiciel libre.\
  nIl est réalisé par le Pôle de compétence logiciels libres du Ministère\nd
  e L’Éducation Nationale avec l’appui du Ministère de la Transition\nÉcolog
- ique et Solidaire.  Il propose des solutions clé en main pour la\nmise en 
- place de serveurs principalement pour les établissements\nd’enseignements 
+ ique et Solidaire.  Il propose des solutions clé en main pour la\nmise en
+ place de serveurs principalement pour les établissements\nd’enseignements
  et les services administratifs.\n\nIssu du projet éponyme\, la méta-distri
  bution EOLE est l'association\nd'une distribution GNU/Linux (Ubuntu\, en l
  'occurrence) et d’outils\nspécifiques d'intégration et d'administration dé
  veloppés\nspécifiquement.\n\nDepuis 20 ans EOLE accompagne les grands proj
- ets numériques du\nMinistère de l’Éducation.  L'utilisation des logiciels 
- libres\,\névolutifs et adaptables\, la gouvernance agile au plus près des 
+ ets numériques du\nMinistère de l’Éducation.  L'utilisation des logiciels
+ libres\,\névolutifs et adaptables\, la gouvernance agile au plus près des
  besoins\nutilisateurs\, la mutualisation des compétences\, toutes ses prat
  iques\nmise en œuvre par le pôle ont permis de suivre les évolutions des\n
  usages numériques sans rupture technologique et à moindre coût.\n\nEole fi
@@ -605,7 +1114,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-e88cd4ff-20a9-42d4-86f3-9a82587bc326
 DTSTART:20210604T110000
 DTEND:20210604T123000
@@ -613,7 +1122,7 @@ SUMMARY:S: 4 juin : Présentation du framework [Dash] (<https://plotly.com/d
  ash/>) (Plotly.js\, React et Flask)
 DESCRIPTION:• 11h-12h30 : Interventions de Line Rahal (ANSM)\, Antoine Biar
  d (HAS)\,\n  Rémi Delbouys (Envinorma)\n• Explorer [le dépôt de code]\n  (
- <https://github.com/antoan2/le-grand-dashbat>) présenté\n• [Revoir sur le 
+ <https://github.com/antoan2/le-grand-dashbat>) présenté\n• [Revoir sur le
  compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vd1m>)\n\nL'applicatio
  n créée dans le cadre de cet atelier est accessible sur\ngithub : [le-gran
  d-dashbat]\n(<https://github.com/antoan2/le-grand-dashbat>).\n\nIl est pos
@@ -623,13 +1132,13 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-e88cd4ff-20a9-42d4-86f3-9a82587bc326
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210604T110000
 SUMMARY:4 juin : Présentation du framework [Dash] (<https://plotly.com/dash
  />) (Plotly.js\, React et Flask)
 DESCRIPTION:• 11h-12h30 : Interventions de Line Rahal (ANSM)\, Antoine Biar
  d (HAS)\,\n  Rémi Delbouys (Envinorma)\n• Explorer [le dépôt de code]\n  (
- <https://github.com/antoan2/le-grand-dashbat>) présenté\n• [Revoir sur le 
+ <https://github.com/antoan2/le-grand-dashbat>) présenté\n• [Revoir sur le
  compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vd1m>)\n\nL'applicatio
  n créée dans le cadre de cet atelier est accessible sur\ngithub : [le-gran
  d-dashbat]\n(<https://github.com/antoan2/le-grand-dashbat>).\n\nIl est pos
@@ -641,7 +1150,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:TS1-0c91bd0a-9488-4951-b46d-a4f41777f791
 DTSTART:20210521T110000
 DTEND:20210521T123000
@@ -657,7 +1166,7 @@ DESCRIPTION:Vous en avez envie depuis longtemps et n'avez jamais sauté le p
  /llaske>)\, l’animateur de l'atelier\nest l'auteur de la plateforme pédago
  gique libre [Sugarizer]\n(<https://sugarizer.org>)\, membre du board de l'
  organisation Open\nSource [SugarLabs] (<http://sugarlabs.org>) et mentor p
- our le Google\nSummer of Code depuis 2013.\n\nSCHEDULED: <2021-05-21 ven. 
+ our le Google\nSummer of Code depuis 2013.\n\nSCHEDULED: <2021-05-21 ven.
  11:00>–<2021-05-21 ven. 12:30>\n• 11h-12h30 : Intervention de Lionel Laské
  \n• [Revoir sur le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vd1
  i>)\n• [Présentation PDF]\n  (<https://speakerdeck.com/bluehats/open-sourc
@@ -666,8 +1175,8 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-0c91bd0a-9488-4951-b46d-a4f41777f791
-DTSTAMP:20220131T081128Z
-DTSTART:20220131T091100
+DTSTAMP:20220729T132437Z
+DTSTART:20220729T152400
 SUMMARY:21 mai : Sauter le pas: faire votre première contribution à un proj
  et open source
 DESCRIPTION:Vous en avez envie depuis longtemps et n'avez jamais sauté le p
@@ -680,7 +1189,7 @@ DESCRIPTION:Vous en avez envie depuis longtemps et n'avez jamais sauté le p
  /llaske>)\, l’animateur de l'atelier\nest l'auteur de la plateforme pédago
  gique libre [Sugarizer]\n(<https://sugarizer.org>)\, membre du board de l'
  organisation Open\nSource [SugarLabs] (<http://sugarlabs.org>) et mentor p
- our le Google\nSummer of Code depuis 2013.\n\nSCHEDULED: <2021-05-21 ven. 
+ our le Google\nSummer of Code depuis 2013.\n\nSCHEDULED: <2021-05-21 ven.
  11:00>–<2021-05-21 ven. 12:30>\n• 11h-12h30 : Intervention de Lionel Laské
  \n• [Revoir sur le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vd1
  i>)\n• [Présentation PDF]\n  (<https://speakerdeck.com/bluehats/open-sourc
@@ -691,15 +1200,15 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-3fb223da-37ed-405c-a3fa-e8f7034ea94a
 DTSTART:20210507T110000
 DTEND:20210507T123000
 SUMMARY:S: 7 mai : Présentation du projet Open Terms Archive
-DESCRIPTION:Quel contrat ai-je accepté en utilisant un service numérique ? 
+DESCRIPTION:Quel contrat ai-je accepté en utilisant un service numérique ?
  Les\nconditions ont-elles changé depuis que j’utilise ces services ? Dans\
  nquel sens évoluent-elles ? Sont-elles conformes aux discours de ces\nacte
- urs et aux lois qui encadrent leurs pratiques ?\n\nUn outil simple permet 
+ urs et aux lois qui encadrent leurs pratiques ?\n\nUn outil simple permet
  désormais de répondre à ces questions : [Open\nTerms Archive]\n(<https://d
  isinfo.quaidorsay.fr/en/open-terms-archive>).\n\n• 11h-12h30 : Interventio
  ns de Clément Biron\, de l'équipe de\n  l'ambassadeur pour le numérique.\n
@@ -709,13 +1218,13 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-3fb223da-37ed-405c-a3fa-e8f7034ea94a
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210507T110000
 SUMMARY:7 mai : Présentation du projet Open Terms Archive
-DESCRIPTION:Quel contrat ai-je accepté en utilisant un service numérique ? 
+DESCRIPTION:Quel contrat ai-je accepté en utilisant un service numérique ?
  Les\nconditions ont-elles changé depuis que j’utilise ces services ? Dans\
  nquel sens évoluent-elles ? Sont-elles conformes aux discours de ces\nacte
- urs et aux lois qui encadrent leurs pratiques ?\n\nUn outil simple permet 
+ urs et aux lois qui encadrent leurs pratiques ?\n\nUn outil simple permet
  désormais de répondre à ces questions : [Open\nTerms Archive]\n(<https://d
  isinfo.quaidorsay.fr/en/open-terms-archive>).\n\n• 11h-12h30 : Interventio
  ns de Clément Biron\, de l'équipe de\n  l'ambassadeur pour le numérique.\n
@@ -727,14 +1236,14 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-37d239a9-9a2a-473a-94bd-f478604599bb
 DTSTART:20210416T110000
 DTEND:20210416T123000
 SUMMARY:S: 16 avril : Présentation de cas d'usage de [Cozy Cloud] (<https:/
  /cozy.io/fr/>)
 DESCRIPTION:• 11h-11h45 : Interventions d'Olivier Adam ([Toutatice]\n  (<ht
- tps://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/>))\n• 
+ tps://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/>))\n•
  11h45-12h30 : Intervention de Maria-Inés Leal (Grand Lyon)\n• Avec la part
  icipation de Benjamin André ([cozy.io]\n  (<https://cozy.io/fr/>))\n• [Rev
  oir sur le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vd1n>)
@@ -742,12 +1251,12 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-37d239a9-9a2a-473a-94bd-f478604599bb
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210416T110000
 SUMMARY:16 avril : Présentation de cas d'usage de [Cozy Cloud] (<https://co
  zy.io/fr/>)
 DESCRIPTION:• 11h-11h45 : Interventions d'Olivier Adam ([Toutatice]\n  (<ht
- tps://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/>))\n• 
+ tps://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/>))\n•
  11h45-12h30 : Intervention de Maria-Inés Leal (Grand Lyon)\n• Avec la part
  icipation de Benjamin André ([cozy.io]\n  (<https://cozy.io/fr/>))\n• [Rev
  oir sur le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vd1n>)
@@ -757,19 +1266,19 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-5a2ee054-c175-42f4-ac0f-5505f32cdacd
 DTSTART:20210409T110000
 DTEND:20210409T123000
 SUMMARY:S: 9 avril : Quelles motivations pour contribuer à des projets open
   source ?
-DESCRIPTION:Présentation de l'article de Nicolas Jullien et Karine Roudaut 
+DESCRIPTION:Présentation de l'article de Nicolas Jullien et Karine Roudaut
  : « Can\nOpen Source projects succeed when the producers are not users? Le
  ssons\nfrom the data processing field » ([lien sur HAL]\n(<https://hal.arc
  hives-ouvertes.fr/hal-00737173>)).  Télécharger [une\nsélection d'articles
   et de ressources]\n(<https://box.bzg.io/cloud/index.php/s/5wiMKnArmxnDKw5
  >) à lire en\namont.\n\nIntervention de Teresa Gomez-Diaz sur la productio
- n de logiciels\nlibres au Laboratoire d'Informatique Gaspard-Monge (LIGM) 
+ n de logiciels\nlibres au Laboratoire d'Informatique Gaspard-Monge (LIGM)
  : lire une\n[description détaillée] (<file:details/2021-04-09.org>) avec u
  ne\nbibliographie.\n\n• 11h-11h45 : Intervention de [Nicolas Jullien]\n  (
  <https://cv.archives-ouvertes.fr/nicolas-jullien>) ([présentation]\n  (<ht
@@ -783,17 +1292,17 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-5a2ee054-c175-42f4-ac0f-5505f32cdacd
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210409T110000
 SUMMARY:9 avril : Quelles motivations pour contribuer à des projets open so
  urce ?
-DESCRIPTION:Présentation de l'article de Nicolas Jullien et Karine Roudaut 
+DESCRIPTION:Présentation de l'article de Nicolas Jullien et Karine Roudaut
  : « Can\nOpen Source projects succeed when the producers are not users? Le
  ssons\nfrom the data processing field » ([lien sur HAL]\n(<https://hal.arc
  hives-ouvertes.fr/hal-00737173>)).  Télécharger [une\nsélection d'articles
   et de ressources]\n(<https://box.bzg.io/cloud/index.php/s/5wiMKnArmxnDKw5
  >) à lire en\namont.\n\nIntervention de Teresa Gomez-Diaz sur la productio
- n de logiciels\nlibres au Laboratoire d'Informatique Gaspard-Monge (LIGM) 
+ n de logiciels\nlibres au Laboratoire d'Informatique Gaspard-Monge (LIGM)
  : lire une\n[description détaillée] (<file:details/2021-04-09.org>) avec u
  ne\nbibliographie.\n\n• 11h-11h45 : Intervention de [Nicolas Jullien]\n  (
  <https://cv.archives-ouvertes.fr/nicolas-jullien>) ([présentation]\n  (<ht
@@ -809,14 +1318,14 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-eba34397-c437-4d58-baf5-ae4701a6aeff
 DTSTART:20210326T110000
 DTEND:20210326T123000
 SUMMARY:S: 26 mars : Atelier sur OW2 Good Governance Initiative
 DESCRIPTION:Présentation de l'[OW2 Good Governance Initiatve]\n(<https://ww
- w.ow2.org/view/OSS_Governance/>).\n\n• 11h-12h30 : Intervention de Cédric 
- Thomas ([OW2]\n  (<https://www.ow2.org/>))\n• [Support de présentation]\n 
+ w.ow2.org/view/OSS_Governance/>).\n\n• 11h-12h30 : Intervention de Cédric
+ Thomas ([OW2]\n  (<https://www.ow2.org/>))\n• [Support de présentation]\n
   (<https://www.ow2.org/download/OSS_Governance/WebHome/2103-OW2-Good-Gover
  nance-initiative-Intro-en?rev=1.1>)\n• [Revoir sur le compte Dailymotion d
  'Etalab]\n  (<https://dai.ly/x82vcud>)
@@ -824,12 +1333,12 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-eba34397-c437-4d58-baf5-ae4701a6aeff
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210326T110000
 SUMMARY:26 mars : Atelier sur OW2 Good Governance Initiative
 DESCRIPTION:Présentation de l'[OW2 Good Governance Initiatve]\n(<https://ww
- w.ow2.org/view/OSS_Governance/>).\n\n• 11h-12h30 : Intervention de Cédric 
- Thomas ([OW2]\n  (<https://www.ow2.org/>))\n• [Support de présentation]\n 
+ w.ow2.org/view/OSS_Governance/>).\n\n• 11h-12h30 : Intervention de Cédric
+ Thomas ([OW2]\n  (<https://www.ow2.org/>))\n• [Support de présentation]\n
   (<https://www.ow2.org/download/OSS_Governance/WebHome/2103-OW2-Good-Gover
  nance-initiative-Intro-en?rev=1.1>)\n• [Revoir sur le compte Dailymotion d
  'Etalab]\n  (<https://dai.ly/x82vcud>)
@@ -839,7 +1348,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-a3db5e45-7397-4efc-a8ba-b7a77904d3ae
 DTSTART:20210312T110000
 DTEND:20210312T123000
@@ -851,7 +1360,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-a3db5e45-7397-4efc-a8ba-b7a77904d3ae
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210312T110000
 SUMMARY:12 mars : Atelier de mise à jour RGPD pour Matomo
 DESCRIPTION:• [Matomo dans le SILL]\n  (<https://sill.etalab.gouv.fr/fr/sof
@@ -863,7 +1372,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-74293f32-b5d2-4eb8-a818-8f6ea5f9f23c
 DTSTART:20210305T110000
 DTEND:20210305T123000
@@ -875,7 +1384,7 @@ DESCRIPTION:[Opale] (<https://doc.scenari.software/Opale/fr/>) est un logic
  lle\, à distance ou mixte.\n\nLes documents créés peuvent contenir des res
  sources multimédia\, des\nquiz\, des évaluations\, et peuvent être générés
   sous forme de pdf\, site\nweb\, diaporama ou paquet Scorm intégrable dans
-  Moodle ou autres\nplateformes LMS.\n\n• Intervention de Loïc Alejandro\, 
+  Moodle ou autres\nplateformes LMS.\n\n• Intervention de Loïc Alejandro\,
  directeur de l'association Scenari\n• 11h-12h pour présenter [Scenari Opal
  e]\n  (<https://doc.scenari.software/Opale/fr/>)\n• 12h-12h30 pour aborder
   les évolutions du SILL\n• [Support de présentation]\n  (<https://scenari.
@@ -888,7 +1397,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-74293f32-b5d2-4eb8-a818-8f6ea5f9f23c
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210305T110000
 SUMMARY:5 mars : Atelier de découverte de Scenari Opale et point SILL
 DESCRIPTION:[Opale] (<https://doc.scenari.software/Opale/fr/>) est un logic
@@ -898,7 +1407,7 @@ DESCRIPTION:[Opale] (<https://doc.scenari.software/Opale/fr/>) est un logic
  lle\, à distance ou mixte.\n\nLes documents créés peuvent contenir des res
  sources multimédia\, des\nquiz\, des évaluations\, et peuvent être générés
   sous forme de pdf\, site\nweb\, diaporama ou paquet Scorm intégrable dans
-  Moodle ou autres\nplateformes LMS.\n\n• Intervention de Loïc Alejandro\, 
+  Moodle ou autres\nplateformes LMS.\n\n• Intervention de Loïc Alejandro\,
  directeur de l'association Scenari\n• 11h-12h pour présenter [Scenari Opal
  e]\n  (<https://doc.scenari.software/Opale/fr/>)\n• 12h-12h30 pour aborder
   les évolutions du SILL\n• [Support de présentation]\n  (<https://scenari.
@@ -913,16 +1422,16 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-99a13b58-6f63-4842-b15b-fe09608e1f38
 DTSTART:20210129T110000
 DTEND:20210129T123000
 SUMMARY:S: 29 janvier : Atelier de présentation de SambaÉdu
-DESCRIPTION:SambaÉdu est une solution de serveurs permettant d’administrer 
+DESCRIPTION:SambaÉdu est une solution de serveurs permettant d’administrer
  un\nannuaire Active Directory\, un réseau local de petite ou de très grand
  e\nampleur. Cette solution propose un ensemble de services conséquent :\nd
  éploiement automatique de clients Linux/Windows\, gestion de salon de\nvis
- ioconférence BigBlueButton\, prise en main de postes à distance de\nfaçon 
+ ioconférence BigBlueButton\, prise en main de postes à distance de\nfaçon
  sécurisée par l’intermédiaire de Guacamole\, affichage dynamique.\n\nOrien
  té pédagogie\, SambaÉdu est déployé dans les écoles\, lycées et\ncollèges.
   Cette solution est aussi mise en place dans des CFA\, dans\ndes centres d
@@ -936,14 +1445,14 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-99a13b58-6f63-4842-b15b-fe09608e1f38
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210129T110000
 SUMMARY:29 janvier : Atelier de présentation de SambaÉdu
-DESCRIPTION:SambaÉdu est une solution de serveurs permettant d’administrer 
+DESCRIPTION:SambaÉdu est une solution de serveurs permettant d’administrer
  un\nannuaire Active Directory\, un réseau local de petite ou de très grand
  e\nampleur. Cette solution propose un ensemble de services conséquent :\nd
  éploiement automatique de clients Linux/Windows\, gestion de salon de\nvis
- ioconférence BigBlueButton\, prise en main de postes à distance de\nfaçon 
+ ioconférence BigBlueButton\, prise en main de postes à distance de\nfaçon
  sécurisée par l’intermédiaire de Guacamole\, affichage dynamique.\n\nOrien
  té pédagogie\, SambaÉdu est déployé dans les écoles\, lycées et\ncollèges.
   Cette solution est aussi mise en place dans des CFA\, dans\ndes centres d
@@ -959,7 +1468,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-6a9ff81d-99e2-445c-85dc-f34794d527a2
 DTSTART:20210122T110000
 DTEND:20210122T123000
@@ -988,7 +1497,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-6a9ff81d-99e2-445c-85dc-f34794d527a2
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210122T110000
 SUMMARY:22 janvier : Présentation de [Proxmox] (<https://proxmox.com>)
 DESCRIPTION:Proxmox est une plateforme opensource (AGPL v3) de virtualisati
@@ -1017,7 +1526,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-b603470e-9f67-4a91-80aa-85b81ebd1cc0
 DTSTART:20210115T110000
 DTEND:20210115T123000
@@ -1029,7 +1538,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-b603470e-9f67-4a91-80aa-85b81ebd1cc0
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20210115T110000
 SUMMARY:15 janvier : Présentation de [Tuleap] (<https://www.tuleap.org/fr/>
  )\, outil de transformation digitale\, réalisations agiles et devops ("App
@@ -1041,7 +1550,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-6f3c2c63-8f96-4796-94d1-1277797f0564
 DTSTART:20201218T110000
 DTEND:20201218T123000
@@ -1056,7 +1565,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-6f3c2c63-8f96-4796-94d1-1277797f0564
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20201218T110000
 SUMMARY:18 Décembre : OpenMole\, les JDEV et plateforme vidéo "Constellatio
  n"
@@ -1071,7 +1580,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-0a03b76f-e9f1-4780-a389-6a086790f0c5
 DTSTART:20201204T110000
 DTEND:20201204T123000
@@ -1083,7 +1592,7 @@ DESCRIPTION:Le projet [exodus privacy] (<https://exodus-privacy.eu.org/fr/>
  y.eu.org/fr/>) mais aussi via une\napplication sur qui vous permettra d'av
  oir un rapport détaillé des\napps de votre mobile.\n\nLe MENJS est en rela
  tion depuis un peu plus d'un an avec l'association\nexodus privacy afin d'
- avoir une instance MENJS d'exodus pour que les\nenseignants et personnels 
+ avoir une instance MENJS d'exodus pour que les\nenseignants et personnels
  administratifs puissent faire analyser les\napps non présente dans les sto
  re google et fdroid\, notamment les apk\nachété par les collectivités et é
  tablissements scolaire.\n\nLe service exodus peut être relié a [un MDM]\n(
@@ -1098,7 +1607,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-0a03b76f-e9f1-4780-a389-6a086790f0c5
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20201204T110000
 SUMMARY:4 Décembre : présentation d'Exodus Privacy
 DESCRIPTION:Le projet [exodus privacy] (<https://exodus-privacy.eu.org/fr/>
@@ -1108,7 +1617,7 @@ DESCRIPTION:Le projet [exodus privacy] (<https://exodus-privacy.eu.org/fr/>
  y.eu.org/fr/>) mais aussi via une\napplication sur qui vous permettra d'av
  oir un rapport détaillé des\napps de votre mobile.\n\nLe MENJS est en rela
  tion depuis un peu plus d'un an avec l'association\nexodus privacy afin d'
- avoir une instance MENJS d'exodus pour que les\nenseignants et personnels 
+ avoir une instance MENJS d'exodus pour que les\nenseignants et personnels
  administratifs puissent faire analyser les\napps non présente dans les sto
  re google et fdroid\, notamment les apk\nachété par les collectivités et é
  tablissements scolaire.\n\nLe service exodus peut être relié a [un MDM]\n(
@@ -1125,7 +1634,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-44072367-cfca-41d5-9ca9-e27c86801b29
 DTSTART:20201127T110000
 DTEND:20201127T123000
@@ -1143,7 +1652,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-44072367-cfca-41d5-9ca9-e27c86801b29
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20201127T110000
 SUMMARY:27 Novembre : Wébinaire autour de la gouvernance de logiciels libre
  s liés au secteur public (2/2) (Prodige et Atlasanté)
@@ -1161,7 +1670,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-cb55392e-dcce-40d7-8881-8e00ce9b4ec7
 DTSTART:20201120T110000
 DTEND:20201120T123000
@@ -1176,7 +1685,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-cb55392e-dcce-40d7-8881-8e00ce9b4ec7
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20201120T110000
 SUMMARY:20 Novembre : Présentation des fonctionnalités principales d'[XWiki
  ] (<https://sill.etalab.gouv.fr/fr/software?id=214>) et de nos adaptations
@@ -1191,7 +1700,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-e091806d-9604-48f6-932e-39d9b3dd6c86
 DTSTART:20201023T110000
 DTEND:20201023T123000
@@ -1210,7 +1719,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-e091806d-9604-48f6-932e-39d9b3dd6c86
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20201023T110000
 SUMMARY:23 Octobre : Wébinaire autour de la gouvernance de logiciels libres
   liés au secteur public (1/2) (Geotrek/geonature\, [Scenari/Opale] (<https
@@ -1229,7 +1738,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-4788544e-4f54-4ee5-9322-52162f3651f7
 DTSTART:20201009T110000
 DTEND:20201009T123000
@@ -1240,7 +1749,7 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-4788544e-4f54-4ee5-9322-52162f3651f7
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20201009T110000
 SUMMARY:9 Octobre : Wébinaire de prise en main de [JOSM] (<https://sill.eta
  lab.gouv.fr/fr/software?id=207>)
@@ -1251,7 +1760,7 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-1acd1f4e-8888-4c1a-acd2-b6d3b2c10848
 DTSTART:20200925T110000
 DTEND:20200925T123000
@@ -1264,9 +1773,9 @@ CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-1acd1f4e-8888-4c1a-acd2-b6d3b2c10848
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20200925T110000
-SUMMARY:25 Septembre : Wébinaire : "OpenStreetMap n'est pas qu'une carte\, 
+SUMMARY:25 Septembre : Wébinaire : "OpenStreetMap n'est pas qu'une carte\,
  c'est une base de données ouverte"
 DESCRIPTION:• 11h-13h : Intervention de Delphine Montagne\n• Pré-requis : c
  réation d'un compte sur [OSM]\n  (<https://www.openstreetmap.org/user/new>
@@ -1277,23 +1786,23 @@ PRIORITY:5
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 UID:SC-8dbbabbb-c075-4ee2-85d9-0b8d4cc1234a
 DTSTART:20200717T110000
 DTEND:20200717T123000
 SUMMARY:S: 17 Juillet : Wébinaire [Matomo] (<https://sill.etalab.gouv.fr/fr
  /software?id=176>)
-DESCRIPTION:• 11h-12h30 : Intervention de Ronan Chardonneau\n• [Revoir sur 
+DESCRIPTION:• 11h-12h30 : Intervention de Ronan Chardonneau\n• [Revoir sur
  le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vcuh>)
 CATEGORIES:BLH
 END:VEVENT
 BEGIN:VTODO
 UID:TODO-8dbbabbb-c075-4ee2-85d9-0b8d4cc1234a
-DTSTAMP:20220131T081128Z
+DTSTAMP:20220729T132437Z
 DTSTART:20200717T110000
 SUMMARY:17 Juillet : Wébinaire [Matomo] (<https://sill.etalab.gouv.fr/fr/so
  ftware?id=176>)
-DESCRIPTION:• 11h-12h30 : Intervention de Ronan Chardonneau\n• [Revoir sur 
+DESCRIPTION:• 11h-12h30 : Intervention de Ronan Chardonneau\n• [Revoir sur
  le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vcuh>)
 CATEGORIES:BLH
 SEQUENCE:1
