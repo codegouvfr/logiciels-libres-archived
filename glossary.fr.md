@@ -5,8 +5,7 @@ title: Glossaire du pôle logiciels libres
 *Pour proposer une amélioration, écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).*
 
 
-# Algorithme
-<a name="algo"></a>
+# Algorithme {#id "ogla"}
 
 Un algorithme est la description d'une suite d'étapes permettant
 d'obtenir un résultat à partir d'éléments fournis en entrée
