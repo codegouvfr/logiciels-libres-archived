@@ -4,6 +4,7 @@ title: Glossaire du pôle logiciels libres
 
 *Pour proposer une amélioration, écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).*
 
+<a id="algo"></a>
 # Algorithme
 
 Un algorithme est la description d'une suite d'étapes permettant
@@ -14,6 +15,7 @@ CNIL](https://www.cnil.fr/fr/definition/algorithme)).
 En informatique, cette suite d'étape est une suite d'opérations
 formelles traitant et produisant des informations.
 
+<a id="public-algo"></a>
 # Algorithme public
 
 Un algorithme *public* est un suite opératoire (formelle ou non,
@@ -22,6 +24,13 @@ administrative individuelle envers des personnes physiques ou morales,
 de droit public ou privé nommément désignées.
 
 Voir le [guide des algorithmes publics](https://guides.etalab.gouv.fr/algorithmes/) à l'usage des administrations.
+
+<a id="library"></a>
+# Bibliothèque
+
+Dans [code.gouv.fr](https://code.gouv.fr/#/libs), une bibliothèque est
+un ensemble de fonctions distribuées sous forme de paquetage via une
+plateforme dédiée, par exemple https://npmjs.com.
 
 <a id="source-code"></a>
 # Codes sources
@@ -32,6 +41,7 @@ ou de quelques lignes. Ce code source peut être partagé sous licence
 libre pour permettre aux autres programmeurs de l'étudier, de le
 modifier, de le diffuser et de partager leurs améliorations.
 
+<a id="digital-common"></a>
 # Commun numérique
 
 Un commun numérique est une ressource disponible sous format
@@ -39,6 +49,7 @@ numérique, gérée par une communauté qui définit, pour cette ressource,
 des règles d'utilisation et de contribution, et pour la communauté,
 des règles de participation.
 
+<a id="dependency"></a>
 # Dépendances logicielles
 
 Un logiciel intègre souvent des briques logicielles publiées sous
@@ -47,6 +58,7 @@ de parcourir la liste des dépendances de *mise en production*, non les
 dépendances de *développement* ; d'autre part, seules sont comprises
 les dépendances sollicitées par au moins deux dépôts.
 
+<a id="source-code-repository"></a>
 # Dépôt de code source
 
 Un « dépôt » est un espace dans lequel sont publiés les fichiers de
@@ -54,6 +66,7 @@ code source. C'est ce que vous voyez lorsque vous visitez un lien vers
 un code source hébergé sur une forge. C'est aussi ce que vous pouvez
 copier sur votre machine pour l'explorer localement.
 
+<a id="stars"></a>
 # Étoiles (dans GitHub ou GitLab)
 
 Les « étoiles » (« stars » en anglais) sont un moyen pour les
@@ -62,11 +75,13 @@ l'instant, nous collectons cette information sur GitHub, GitLab et les
 instances de GitLab. Ce n'est pas une mesure de la qualité du code
 source.
 
+<a id="fork"></a>
 # "Fork"
 
 Un dépôt « forké » en franglais est un dépôt de code source qui a été
 développé à partir d'un autre.
 
+<a id="license"></a>
 # Licence
 
 Une licence logicielle est un contrat passé entre les auteurs d'un
@@ -89,6 +104,7 @@ programme à loisir ; celle de redistribuer des copies du programme à
 d'autres ; celle de redistribuer des versions modifiées du programme à
 d'autres.
 
+<a id="organization"></a>
 # Organisation et groupe (dans GitHub ou GitLab)
 
 GitHub permet d'avoir des comptes personnels pour y héberger du code
@@ -97,12 +113,14 @@ moins équivalent sur les instance de GitLab. Un organisme remplissant
 une mission de service public peut avoir un ou plusieurs organisations
 et/ou groupes sur une ou plusieurs forges.
 
+<a id="reuse"></a>
 # Réutilisations
 
 GitHub permet de connaître le nombre de dépôts qui en utilisent un
 autre : le nombre de ces dépôts est présenté ici dans la colonne
 "Réutilisations" de la liste des dépôts.
 
+<a id="public-sector"></a>
 # Secteur public
 
 Les codes sources développés dans le cadre de missions de service
@@ -112,6 +130,23 @@ identifiés comme provenant d'un organisme remplissant une mission de
 service public. Il a été développé par
 [Etalab](https://www.etalab.gouv.fr).
 
+<a id="services"></a>
+# Services
+
+[code.gouv.fr](https://code.gouv.fr/#/services) affiche la liste des
+services en ligne s'appuyant sur des logiciels libres et accessibles
+aux agents publics.
+
+<a id="sill"></a>
+# Socle interministériel de logiciels libres
+
+Le socle interministériel de logiciels libres (SILL) est le catalogue
+de référence des logiciels libres recommandés par l'Etat pour toute
+l'administration.
+
+Voir [cette page](sill.md).
+
+<a id="swh"></a>
 # Software Heritage
 
 [Software Heritage](https://www.softwareheritage.org) est un projet
