@@ -31,7 +31,7 @@ A software licence is a contract between a software's authors and its
 end-users.  So-called "libre" licences grant licensees permission to
 distribute, modify and share a software's source code.
 
-<a id="organization"></a>
+<a id="orga"></a>
 # Organizations and groups (GitLab and GitLab)
 
 GitHub allows to have personal accounts or "organizations accounts" to

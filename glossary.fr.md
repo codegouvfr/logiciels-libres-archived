@@ -104,7 +104,7 @@ programme à loisir ; celle de redistribuer des copies du programme à
 d'autres ; celle de redistribuer des versions modifiées du programme à
 d'autres.
 
-<a id="organization"></a>
+<a id="orga"></a>
 # Organisation et groupe (dans GitHub ou GitLab)
 
 GitHub permet d'avoir des comptes personnels pour y héberger du code
