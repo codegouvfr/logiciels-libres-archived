@@ -25,7 +25,7 @@ de droit public ou privé nommément désignées.
 
 Voir le [guide des algorithmes publics](https://guides.etalab.gouv.fr/algorithmes/) à l'usage des administrations.
 
-<a id="library"></a>
+<a id="lib"></a>
 # Bibliothèque
 
 Dans [code.gouv.fr](https://code.gouv.fr/#/libs), une bibliothèque est
@@ -49,7 +49,7 @@ numérique, gérée par une communauté qui définit, pour cette ressource,
 des règles d'utilisation et de contribution, et pour la communauté,
 des règles de participation.
 
-<a id="dependency"></a>
+<a id="dep"></a>
 # Dépendances logicielles
 
 Un logiciel intègre souvent des briques logicielles publiées sous
@@ -58,7 +58,7 @@ de parcourir la liste des dépendances de *mise en production*, non les
 dépendances de *développement* ; d'autre part, seules sont comprises
 les dépendances sollicitées par au moins deux dépôts.
 
-<a id="source-code-repository"></a>
+<a id="repo"></a>
 # Dépôt de code source
 
 Un « dépôt » est un espace dans lequel sont publiés les fichiers de
@@ -130,7 +130,7 @@ identifiés comme provenant d'un organisme remplissant une mission de
 service public. Il a été développé par
 [Etalab](https://www.etalab.gouv.fr).
 
-<a id="services"></a>
+<a id="papillon"></a>
 # Services
 
 [code.gouv.fr](https://code.gouv.fr/#/services) affiche la liste des

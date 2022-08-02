@@ -4,7 +4,7 @@ title: Glossary of the Free Software Unit
 
 *To suggest an enhancement, please reach us at [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).*
 
-<a id="dependency"></a>
+<a id="dep"></a>
 # Dependencies
 
 A software often use open source libraries.  These libraries are
@@ -17,7 +17,7 @@ those who are required by two or more repositories.
 
 A "forked" repository is repository derived from another one.
 
-<a id="library"></a>
+<a id="lib"></a>
 # Library
 
 On [code.gouv.fr](https://code.gouv.fr/#/libs), a library is a set of
@@ -57,7 +57,7 @@ build by public agents on https://sill.etalab.gouv.fr.
 
 See [this page](sill.md) (in French).
 
-<a id="source-code-repository"></a>
+<a id="repo"></a>
 # Repository
 
 A "repository" is a place where source code files are stored.  This is
@@ -72,7 +72,7 @@ GitHub allows to get the number of repositories that depend on another
 repository: the number of "dependants" is listed here in the "Reuse"
 column of the list of repositories.
 
-<a id="services"></a>
+<a id="papillon"></a>
 # Services
 
 [code.gouv.fr](https://code.gouv.fr/#/services) displays a list of
