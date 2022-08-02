@@ -4,9 +4,7 @@ title: Glossaire du pôle logiciels libres
 
 *Pour proposer une amélioration, écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).*
 
-
 # Algorithme
-<a name="algo"></a>
 
 Un algorithme est la description d'une suite d'étapes permettant
 d'obtenir un résultat à partir d'éléments fournis en entrée
@@ -25,6 +23,7 @@ de droit public ou privé nommément désignées.
 
 Voir le [guide des algorithmes publics](https://guides.etalab.gouv.fr/algorithmes/) à l'usage des administrations.
 
+<a id="source-code"></a>
 # Codes sources
 
 Le code source d'un programme informatique est ce qu'écrit une
