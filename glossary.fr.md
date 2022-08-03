@@ -76,7 +76,7 @@ instances de GitLab. Ce n'est pas une mesure de la qualité du code
 source.
 
 <a id="fork"></a>
-# "Fork"
+# Fork
 
 Un dépôt « forké » en franglais est un dépôt de code source qui a été
 développé à partir d'un autre.
