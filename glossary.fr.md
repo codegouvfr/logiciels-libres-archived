@@ -32,14 +32,20 @@ Dans [code.gouv.fr](https://code.gouv.fr/#/libs), une bibliothèque est
 un ensemble de fonctions distribuées sous forme de paquetage via une
 plateforme dédiée, par exemple https://npmjs.com.
 
+Pour ajouter une bibliothèque dans
+[code.gouv.fr](https://code.gouv.fr/#/libs), il suffit que le compte
+d'organisation depuis lequel vous publiez cette bibliothèque soit bien
+référencé dans [ce fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
+
 <a id="source-code"></a>
 # Codes sources
 
 Le code source d'un programme informatique est ce qu'écrit une
-programmeuse ou un programmeur. Il peut s'agir de programmes complexes
-ou de quelques lignes. Ce code source peut être partagé sous licence
-libre pour permettre aux autres programmeurs de l'étudier, de le
-modifier, de le diffuser et de partager leurs améliorations.
+programmeuse ou un programmeur.  Il peut s'agir de programmes
+complexes ou de quelques lignes.  Ce code source peut être partagé
+sous licence libre pour permettre aux autres programmeurs de
+l'étudier, de le modifier, de le diffuser et de partager leurs
+améliorations.
 
 <a id="digital-common"></a>
 # Commun numérique
@@ -48,6 +54,8 @@ Un commun numérique est une ressource disponible sous format
 numérique, gérée par une communauté qui définit, pour cette ressource,
 des règles d'utilisation et de contribution, et pour la communauté,
 des règles de participation.
+
+Voir https://communs.numerique.gouv.fr/communs/.
 
 <a id="dep"></a>
 # Dépendances logicielles
@@ -58,6 +66,11 @@ de parcourir la liste des dépendances de *mise en production*, non les
 dépendances de *développement* ; d'autre part, seules sont comprises
 les dépendances sollicitées par au moins deux dépôts.
 
+Les dépendances listées dans
+[code.gouv.fr](https://code.gouv.fr/#/deps) sont automatiquement
+identifiées à partir des dépôts référencés sur cette même plateforme.
+Ne sont prises en compte que les dépendances de premier niveau.
+
 <a id="repo"></a>
 # Dépôt de code source
 
@@ -65,6 +78,8 @@ Un « dépôt » est un espace dans lequel sont publiés les fichiers de
 code source. C'est ce que vous voyez lorsque vous visitez un lien vers
 un code source hébergé sur une forge. C'est aussi ce que vous pouvez
 copier sur votre machine pour l'explorer localement.
+
+Pour ajouter un dépôt dans [code.gouv.fr](https://code.gouv.fr/#/repos), envoyez-nous le compte d'organisation GitHub ou le groupe GitLab depuis lequel vous le publiez, nous l'ajouterons dans [ce fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
 
 <a id="stars"></a>
 # Étoiles (dans GitHub ou GitLab)
