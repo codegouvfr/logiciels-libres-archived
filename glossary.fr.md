@@ -168,3 +168,10 @@ Voir [cette page](sill.md).
 dont le but est d'archiver tous les codes sources disponibles. Pour
 chaque dépôt référencé sur ce site, nous donnons le lien vers la
 version archivée sur Software Heritage.
+
+<a id="tag"></a>
+# Tag
+
+Dans un dépôt de code source géré avec Git, un tag est un label
+associé à un commit.  Ce label peut être annoté ou non.  Un tag
+correspond en général à une nouvelle version du logiciel.

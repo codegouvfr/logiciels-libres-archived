@@ -101,3 +101,10 @@ and share.
 Stars allow users to mark a repository as favourite.  At the moment,
 we collect repository favouriteness data from GitHub, Gitlab and
 instances thereof.  Favouriteness is not a source code quality metric.
+
+<a id="tag"></a>
+# Tag
+
+In a Git source code repository, a tag is a label attached to a
+commit.  The tag can be annotated or not.  A tag generally signals 
+a new release of the source code.
