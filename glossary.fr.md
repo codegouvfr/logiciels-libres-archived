@@ -34,8 +34,13 @@ plateforme dédiée, par exemple https://npmjs.com.
 
 Pour ajouter une bibliothèque dans
 [code.gouv.fr](https://code.gouv.fr/#/libs), il suffit que le compte
-d'organisation depuis lequel vous publiez cette bibliothèque soit bien
-référencé dans [ce fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
+d'organisation depuis lequel vous publiez cette bibliothèque soit
+ajouté à [ce
+fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
+
+Vous pouvez écrire à
+[logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
+pour nous indiquer un compte à ajouter.
 
 <a id="source-code"></a>
 # Codes sources
@@ -79,7 +84,15 @@ code source. C'est ce que vous voyez lorsque vous visitez un lien vers
 un code source hébergé sur une forge. C'est aussi ce que vous pouvez
 copier sur votre machine pour l'explorer localement.
 
-Pour ajouter un dépôt dans [code.gouv.fr](https://code.gouv.fr/#/repos), envoyez-nous le compte d'organisation GitHub ou le groupe GitLab depuis lequel vous le publiez, nous l'ajouterons dans [ce fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
+Pour ajouter un dépôt dans
+[code.gouv.fr](https://code.gouv.fr/#/repos), envoyez-nous le compte
+d'organisation GitHub ou le groupe GitLab depuis lequel vous le
+publiez, nous l'ajouterons dans [ce
+fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
+
+Vous pouvez écrire à
+[logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
+pour nous indiquer un compte à ajouter.
 
 <a id="stars"></a>
 # Étoiles (dans GitHub ou GitLab)
@@ -127,6 +140,15 @@ et des « comptes d'organisation ». Un « groupe » est la notion plus ou
 moins équivalent sur les instance de GitLab. Un organisme remplissant
 une mission de service public peut avoir un ou plusieurs organisations
 et/ou groupes sur une ou plusieurs forges.
+
+Pour ajouter une organisation dans
+[code.gouv.fr](https://code.gouv.fr/#/groups), il suffit que le compte
+d'organisation GitHub ou le groupe GitLab soit ajouté dans [ce
+fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
+
+Vous pouvez écrire à
+[logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
+pour nous indiquer un compte à ajouter.
 
 <a id="reuse"></a>
 # Réutilisations
