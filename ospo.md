@@ -7,3 +7,5 @@ toc: true
 - https://opensource.paris.fr
 - https://www.health-data-hub.fr/open-source
 - https://www.france-universite-numerique.fr
+- https://data.mobilites-m.fr/labo-m
+- https://socialgouv.github.io
