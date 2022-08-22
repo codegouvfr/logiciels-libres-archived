@@ -11,12 +11,15 @@ Il est publié par le [pôle logiciels
 libres](https://communs.numerique.gouv.fr/)
 d'[Etalab](https://www.etalab.gouv.fr/)
 ([DINUM](https://www.numerique.gouv.fr/)) sur le site
-[code.gouv.fr](https://code.gouv.fr/#/sill). Son interface de gestion
-est accessible sur le site
+[code.gouv.fr](https://code.gouv.fr/#/sill).
+
+Son interface de gestion est accessible sur le site
 [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr).
 
 Il est construit de façon collaborative par une communauté d'agents
-publics, les « référents SILL ».
+publics, les « référents SILL ».  Ces agents publics peuvent être des
+agents des trois fonctions publiques : d'État, hospitalière et
+territoriale.
 
 Pour toute question, vous pouvez écrire au pôle logiciels libres qui
 anime cette communauté : <logiciels-libres@data.gouv.fr>
