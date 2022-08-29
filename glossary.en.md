@@ -108,3 +108,8 @@ instances thereof.  Favouriteness is not a source code quality metric.
 In a Git source code repository, a tag is a label attached to a
 commit.  The tag can be annotated or not.  A tag generally signals 
 a new release of the source code.
+
+[code.gouv.fr](https://code.gouv.fr/#/tags) liste tags from
+repositories containing a `publiccode.yml` file, a `CONTRIBUTING.md`
+file or from which are published
+[libraries](https://code.gouv.fr/#/libs).

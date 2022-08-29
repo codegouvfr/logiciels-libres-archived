@@ -197,3 +197,8 @@ version archivée sur Software Heritage.
 Dans un dépôt de code source géré avec Git, un tag est un label
 associé à un commit.  Ce label peut être annoté ou non.  Un tag
 correspond en général à une nouvelle version du logiciel.
+
+[code.gouv.fr](https://code.gouv.fr/#/tags) recense les tags des
+dépôts qui possèdent un fichier `publiccode.yml`, un fichier
+`CONTRIBUTING.md` ou qui sont à l'origine de la publication de
+[bibliothèques](https://code.gouv.fr/#/libs).
