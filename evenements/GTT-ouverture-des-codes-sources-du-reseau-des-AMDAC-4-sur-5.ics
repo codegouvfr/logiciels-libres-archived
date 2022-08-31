@@ -8,8 +8,8 @@ CALSCALE:GREGORIAN
 BEGIN:VEVENT
 DTSTAMP:20220128T083801Z
 UID:SC-d621a84d-8536-4be8-92e6-a3eb25a53fb2
-DTSTART:20220901T110000
-DTEND:20220901T123000
+DTSTART:20220922T110000
+DTEND:20220922T123000
 SUMMARY:S: GTT ouverture des codes sources du réseau des AMDAC 4 sur 5
 DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
  bres/gtt-ll-amdac.md>\n\nLien de visioconférence :\n<https://webinaire.num
