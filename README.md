@@ -41,7 +41,7 @@ consulter la page [sr.ht/~etalab/logiciels-libres/feed](https://sr.ht/~etalab/lo
 -   [blue-hats/bluehats-soc](https://github.com/blue-hats/bluehats-soc) : La présentation du programme BlueHats Semester of Code 2021.
 -   [blue-hats/journee-bluehats-osx-2021](https://github.com/blue-hats/journee-bluehats-osx-2021) : Le programme de la journée BlueHats 2021.
 -   [documentation-libreoffice](https://github.com/etalab/documentation-libreoffice) : Documentation LibreOffice rédigée par le ministère de la Transition écologique et solidaire.
--   [droit-auteur-logiciels](https://github.com/etalab/droit-auteur-logiciels) : Un point juridique concernant l’application du droit d’auteur à la protection des logiciels.
+-   [droit-auteur-logiciels](https://github.com/codegouvfr/droit-auteur-logiciels) : Un point juridique concernant l’application du droit d’auteur à la protection des logiciels.
 
 
 # Contribuer aux dépôts
