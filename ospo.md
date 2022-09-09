@@ -20,4 +20,3 @@ toc: true
 - https://github.com/abes-esr/abes-politique-developpement
 - https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/licences
 - https://www.etalab.gouv.fr/accompagnement-logiciels-libres
-- https://solidarites-sante.gouv.fr/archives/archives-presse/archives-breves/article/la-data-au-service-des-politiques-sanitaires-et-sociales-la-feuille-de-route
