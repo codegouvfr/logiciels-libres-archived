@@ -7,7 +7,7 @@ toc: false
 
 ## Présentation du logiciel
 
-Onyxia est un logiciel de plateforme de traitement de données basée sur la containerisation. L'une des plateformes, le SSPCloud, est accessible à des fins de formation et de valorisation des données ouvertes à l'ensemble des agents de l'état et de nombreuses écoles : https://datalab.sspcloud.fr/
+Onyxia est un logiciel de plateforme de traitement de données basé sur la containerisation. L'une des plateformes, le SSPCloud, est accessible à des fins de formation et de valorisation des données ouvertes à l'ensemble des agents de l'état et de nombreuses écoles : https://datalab.sspcloud.fr/
 
 Voir la [plaquette de présentation PDF](https://minio.lab.sspcloud.fr/projet-onyxia/BlueHatsSemesterOfCode.pdf) du projet.
 
