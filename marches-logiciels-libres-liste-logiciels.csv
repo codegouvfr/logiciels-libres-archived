@@ -1,99 +1,51 @@
-awx
-ansible
-apache directory
-apache hadoop
-apache oozie
-apache ranger
-apache spark
-apache tez
-apache kafka
-apache superset
-asqatasun
-bareos
-bigbluebutton
-collabora online
-cups
-docker
-dovecot
-fluentd
-gitlab
-gunicorn
-influxdb
-information system designer
-intellij
-kali linux
-linstor
-logstash
-maarch courrier
-maarch rm
-metricbeat
-moodle
-nats.io
-noyau centos
-noyau debian
-noyau ubuntu
-peertube
-phpmyadmin
-prodftpd
-promotheus
-pulseaudio
-rocketchat
-scenari greffons
-spip
-suricata
-scenari
-selenium plugin
-sendmail
-snaketail
-solr
-spring boot
-suitecrm
-symfony
-the hive
-truenas core
-vault
-wekan
-xrdp
-zend engine
-bootstrap
-gravitee
-jsch
-phpbb
-pmd
-portainer
-tcpdump
-
-# logiciels libres critiques au marché de support
 389 directory server
 activemq
 alfresco community
 amavisd-new
 angularjs
+ansible
 ant
 antlr
 apache commons
+apache directory
+apache hadoop
 apache http server
+apache kafka
+apache oozie
+apache ranger
+apache spark
+apache superset
+apache tez
 apache xml security
+asqatasun
 audit
 awstats
+awx
 axis
 bacula
+bareos
+bigbluebutton
+bootstrap
 bouncycastle
 bugzilla
+c-icap
 cargo
 castor
 centreon
 cglib
-c-icap
 clamav
 cobbler
+collabora online
+cups
 cyrus imap
 datafaris
 datalift
 dbunit
 display tag
+docker
 dojo
 dom4j
+dovecot
 drbd
 drbdlinks
 driver jdbc pour postgresql
@@ -108,6 +60,7 @@ filezilla client
 filezilla serveur
 firebird
 firefox
+fluentd
 fop
 fpdf
 fpdi
@@ -121,13 +74,16 @@ gatling
 geoserver
 gfs2
 git
+gitlab
 glibc
 glpi
 gnucobol
 gnupg
 grafana
+gravitee
 gridlex
 grr
+gunicorn
 haproxy
 havp
 heartbeat
@@ -135,14 +91,17 @@ hibernate
 horde
 ibatis
 imagemagick
+influxdb
+information system designer
+intellij
 isc bind
 isc dhcp
 itext
 jasperreports
 jasperstudio
+jax-ws ri
 jaxen
 jaxrpc
-jax-ws ri
 jboss
 jenkins
 jersey
@@ -151,8 +110,10 @@ jmeter
 joget
 joomla !
 jquery ui
+jsch
 jstl
 junit
+kali linux
 kanboard
 keepalived
 keepass
@@ -164,28 +125,36 @@ libpcap
 libreoffice
 libvirt
 limesurvey
+linstor
 log4j
 logback
 logrotate
+logstash
 lucene
 lvm
 lvs (linux virtual server) / ipvsadm
+maarch courrier
+maarch rm
 mantis
 mariadb
 matomo (ex. piwik)
 maven et plugins
 mbeanmonitor
 mediawiki
+memcached
 metabase
+metricbeat
 metrics
 minio
 mit kerberos
 mongodb
+moodle
 mpdf
 mx4j
 myfaces
 mysql
 nagios
+nats.io
 neo4j
 neo4j-ogm
 nextcloud
@@ -194,14 +163,17 @@ nfs
 nginx
 nmap
 nodejs
+noyau centos
+noyau debian
+noyau ubuntu
 nss_ldap
 ntp
 nvda
 ocs inventory ng
+open jdk
 opendkim
 opendmarc
 openfire (anciennement wildfire)
-open jdk
 openldap
 opennebula
 opensc
@@ -218,18 +190,26 @@ owasp java html sanitizer
 papyrus
 passbolt ce
 pdftk
+peertube
 pentaho ce
 perl
 petals
 pgadmin
 php
+phpbb
+phpmyadmin
+pmd
+portainer
 postfix
 postgresql
 primeface
+prodftpd
 projectlibre
+promotheus
 proxmox backup server
 proxmox ve
 publik
+pulseaudio
 puppet
 putty
 pyspf
@@ -237,11 +217,13 @@ python
 qgis
 quartz
 r
+rabbitmq-server
 rancher
 redis
 redmine
 regexp
 repmgr
+rocketchat
 roundcube
 rrdtool
 rshiny
@@ -253,16 +235,24 @@ rundeck
 saaj
 sabredav
 samba
+scenari
+scenari greffons
+selenium plugin
+sendmail
 servicemix
 shorewall
 sl4j
 slony-i
 smarty
+snaketail
 snort
 soapui
 sogo
+solr
 sonar
 spamassassin
+spip
+spring boot
 spring framework
 squash tm
 squid
@@ -272,25 +262,33 @@ statusnet
 struts 1
 struts 2
 stunnel
+suitecrm
 sumatra
+suricata
 svn
+symfony
 sympa
 syslog-ng
 sysstat (sar & isag)
 talend open studio
 tanaguru
+tcpdump
 testlink
 tftp-server
+the hive
 thunderbird
 tomcat
 torque
 tortoise svn
+truenas core
 ultravnc
 varnish
+vault
 veyon
 virt-manager
 vsftpd
 webmin
+wekan
 winpt
 winscp3
 wordpress
@@ -300,12 +298,14 @@ xades4j
 xalan-java
 xdoclet
 xerces2 java
-xmlbeans
 xml graphics common
+xmlbeans
 xmlsec
 xmltask
+xrdp
 xwiki
+z-push
 zabbix
 zammad
+zend engine
 zookeeper
-z-push
