@@ -50,7 +50,7 @@ Nous ne répondons pas systématiquement aux sollicitations sur les réseaux soc
 
 # Nos rituels
 
-Nous avons une réunion d'équipe hebdomadaire le vendredi de 16h à 18h.
+Nous avons une réunion d'équipe un jeudi après-midi sur deux.
 
 Chaque membre envoie tous les lundi un mail à `logiciels-libres@data.gouv.fr` faisant le point sur ce qu'il a fait et ce qu'il va faire.
 
