@@ -41,4 +41,4 @@ Vous pouvez télécharger le [calendrier .ics](https://git.sr.ht/~etalab/logicie
 - 3 juin 14h-16h : tout le conseil ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-ecosysteme-1.ics))
 - 7 octobre 14h-16h : administrations ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-2.ics))
 - 14 octobre 14h-16h : écosystème ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-ecosysteme-2.ics))
-- 9 décembre : tout le conseil ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-ecosysteme-2.ics))
+- 9 décembre 14h-16h : tout le conseil ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-ecosysteme-2.ics))
