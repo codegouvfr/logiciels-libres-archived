@@ -43,4 +43,4 @@ Vous pouvez télécharger le [calendrier .ics](https://git.sr.ht/~etalab/logicie
 - 14 octobre 14h-16h : écosystème ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-ecosysteme-2.ics))
 - 9 décembre 14h-16h : tout le conseil ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-ecosysteme-2.ics))
 
-Un calendrier de réunions pour 2023 sera proposé lors de la réunion plénière du 9 décembre 2022.
+Un **calendrier de réunions pour 2023** sera proposé lors de la réunion plénière du 9 décembre 2022.
