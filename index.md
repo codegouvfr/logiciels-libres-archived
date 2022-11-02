@@ -15,10 +15,11 @@ Nous y publions des contenus liés à [code.gouv.fr](https://code.gouv.fr) et à
 
 Voir la [page dédiée](pole-logiciels-libres-mission-engagements-rituels.md).
 
-# Les partenariats DINUM portés par le pôle logiciels libres
+# Les conventions de la DINUM portés par le pôle logiciels libres
 
-- Partenariat avec l'ADULLACT ([PDF](docs/Convention_Adullact-Dinum-2022.pdf))
-- Partenariat avec l'école CentraleSupélec pour le BlueHats Semester of Code ([PDF](docs/Convention_CentraleSupelec-Dinum-2021.pdf))
+- Convention avec l'ADULLACT ([PDF](docs/Convention_Adullact-Dinum-2022.pdf))
+- Convention avec l'école CentraleSupélec pour le BlueHats Semester of Code ([PDF](docs/Convention_CentraleSupelec-Dinum-2021.pdf))
+- Convention avec l'association OW2 ([PDF](docs/Convention_OW2_Dinum_2022.pdf))
 
 # Les produits du pôle logiciels libres
 
