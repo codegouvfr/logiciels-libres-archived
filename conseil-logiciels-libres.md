@@ -36,11 +36,6 @@ Les réunions sont privées et ont lieu via [ce lien de visioconférence](https:
 
 Vous pouvez télécharger le [calendrier .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-conseil-logiciels-libres.ics) de toutes les réunions.
 
-- 11 mars 14h-16h : administrations ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-1.ics))
-- 8 avril 14h-16h : écosystème ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-ecosysteme-1.ics))
-- 3 juin 14h-16h : tout le conseil ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-ecosysteme-1.ics))
-- 7 octobre 14h-16h : administrations ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-2.ics))
-- 14 octobre 14h-16h : écosystème ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-ecosysteme-2.ics))
 - 9 décembre 14h-16h : tout le conseil ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/conseil-logiciels-libres-reunion-administrations-ecosysteme-2.ics))
 
 Un **calendrier de réunions pour 2023** sera proposé lors de la réunion plénière du 9 décembre 2022.
