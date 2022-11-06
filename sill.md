@@ -93,6 +93,10 @@ Les référents SILL sont inscrits à la liste de discussion
 peuvent s'en désinscrire eux-mêmes ou demander à
 `logiciels-libres@data.gouv.fr` de les désinscrire.
 
+Les référents doivent s'inscrire avec leur adresse mail nominative :
+les adresses fonctionnelles (du type sill@ministere.gouv.fr) ne sont
+pas admises.
+
 ## Quels sont les tâches du référent ?
 
 **Le référent :**
