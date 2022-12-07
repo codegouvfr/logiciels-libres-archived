@@ -13,6 +13,12 @@ Les produits peuvent être des sites web, des contenus et ressources, des servic
 - [code.gouv.fr](https://code.gouv.fr): le site pour trouver des codes sources publiés par les administrations.
 - [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr): le site pour trouver des logiciels libres recommandés aux administrations.  Pour savoir comment ajouter un logiciel libre au SILL, veuillez lire [cette page de documentation](sill.md).
 
+# Bibliothèques de code
+
+- [react-dsfr](https://github.com/codegouvfr/react-dsfr) : A
+  wrapper/compatibility layer for @gouvfr/dsfr, the vanilla JS/CSS
+  implementation of the DSFR.
+
 # Ressources
 
 - La [gazette BlueHats](https://communs.numerique.gouv.fr/gazette/)
