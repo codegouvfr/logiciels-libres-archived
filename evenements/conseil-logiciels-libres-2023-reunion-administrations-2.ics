@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:rdv-conseil-logiciels-libres
+PRODID:-//Bastien//Emacs with Org mode//EN
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:RDV CLL
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20221208T072926Z
+UID:TS1-70cc1acb-8fbc-4554-9c73-034a16dacbe8
+DTSTART:20230915T140000
+DTEND:20230915T160000
+SUMMARY:Conseil logiciels libres : réunion administrations (2/2)
+DESCRIPTION:<2023-09-15 ven. 14:00>–<2023-09-15 ven. 16:00>\n\nLien de visi
+ oconférence :\n<https://webinaire.numerique.gouv.fr//meeting/signin/362/cr
+ eator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>\n\nPage de docume
+ ntation sur le conseil :\n<https://man.sr.ht/~etalab/logiciels-libres/cons
+ eil-logiciels-libres.md>
+CATEGORIES:RTL
+END:VEVENT
+END:VCALENDAR
