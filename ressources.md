@@ -5,6 +5,8 @@ toc: false
 
 # Interventions du pôle logiciels libres en français
 
+- 2 décembre 2022 : [Open Source Workshop for Computing & Sustainability](https://swforum.eu/events/open-source-workshops-computing-sustainability), intervention lors du panel "[Measuring Contribution to Open Source](https://swforum.eu/oss-contribution)"
+- 8 novembre 2022 : Participation au panel « Open Source : un levier stratégique pour la souveraineté numérique européenne » ([voir la vidéo](https://www.youtube.com/watch?v=QxIXtjELeFA)) lors de l'événement Open Source Experience 2022
 - 9 juin 2022 : Courte [vidéo](https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-5-lutter-obsolescence-grace-au-logiciel-libre/) sur le lien entre logiciels libres et écoresponsabilité
 - 2 juin 2022 : Présentation du pôle logiciels libres lors de la commission SSI de l'[ADBU](https://adbu.fr)
 - 12 mai 2022 : Participation du pôle logiciels libres à la journée du développement de la DGA MI (Rennes)
