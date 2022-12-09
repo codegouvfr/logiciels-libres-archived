@@ -17,9 +17,10 @@ Voir la [page dédiée](pole-logiciels-libres-mission-engagements-rituels.md).
 
 # Les conventions de la DINUM portés par le pôle logiciels libres
 
-- Convention avec l'ADULLACT ([PDF](docs/Convention_Adullact-Dinum-2022.pdf))
-- Convention avec l'école CentraleSupélec pour le BlueHats Semester of Code ([PDF](docs/Convention_CentraleSupelec-Dinum-2021.pdf))
-- Convention avec l'association OW2 ([PDF](docs/Convention_OW2_Dinum_2022.pdf))
+- Convention 2022 avec l'ADULLACT ([PDF](docs/Convention_Adullact-Dinum-2022.pdf))
+- Convention 2022 avec l'école CentraleSupélec pour le BlueHats Semester of Code ([PDF](docs/Convention_CentraleSupelec-Dinum-2021.pdf))
+- Convention 2022 avec l'association OW2 ([PDF](docs/Convention_OW2_Dinum_2022.pdf))
+- Convention 2023 avec la fondation [NLnet](https://nlnet.nl) ([PDF](docs/DINUM-NLNET-convention-subvention-23112022.pdf))
 
 # Les produits du pôle logiciels libres
 
