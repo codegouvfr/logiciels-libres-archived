@@ -6,7 +6,67 @@ X-WR-TIMEZONE:Europe/Paris
 X-WR-CALDESC:RDV GLL
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221102T152210Z
+DTSTAMP:20221214T140542Z
+UID:SC-8fe3bc50-0156-4260-a94a-a1a8a5a255b2
+DTSTART:20230223T110000
+DTEND:20230223T123000
+SUMMARY:S: GTT ouverture des codes sources du réseau des AMDAC 1 sur 5
+DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
+ bres/gtt-ll-amdac.md>\n\nLien de visioconférence :\n<https://webinaire.num
+ erique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5
+ d69c808eb669da0a5b>
+CATEGORIES:GLL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221214T140542Z
+UID:SC-4a4a0b8b-d445-4c57-80d6-f9d4d3514e10
+DTSTART:20230427T110000
+DTEND:20230427T123000
+SUMMARY:S: GTT ouverture des codes sources du réseau des AMDAC 2 sur 5
+DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
+ bres/gtt-ll-amdac.md>\n\nLien de visioconférence :\n<https://webinaire.num
+ erique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5
+ d69c808eb669da0a5b>
+CATEGORIES:GLL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221214T140542Z
+UID:SC-a3befcaf-f2bc-4a6c-9cfa-2cc0221e5ab2
+DTSTART:20230622T110000
+DTEND:20230622T123000
+SUMMARY:S: GTT ouverture des codes sources du réseau des AMDAC 3 sur 5
+DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
+ bres/gtt-ll-amdac.md>\n\nLien de visioconférence :\n<https://webinaire.num
+ erique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5
+ d69c808eb669da0a5b>
+CATEGORIES:GLL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221214T140542Z
+UID:SC-b7af49a5-ab63-4051-b3e6-7b92d2074f6a
+DTSTART:20230922T110000
+DTEND:20230922T123000
+SUMMARY:S: GTT ouverture des codes sources du réseau des AMDAC 4 sur 5
+DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
+ bres/gtt-ll-amdac.md>\n\nLien de visioconférence :\n<https://webinaire.num
+ erique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5
+ d69c808eb669da0a5b>
+CATEGORIES:GLL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221214T140542Z
+UID:SC-f53fed6e-b101-4027-b1e0-dc9c30710eed
+DTSTART:20241121T110000
+DTEND:20241121T123000
+SUMMARY:S: GTT ouverture des codes sources du réseau des AMDAC 5 sur 5
+DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
+ bres/gtt-ll-amdac.md>\n\nLien de visioconférence :\n<https://webinaire.num
+ erique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5
+ d69c808eb669da0a5b>
+CATEGORIES:GLL
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221214T140542Z
 UID:SC-8fe3bc50-0156-4260-a94a-a1a8a5a255b2
 DTSTART:20220311T110000
 DTEND:20220311T123000
@@ -18,7 +78,7 @@ DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
 CATEGORIES:GLL
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T152210Z
+DTSTAMP:20221214T140542Z
 UID:SC-4a4a0b8b-d445-4c57-80d6-f9d4d3514e10
 DTSTART:20220513T110000
 DTEND:20220513T123000
@@ -30,7 +90,7 @@ DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
 CATEGORIES:GLL
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T152210Z
+DTSTAMP:20221214T140542Z
 UID:SC-a3befcaf-f2bc-4a6c-9cfa-2cc0221e5ab2
 DTSTART:20220708T110000
 DTEND:20220708T123000
@@ -42,7 +102,7 @@ DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
 CATEGORIES:GLL
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T152210Z
+DTSTAMP:20221214T140542Z
 UID:SC-b7af49a5-ab63-4051-b3e6-7b92d2074f6a
 DTSTART:20220922T110000
 DTEND:20220922T123000
@@ -54,11 +114,12 @@ DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
 CATEGORIES:GLL
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T152210Z
+DTSTAMP:20221214T140542Z
 UID:SC-f53fed6e-b101-4027-b1e0-dc9c30710eed
 DTSTART:20221207T110000
 DTEND:20221207T123000
-SUMMARY:S: GTT ouverture des codes sources du réseau des AMDAC 5 sur 5
+SUMMARY:S: GTT ouverture des codes sources du réseau des AMDAC 5 sur 5 (ann
+ ulé)
 DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~etalab/logiciels-li
  bres/gtt-ll-amdac.md>\n\nLien de visioconférence :\n<https://webinaire.num
  erique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5
