@@ -5,6 +5,8 @@ toc: true
 
 La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action logiciels libres et communs numériques.  Ce conseil vise à favoriser l'entraide entre administrations et l'accès à des services proposés par l'écosystème.
 
+Voir la [présentation en ligne](https://speakerdeck.com/bluehats/presentation-du-conseil-logiciels-libres-anime-par-la-dinum) du conseil logiciels libres.
+
 # Organismes publics auxquels sont rattachés les participants coté administrations
 
 - AMUE
