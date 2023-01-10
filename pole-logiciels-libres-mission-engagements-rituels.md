@@ -52,7 +52,7 @@ Nous ne répondons pas systématiquement aux sollicitations sur les réseaux soc
 
 Nous communiquons au sein de l'équipe via un salon Tchap privé.
 
-Chaque membre envoie le vendredi un mail à `logiciels-libres@data.gouv.fr` indiquant ce qu'il a fait d'utile, en distinguant les sujets généraux, les contributions en code et parmi celles-ci, les contributions à des dépôts extérieurs au pôle.
+Chaque membre envoie le vendredi midi un mail à `logiciels-libres@data.gouv.fr` indiquant ce qu'il a fait cette semaine et ce qu'il va faire la suivante.  S'il a contribué à des logiciels libres extérieurs au pôle, il les indique de façon distincte.
 
 Les membres de l'équipe interviennent tour à tour dans la réunion d'équipe Etalab pour présenter les actualités du pôle.
 
