@@ -50,11 +50,9 @@ Nous ne répondons pas systématiquement aux sollicitations sur les réseaux soc
 
 # Nos rituels
 
-Nous avons une réunion d'équipe un jeudi après-midi sur deux.
-
 Nous communiquons au sein de l'équipe via un salon Tchap privé.
 
-Chaque membre envoie tous les lundi un mail à `logiciels-libres@data.gouv.fr` faisant le point sur ce qu'il a fait et ce qu'il va faire.
+Chaque membre envoie le vendredi un mail à `logiciels-libres@data.gouv.fr` indiquant ce qu'il a fait d'utile, en distinguant les sujets généraux, les contributions en code et parmi celles-ci, les contributions à des dépôts extérieurs au pôle.
 
 Les membres de l'équipe interviennent tour à tour dans la réunion d'équipe Etalab pour présenter les actualités du pôle.
 
