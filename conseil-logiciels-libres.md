@@ -32,22 +32,23 @@ Voir la [présentation en ligne](https://speakerdeck.com/bluehats/presentation-d
 - [OW2](https://www.ow2.org)
 - [TOSIT](https://tosit.fr)
 
+# Avis du conseil logiciels libres
+
+Le conseil émet des avis sur des questions précises qu'il accepte de
+traiter.  Ces avis sont positifs à l'unanimité ou à la majorité, sans
+que soient indiquant les noms.
+
 # Publications
 
 À leur initiative, des membres du conseil logiciels libres proposent
 des publications en lien avec les questions liées aux logiciels libres
-dans l'administration.
+dans l'administration, lesquelles ne reflètent pas nécessairement la
+position de tous les membres du conseil.
 
 - *Apports du logiciel libre à la durabilité des équipements
   (smartphones, ordinateurs, objets connectés, périphériques) : une
   synthèse*, [PDF](docs/2023_01_RapportIndiceDurabilite.pdf), 16
   janvier 2023, CC BY-SA.
-
-# Avis du conseil logiciels libres
-
-Certaines de publications présentées ci-dessus peuvent donner lieu à
-un *avis du conseil*, avis soutenu majoritairement ou à l'unanimité
-par l'ensemble des membres.
 
 # Calendrier des réunions du conseil logiciels libres
 
