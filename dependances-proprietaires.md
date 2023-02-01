@@ -5,13 +5,13 @@ toc: false
 
 # Dépendances propriétaires
 
-Liste des produits et services propriétaires que nous utilisons dans le cadre de la mission logicielle libre.
+Liste des produits et services propriétaires que nous utilisons dans le cadre de la mission logiciels libres.
 
 Tous les services listés proposent des offres gratuites pour les projets open source.
 
 - [GitHub Actions](https://github.com/features/actions): Service de CI/CD pour automatiser les tests et les déploiements.
   GitLab et SourceHut proposent des alternatives équivalentes.
-- [GitBook](https://www.gitbook.com/): Écrire et publier de la documentation avec un éditeur WYSIWYG (*what you see is what you get*).  Exemple: [Guides de react-dsfr](https://react-dsfr.etalab.studio/).
+- [GitBook](https://www.gitbook.com): Écrire et publier de la documentation avec un éditeur WYSIWYG (*what you see is what you get*).  Exemple: [Guides de react-dsfr](https://react-dsfr.etalab.studio/).
   Alternative : [Docusaurus](https://docusaurus.io/). Daucusaurus ne propose pas d'éditeur wysiwyg et vous aurez a déployer le site vous même, mais au niveau de la qualité du rendu du site web et ses performances la palme revient a Docusaurus.
 - [GitHub pages](https://pages.github.com/): Hébergement de fichiers statique. Nous utilisons ce service pour déployer [le storybook de react-dsfr](https://react-dsfr-components.etalab.studio).
   Alternative : Il y a beaucoup d'options pour héberger et déployer un site statique.
