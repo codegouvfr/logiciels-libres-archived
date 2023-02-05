@@ -38,9 +38,9 @@ Le conseil émet des avis sur des questions précises qu'il accepte de
 traiter.  Ces avis sont positifs à l'unanimité ou à la majorité, sans
 que soient indiquant les noms.
 
-- 1er février 2023 : « Pensez-vous que de faciliter l'installabilité
-  d'un système d'exploitation libre augmente la durabilité des
-  ordinateurs (portables ou non) et des smartphones ? »
+- 1er février 2023 : « Pensez-vous que de rendre possible
+  l'installation d'un système d'exploitation libre augmente la
+  durabilité des ordinateurs (portables ou non) et des smartphones ? »
 
   Avis positif à la majorité des membres du conseil.
 
