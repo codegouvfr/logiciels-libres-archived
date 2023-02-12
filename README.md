@@ -1,4 +1,4 @@
-[![img](https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~etalab/readme-logiciels-libres/blob/master/LICENSE.md)
+[![img](https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~codegouvfr/readme-logiciels-libres/blob/master/LICENSE.md)
 
 
 # Présentation des dépôts
@@ -6,32 +6,32 @@
 Cette page présente les codes sources développés et mis en oeuvre par
 le pôle logiciels libres d'Etalab.
 
-Le compte `~etalab` de SourceHut a trois projets :
+Le compte `~codegouvfr` de SourceHut a trois projets :
 
--   [code.gouv.fr](https://sr.ht/~etalab/code.gouv.fr/) rassemble les dépôts liés au site [code.gouv.fr](https://code.gouv.fr).
--   [logiciels-libres](https://sr.ht/~etalab/logiciels-libres/) rassemble les autres dépôts.
--   [bluehats](https://sr.ht/~etalab/bluehats/) expose la liste de discussion `~etalab/bluehats@lists.sr.ht`.
+-   [code.gouv.fr](https://sr.ht/~codegouvfr/code.gouv.fr/) rassemble les dépôts liés au site [code.gouv.fr](https://code.gouv.fr).
+-   [logiciels-libres](https://sr.ht/~codegouvfr/logiciels-libres/) rassemble les autres dépôts.
+-   [bluehats](https://sr.ht/~codegouvfr/bluehats/) expose la liste de discussion `~codegouvfr/bluehats@lists.sr.ht`.
 
 
 ## Pour le projet "code.gouv.fr"
 
--   [code.gouv.fr](https://git.sr.ht/~etalab/code.gouv.fr) : Application web pour le site <https://code.gouv.fr>.
--   [codegouvfr-sources](https://git.sr.ht/~etalab/codegouvfr-sources) : Liste des comptes d'organisation du secteur public.
--   [codegouvfr-fetch-data](https://git.sr.ht/~etalab/codegouvfr-fetch-data) : Récupération des données à afficher sur code.gouv.fr.
--   [codegouvfr-consolidate-data](https://git.sr.ht/~etalab/codegouvfr-consolidate-data) : Consolidation des données à afficher sur code.gouv.fr.
+-   [code.gouv.fr](https://git.sr.ht/~codegouvfr/code.gouv.fr) : Application web pour le site <https://code.gouv.fr>.
+-   [codegouvfr-sources](https://git.sr.ht/~codegouvfr/codegouvfr-sources) : Liste des comptes d'organisation du secteur public.
+-   [codegouvfr-fetch-data](https://git.sr.ht/~codegouvfr/codegouvfr-fetch-data) : Récupération des données à afficher sur code.gouv.fr.
+-   [codegouvfr-consolidate-data](https://git.sr.ht/~codegouvfr/codegouvfr-consolidate-data) : Consolidation des données à afficher sur code.gouv.fr.
 
 Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
-consulter la page [sr.ht/~etalab/code.gouv.fr/feed](https://sr.ht/~etalab/code.gouv.fr/feed).
+consulter la page [sr.ht/~codegouvfr/code.gouv.fr/feed](https://sr.ht/~codegouvfr/code.gouv.fr/feed).
 
 
 ## Pour le projet "logiciels-libres"
 
--   [communs.numerique.gouv.fr](https://git.sr.ht/~etalab/communs.numerique.gouv.fr) : Code source du site <https://communs.numerique.gouv.fr>.
--   [guide-juridique-logiciel-libre](https://git.sr.ht/~etalab/guide-juridique-logiciel-libre) : Guide interactif pour savoir si vous devez publier un code source.
--   [logiciels-libres](https://git.sr.ht/~etalab/read-logiciels-libres) : Ce dépôt, qui contient les sources de [ce wiki](https://man.sr.ht/~etalab/logiciels-libres/index.md).
+-   [communs.numerique.gouv.fr](https://git.sr.ht/~codegouvfr/communs.numerique.gouv.fr) : Code source du site <https://communs.numerique.gouv.fr>.
+-   [guide-juridique-logiciel-libre](https://git.sr.ht/~codegouvfr/guide-juridique-logiciel-libre) : Guide interactif pour savoir si vous devez publier un code source.
+-   [logiciels-libres](https://git.sr.ht/~codegouvfr/read-logiciels-libres) : Ce dépôt, qui contient les sources de [ce wiki](https://man.sr.ht/~codegouvfr/logiciels-libres/index.md).
 
 Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
-consulter la page [sr.ht/~etalab/logiciels-libres/feed](https://sr.ht/~etalab/logiciels-libres/feed).
+consulter la page [sr.ht/~codegouvfr/logiciels-libres/feed](https://sr.ht/~codegouvfr/logiciels-libres/feed).
 
 
 # Autres dépôts sur GitHub
@@ -50,7 +50,7 @@ Vos contributions sont les bienvenues !
 
 Pour des discussions générales sur les développements du pôle
 logiciels libres, merci d'écrire à la liste de discussion *publique*
-[~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
+[~codegouvfr/logiciels-libres@lists.sr.ht](mailto:~codegouvfr/logiciels-libres@lists.sr.ht).
 
 Pour des contributions à des dépôts particuliers, vous référez aux
 instructions des fichiers `CONTRIBUTING.md` de ces dépôts.
