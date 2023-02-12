@@ -36,8 +36,8 @@ Nous engagements vis-à-vis des ces interlocuteurs sont :
 Nous répondons à tous les emails reçus :
 
 - sur `logiciels-libres@data.gouv.fr`
-- sur `~etalab/logiciels-libres@lists.sr.ht`
-- sur `~etalab/codegouvfr-devel@lists.sr.ht`
+- sur `~codegouvfr/logiciels-libres@lists.sr.ht`
+- sur `~codegouvfr/codegouvfr-devel@lists.sr.ht`
 
 Nous ne répondons pas systématiquement aux sollicitations sur les réseaux sociaux.
 

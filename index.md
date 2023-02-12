@@ -68,7 +68,7 @@ Chaque agent public est invité à proposer un atelier BlueHats en [nous
 
 Voir le [dépôt dédié](https://github.com/blue-hats/ateliers/blob/main/ateliers.org).
 
-Télécharger [le calendrier des ateliers BlueHats au format .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
+Télécharger [le calendrier des ateliers BlueHats au format .ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
 
 # Présentation du programme "BlueHats Semester of Code"
 
@@ -84,7 +84,7 @@ Voir la [page dédiée](bluehats-semester-of-code.md).
 
 - Liste des [bénéficiaires des marchés de support et d'expertise](marches-logiciels-libres.md).
 
-- Liste des logiciels libres concernés par les marchés de support et d'expertise [web](marches-logiciels-libres-liste-logiciels.md) ou [csv](https://git.sr.ht/~etalab/logiciels-libres/blob/master/marches-logiciels-libres-liste-logiciels.csv).
+- Liste des logiciels libres concernés par les marchés de support et d'expertise [web](marches-logiciels-libres-liste-logiciels.md) ou [csv](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/marches-logiciels-libres-liste-logiciels.csv).
 
 # Où échanger avec d'autres agents publics libristes et la communauté BlueHats ?
 
@@ -134,13 +134,13 @@ Cette politique de contribution est en cours de remplacement par les [guides](gu
 
 # Contribuer à cet espace
 
-Les contributions sont les bienvenues !  Vous pouvez envoyer des correctifs à la liste de discussion publique [~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).
+Les contributions sont les bienvenues !  Vous pouvez envoyer des correctifs à la liste de discussion publique [~codegouvfr/logiciels-libres@lists.sr.ht](mailto:~codegouvfr/logiciels-libres@lists.sr.ht).
 
 Pour indiquer que les correctifs s'adressent à ce wiki, ajoutez ceci dans votre copie locale :
 
 `git config format.subjectPrefix 'PATCH logiciels-libres'`
 
-Si vous êtes contributeur régulier, vous pouvez demander un accès en écriture sur [le dépôt du wiki](https://git.sr.ht/~etalab/logiciels-libres).
+Si vous êtes contributeur régulier, vous pouvez demander un accès en écriture sur [le dépôt du wiki](https://git.sr.ht/~codegouvfr/logiciels-libres).
 
 # Licence des contenus de cet espace
 

@@ -3,7 +3,7 @@ title: "BSOC 2022 : Démarches simplifiées"
 toc: false
 ---
 
-Vous voulez participer à l’amélioration du service public ? Vous souhaitez contribuer à un logiciel libre dans une équipe agile, et proche de ses utilisateurs ? demarches-simplifiees.fr vous propose d'accueillir vos contributions dans le cadre du [BlueHats Semester of Code](https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md) !
+Vous voulez participer à l’amélioration du service public ? Vous souhaitez contribuer à un logiciel libre dans une équipe agile, et proche de ses utilisateurs ? demarches-simplifiees.fr vous propose d'accueillir vos contributions dans le cadre du [BlueHats Semester of Code](https://man.sr.ht/~codegouvfr/logiciels-libres/bluehats-semester-of-code.md) !
 
 ## Présentation du logiciel
 

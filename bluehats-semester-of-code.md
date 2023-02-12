@@ -92,7 +92,7 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 
 ## Webinaires d'information
 
-Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-bsoc.ics).
+Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/rdv-bsoc.ics).
 
 - **18 février 2022 à 17h** : [Revoir la visioconférence](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1645199743002) d'information pour les porteurs de logiciels libres (administrations, entreprises, associations et collectifs.)
 - **23 février 2022 à 17h** : Visioconférence d'information pour les étudiants intéressés.

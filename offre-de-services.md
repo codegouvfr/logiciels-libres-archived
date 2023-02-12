@@ -45,7 +45,7 @@ Les questions courantes sont :
 - Existe-il un équivalent libre pour le logiciel X ?
 - Où trouver des prestataires pour le logiciel X ?
 
-Avant de nous écrire, veuillez lire [cette page de documentation du SILL](https://man.sr.ht/~etalab/logiciels-libres/sill.md).
+Avant de nous écrire, veuillez lire [cette page de documentation du SILL](https://man.sr.ht/~codegouvfr/logiciels-libres/sill.md).
 
 ## Sur les marchés interministériels de support et d'expertise
 
@@ -71,7 +71,7 @@ N'hésitez pas à écrire à [logiciels-libres@data.gouv.fr](mailto:logiciels-li
 
 Si vous êtes *administrateur ministériel des données, des algorithmes et des codes sources* nous pouvons vous accompagner pour la définition et la mise en oeuvre de vos politiques de publication et d'utilisation des logiciels libres.
 
-Cet accompagnement peut se faire par écrit, par rendez-vous ou via le [groupe de travail logiciels libres au sein du réseau des AMDAC](https://man.sr.ht/~etalab/logiciels-libres/#groupe-de-travail-logiciels-libres-au-sein-du-rseau-des-amdac).
+Cet accompagnement peut se faire par écrit, par rendez-vous ou via le [groupe de travail logiciels libres au sein du réseau des AMDAC](https://man.sr.ht/~codegouvfr/logiciels-libres/#groupe-de-travail-logiciels-libres-au-sein-du-rseau-des-amdac).
 
 Si vous êtes *décideur pour l'utilisation et/ou le développement de logiciels dans un organisme public*, nous pouvons aussi vous aider par écrit ou par rendez-vous à définir et mettre en oeuvre une stratégie de publication et d'utilisation pour votre établissement.
 
@@ -83,7 +83,7 @@ Nous répondons par écrit aux questions de culture générale sur le logiciel l
 
 # Mise en relation
 
-Nous pouvons par écrit vous aider à entrer en contact avec des communautés de l'administration actives autour des logiciels libres.  Voir [cette page](https://man.sr.ht/~etalab/logiciels-libres/espaces-communication-bluehats.md).
+Nous pouvons par écrit vous aider à entrer en contact avec des communautés de l'administration actives autour des logiciels libres.  Voir [cette page](https://man.sr.ht/~codegouvfr/logiciels-libres/espaces-communication-bluehats.md).
 
 # Formations
 

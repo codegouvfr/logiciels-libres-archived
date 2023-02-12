@@ -15,23 +15,23 @@ La priorité est donnée aux sujets de publication des codes sources et à l'ent
 
 Les réunions de ce groupe ont lieu en 2022 via [ce lien de visio](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b).
 
-Vous pouvez télécharger le [calendrier .ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-gtt-ll.ics) de toutes les réunions.
+Vous pouvez télécharger le [calendrier .ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/rdv-gtt-ll.ics) de toutes les réunions.
 
 ## Prochaines réunions pour 2023
 
-- 24 février 2023 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-1-sur-5.ics))
-- 24 avril 2023 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-2-sur-5.ics))
-- 26 juin 2023 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-3-sur-5.ics))
-- 22 septembre 2023 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-4-sur-5.ics))
-- 21 novembre 2023 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-5-sur-5.ics))
+- 24 février 2023 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-1-sur-5.ics))
+- 24 avril 2023 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-2-sur-5.ics))
+- 26 juin 2023 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-3-sur-5.ics))
+- 22 septembre 2023 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-4-sur-5.ics))
+- 21 novembre 2023 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2023-5-sur-5.ics))
 
 ## Réunions passées pour 2022
 
-- 7 décembre 2022 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-5-sur-5.ics)) : réunion annulée
-- 22 septembre 2022 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-4-sur-5.ics))
-- 11 mars 2022 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-1-sur-5.ics))
-- 13 mai 2022 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-2-sur-5.ics))
-- 8 juillet 2022 11h-12h30 ([.ics](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-3-sur-5.ics))
+- 7 décembre 2022 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-5-sur-5.ics)) : réunion annulée
+- 22 septembre 2022 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-4-sur-5.ics))
+- 11 mars 2022 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-1-sur-5.ics))
+- 13 mai 2022 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-2-sur-5.ics))
+- 8 juillet 2022 11h-12h30 ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/GTT-ouverture-des-codes-sources-du-reseau-des-AMDAC-2022-3-sur-5.ics))
 
 # Suivi des ouvertures de codes sources
 
@@ -41,7 +41,7 @@ Consultez le tableau de suivi des ouvertures de code source via [ouverture.data.
 
 Les engagements ci-dessous ont été pris par les ministères via les [feuilles de route ministérielles sur la politique de la donnée](https://www.data.gouv.fr/en/datasets/feuilles-de-route-ministerielles-sur-la-politique-de-la-donnee-des-algorithmes-et-des-codes-sources/).
 
-Vous pouvez [accéder au tableau ci-dessous au format .csv](https://git.sr.ht/~etalab/logiciels-libres/blob/master/engagements-feuilles-de-route-minist%C3%A9rielles-logiciels-libres.csv).
+Vous pouvez [accéder au tableau ci-dessous au format .csv](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/engagements-feuilles-de-route-minist%C3%A9rielles-logiciels-libres.csv).
 
 | Ministère | Thématiques                                     | Actions                                                                                                                                                                                                                                                                                                                                                                                                                                             | Echéances |
 |-----------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|

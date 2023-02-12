@@ -31,7 +31,7 @@ You can read the english translation of the French [action plan for Free Softwar
 
 # Contributing to this wiki
 
-Contributions are welcome!  You can send patches to the public mailing list [~etalab/logiciels-libres@lists.sr.ht](mailto:~etalab/logiciels-libres@lists.sr.ht).  If you are a regular contributor, you can request write access to [the wiki repository](https://git.sr.ht/~etalab/logiciels-libres).
+Contributions are welcome!  You can send patches to the public mailing list [~codegouvfr/logiciels-libres@lists.sr.ht](mailto:~codegouvfr/logiciels-libres@lists.sr.ht).  If you are a regular contributor, you can request write access to [the wiki repository](https://git.sr.ht/~codegouvfr/logiciels-libres).
 
 For patches to target this repository, add this parameter to your local copy: `git config format.subjectPrefix 'PATCH logiciels-libres'`
 

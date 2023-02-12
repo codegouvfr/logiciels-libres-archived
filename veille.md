@@ -20,13 +20,13 @@ Pour connaître les nouveaux logiciels libres recommandés pour et développés 
 
 Pour suivre les calendrier des réunions des groupes de travail internes :
 
-- [Calendrier .ics pour le groupe de travail logiciels libres](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-gtt-ll.ics) du réseau des AMDAC
-- [Calendrier .ics pour le conseil](https://git.sr.ht/~etalab/logiciels-libres/blob/master/evenements/rdv-conseil-logiciels-libres.ics) d'expertise et de mobilisation logiciels libres
+- [Calendrier .ics pour le groupe de travail logiciels libres](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/rdv-gtt-ll.ics) du réseau des AMDAC
+- [Calendrier .ics pour le conseil](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/rdv-conseil-logiciels-libres.ics) d'expertise et de mobilisation logiciels libres
 
 Pour suivre les dépôts de codes sources du pôle logiciels libres :
 
-- Suivre [les développements du projet logiciels-libres](https://sr.ht/~etalab/logiciels-libres/feed)
-- Suivre [les développements du projet code.gouv.fr](https://sr.ht/~etalab/code.gouv.fr/feed)
+- Suivre [les développements du projet logiciels-libres](https://sr.ht/~codegouvfr/logiciels-libres/feed)
+- Suivre [les développements du projet code.gouv.fr](https://sr.ht/~codegouvfr/code.gouv.fr/feed)
 
 Pour nous contacter directement :
 

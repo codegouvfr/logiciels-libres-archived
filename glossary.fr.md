@@ -36,7 +36,7 @@ Pour ajouter une bibliothèque dans
 [code.gouv.fr](https://code.gouv.fr/#/libs), il suffit que le compte
 d'organisation depuis lequel vous publiez cette bibliothèque soit
 ajouté à [ce
-fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
+fichier](https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
 
 Vous pouvez écrire à
 [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
@@ -88,7 +88,7 @@ Pour ajouter un dépôt dans
 [code.gouv.fr](https://code.gouv.fr/#/repos), envoyez-nous le compte
 d'organisation GitHub ou le groupe GitLab depuis lequel vous le
 publiez, nous l'ajouterons dans [ce
-fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
+fichier](https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
 
 Vous pouvez écrire à
 [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
@@ -144,7 +144,7 @@ et/ou groupes sur une ou plusieurs forges.
 Pour ajouter une organisation dans
 [code.gouv.fr](https://code.gouv.fr/#/groups), il suffit que le compte
 d'organisation GitHub ou le groupe GitLab soit ajouté dans [ce
-fichier](https://git.sr.ht/~etalab/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
+fichier](https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
 
 Vous pouvez écrire à
 [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
