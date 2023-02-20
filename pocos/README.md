@@ -4,7 +4,7 @@ Pour ajouter un compte d'organisation à référencer, voir [ce dépôt](https:/
 
 Une partie du contenu de la politique de contribution sera prochainement réintégré dans [les guides](https://communs.numerique.gouv.fr/guides/) publiés par le pôle logiciels libres d'Etalab.
 
-Pour vous tenir informés, [inscrivez-vous à la gazette BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio).
+Pour vous tenir informés, [inscrivez-vous à la gazette BlueHats](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.etalab.studio).
 
 # Modalités d'ouverture des codes sources
 

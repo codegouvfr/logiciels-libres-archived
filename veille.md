@@ -7,7 +7,7 @@ Pour des informations générales :
 
 - Vous abonner au compte Mastodon [@codegouvfr](https://mastodon.social/@codegouvfr)
 - Vous abonner au compte Twitter [@codegouvfr](https://twitter.com/codegouvfr)
-- Recevoir les annonces d'[ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/) et la [gazette BlueHats](https://communs.numerique.gouv.fr/gazette/) par courriel : [lien d'inscription](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
+- Recevoir les annonces d'[ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/) et la [gazette BlueHats](https://communs.numerique.gouv.fr/gazette/) par courriel : [lien d'inscription](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.etalab.studio)
 
 Pour suivre les contributions du pôle logiciels libres au mouvement [BlueHats](https://communs.numerique.gouv.fr/bluehats/) :
 
