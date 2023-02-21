@@ -4,7 +4,7 @@
 # Présentation des dépôts
 
 Cette page présente les codes sources développés et mis en oeuvre par
-le pôle logiciels libres d'Etalab.
+la mission logiciels libres de la DINUM.
 
 Le compte `~codegouvfr` de SourceHut a trois projets :
 
@@ -15,7 +15,8 @@ Le compte `~codegouvfr` de SourceHut a trois projets :
 
 ## Pour le projet "code.gouv.fr"
 
--   [code.gouv.fr](https://git.sr.ht/~codegouvfr/code.gouv.fr) : Application web pour le site <https://code.gouv.fr>.
+-   [code.gouv.fr\_home](https://git.sr.ht/~codegouvfr/code.gouv.fr_home) : Application web pour le site <https://code.gouv.fr>
+-   [code.gouv.fr\_public](https://git.sr.ht/~codegouvfr/code.gouv.fr_public) : Application web pour la page <https://code.gouv.fr/public>
 -   [codegouvfr-sources](https://git.sr.ht/~codegouvfr/codegouvfr-sources) : Liste des comptes d'organisation du secteur public.
 -   [codegouvfr-fetch-data](https://git.sr.ht/~codegouvfr/codegouvfr-fetch-data) : Récupération des données à afficher sur code.gouv.fr.
 -   [codegouvfr-consolidate-data](https://git.sr.ht/~codegouvfr/codegouvfr-consolidate-data) : Consolidation des données à afficher sur code.gouv.fr.
@@ -26,7 +27,7 @@ consulter la page [sr.ht/~codegouvfr/code.gouv.fr/feed](https://sr.ht/~codegouvf
 
 ## Pour le projet "logiciels-libres"
 
--   [communs.numerique.gouv.fr](https://git.sr.ht/~codegouvfr/communs.numerique.gouv.fr) : Code source du site <https://communs.numerique.gouv.fr>.
+-   [documentation](https://git.sr.ht/~codegouvfr/documentation) : Toute la documentation de la mission logiciels libres
 -   [guide-juridique-logiciel-libre](https://git.sr.ht/~codegouvfr/guide-juridique-logiciel-libre) : Guide interactif pour savoir si vous devez publier un code source.
 -   [logiciels-libres](https://git.sr.ht/~codegouvfr/read-logiciels-libres) : Ce dépôt, qui contient les sources de [ce wiki](https://man.sr.ht/~codegouvfr/logiciels-libres/index.md).
 
