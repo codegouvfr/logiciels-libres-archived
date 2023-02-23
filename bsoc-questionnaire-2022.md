@@ -46,7 +46,7 @@ Cette page présente l'ensemble des questions posées via le [formulaire BlueHat
 ## Depuis quand existe ce logiciel libre?
 ## Ce logiciel libre est-il présent dans un catalogue (SILL, Gouvtech, Comptoir du libre)?
 
-*Si votre logiciel est présent dans https://sill.etalab.gouv.fr, https://catalogue.numerique.gouv.fr ou https://comptoir-du-libre.org, merci de nous l'indiquer.*
+*Si votre logiciel est présent dans https://sill.code.gouv.fr, https://catalogue.numerique.gouv.fr ou https://comptoir-du-libre.org, merci de nous l'indiquer.*
 
 ## Combien de personnes de votre structure contribuent au logiciel?*
 ## Combien de contributeurs extérieurs à votre structure contribuent?

@@ -995,7 +995,7 @@ DESCRIPTION:Rudder est un logiciel d'automatisation des infrastructures sys
  upes. La collecte des informations se fait par\nl'intermédiaire d'un agent
   installé sur chaque nœud.\n\nPour plus d'informations\, visitez le [site 
  Rudder]\n(<https://www.rudder.io/>).  Rudder est aussi référencé dans le [
- SILL]\n(<https://sill.etalab.gouv.fr/fr/software?id=164>).\n\nLors de cet 
+ SILL]\n(<https://sill.code.gouv.fr/fr/software?id=164>).\n\nLors de cet 
  atelier\, Alexandre Brianceau\, CEO de [Normation]\n(<https://www.rudder.i
  o/company/>)\, l’éditeur de Rudder\, présentera la\nsolution et son histor
  ique. Emmanuel Roguet\, responsable du Centre de\nResponsabilité Technique
@@ -1022,7 +1022,7 @@ DESCRIPTION:Rudder est un logiciel d'automatisation des infrastructures sys
  upes. La collecte des informations se fait par\nl'intermédiaire d'un agent
   installé sur chaque nœud.\n\nPour plus d'informations\, visitez le [site 
  Rudder]\n(<https://www.rudder.io/>).  Rudder est aussi référencé dans le [
- SILL]\n(<https://sill.etalab.gouv.fr/fr/software?id=164>).\n\nLors de cet 
+ SILL]\n(<https://sill.code.gouv.fr/fr/software?id=164>).\n\nLors de cet 
  atelier\, Alexandre Brianceau\, CEO de [Normation]\n(<https://www.rudder.i
  o/company/>)\, l’éditeur de Rudder\, présentera la\nsolution et son histor
  ique. Emmanuel Roguet\, responsable du Centre de\nResponsabilité Technique
@@ -1448,7 +1448,7 @@ DESCRIPTION:EOLE est l'acronyme de Ensemble Ouvert Libre et Évolutif. Il s'
  besoins\nutilisateurs\, la mutualisation des compétences\, toutes ses prat
  iques\nmise en œuvre par le pôle ont permis de suivre les évolutions des\n
  usages numériques sans rupture technologique et à moindre coût.\n\nEole fi
- gure au [SILL]\n(<https://sill.etalab.gouv.fr/fr/software?id=41>) (Socle\n
+ gure au [SILL]\n(<https://sill.code.gouv.fr/fr/software?id=41>) (Socle\n
  Inter-Ministériel Logiciels Libres).\n\n• 11h-12h30 : Interventions de Luc
   Bourdot (MENJ) et Nicolas Schont\n  (MENJ)\n• [Revoir sur le compte Daily
  motion d'Etalab]\n  (<https://dai.ly/x82vd1l>)
@@ -1474,7 +1474,7 @@ DESCRIPTION:EOLE est l'acronyme de Ensemble Ouvert Libre et Évolutif. Il s'
  besoins\nutilisateurs\, la mutualisation des compétences\, toutes ses prat
  iques\nmise en œuvre par le pôle ont permis de suivre les évolutions des\n
  usages numériques sans rupture technologique et à moindre coût.\n\nEole fi
- gure au [SILL]\n(<https://sill.etalab.gouv.fr/fr/software?id=41>) (Socle\n
+ gure au [SILL]\n(<https://sill.code.gouv.fr/fr/software?id=41>) (Socle\n
  Inter-Ministériel Logiciels Libres).\n\n• 11h-12h30 : Interventions de Luc
   Bourdot (MENJ) et Nicolas Schont\n  (MENJ)\n• [Revoir sur le compte Daily
  motion d'Etalab]\n  (<https://dai.ly/x82vd1l>)
@@ -1723,7 +1723,7 @@ UID:SC-a3db5e45-7397-4efc-a8ba-b7a77904d3ae
 DTSTART:20210312T110000
 DTEND:20210312T123000
 SUMMARY:S: 12 mars : Atelier de mise à jour RGPD pour Matomo
-DESCRIPTION:• [Matomo dans le SILL]\n  (<https://sill.etalab.gouv.fr/fr/sof
+DESCRIPTION:• [Matomo dans le SILL]\n  (<https://sill.code.gouv.fr/fr/sof
  tware?id=176>)\n• 11h-12h30 : Intervention de Ronan Chardonneau\n• [Revoir
   sur le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vcug>)
 CATEGORIES:BLH
@@ -1733,7 +1733,7 @@ UID:TODO-a3db5e45-7397-4efc-a8ba-b7a77904d3ae
 DTSTAMP:20221215T102002Z
 DTSTART:20210312T110000
 SUMMARY:12 mars : Atelier de mise à jour RGPD pour Matomo
-DESCRIPTION:• [Matomo dans le SILL]\n  (<https://sill.etalab.gouv.fr/fr/sof
+DESCRIPTION:• [Matomo dans le SILL]\n  (<https://sill.code.gouv.fr/fr/sof
  tware?id=176>)\n• 11h-12h30 : Intervention de Ronan Chardonneau\n• [Revoir
   sur le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vcug>)
 CATEGORIES:BLH
@@ -2045,7 +2045,7 @@ UID:SC-cb55392e-dcce-40d7-8881-8e00ce9b4ec7
 DTSTART:20201120T110000
 DTEND:20201120T123000
 SUMMARY:S: 20 Novembre : Présentation des fonctionnalités principales d'[XW
- iki] (<https://sill.etalab.gouv.fr/fr/software?id=214>) et de nos adaptati
+ iki] (<https://sill.code.gouv.fr/fr/software?id=214>) et de nos adaptati
  ons en direct sur une de nos instances de préprod.
 DESCRIPTION:• 11h-12h30 : Pascal BASTIEN (MTES)\n• [Revoir la session]\n  (
  <https://peertube.xwiki.com/videos/watch/4fa38484-9a98-48c9-a3cd-787331abd
@@ -2058,7 +2058,7 @@ UID:TODO-cb55392e-dcce-40d7-8881-8e00ce9b4ec7
 DTSTAMP:20221215T102002Z
 DTSTART:20201120T110000
 SUMMARY:20 Novembre : Présentation des fonctionnalités principales d'[XWiki
- ] (<https://sill.etalab.gouv.fr/fr/software?id=214>) et de nos adaptations
+ ] (<https://sill.code.gouv.fr/fr/software?id=214>) et de nos adaptations
   en direct sur une de nos instances de préprod.
 DESCRIPTION:• 11h-12h30 : Pascal BASTIEN (MTES)\n• [Revoir la session]\n  (
  <https://peertube.xwiki.com/videos/watch/4fa38484-9a98-48c9-a3cd-787331abd
@@ -2076,7 +2076,7 @@ DTSTART:20201023T110000
 DTEND:20201023T123000
 SUMMARY:S: 23 Octobre : Wébinaire autour de la gouvernance de logiciels lib
  res liés au secteur public (1/2) (Geotrek/geonature\, [Scenari/Opale] (<ht
- tps://sill.etalab.gouv.fr/fr/software?id=195>)).
+ tps://sill.code.gouv.fr/fr/software?id=195>)).
 DESCRIPTION:• 11h-12h30 : Interventions de personnes impliquées dans ces pr
  ojets\n• Revoir [la présentation Geotrek via une instance Peertube]\n  (<h
  ttps://aperi.tube/videos/watch/3f1eec26-ad4c-44bf-8fe8-207e53d8a50e>)\n  o
@@ -2093,7 +2093,7 @@ DTSTAMP:20221215T102002Z
 DTSTART:20201023T110000
 SUMMARY:23 Octobre : Wébinaire autour de la gouvernance de logiciels libres
   liés au secteur public (1/2) (Geotrek/geonature\, [Scenari/Opale] (<https
- ://sill.etalab.gouv.fr/fr/software?id=195>)).
+ ://sill.code.gouv.fr/fr/software?id=195>)).
 DESCRIPTION:• 11h-12h30 : Interventions de personnes impliquées dans ces pr
  ojets\n• Revoir [la présentation Geotrek via une instance Peertube]\n  (<h
  ttps://aperi.tube/videos/watch/3f1eec26-ad4c-44bf-8fe8-207e53d8a50e>)\n  o
@@ -2160,7 +2160,7 @@ DTSTAMP:20221215T102002Z
 UID:SC-8dbbabbb-c075-4ee2-85d9-0b8d4cc1234a
 DTSTART:20200717T110000
 DTEND:20200717T123000
-SUMMARY:S: 17 Juillet : Wébinaire [Matomo] (<https://sill.etalab.gouv.fr/fr
+SUMMARY:S: 17 Juillet : Wébinaire [Matomo] (<https://sill.code.gouv.fr/fr
  /software?id=176>)
 DESCRIPTION:• 11h-12h30 : Intervention de Ronan Chardonneau\n• [Revoir sur 
  le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vcuh>)
@@ -2170,7 +2170,7 @@ BEGIN:VTODO
 UID:TODO-8dbbabbb-c075-4ee2-85d9-0b8d4cc1234a
 DTSTAMP:20221215T102002Z
 DTSTART:20200717T110000
-SUMMARY:17 Juillet : Wébinaire [Matomo] (<https://sill.etalab.gouv.fr/fr/so
+SUMMARY:17 Juillet : Wébinaire [Matomo] (<https://sill.code.gouv.fr/fr/so
  ftware?id=176>)
 DESCRIPTION:• 11h-12h30 : Intervention de Ronan Chardonneau\n• [Revoir sur 
  le compte Dailymotion d'Etalab]\n  (<https://dai.ly/x82vcuh>)

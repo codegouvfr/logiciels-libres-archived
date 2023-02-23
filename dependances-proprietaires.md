@@ -21,4 +21,4 @@ Tous les services listés proposent des offres gratuites pour les projets open s
   Ce n'est pas de l'émulation, il y a de vrais téléphones sous iOS et Android mis à disposition pour tester.
   Alternative libre: aucune.
 - [Rotato](https://rotato.app/): Génération d'animation 3D pour mettre en scène un logiciel. [Exemple](https://user-images.githubusercontent.com/6702424/208798079-52c39962-94a3-4ff5-adbc-800d47b50757.webm)
-  Alternative libre : Avec beaucoup de travail, il devrait être possible d'obtenir le même type de rendu en utilisant [Blender](https://sill.etalab.gouv.fr/software?name=Blender).
+  Alternative libre : Avec beaucoup de travail, il devrait être possible d'obtenir le même type de rendu en utilisant [Blender](https://sill.code.gouv.fr/software?name=Blender).

@@ -43,7 +43,7 @@ l’avancée de sa mise en œuvre seront publiés sur
 2. Référencer les logiciels libres et les communs numériques
    significativement utilisés par l’administration et y développer
    l’échange d’expertise interne (dans le [socle interministériel de
-   logiciels libres - SILL](https://sill.etalab.gouv.fr)), en incluant
+   logiciels libres - SILL](https://sill.code.gouv.fr)), en incluant
    ces actions :
    - Mettre en avant des bibliothèques libres et open source
      significativement utilisées ;

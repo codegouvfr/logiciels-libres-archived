@@ -53,7 +53,7 @@ public sector organisms.  It has been developed by
 # Recommended free software
 
 The list of recommended free software for the French public sector is
-build by public agents on https://sill.etalab.gouv.fr.
+build by public agents on https://sill.code.gouv.fr.
 
 See [this page](sill.md) (in French).
 

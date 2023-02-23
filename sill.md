@@ -14,7 +14,7 @@ d'[Etalab](https://www.etalab.gouv.fr/)
 [code.gouv.fr](https://code.gouv.fr/#/sill).
 
 Son interface de gestion est accessible sur le site
-[sill.etalab.gouv.fr](https://sill.etalab.gouv.fr).
+[sill.code.gouv.fr](https://sill.code.gouv.fr).
 
 Il est construit de façon collaborative par une communauté d'agents
 publics, les « référents SILL ».  Ces agents publics peuvent être des
@@ -62,9 +62,9 @@ gère pas sont invités à référencer leurs solutions dans le catalogue
 
 Plusieurs logiciels aux fonctionnalités similaires peuvent figurer
 dans le SILL (voir par exemple ces [éditeurs de
-texte](https://sill.etalab.gouv.fr/fr/software?id=174), ou ces
+texte](https://sill.code.gouv.fr/fr/software?id=174), ou ces
 [systèmes de gestion de
-contenus](https://sill.etalab.gouv.fr/fr/software?id=36)) : les
+contenus](https://sill.code.gouv.fr/fr/software?id=36)) : les
 référents SILL travaillent à faire évoluer le SILL de façon à ce que
 ce catalogue aide à choisir entre ces solutions multiples.
 
@@ -75,7 +75,7 @@ plusieurs agents publics se portent volontaires pour en être les
 *référents*.
 
 Pour devenir référent SILL, créez un compte sur
-[sill.etalab.gouv.fr](https://sill.etalab.gouv.fr). De là, vous pouvez
+[sill.code.gouv.fr](https://sill.code.gouv.fr). De là, vous pouvez
 soit ajouter un nouveau logiciel libre, soit vous ajouter comme
 référent d'un logiciel libre déjà présent.
 
@@ -107,7 +107,7 @@ pas admises.
     (version minimale recommandée, fiche, etc.) ;
 3.  accepte d'être contacté par courriel par d'autres agents publics
     inscrits sur le site
-    [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr) ;
+    [sill.code.gouv.fr](https://sill.code.gouv.fr) ;
 4.  peut demander à être inscrit à [la liste de discussion des
     mainteneurs du
     SILL](https://groupes.renater.fr/sympa/info/sill-mainteneurs) et
@@ -118,7 +118,7 @@ pas admises.
 ## Qui a accès au référent SILL d'un logiciel ?
 
 Seules les personnes inscrites sur le site
-[sill.etalab.gouv.fr](https://sill.etalab.gouv.fr) peuvent accéder aux
+[sill.code.gouv.fr](https://sill.code.gouv.fr) peuvent accéder aux
 courriels des référents SILL.
 
 # Documentation des cas d'usage (fiches SILL « cas d'usage »)

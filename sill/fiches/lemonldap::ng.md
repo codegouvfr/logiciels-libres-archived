@@ -1,6 +1,6 @@
 ## Logiciel libre concerné avec identifiant SILL
 
-LemonLDAP::NG : <https://sill.etalab.gouv.fr/fr/software?id=77>
+LemonLDAP::NG : <https://sill.code.gouv.fr/fr/software?id=77>
 
 
 ## Logiciel développé par l’administration ? Si oui, bref historique et acteurs engagés.

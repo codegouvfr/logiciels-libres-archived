@@ -9,7 +9,7 @@ La mission du pôle logiciels libres est de renforcer l'utilisation de logiciels
 
 Le pôle logiciels libres *pilote* le [plan d'action logiciels libres et communs numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/ " ") et maintient [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
 
-Il *met en oeuvre* des [produits](produits.md) pour mener à bien ce plan d'action, en particulier [code.gouv.fr](https://code.gouv.fr) et le [socle interministériel de logiciels libres](https://sill.etalab.gouv.fr).
+Il *met en oeuvre* des [produits](produits.md) pour mener à bien ce plan d'action, en particulier [code.gouv.fr](https://code.gouv.fr) et le [socle interministériel de logiciels libres](https://sill.code.gouv.fr).
 
 Il *contribue* au mouvement BlueHats : les ateliers, la gazette et le programme BlueHats Semester of Code.
 

@@ -37,7 +37,7 @@ consulter la page [sr.ht/~codegouvfr/logiciels-libres/feed](https://sr.ht/~codeg
 
 # Autres dépôts sur GitHub
 
--   [sill](https://github.com/etalab/sill) : Le point d'entrée pour les dépôts du site [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr).
+-   [sill](https://github.com/etalab/sill) : Le point d'entrée pour les dépôts du site [sill.code.gouv.fr](https://sill.code.gouv.fr).
 -   [blue-hats/ateliers](https://github.com/blue-hats/ateliers) : Le détail des ateliers BlueHats.
 -   [blue-hats/bluehats-soc](https://github.com/blue-hats/bluehats-soc) : La présentation du programme BlueHats Semester of Code 2021.
 -   [blue-hats/journee-bluehats-osx-2021](https://github.com/blue-hats/journee-bluehats-osx-2021) : Le programme de la journée BlueHats 2021.

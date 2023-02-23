@@ -11,7 +11,7 @@ Les produits peuvent être des sites web, des contenus et ressources, des servic
 
 - [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr): le site de présentation du plan d'action logiciels libres et communs numériques.
 - [code.gouv.fr](https://code.gouv.fr): le site pour trouver des codes sources publiés par les administrations.
-- [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr): le site pour trouver des logiciels libres recommandés aux administrations.  Pour savoir comment ajouter un logiciel libre au SILL, veuillez lire [cette page de documentation](sill.md).
+- [sill.code.gouv.fr](https://sill.code.gouv.fr): le site pour trouver des logiciels libres recommandés aux administrations.  Pour savoir comment ajouter un logiciel libre au SILL, veuillez lire [cette page de documentation](sill.md).
 
 # Logiciels et bibliothèques de code
 

@@ -9,7 +9,7 @@ Les licences listées sur cette page correspondent aux licences reconnues libres
 
 Nous nous sommes appuyés sur la page https://spdx.org/licenses pour la constituer.
 
-Les logiciels libres référencés dans le [catalogue GouvTech](https://catalogue.numerique.gouv.fr/catalogue?distribution=Logiciel%20libre) et le [socle interministériel de logiciels libres](https://sill.etalab.gouv.fr/) doivent être publiés sous l'une des licences listées dans cette page.
+Les logiciels libres référencés dans le [catalogue GouvTech](https://catalogue.numerique.gouv.fr/catalogue?distribution=Logiciel%20libre) et le [socle interministériel de logiciels libres](https://sill.code.gouv.fr/) doivent être publiés sous l'une des licences listées dans cette page.
 
 # Licences libres (reconnues FSF & OSI) utilisables pour les projets de l'administration
 

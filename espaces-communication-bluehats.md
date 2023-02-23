@@ -12,7 +12,7 @@ toc: true
 # Espaces réservés aux agents publics
 
 - La liste de discussion privée `service-public-libre` gérée par l'association [ADULLACT](https://adullact.org/): vous pouvez vous abonner en envoyant un mail à `sympa@listes.adullact.org` avec comme sujet `SUBSCRIBE service-public-libre`, votre demande d'inscription sera traitée par un modérateur.
-- La liste de discussion privée `sill-mainteneurs` gérée par la DINUM et qui rassemble les référents [SILL](https://sill.etalab.gouv.fr).  Vous ne pouvez la rejoindre que si vous devenez vous-même référent SILL (voir [comment](https://man.sr.ht/~codegouvfr/logiciels-libres/sill.md)).
+- La liste de discussion privée `sill-mainteneurs` gérée par la DINUM et qui rassemble les référents [SILL](https://sill.code.gouv.fr).  Vous ne pouvez la rejoindre que si vous devenez vous-même référent SILL (voir [comment](https://man.sr.ht/~codegouvfr/logiciels-libres/sill.md)).
 
 Si vous avez accès à [Tchap](https://tchap.gouv.fr) :
 

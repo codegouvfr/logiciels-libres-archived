@@ -9,7 +9,7 @@ toc: true
 
 *L'objectif principal* pour 2021 était de délimiter les sujets et les ambitions concernant les logiciels libres dans l'administration, afin de les faire porter par une équipe, et non par un seul "référent".
 
-*Les objectifs secondaires* étaient d'avancer sur le référencement de codes sources ouverts via [code.etalab.gouv.fr](https://code.etalab.gouv.fr) (devenu [code.gouv.fr](https://code.gouv.fr)), de maintenir le socle interministériel de logiciels libres (via le site [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr) et la participation aux groupes de travail interministériels) et de continuer à contribuer au mouvement BlueHats avec des ateliers réguliers et une lettre d'information bimestrielle.
+*Les objectifs secondaires* étaient d'avancer sur le référencement de codes sources ouverts via [code.etalab.gouv.fr](https://code.etalab.gouv.fr) (devenu [code.gouv.fr](https://code.gouv.fr)), de maintenir le socle interministériel de logiciels libres (via le site [sill.code.gouv.fr](https://sill.code.gouv.fr) et la participation aux groupes de travail interministériels) et de continuer à contribuer au mouvement BlueHats avec des ateliers réguliers et une lettre d'information bimestrielle.
 
 ### Quels ont été les grands accomplissements de 2021 ?
 
@@ -41,7 +41,7 @@ L'autre accomplissement significatif est la publication du nouveau site [code.go
 - [code.etalab.gouv.fr](https://code.etalab.gouv.fr) ([code.gouv.fr](https://code.gouv.fr))
   - Intégration du système de design du gouvernement
   - Passage de 6625 dépôts fin 2020 à 9574 fin 2021
-- [sill.etalab.gouv.fr](https://sill.etalab.gouv.fr)
+- [sill.code.gouv.fr](https://sill.code.gouv.fr)
   - Évolutions fonctionnelles mineures (lien marché de support)
   - Passage de 209 solutions fin 2020 à 231 solutions fin 2021
 - [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr)
