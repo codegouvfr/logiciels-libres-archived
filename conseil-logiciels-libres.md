@@ -12,8 +12,10 @@ Voir la [présentation en ligne](https://speakerdeck.com/bluehats/presentation-d
 - AMUE
 - ANSSI
 - CNIL
+- CNNum
 - DAJ du MEFR
 - DGFIP
+- Gendarmerie nationale
 - INRIA
 - MEAE
 - MENJS
