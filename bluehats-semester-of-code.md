@@ -75,14 +75,14 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 
 # Promotion 2022
 
-| Stagiaire | Projet | Mentor(s) | Contribution(s) |
-|:--:|:-:|:-:|:-:|
-| Antoine Simon | [Sysma](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/sysma.md) | Alexandre Rivière, Sébastien Renou | _TODO_ |
-| Dimitri Martin | [Environmental Sensing](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/environmental-sensing.md) | Philippe Thomy | _TODO_ |
-| Gabriel Ben Zenou | [Open Food Facts](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/openfoodfacts.md) | Alex Garel, Stéphane Gigandet, Raphaël Bournhonesque | _TODO_ |
-| Mohamed-Amine Ben Salha | [Onyxia](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/onyxia.md) | Olivier Levitt, Frédéric Comte | _TODO_ |
-| Sarah Orbach | [e-comBox](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/e-combox.md) | Apollonie Raffalli, Christelle Thiry| _TODO_ |
-| Yann Lochet | [VideoLAN](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/vlc.md) | Jean-Baptiste Kempf | _TODO_ |
+| Stagiaire               | Projet                                                                                                    | Mentor(s)                                            | Contribution(s) |
+|-------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------|-----------------|
+| Antoine Simon           | [Sysma](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/sysma.md)                                 | Alexandre Rivière, Sébastien Renou                   | _TODO_          |
+| Dimitri Martin          | [Environmental Sensing](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/environmental-sensing.md) | Philippe Thomy                                       | _TODO_          |
+| Gabriel Ben Zenou       | [Open Food Facts](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/openfoodfacts.md)               | Alex Garel, Stéphane Gigandet, Raphaël Bournhonesque | _TODO_          |
+| Mohamed-Amine Ben Salha | [Onyxia](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/onyxia.md)                               | Olivier Levitt, Frédéric Comte                       | _TODO_          |
+| Sarah Orbach            | [e-comBox](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/e-combox.md)                           | Apollonie Raffalli, Christelle Thiry                 | _TODO_          |
+| Yann Lochet             | [VideoLAN](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/vlc.md)                                | Jean-Baptiste Kempf                                  | _TODO_          |
 
 **Communication** : Le pôle logiciels libres et les stagiaires communiquent essentiellement via les adresses e-mails internes et les listes de diffusion, et sur un salon Tchap. Un canal Mattermost leur est aussi ouvert, ainsi qu'un accès au Slack EIG.
 
