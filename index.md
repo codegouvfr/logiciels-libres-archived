@@ -68,8 +68,6 @@ Chaque agent public est invité à proposer un atelier BlueHats en [nous
 
 Voir le [dépôt dédié](https://github.com/blue-hats/ateliers/blob/main/ateliers.org).
 
-Télécharger [le calendrier des ateliers BlueHats au format .ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/ateliers-bluehats.ics).
-
 # Présentation du programme "BlueHats Semester of Code"
 
 `BlueHats Semester of Code` est un programme de stages de 6 mois permettant de contribuer à des logiciels libres utilisés dans les administrations.  Il est destiné aux étudiants de CentraleSupélec de 2ème année en césure.
