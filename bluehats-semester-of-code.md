@@ -23,7 +23,7 @@ Les élèves stagiaires auront la possibilité d'être accueillis sur place à E
 
 **Promo BlueHats** : Les stagiaires sont incités à former une promotion pour travailler ensemble, même s'ils contribuent à des projets distincts.
 
-**Encadrement** : L'encadrement est assuré par le ou les mentor(s) du logiciel libre, des enseignants côté CentraleSupélec et l'équipe du pôle logiciels libres côté Etalab.
+**Encadrement** : L'encadrement est assuré par le ou les mentor(s) du logiciel libre, des enseignants côté CentraleSupélec et l'équipe de la mission logiciels libres côté Etalab.
 
 # Phase de sélection des projets
 
@@ -55,9 +55,9 @@ Au bout de trois mois, selon la façon dont le stage se passe, CentraleSupélec 
 
 À partir du 15 mars, les étudiants peuvent remplir [ce formulaire en ligne](https://framaforms.org/candidature-bluehats-semester-of-code-1647254344) via lequel ils pourront se présenter, préciser leurs motivations et indiquer le ou les projets auxquels ils souhaitent contribuer.
 
-CentraleSupélec et le pôle logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs candidatures.  Il y aura trois échanges les 13 avril, 27 avril et 18 mai pour traiter les candidatures au fil de l'eau (voir [le calendrier](#calendrier)).
+CentraleSupélec et la mission logiciels libres recevront en visioconférence les étudiants ayant soumis une candidature pour répondre à leurs questions et vérifier la pertinence de leurs candidatures.  Il y aura trois échanges les 13 avril, 27 avril et 18 mai pour traiter les candidatures au fil de l'eau (voir [le calendrier](#calendrier)).
 
-Entre le 13 avril et fin mai, CentraleSupélec et le pôle logiciels libres organiseront des réunions entre chaque étudiant retenu et les mentors des projets libres pour vérifier que tout le monde s'entend bien sur les choix et les objectifs du stage.
+Entre le 13 avril et fin mai, CentraleSupélec et la mission logiciels libres organiseront des réunions entre chaque étudiant retenu et les mentors des projets libres pour vérifier que tout le monde s'entend bien sur les choix et les objectifs du stage.
 
 Avant juin, les étudiants engagent les procédures administratives pour la signature des conventions.
 
@@ -67,7 +67,7 @@ En tant que stagiaires, vous formez en 2022 la 1ère « promotion BlueHats ».
 
 Vous vous engagez à respecter les conventions d'accueil signées avec la DINUM, notamment pour le télétravail.
 
-Vous vous rendez disponibles pour l'encadrement proposé par les mentors, celui des enseignants de CentraleSupélec et celui du pôle logiciels libres de la DINUM.
+Vous vous rendez disponibles pour l'encadrement proposé par les mentors, celui des enseignants de CentraleSupélec et celui de la mission logiciels libres de la DINUM.
 
 Vous n'avez pas d'obligation en terme de production de livrables.
 
@@ -84,11 +84,11 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 | Sarah Orbach            | [e-comBox](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/e-combox.md)                           | Apollonie Raffalli, Christelle Thiry                 | _TODO_          |
 | Yann Lochet             | [VideoLAN](https://man.sr.ht/~codegouvfr/logiciels-libres/bsoc2022/vlc.md)                                | Jean-Baptiste Kempf                                  | _TODO_          |
 
-**Communication** : Le pôle logiciels libres et les stagiaires communiquent essentiellement via les adresses e-mails internes et les listes de diffusion, et sur un salon Tchap. Un canal Mattermost leur est aussi ouvert, ainsi qu'un accès au Slack EIG.
+**Communication** : La mission logiciels libres et les stagiaires communiquent essentiellement via les adresses e-mails internes et les listes de diffusion, et sur un salon Tchap. Un canal Mattermost leur est aussi ouvert, ainsi qu'un accès au Slack EIG.
 
 **Suivi** : Un rituel de suivi est proposé aux stagiaires sous forme d'un [compte-rendu](https://pad.incubateur.net/AXCbiV5ASVCA4p68dFWMag#S3-16-2001) synthétique hebdomadaire de leur état d'esprit, de l'avancement, des éventuels blocages et de liens à partager (PR, commit, etc.).
 
-**Accompagnement** : Des mini-ateliers de formation par des membres du pôle logiciels libres sont proposés aux stagiaires, autour des thématiques des logiciels libres, du développement logiciel et de l'administration. En retour, un stagiaire différent présente à chacun de ces ateliers son projet au pôle.
+**Accompagnement** : Des mini-ateliers de formation par des membres de la mission logiciels libres sont proposés aux stagiaires, autour des thématiques des logiciels libres, du développement logiciel et de l'administration. En retour, un stagiaire différent présente à chacun de ces ateliers son projet à la mission.
 
 ## Calendrier de formation
 
@@ -99,7 +99,7 @@ Si le stage ne vous convient pas, nous pouvons au bout de trois mois envisager d
 - **1er décembre** : Introduction aux concepts ops par Joseph Garrone et présentation du projet e-comBox par Sarah Orbach
 - **12 janvier** : [Introduction aux méthodologies d'ingénierie et de développement logiciel](https://pad.incubateur.net/fb3Mko44TX6ETxw63i4xqw) par Hélène Jonin et présentation du projet Onyxia par Mohamed Amine Ben Salha
 
-**Restitution** : Un événement de restitution est organisé par le pôle logiciels libres avec les stagiaires, les mentors et les encadrants CentraleSupélec, en présence de la directrice de la DINUM.
+**Restitution** : Un événement de restitution est organisé par la mission logiciels libres avec les stagiaires, les mentors et les encadrants CentraleSupélec, en présence de la directrice de la DINUM.
 
 # Calendrier
 
@@ -127,6 +127,8 @@ Vous pouvez télécharger le [calendrier .ics de ces réunions](https://git.sr.h
 
 # Ressources
 
+- La [présentation](https://pad.incubateur.net/nKKJkNejTAqhii1SZdCWDA) donnée par les étudiants lors du salon Open Source Experience en novembre 2022.
+- La [présentation](https://pad.incubateur.net/nKKJkNejTAqhii1SZdCWDA) donnée par les étudiants lors de l'événement de restitution de février 2023.
 - Les [idées collectées](https://github.com/blue-hats/bluehats-soc#propositions-de-stage) à l'automne 2021 lors du premier appel à idées pour le BlueHats Semester of Code - cet appel n'a pas permis de mobiliser des étudiants.
 
 ## Autres projets inspirants à l'international
