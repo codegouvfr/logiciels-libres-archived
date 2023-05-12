@@ -7,22 +7,17 @@ Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l'Etat pour toute
 l'administration.
 
-Il est publié par le [pôle logiciels
-libres](https://communs.numerique.gouv.fr/)
-d'[Etalab](https://www.etalab.gouv.fr/)
-([DINUM](https://www.numerique.gouv.fr/)) sur le site
-[code.gouv.fr](https://code.gouv.fr/#/sill).
-
-Son interface de gestion est accessible sur le site
-[sill.code.gouv.fr](https://sill.code.gouv.fr).
+Il est publié par la [mission logiciels libres](https://code.gouv.fr/)
+de la ([DINUM](https://www.numerique.gouv.fr/)) sur le site
+[code.gouv.fr](https://sill.code.gouv.fr).
 
 Il est construit de façon collaborative par une communauté d'agents
 publics, les « référents SILL ».  Ces agents publics peuvent être des
 agents des trois fonctions publiques : d'État, hospitalière et
 territoriale.
 
-Pour toute question, vous pouvez écrire au pôle logiciels libres qui
-anime cette communauté : <logiciels-libres@data.gouv.fr>
+Pour toute question, vous pouvez écrire à la mission logiciels libres
+qui anime cette communauté : <sill@code.gouv.fr>
 
 # Pourquoi ce catalogue ?
 
@@ -91,7 +86,7 @@ travail ou dont il connaît l'usage dans son administration.
 Les référents SILL sont inscrits à la liste de discussion
 `sill-mainteneurs@groupes.renater.fr`.  S'ils le souhaitent, ils
 peuvent s'en désinscrire eux-mêmes ou demander à
-`logiciels-libres@data.gouv.fr` de les désinscrire.
+`sill@code.gouv.fr` de les désinscrire.
 
 Les référents doivent s'inscrire avec leur adresse mail nominative :
 les adresses fonctionnelles (du type sill@ministere.gouv.fr) ne sont
