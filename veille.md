@@ -31,6 +31,6 @@ Pour suivre les dépôts de codes sources du pôle logiciels libres :
 Pour nous contacter directement :
 
 - Nous contacter via notre permanence hebdomadaire du lundi 16h-17h dans [le salon #BlueHats](https://web.libera.chat/#bluehats) sur le serveur IRC libera.chat
-- Nous écrire à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
+- Nous écrire à [contact@code.gouv.fr](mailto:contact@code.gouv.fr)
 
 Vous pouvez aussi [entrer en contact avec la communauté BlueHats](espaces-communication-bluehats.md).

@@ -1,6 +1,6 @@
 **Ce dépôt est en voie d'archivage**.
 
-Pour ajouter un compte d'organisation à référencer, voir [ce dépôt](https://git.sr.ht/~codegouvfr/codegouvfr-sources) et envoyer un mail à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+Pour ajouter un compte d'organisation à référencer, voir [ce dépôt](https://git.sr.ht/~codegouvfr/codegouvfr-sources) et envoyer un mail à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
 
 Une partie du contenu de la politique de contribution sera prochainement réintégré dans [les guides](https://communs.numerique.gouv.fr/guides/) publiés par le pôle logiciels libres d'Etalab.
 

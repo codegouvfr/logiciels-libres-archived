@@ -2,7 +2,7 @@
 title: Glossaire du pôle logiciels libres
 ---
 
-*Pour proposer une amélioration, écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).*
+*Pour proposer une amélioration, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).*
 
 <a id="algo"></a>
 # Algorithme
@@ -39,7 +39,7 @@ ajouté à [ce
 fichier](https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
 
 Vous pouvez écrire à
-[logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
+[contact@code.gouv.fr](mailto:contact@code.gouv.fr)
 pour nous indiquer un compte à ajouter.
 
 <a id="source-code"></a>
@@ -91,7 +91,7 @@ publiez, nous l'ajouterons dans [ce
 fichier](https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
 
 Vous pouvez écrire à
-[logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
+[contact@code.gouv.fr](mailto:contact@code.gouv.fr)
 pour nous indiquer un compte à ajouter.
 
 <a id="stars"></a>
@@ -147,7 +147,7 @@ d'organisation GitHub ou le groupe GitLab soit ajouté dans [ce
 fichier](https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
 
 Vous pouvez écrire à
-[logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
+[contact@code.gouv.fr](mailto:contact@code.gouv.fr)
 pour nous indiquer un compte à ajouter.
 
 <a id="reuse"></a>

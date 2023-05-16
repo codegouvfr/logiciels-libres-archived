@@ -35,7 +35,7 @@ Nous engagements vis-à-vis des ces interlocuteurs sont :
 
 Nous répondons à tous les emails reçus :
 
-- sur `logiciels-libres@data.gouv.fr`
+- sur `contact@code.gouv.fr`
 - sur `~codegouvfr/logiciels-libres@lists.sr.ht`
 - sur `~codegouvfr/codegouvfr-devel@lists.sr.ht`
 
@@ -52,7 +52,7 @@ Nous ne répondons pas systématiquement aux sollicitations sur les réseaux soc
 
 Nous communiquons au sein de l'équipe via un salon Tchap privé.
 
-Chaque membre envoie le vendredi midi un mail à `logiciels-libres@data.gouv.fr` indiquant ce qu'il a fait cette semaine et ce qu'il va faire la suivante.  S'il a contribué à des logiciels libres extérieurs au pôle, il les indique de façon distincte.
+Chaque membre envoie le vendredi midi un mail à `contact@code.gouv.fr` indiquant ce qu'il a fait cette semaine et ce qu'il va faire la suivante.  S'il a contribué à des logiciels libres extérieurs au pôle, il les indique de façon distincte.
 
 Les membres de l'équipe interviennent tour à tour dans la réunion d'équipe Etalab pour présenter les actualités du pôle.
 

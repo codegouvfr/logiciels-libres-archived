@@ -2,7 +2,7 @@
 title: Glossary of the Free Software Unit
 ---
 
-*To suggest an enhancement, please reach us at [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).*
+*To suggest an enhancement, please reach us at [contact@code.gouv.fr](mailto:contact@code.gouv.fr).*
 
 <a id="dep"></a>
 # Dependencies

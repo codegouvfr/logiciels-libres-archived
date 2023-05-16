@@ -64,7 +64,7 @@ Voir la [page dédiée](guides.md).
 Les [ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/) animés par le pôle logiciels libres permettent de découvrir des solutions libres déployées dans des administrations.
 
 Chaque agent public est invité à proposer un atelier BlueHats en [nous
-écrivant](mailto:logiciels-libres@data.gouv.fr).
+écrivant](mailto:contact@code.gouv.fr).
 
 Voir le [dépôt dédié](https://github.com/blue-hats/ateliers/blob/main/ateliers.org).
 

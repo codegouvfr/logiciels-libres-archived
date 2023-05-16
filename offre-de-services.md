@@ -7,7 +7,7 @@ toc: false
 
 Pour toute demande concernant l'ouverture des codes sources, veuillez vous adresser à votre administrateur ministériel des données, des algorithmes et des codes sources ([voir la liste](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/)).
 
-Vous pouvez mettre l'adresse `logiciels-libres@data.gouv.fr` en copie de façon à ce que nous puissions répondre et/ou suivre la demande.
+Vous pouvez mettre l'adresse `contact@code.gouv.fr` en copie de façon à ce que nous puissions répondre et/ou suivre la demande.
 
 Les questions courantes sont :
 
@@ -25,7 +25,7 @@ Les guides pouvant vous aider :
 
 ## Sur les solutions libres du catalogue GouvTech
 
-Pour toute question concernant [une solution libre référencée dans le catalogue GouvTech](https://catalogue.numerique.gouv.fr/catalogue?distribution=Logiciel%20libre), veuillez écrire à `label.dinum@modernisation.gouv.fr` avec `logiciels-libres@data.gouv.fr` en copie.
+Pour toute question concernant [une solution libre référencée dans le catalogue GouvTech](https://catalogue.numerique.gouv.fr/catalogue?distribution=Logiciel%20libre), veuillez écrire à `label.dinum@modernisation.gouv.fr` avec `contact@code.gouv.fr` en copie.
 
 Les questions courantes sont :
 
@@ -36,7 +36,7 @@ Vous pouvez aussi, en tant qu'acteur privé ou public, vous créer un compte sur
 
 ## Sur le socle interministériel de logiciels libres (SILL)
 
-Pour toute question concernant le SILL, écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+Pour toute question concernant le SILL, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
 
 Les questions courantes sont :
 
@@ -49,7 +49,7 @@ Avant de nous écrire, veuillez lire [cette page de documentation du SILL](https
 
 ## Sur les marchés interministériels de support et d'expertise
 
-Si vous avez des questions sur les [marchés interministériels de support et d'expertise logiciels libres](https://communs.numerique.gouv.fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/), vous pouvez nous écrire à `logiciels-libres@data.gouv.fr`.
+Si vous avez des questions sur les [marchés interministériels de support et d'expertise logiciels libres](https://communs.numerique.gouv.fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/), vous pouvez nous écrire à `contact@code.gouv.fr`.
 
 Voir [la liste des établissements bénéficiaires des deux marchés](marches-logiciels-libres.md) et la [liste des logiciels libres concernés par le marché de support](marches-logiciels-libres-liste-logiciels.md).
 
@@ -65,7 +65,7 @@ Les questions courantes sont :
 - Dois-je exiger la cession de la propriété intellectuelle sur les codes sources spécifiques qui seront développés dans le marché ?
 - Dois-je préciser sous quelle licence libre je souhaite publier les développements spécifiques faits dans le cadre du marché ?
 
-N'hésitez pas à écrire à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr) pour toutes ces questions.
+N'hésitez pas à écrire à [contact@code.gouv.fr](mailto:contact@code.gouv.fr) pour toutes ces questions.
 
 # Accompagnement stratégique
 
@@ -75,7 +75,7 @@ Cet accompagnement peut se faire par écrit, par rendez-vous ou via le [groupe d
 
 Si vous êtes *décideur pour l'utilisation et/ou le développement de logiciels dans un organisme public*, nous pouvons aussi vous aider par écrit ou par rendez-vous à définir et mettre en oeuvre une stratégie de publication et d'utilisation pour votre établissement.
 
-Pour un premier contact, écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+Pour un premier contact, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
 
 # Culture générale
 

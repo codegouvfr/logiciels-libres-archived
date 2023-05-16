@@ -57,7 +57,7 @@ Pour des contributions à des dépôts particuliers, vous référez aux
 instructions des fichiers `CONTRIBUTING.md` de ces dépôts.
 
 Pour les retours devant rester confidentiels (failles de sécurité,
-demandes personnelles, etc.), écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+demandes personnelles, etc.), écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
 
 
 # Licence
