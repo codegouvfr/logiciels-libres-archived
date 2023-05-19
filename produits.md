@@ -1,5 +1,5 @@
 ---
-title: Les produits du pôle logiciel libre d'Etalab
+title: Les produits de la mission logiciel libre d'Etalab
 toc: true
 ---
 
@@ -23,8 +23,8 @@ Pour ces logiciels et bibliothèques, le pôle logiciels libres s'engage à les 
 
 - La [gazette BlueHats](https://communs.numerique.gouv.fr/gazette/)
 - Les [ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/)
-- Les [guides](guides.md) du pôle logiciels libres.
-- Les [interventions](ressources.md) du pôle logiciels libres.
+- Les [guides](guides.md) de la mission logiciels libres.
+- Les [interventions](ressources.md) de la mission logiciels libres.
 
 # Services web
 

@@ -1,5 +1,5 @@
 ---
-title: Offre de services du pôles logiciels libres
+title: Offre de services de la mission logiciels libres
 toc: false
 ---
 
@@ -87,7 +87,7 @@ Nous pouvons par écrit vous aider à entrer en contact avec des communautés de
 
 # Formations
 
-Le pôle logiciels libres ne propose pas (encore) de formations liées aux logiciels libres dans l'administration.
+La mission logiciels libres ne propose pas (encore) de formations liées aux logiciels libres dans l'administration.
 
 # Nous ne répondons pas
 

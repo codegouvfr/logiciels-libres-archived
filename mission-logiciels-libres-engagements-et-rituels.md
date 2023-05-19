@@ -1,13 +1,13 @@
 ---
-title: Mission, engagements et rituels du pôle logiciels libres
+title: Objectifs, engagements et rituels de la mission logiciels libres
 toc: true
 ---
 
-# Mission
+# Objectifs
 
-La mission du pôle logiciels libres est de renforcer l'utilisation de logiciels libres dans l'administration, d'accompagner l'ouverture des codes sources publics et de rendre l'Etat plus attractif auprès des talents numériques en s'appuyant sur le libre.
+L'objectif de la mission logiciels libres est de renforcer l'utilisation de logiciels libres dans l'administration, d'accompagner l'ouverture des codes sources publics et de rendre l'Etat plus attractif auprès des talents numériques en s'appuyant sur le libre.
 
-Le pôle logiciels libres *pilote* le [plan d'action logiciels libres et communs numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/ " ") et maintient [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
+La mission logiciels libres *pilote* le [plan d'action logiciels libres et communs numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/ " ") et maintient [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
 
 Il *met en oeuvre* des [produits](produits.md) pour mener à bien ce plan d'action, en particulier [code.gouv.fr](https://code.gouv.fr) et le [socle interministériel de logiciels libres](https://sill.code.gouv.fr).
 
@@ -41,7 +41,7 @@ Nous répondons à tous les emails reçus :
 
 Nous ne répondons pas systématiquement aux sollicitations sur les réseaux sociaux.
 
-## Nos engagements au sein du pôle
+## Nos engagements au sein de la mission
 
 - *Free software first* : Nous publions dès le premier commit le plus de nos codes sources possible et nous utilisons le plus possible de logiciels libres.
 - *Culture produit* : Nous articulons tout ce que nous faisons autour de *produits* (logiciels, services en ligne, ressources), lesquels servent notre mission et reflètent nos engagements.
@@ -52,9 +52,9 @@ Nous ne répondons pas systématiquement aux sollicitations sur les réseaux soc
 
 Nous communiquons au sein de l'équipe via un salon Tchap privé.
 
-Chaque membre envoie le vendredi midi un mail à `contact@code.gouv.fr` indiquant ce qu'il a fait cette semaine et ce qu'il va faire la suivante.  S'il a contribué à des logiciels libres extérieurs au pôle, il les indique de façon distincte.
+Chaque membre envoie le vendredi midi un mail à `contact@code.gouv.fr` indiquant ce qu'il a fait cette semaine et ce qu'il va faire la suivante.  S'il a contribué à des logiciels libres extérieurs à la mission, il les indique de façon distincte.
 
-Les membres de l'équipe interviennent tour à tour dans la réunion d'équipe Etalab pour présenter les actualités du pôle.
+Les membres de l'équipe interviennent tour à tour dans la réunion d'équipe Etalab pour présenter les actualités de la mission.
 
 Nous maintenons une présence publique sur le canal IRC `#bluehats` du serveur `irc.libera.chat` tous les lundi de 16h à 17h.  Si vous n'avez pas de client IRC, vous pouvez [rejoindre le salon de discussion publique via cette interface web](https://web.libera.chat/).
 

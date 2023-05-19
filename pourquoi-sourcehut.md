@@ -1,5 +1,5 @@
 ---
-title: Pourquoi le pôle logiciels libres d'Etalab utilise SourceHut
+title: Pourquoi la mission logiciels libres d'Etalab utilise SourceHut
 toc: false
 ---
 
@@ -16,13 +16,13 @@ l'indiquent : les administrations choisissent souvent de publier sur
 GitHub.  De nombreuses autres optent pour GitLab, via gitlab.com ou
 une instance locale.
 
-**Au sein d'Etalab, le pôle logiciels libres publie une partie de ses
+**Au sein d'Etalab, la mission logiciels libres publie une partie de ses
 codes sources sur [SourceHut](https://sourcehut.org).  Pourquoi ?**
 
 Comme le montre [cette
 liste](https://github.com/etalab/etalab/blob/main/travailler-chez-etalab/nos-outils/logiciels-libres.md#les-logiciels-libres-utilis%C3%A9s-par-etalab-),
 Etalab s'est tôt engagé dans le fait de recourir à des logiciels
-libres : c'est d'abord cet engagement qui a décidé le pôle logiciels
+libres : c'est d'abord cet engagement qui a décidé la mission logiciels
 libres à utiliser SourceHut pour publier une partie de ses codes
 sources.  C'est aussi pour montrer qu'il existe d'autres forges que
 celles envisagées par défaut ou par habitude, et ainsi encourager

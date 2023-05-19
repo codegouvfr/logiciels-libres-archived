@@ -1,5 +1,5 @@
 ---
-title: Glossaire du pôle logiciels libres
+title: Glossaire de la mission logiciels libres
 ---
 
 *Pour proposer une amélioration, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).*

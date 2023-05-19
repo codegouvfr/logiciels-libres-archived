@@ -26,6 +26,6 @@ toc: false
 - Contribuer à un projet libre extérieur à l'administration (signature des CLA, etc.)
 - Contribuer via la forge SourceHut
 - Faire l'inventaire de vos dépendances libres critiques
-- [Pourquoi le pôle logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
+- [Pourquoi la mission logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
 - [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)
 - [Politique de contribution aux logiciels libres de l’État](pocos/index.md)

@@ -3,7 +3,7 @@ title: Ressources diverses
 toc: false
 ---
 
-# Interventions du pôle logiciels libres en français
+# Interventions de la mission logiciels libres en français
 
 - 2 décembre 2022 : [Open Source Workshop for Computing & Sustainability](https://swforum.eu/events/open-source-workshops-computing-sustainability), intervention lors du panel "[Measuring Contribution to Open Source](https://swforum.eu/oss-contribution)"
 - 8 novembre 2022 : Participation au panel « Open Source : un levier stratégique pour la souveraineté numérique européenne » ([voir la vidéo](https://www.youtube.com/watch?v=QxIXtjELeFA)) lors de l'événement Open Source Experience 2022
@@ -21,7 +21,7 @@ toc: false
 - 9 décembre 2020 : [Intervention vidéo](https://www.dailymotion.com/video/x7xqldm) de Bastien Guerry (DINUM) et Matthieu Faure (Adullact) lors du Forum de l'Emploi Tech de l'État 2020 : "Le logiciel libre dans l'État et les réalisations".
 - 9 juillet 2019 : [Intervention radio](https://www.libreavous.org/33-dinsic-ziklibrenbib-irfm-et-parcoursup) de Xavier Béchade (DINSIC/Tchap) et Bastien Guerry (DINSIC/Etalab) lors de l'émission « Libre à vous ! », animée par l'APRIL.
 
-# Interventions du pôle logiciels libres en anglais
+# Interventions de la mission logiciels libres en anglais
 
 - 6 février 2022 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/9000_public_code_repositories/) : We listed +9000 public code repositories. Now what? How to build valuable services on top of fragile assets.  [Watch the video](https://tube.numerique.gouv.fr/w/kh3pRKx5J66LyUeEPsuYUD).
 - 5 février 2022 : [FOSDEM2022](https://fosdem.org/2022/schedule/event/open_research_french_ecosystem/) : What is special about open source research software and why does it matters? Reporting about progresses and challenges from the French ecosystem.  [Watch the video](https://tube.numerique.gouv.fr/w/8L73DYsPZ2ztpd7Eis4EgV).

@@ -49,15 +49,11 @@ consulter la page [sr.ht/~codegouvfr/logiciels-libres/feed](https://sr.ht/~codeg
 
 Vos contributions sont les bienvenues !
 
-Pour des discussions générales sur les développements du pôle
-logiciels libres, merci d'écrire à la liste de discussion *publique*
-[~codegouvfr/logiciels-libres@lists.sr.ht](mailto:~codegouvfr/logiciels-libres@lists.sr.ht).
+Pour des discussions générales sur les développements de la mission logiciels libres, merci d'écrire à la liste de discussion *publique* [~codegouvfr/logiciels-libres@lists.sr.ht](mailto:~codegouvfr/logiciels-libres@lists.sr.ht).
 
-Pour des contributions à des dépôts particuliers, vous référez aux
-instructions des fichiers `CONTRIBUTING.md` de ces dépôts.
+Pour des contributions à des dépôts particuliers, vous référez aux instructions des fichiers `CONTRIBUTING.md` de ces dépôts.
 
-Pour les retours devant rester confidentiels (failles de sécurité,
-demandes personnelles, etc.), écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+Pour les retours devant rester confidentiels (failles de sécurité, demandes personnelles, etc.), écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
 
 
 # Licence
