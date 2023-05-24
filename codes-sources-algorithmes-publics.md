@@ -1,8 +1,3 @@
----
-title: Codes sources d'algorithmes publics
-toc: false
----
-
 La Loi pour une République numérique pose deux principes :
 
 -   Celui de la communication des règles algorithmiques intervenant dans des décisions administratives individuelles. Ces traitements doivent faire l'objet d'une mention explicite et d'une information générale.  Les personnes (physiques ou morales) concernées par le traitement disposent d'un droit à l'information individuelle. Nous vous renvoyons vers le [guide des algorithmes publics](https://github.com/etalab/etalab/blob/master/guide-des-algorithmes-publics.md) qui détaille les enjeux et les obligations des administrations.
@@ -13,25 +8,160 @@ La Loi pour une République numérique pose deux principes :
 
 Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](https://github.com/etalab/ouverture-des-codes-sources-publics).
 
-# Algorithmes publics dont le code source est publié
 
-| Thème / objet                             | Producteur                                                                     | URL de publication                                                                                                                                                                                    | Informations complémentaires                                                                                                        | Licence                                                                                     |
-|-------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Calcul des Allocations Familiales         | [CNAF](http://www.caf.fr/)                                                     | [Nextimpact](https://cdn2.nextinpact.com/medias/code-source-cnaf.zip)                                                                                                                                 | [Nextimpact](https://www.nextinpact.com/news/106298-les-allocations-familales-nous-ouvrent-code-source-leur-calculateur-daides.htm) | N/A*                                                                                        |
-| Calcul de la taxe d'habitation            | [DGFIP](https://www.economie.gouv.fr/dgfip)                                    | [Github](https://github.com/etalab/taxe-habitation)                                                                                                                                                   | [Blog Etalab](https://www.etalab.gouv.fr/temoignage-peut-on-recoder-la-loi-lexemple-de-la-taxe-dhabitation)                         | [CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)                        |
-| Parcours Sup                              | [MESRI](http://www.enseignementsup-recherche.gouv.fr/)                         | [Framagit](https://framagit.org/parcoursup/algorithmes-de-parcoursup)                                                                                                                                 | [Framagit](https://framagit.org/parcoursup/algorithmes-de-parcoursup/blob/master/README.md)                                         | [GNU GPL v3](https://framagit.org/parcoursup/algorithmes-de-parcoursup/blob/master/LICENSE) |
-| Impôt sur le revenu                       | [DGFIP](https://www.economie.gouv.fr/dgfip)                                    | [Gitlab Adullact](https://gitlab.adullact.net/dgfip/ir-calcul)                                                                                                                                        | [CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)                                                                |                                                                                             |
-| Taxe foncière                             | [DGFIP](https://www.economie.gouv.fr/dgfip)                                    | [Gitlab Adullact](https://gitlab.adullact.net/dgfip/taxe_fonciere)                                                                                                                                    | [CeCILL v2.1](https://gitlab.adullact.net/dgfip/taxe_fonciere/-/blob/master/LICENSE)                                                |                                                                                             |
-| Impôt sur les sociétés                    | [DGFIP](https://www.economie.gouv.fr/dgfip)                                    | [Gitlab Adullact](https://gitlab.adullact.net/dgfip/calculette-impot-societes)                                                                                                                        | [CeCILL v2.1](https://gitlab.adullact.net/dgfip/calculette-impot-societes/-/blob/master/LICENSE)                                    |                                                                                             |
-| Cotisation foncière entreprise            | [DGFIP](https://www.economie.gouv.fr/dgfip)                                    | [Gitlab Adullact](https://gitlab.adullact.net/dgfip/cotisation_fonciere_entreprises)                                                                                                                  | N/A                                                                                                                                 |                                                                                             |
-| Cotisation valeur ajoutée entreprise      | [DGFIP](https://www.economie.gouv.fr/dgfip)                                    | [Gitlab Adullact](https://gitlab.adullact.net/dgfip/cotisation_valeur_ajoutee_entreprises)                                                                                                            | [CeCILL v2.1](https://gitlab.adullact.net/dgfip/cotisation_valeur_ajoutee_entreprises/-/blob/master/LICENSE)                        |                                                                                             |
-| Imposition forfaitaire entreprise réseaux | [DGFIP](https://www.economie.gouv.fr/dgfip)                                    | [Gitlab Adullact](https://gitlab.adullact.net/dgfip/imposition_forfaitaire_entreprises_reseaux)                                                                                                       | [CeCILL v2.1](https://gitlab.adullact.net/dgfip/imposition_forfaitaire_entreprises_reseaux/-/blob/master/LICENSE)                   |                                                                                             |
-| Mésange                                   | [Trésor](https://www.tresor.economie.gouv.fr/) / [INSEE](https://www.insee.fr) | [Github](https://github.com/InseeFr/Mesange)                                                                                                                                                          | [Github](https://github.com/InseeFr/Mesange/blob/master/README.md)                                                                  | [CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)                        |
-| Opale                                     | [Trésor](https://www.tresor.economie.gouv.fr/)                                 | [Github](https://github.com/DGTresor/Opale) ou [Framagit](https://framagit.org/DGTresor/Opale)                                                                                                        | [Github](https://github.com/DGTresor/Opale/blob/master/README.md)                                                                   | [CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)                        |
-| Saphir                                    | [Trésor](https://www.tresor.economie.gouv.fr/)                                 | [Github](https://github.com/DGTresor/Saphir) ou [Framagit](https://framagit.org/DGTresor/Saphir)                                                                                                      | [Github](https://github.com/DGTresor/Saphir/blob/master/README.md)                                                                  | [CeCILL v2.1](https://github.com/DGTresor/Opale/blob/master/LICENSE)                        |
-| Allocation de retour à l'emploi           | [Pôle emploi](https://www.pole-emploi.fr)                                      | [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/calcul-de-lallocation-daide-au-retour-a-lemploi-are/) ou [pole-emploi.fr](https://www.pole-emploi.fr/candidat/algorithmes-@/index.jspz?id=568707) | [Pôle emploi](https://www.pole-emploi.fr/candidat/algorithmes-@/index.jspz?id=568707)                                               | [CeCILL-C](http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html)                     |
-| Titre Emploi Service Entreprise           | [URSSAF](https://www.urssaf.org)                                               | [urssaf.org](https://www.urssaf.org/home/tese-code-source.html)                                                                                                                                       | [CeCILL](http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.html)                                                               |                                                                                             |
+# Algorithmes publics aujourd'hui publiés
 
-*En cas d'absence de licence, le droit s'applique normalement et le code source est librement réutilisable par tous.
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Thème / objet</th>
+<th scope="col" class="org-left">Producteur</th>
+<th scope="col" class="org-left">URL de publication</th>
+<th scope="col" class="org-left">Informations complémentaires</th>
+<th scope="col" class="org-left">Licence</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Calcul des Allocations Familiales</td>
+<td class="org-left"><a href="http://www.caf.fr/">CNAF</a></td>
+<td class="org-left"><a href="https://cdn2.nextinpact.com/medias/code-source-cnaf.zip">Nextimpact</a></td>
+<td class="org-left"><a href="https://www.nextinpact.com/news/106298-les-allocations-familales-nous-ouvrent-code-source-leur-calculateur-daides.htm">Nextimpact</a></td>
+<td class="org-left">N/A*</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Calcul de la taxe d'habitation</td>
+<td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
+<td class="org-left"><a href="https://github.com/etalab/taxe-habitation">Github</a></td>
+<td class="org-left"><a href="https://www.etalab.gouv.fr/temoignage-peut-on-recoder-la-loi-lexemple-de-la-taxe-dhabitation">Blog Etalab</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/LICENSE">CeCILL v2.1</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Parcours Sup</td>
+<td class="org-left"><a href="http://www.enseignementsup-recherche.gouv.fr/">MESRI</a></td>
+<td class="org-left"><a href="https://framagit.org/parcoursup/algorithmes-de-parcoursup">Framagit</a></td>
+<td class="org-left"><a href="https://framagit.org/parcoursup/algorithmes-de-parcoursup/blob/master/README.md">README</a></td>
+<td class="org-left"><a href="https://framagit.org/parcoursup/algorithmes-de-parcoursup/blob/master/LICENSE">GNU GPL v3</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Impôt sur le revenu</td>
+<td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/ir-calcul">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/ir-calcul#readme-du-projet">README</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/LICENSE">CeCILL v2.1</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Taxe foncière</td>
+<td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/taxe_fonciere">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/taxe_fonciere/-/blob/master/readme">README</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/taxe_fonciere/-/blob/master/LICENSE">CeCILL v2.1</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Impôt sur les sociétés</td>
+<td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/calculette-impot-societes">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/calculette-impot-societes/-/blob/master/README.md">README</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/calculette-impot-societes/-/blob/master/LICENSE">CeCILL v2.1</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Cotisation foncière entreprise</td>
+<td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_fonciere_entreprises">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_fonciere_entreprises/-/blob/master/README.md">README</a></td>
+<td class="org-left">N/A*</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Cotisation valeur ajoutée entreprise</td>
+<td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_valeur_ajoutee_entreprises">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_valeur_ajoutee_entreprises/-/blob/master/README.md">README</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_valeur_ajoutee_entreprises/-/blob/master/LICENSE">CeCILL v2.1</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Imposition forfaitaire entreprise réseaux</td>
+<td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/imposition_forfaitaire_entreprises_reseaux">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/ir-calcul#readme-du-projet">README</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/imposition_forfaitaire_entreprises_reseaux/-/blob/master/LICENSE">CeCILL v2.1</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Mésange</td>
+<td class="org-left"><a href="https://www.tresor.economie.gouv.fr/">Trésor</a> / <a href="https://www.insee.fr">INSEE</a></td>
+<td class="org-left"><a href="https://github.com/InseeFr/Mesange">Github</a></td>
+<td class="org-left"><a href="https://github.com/InseeFr/Mesange/blob/master/README.md">README</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/LICENSE">CeCILL v2.1</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Opale</td>
+<td class="org-left"><a href="https://www.tresor.economie.gouv.fr/">Trésor</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Opale">Github</a> ou <a href="https://framagit.org/DGTresor/Opale">Framagit</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/README.md">README</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/LICENSE">CeCILL v2.1</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Saphir</td>
+<td class="org-left"><a href="https://www.tresor.economie.gouv.fr/">Trésor</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Saphir">Github</a> ou <a href="https://framagit.org/DGTresor/Saphir">Framagit</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Saphir/blob/master/README.md">README</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/LICENSE">CeCILL v2.1</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Allocation de retour à l'emploi</td>
+<td class="org-left"><a href="https://www.pole-emploi.fr">Pôle emploi</a></td>
+<td class="org-left"><a href="https://www.data.gouv.fr/fr/datasets/calcul-de-lallocation-daide-au-retour-a-lemploi-are/">data.gouv.fr</a> ou <a href="https://www.pole-emploi.fr/candidat/algorithmes-@/index.jspz?id=568707">pole-emploi.fr</a></td>
+<td class="org-left"><a href="https://www.pole-emploi.fr/candidat/algorithmes-@/index.jspz?id=568707">Pôle emploi</a></td>
+<td class="org-left"><a href="http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html">CeCILL-C</a></td>
+</tr>
+
+
+<tr>
+<td class="org-left">Titre Emploi Service Entreprise</td>
+<td class="org-left"><a href="https://www.urssaf.org">URSSAF</a></td>
+<td class="org-left"><a href="https://www.urssaf.org/home/tese-code-source.html">urssaf.org</a></td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.html">CeCILL</a></td>
+</tr>
+</tbody>
+</table>
+
+-   En cas d'absence de licence, le droit s'applique normalement et le code source est librement réutilisable par tous.
 
