@@ -5,6 +5,7 @@ toc: false
 
 # Interventions de la mission logiciels libres en français
 
+- 23 mai 2023 : Intervention aux [Techdays #14](https://techdays.pages.unistra.fr/)
 - 2 décembre 2022 : [Open Source Workshop for Computing & Sustainability](https://swforum.eu/events/open-source-workshops-computing-sustainability), intervention lors du panel "[Measuring Contribution to Open Source](https://swforum.eu/oss-contribution)"
 - 8 novembre 2022 : Participation au panel « Open Source : un levier stratégique pour la souveraineté numérique européenne » ([voir la vidéo](https://www.youtube.com/watch?v=QxIXtjELeFA)) lors de l'événement Open Source Experience 2022
 - 9 juin 2022 : Courte [vidéo](https://ecoresponsable.numerique.gouv.fr/publications/videos-vers-un-numerique-ecoresponsable/episode-5-lutter-obsolescence-grace-au-logiciel-libre/) sur le lien entre logiciels libres et écoresponsabilité
@@ -64,4 +65,3 @@ Vous pouvez [retrouver en ligne nos présentations](https://speakerdeck.com/blue
 - [Dossier sur les communs de la bibliothèque municipale de Lyon](https://www.bm-lyon.fr/nos-blogs/democratie/decouvrir-444/article/les-communs)
 - [Revue de littérature à l'international](https://iasc-commons.org/key-publications/) par l'*International Association for the Studies of the Commons*
 - [Vers une République des biens communs ?](https://www.colloque-tv.com/colloques/vers-une-republique-des-biens-communs), Centre Culturel International de Cerisy, 2016.
-
