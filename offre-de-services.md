@@ -49,7 +49,7 @@ Avant de nous écrire, veuillez lire [cette page de documentation du SILL](https
 
 ## Sur les marchés interministériels de support et d'expertise
 
-Si vous avez des questions sur les [marchés interministériels de support et d'expertise logiciels libres](https://communs.numerique.gouv.fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/), vous pouvez nous écrire à `contact@code.gouv.fr`.
+Si vous avez des questions sur les [marchés interministériels de support et d'expertise logiciels libres](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/), vous pouvez nous écrire à `contact@code.gouv.fr`.
 
 Voir [la liste des établissements bénéficiaires des deux marchés](marches-logiciels-libres.md) et la [liste des logiciels libres concernés par le marché de support](marches-logiciels-libres-liste-logiciels.md).
 
