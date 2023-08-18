@@ -21,6 +21,7 @@ Voir la [page dédiée](mission-logiciels-libres.md).
 - Convention 2022 avec l'école CentraleSupélec pour le BlueHats Semester of Code ([PDF](docs/Convention_CentraleSupelec-Dinum-2021.pdf))
 - Convention 2022 avec l'association OW2 ([PDF](docs/Convention_OW2_Dinum_2022.pdf))
 - Convention 2023 avec la fondation [NLnet](https://nlnet.nl) ([PDF](docs/DINUM-NLNET-convention-subvention-23112022.pdf))
+- Convention 2023 avec l'ADULLACT ([PDF](docs/Convention_DINUM_Adullact_2023.pdf))
 
 # Les produits de la mission logiciels libres
 
