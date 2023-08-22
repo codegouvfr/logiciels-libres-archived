@@ -55,7 +55,7 @@ public sector organisms.  It has been developed by
 The list of recommended free software for the French public sector is
 build by public agents on https://sill.code.gouv.fr.
 
-See [this page](sill.md) (in French).
+See [this page](../site/sill.md) (in French).
 
 <a id="repo"></a>
 # Repository

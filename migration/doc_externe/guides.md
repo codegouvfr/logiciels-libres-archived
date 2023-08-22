@@ -15,7 +15,7 @@ toc: false
 
 # Guides pour le socle interministériel de logiciels libres
 
-- [Présentation du socle interministériel de logiciels libres](sill.md)
+- [Présentation du socle interministériel de logiciels libres](../site/sill.md)
 - [Glossaire](glossary.fr.md) pour [code.gouv.fr](https://code.gouv.fr)
 - [Les licences libres acceptées pour les logiciels du SILL](licences-libres-dinum.md)
 - Créer une entité Wikidata pour un logiciel du SILL
@@ -26,6 +26,6 @@ toc: false
 - Contribuer à un projet libre extérieur à l'administration (signature des CLA, etc.)
 - Contribuer via la forge SourceHut
 - Faire l'inventaire de vos dépendances libres critiques
-- [Pourquoi la mission logiciels libres utilise SourceHut](pourquoi-sourcehut.md)
-- [Plan d'action logiciels libres et communs numériques](plan-action-logiciels-libres-communs-numeriques.md)
+- [Pourquoi la mission logiciels libres utilise SourceHut](../../pourquoi-sourcehut.md)
+- [Plan d'action logiciels libres et communs numériques](../site/plan-action-logiciels-libres-communs-numeriques.md)
 - [Politique de contribution aux logiciels libres de l’État](pocos/index.md)

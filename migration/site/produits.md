@@ -23,8 +23,8 @@ Pour ces logiciels et bibliothèques, le pôle logiciels libres s'engage à les 
 
 - La [gazette BlueHats](https://communs.numerique.gouv.fr/gazette/)
 - Les [ateliers BlueHats](https://communs.numerique.gouv.fr/ateliers/)
-- Les [guides](guides.md) de la mission logiciels libres.
-- Les [interventions](ressources.md) de la mission logiciels libres.
+- Les [guides](../doc_externe/guides.md) de la mission logiciels libres.
+- Les [interventions](../doc_interne/ressources.md) de la mission logiciels libres.
 
 # Services web
 

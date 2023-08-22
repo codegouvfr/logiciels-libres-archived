@@ -58,7 +58,7 @@ Voir la [page dédiée](conseil-logiciels-libres.md).
 
 # Guides logiciels libres : utiliser, publier et contribuer
 
-Voir la [page dédiée](guides.md).
+Voir la [page dédiée](../doc_externe/guides.md).
 
 # Présentation des ateliers BlueHats animés par la mission
 
@@ -114,12 +114,12 @@ Les membres de la mission logiciels libres ont le droit de prendre sur leur temp
 
 # Ressources (glossaire, interventions, liens externes, etc.)
 
-- [Glossaire](glossary.fr.md) de la mission logiciels libres
-- Pour les autres ressources, voir la [page dédiée](ressources.md).
+- [Glossaire](../doc_externe/glossary.fr.md) de la mission logiciels libres
+- Pour les autres ressources, voir la [page dédiée](../doc_interne/ressources.md).
 
 # Politique de contribution aux logiciels libres de l'Etat (2018-2021)
 
-Cette politique de contribution est en cours de remplacement par les [guides](guides.md) de la mission logiciels libres mais elle est toujours valable et vous pouvez [la consulter](pocos/index.md).
+Cette politique de contribution est en cours de remplacement par les [guides](../doc_externe/guides.md) de la mission logiciels libres mais elle est toujours valable et vous pouvez [la consulter](../doc_externe/pocos/index.md).
 
 <!-- # Projets auxquels contribue la mission logiciels libres -->
 
@@ -135,4 +135,4 @@ Si vous êtes contributeur régulier, vous pouvez demander un accès en écritur
 
 # Licence des contenus de cet espace
 
-Les contenus de ce dépôt sont publiés sous [licence Ouverte 2.0](LICENSE.md).
+Les contenus de ce dépôt sont publiés sous [licence Ouverte 2.0](../../LICENSE.md).

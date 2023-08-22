@@ -9,11 +9,11 @@ L'objectif de la mission logiciels libres est de renforcer l'utilisation de logi
 
 La mission logiciels libres *pilote* le [plan d'action logiciels libres et communs numériques](https://communs.numerique.gouv.fr/plan-action-logiciels-libres-et-communs-numeriques/ " ") et maintient [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
 
-Il *met en oeuvre* des [produits](produits.md) pour mener à bien ce plan d'action, en particulier [code.gouv.fr](https://code.gouv.fr) et le [socle interministériel de logiciels libres](https://sill.code.gouv.fr).
+Il *met en oeuvre* des [produits](../site/produits.md) pour mener à bien ce plan d'action, en particulier [code.gouv.fr](https://code.gouv.fr) et le [socle interministériel de logiciels libres](https://sill.code.gouv.fr).
 
 Il *contribue* au mouvement BlueHats : les ateliers, la gazette et le programme BlueHats Semester of Code.
 
-Il *anime* le [conseil d'expertise et de mobilisation logiciels libres](conseil-logiciels-libres.md), qui réunit des administrations et des acteurs de l'écosystème du logiciel libre, et qui doit contribuer à la réussite du plan d'action.
+Il *anime* le [conseil d'expertise et de mobilisation logiciels libres](../site/conseil-logiciels-libres.md), qui réunit des administrations et des acteurs de l'écosystème du logiciel libre, et qui doit contribuer à la réussite du plan d'action.
 
 # Engagements
 

@@ -31,7 +31,7 @@ Si vous êtes une administration, une entreprise française, une association ou 
 
 CentraleSupélec et la DINUM sélectionnent les idées de contributions en fonction de l'intérêt du projet et des conditions d'encadrement du stage.
 
-Nous mettons aussi comme condition que le logiciel soit publié sous l'une des licences libres listées sur [cette page](licences-libres-dinum.md).
+Nous mettons aussi comme condition que le logiciel soit publié sous l'une des licences libres listées sur [cette page](../doc_externe/licences-libres-dinum.md).
 
 Les projets retenus pour 2022 sont lisibles sur [cette page](https://code.gouv.fr/bluehats/bsoc-contributions-2022/).
 

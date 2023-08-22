@@ -17,9 +17,9 @@ We publish here various resources about [code.gouv.fr](https://code.gouv.fr) and
 
 # Free Software guides: using, publishing and contributing
 
-- [Why Etalab's Free Software unit uses SourceHut](why-sourcehut.md)
+- [Why Etalab's Free Software unit uses SourceHut](../../why-sourcehut.md)
 - [\[FR\] Introduction to the catalog of recommended free software](sill.md)
-- [Glossary](glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
+- [Glossary](../doc_externe/glossary.en.md) for [code.gouv.fr](https://code.gouv.fr)
 
 # Action plan for Free Software and digital commons
 
@@ -27,7 +27,7 @@ You can read the english translation of the French [action plan for Free Softwar
 
 # Contribution Policy for Free Software of the State (2018-2021)
 
-- [Contribution Policy for Free Software of the State (2018-2021)](pocos/index.en.md)
+- [Contribution Policy for Free Software of the State (2018-2021)](../doc_externe/pocos/index.en.md)
 
 # Contributing to this wiki
 

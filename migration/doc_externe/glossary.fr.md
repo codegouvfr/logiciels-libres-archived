@@ -181,7 +181,7 @@ Le socle interministériel de logiciels libres (SILL) est le catalogue
 de référence des logiciels libres recommandés par l'Etat pour toute
 l'administration.
 
-Voir [cette page](sill.md).
+Voir [cette page](../site/sill.md).
 
 <a id="swh"></a>
 # Software Heritage

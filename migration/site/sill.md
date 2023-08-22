@@ -39,7 +39,7 @@ numérique](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033205068)
 Pour qu'un logiciel libre figure au SILL :
 
 -   Son code source doit être publié sous l'une des [licences libres
-    acceptées](licences-libres-dinum.md), sans délai entre la
+    acceptées](../doc_externe/licences-libres-dinum.md), sans délai entre la
     publication du code source et celle des fichiers exécutables.
 
 -   Il doit être déployé par la DSI d'un établissement public ou
@@ -126,7 +126,7 @@ Si les référents d'un logiciel le souhaitent, ils peuvent proposer une
 fiche détaillée plus complète en contribuant à ce wiki.
 
 Vous trouvez la liste des fiches rédigées à ce jour dans le répertoire
-[sill/fiches/](sill/fiches/index.md).
+[sill/fiches/](../doc_interne/sill/fiches/index.md).
 
 # Documentation des logiciels libres présents dans un SI (fiches SILL « SI-LL »)
 
