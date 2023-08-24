@@ -15,8 +15,7 @@ Le compte `~codegouvfr` de SourceHut a trois projets :
 
 ## Pour le projet "code.gouv.fr"
 
--   [code.gouv.fr\_home](https://git.sr.ht/~codegouvfr/code.gouv.fr_home) : Application web pour le site <https://code.gouv.fr>
--   [code.gouv.fr\_public](https://git.sr.ht/~codegouvfr/code.gouv.fr_public) : Application web pour la page <https://code.gouv.fr/public>
+-   [codegouvfr-public](https://git.sr.ht/~codegouvfr/codegouvfr-public) : Application web pour la page <https://code.gouv.fr/public>
 -   [codegouvfr-sources](https://git.sr.ht/~codegouvfr/codegouvfr-sources) : Liste des comptes d'organisation du secteur public.
 -   [codegouvfr-fetch-data](https://git.sr.ht/~codegouvfr/codegouvfr-fetch-data) : Récupération des données à afficher sur code.gouv.fr.
 -   [codegouvfr-consolidate-data](https://git.sr.ht/~codegouvfr/codegouvfr-consolidate-data) : Consolidation des données à afficher sur code.gouv.fr.
