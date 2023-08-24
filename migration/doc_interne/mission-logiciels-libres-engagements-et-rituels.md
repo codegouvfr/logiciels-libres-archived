@@ -37,7 +37,7 @@ Nous répondons à tous les emails reçus :
 
 - sur `contact@code.gouv.fr`
 - sur `~codegouvfr/logiciels-libres@lists.sr.ht`
-- sur `~codegouvfr/codegouvfr-devel@lists.sr.ht`
+- sur `~codegouvfr/dev@lists.sr.ht`
 
 Nous ne répondons pas systématiquement aux sollicitations sur les réseaux sociaux.
 
