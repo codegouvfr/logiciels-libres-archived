@@ -1,10 +1,11 @@
 [![img](https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~codegouvfr/readme-logiciels-libres/blob/master/LICENSE.md)
 
+**Cet espace de documentation est en cours de refonte, vous pourrez y trouver des liens défectueux.**
+
 
 # Présentation des dépôts
 
-Cette page présente les codes sources développés et mis en oeuvre par
-la mission logiciels libres de la DINUM.
+Cette page présente les codes sources développés et mis en oeuvre par la mission logiciels libres de la DINUM.
 
 Le compte `~codegouvfr` de SourceHut a trois projets :
 
@@ -15,13 +16,13 @@ Le compte `~codegouvfr` de SourceHut a trois projets :
 
 ## Pour le projet "code.gouv.fr"
 
--   [codegouvfr-public](https://git.sr.ht/~codegouvfr/codegouvfr-public) : Application web pour la page <https://code.gouv.fr/public>
+-   [code.gouv.fr\_home](https://git.sr.ht/~codegouvfr/code.gouv.fr_home) : Application web pour le site <https://code.gouv.fr>
+-   [code.gouv.fr\_public](https://git.sr.ht/~codegouvfr/code.gouv.fr_public) : Application web pour la page <https://code.gouv.fr/public>
 -   [codegouvfr-sources](https://git.sr.ht/~codegouvfr/codegouvfr-sources) : Liste des comptes d'organisation du secteur public.
 -   [codegouvfr-fetch-data](https://git.sr.ht/~codegouvfr/codegouvfr-fetch-data) : Récupération des données à afficher sur code.gouv.fr.
 -   [codegouvfr-consolidate-data](https://git.sr.ht/~codegouvfr/codegouvfr-consolidate-data) : Consolidation des données à afficher sur code.gouv.fr.
 
-Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
-consulter la page [sr.ht/~codegouvfr/code.gouv.fr/feed](https://sr.ht/~codegouvfr/code.gouv.fr/feed).
+Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez consulter la page [sr.ht/~codegouvfr/code.gouv.fr/feed](https://sr.ht/~codegouvfr/code.gouv.fr/feed).
 
 
 ## Pour le projet "logiciels-libres"
@@ -30,8 +31,7 @@ consulter la page [sr.ht/~codegouvfr/code.gouv.fr/feed](https://sr.ht/~codegouvf
 -   [guide-juridique-logiciel-libre](https://git.sr.ht/~codegouvfr/guide-juridique-logiciel-libre) : Guide interactif pour savoir si vous devez publier un code source.
 -   [logiciels-libres](https://git.sr.ht/~codegouvfr/read-logiciels-libres) : Ce dépôt, qui contient les sources de [ce wiki](https://man.sr.ht/~codegouvfr/logiciels-libres/index.md).
 
-Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez
-consulter la page [sr.ht/~codegouvfr/logiciels-libres/feed](https://sr.ht/~codegouvfr/logiciels-libres/feed).
+Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez consulter la page [sr.ht/~codegouvfr/logiciels-libres/feed](https://sr.ht/~codegouvfr/logiciels-libres/feed).
 
 
 # Autres dépôts sur GitHub
@@ -48,11 +48,11 @@ consulter la page [sr.ht/~codegouvfr/logiciels-libres/feed](https://sr.ht/~codeg
 
 Vos contributions sont les bienvenues !
 
-Pour des discussions générales sur les développements de la mission logiciels libres, merci d'écrire à la liste de discussion *publique* [~codegouvfr/logiciels-libres@lists.sr.ht](mailto:~codegouvfr/logiciels-libres@lists.sr.ht).
+Pour des discussions générales sur les développements du pôle logiciels libres, merci d'écrire à la liste de discussion *publique* [~codegouvfr/logiciels-libres@lists.sr.ht](mailto:~codegouvfr/logiciels-libres@lists.sr.ht).
 
 Pour des contributions à des dépôts particuliers, vous référez aux instructions des fichiers `CONTRIBUTING.md` de ces dépôts.
 
-Pour les retours devant rester confidentiels (failles de sécurité, demandes personnelles, etc.), écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+Pour les retours devant rester confidentiels (failles de sécurité, demandes personnelles, etc.), écrivez à [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
 
 # Licence
