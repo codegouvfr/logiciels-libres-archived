@@ -11,10 +11,7 @@ UID:SC-4a4a0b8b-d445-4c57-80d6-f9d4d3514e10
 DTSTART:20230427T110000
 DTEND:20230427T123000
 SUMMARY:S: GTT ouverture des codes sources du réseau des AMDAC 2 sur 5
-DESCRIPTION:Page de présentation :\n<https://man.sr.ht/~codegouvfr/logiciels-li
- bres/gtt-ll-amdac.md>\n\nLien de visioconférence :\n<https://webinaire.num
- erique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5
- d69c808eb669da0a5b>
+DESCRIPTION:Page de présentation :\n<https://code.gouv.fr/fr/mission/gtt-ll-amdac/>\n\nLien de visioconférence :\n<https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>
 CATEGORIES:RTL
 END:VEVENT
 END:VCALENDAR

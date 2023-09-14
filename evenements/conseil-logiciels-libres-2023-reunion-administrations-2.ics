@@ -6,16 +6,15 @@ X-WR-TIMEZONE:Europe/Paris
 X-WR-CALDESC:RDV CLL
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221208T072926Z
+DTSTAMP:20230914T095138Z
 UID:TS1-70cc1acb-8fbc-4554-9c73-034a16dacbe8
-DTSTART:20230915T140000
-DTEND:20230915T160000
+DTSTART:20230928T140000
+DTEND:20230928T160000
 SUMMARY:Conseil logiciels libres : réunion administrations (2/2)
-DESCRIPTION:<2023-09-15 ven. 14:00>–<2023-09-15 ven. 16:00>\n\nLien de visi
- oconférence :\n<https://webinaire.numerique.gouv.fr//meeting/signin/362/cr
- eator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>\n\nPage de docume
- ntation sur le conseil :\n<https://man.sr.ht/~codegouvfr/logiciels-libres/cons
- eil-logiciels-libres.md>
+DESCRIPTION:<2023-09-28 jeu. 14:00-16:00>\n\nLien de visioconférence :\n<ht
+ tps://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c
+ 9902a44b481830388d5d69c808eb669da0a5b>\n\nPage de documentation sur le con
+ seil :\n<https://code.gouv.fr/fr/mission/cll/>
 CATEGORIES:RTL
 END:VEVENT
 END:VCALENDAR
