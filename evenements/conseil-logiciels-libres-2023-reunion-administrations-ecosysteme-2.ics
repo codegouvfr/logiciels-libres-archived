@@ -6,16 +6,15 @@ X-WR-TIMEZONE:Europe/Paris
 X-WR-CALDESC:RDV CLL
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230914T095138Z
+DTSTAMP:20230929T090357Z
 UID:TS1-f684c460-e14a-4767-8182-359cf2dde7da
-DTSTART:20231215T140000
-DTEND:20231215T170000
-SUMMARY:Conseil logiciels libres : réunion administrations et écosystème (2
- /2)
-DESCRIPTION:<2023-12-15 ven. 14:00>–<2023-12-15 ven. 17:00>\n\nLien de visi
- oconférence :\n<https://webinaire.numerique.gouv.fr//meeting/signin/362/cr
- eator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>\n\nPage de docume
- ntation sur le conseil :\n<https://code.gouv.fr/fr/mission/conseil-logiciels-libres/>
-CATEGORIES:RTL
+DTSTART:20240112T140000
+DTEND:20240112T170000
+SUMMARY:Conseil logiciels libres : réunion administrations et écosystème
+DESCRIPTION:<2024-01-12 ven. 14:00-17:00>\n\nLien de visioconférence :\n<ht
+ tps://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c
+ 9902a44b481830388d5d69c808eb669da0a5b>\n\nPage de documentation sur le con
+ seil :\n<https://code.gouv.fr/fr/mission/conseil-logiciels-libres/>
+CATEGORIES:CLL
 END:VEVENT
 END:VCALENDAR
