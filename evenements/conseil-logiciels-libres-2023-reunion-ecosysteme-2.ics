@@ -12,6 +12,6 @@ DTSTART:20231110T140000
 DTEND:20231110T160000
 SUMMARY:Conseil logiciels libres : réunion écosystème (2/2)
 DESCRIPTION:<2023-11-10 ven. 14:00>–<2023-11-10 ven. 16:00>\n\nLien de visioconférence :\n<https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b>\n\nPage de documentation sur le conseil :\n<https://code.gouv.fr/fr/mission/conseil-logiciels-libres/>
-CATEGORIES:RTL
+CATEGORIES:CLL
 END:VEVENT
 END:VCALENDAR
