@@ -28,12 +28,12 @@ Voir le [guide des algorithmes publics](https://guides.etalab.gouv.fr/algorithme
 <a id="lib"></a>
 # Bibliothèque
 
-Dans [code.gouv.fr](https://code.gouv.fr/#/libs), une bibliothèque est
+Dans [code.gouv.fr](https://code.gouv.fr/public/#/libs), une bibliothèque est
 un ensemble de fonctions distribuées sous forme de paquetage via une
 plateforme dédiée, par exemple https://npmjs.com.
 
 Pour ajouter une bibliothèque dans
-[code.gouv.fr](https://code.gouv.fr/#/libs), il suffit que le compte
+[code.gouv.fr](https://code.gouv.fr/public/#/libs), il suffit que le compte
 d'organisation depuis lequel vous publiez cette bibliothèque soit
 ajouté à [ce
 fichier](https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
@@ -72,7 +72,7 @@ dépendances de *développement* ; d'autre part, seules sont comprises
 les dépendances sollicitées par au moins deux dépôts.
 
 Les dépendances listées dans
-[code.gouv.fr](https://code.gouv.fr/#/deps) sont automatiquement
+[code.gouv.fr](https://code.gouv.fr/public/#/deps) sont automatiquement
 identifiées à partir des dépôts référencés sur cette même plateforme.
 Ne sont prises en compte que les dépendances de premier niveau.
 
@@ -85,7 +85,7 @@ un code source hébergé sur une forge. C'est aussi ce que vous pouvez
 copier sur votre machine pour l'explorer localement.
 
 Pour ajouter un dépôt dans
-[code.gouv.fr](https://code.gouv.fr/#/repos), envoyez-nous le compte
+[code.gouv.fr](https://code.gouv.fr/public/#/repos), envoyez-nous le compte
 d'organisation GitHub ou le groupe GitLab depuis lequel vous le
 publiez, nous l'ajouterons dans [ce
 fichier](https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
@@ -142,7 +142,7 @@ une mission de service public peut avoir un ou plusieurs organisations
 et/ou groupes sur une ou plusieurs forges.
 
 Pour ajouter une organisation dans
-[code.gouv.fr](https://code.gouv.fr/#/groups), il suffit que le compte
+[code.gouv.fr](https://code.gouv.fr/public/#/groups), il suffit que le compte
 d'organisation GitHub ou le groupe GitLab soit ajouté dans [ce
 fichier](https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/master/item/comptes-organismes-publics.yml).
 
@@ -168,13 +168,6 @@ service public. Il a été développé par
 [Etalab](https://www.etalab.gouv.fr).
 
 <a id="papillon"></a>
-# Services
-
-[code.gouv.fr](https://code.gouv.fr/#/services) affiche la liste des
-services en ligne s'appuyant sur des logiciels libres et accessibles
-aux agents publics.
-
-<a id="sill"></a>
 # Socle interministériel de logiciels libres
 
 Le socle interministériel de logiciels libres (SILL) est le catalogue
@@ -198,7 +191,7 @@ Dans un dépôt de code source géré avec Git, un tag est un label
 associé à un commit.  Ce label peut être annoté ou non.  Un tag
 correspond en général à une nouvelle version du logiciel.
 
-[code.gouv.fr](https://code.gouv.fr/#/tags) recense les tags des
+[code.gouv.fr](https://code.gouv.fr/public/#/tags) recense les tags des
 dépôts qui possèdent un fichier `publiccode.yml`, un fichier
 `CONTRIBUTING.md` ou qui sont à l'origine de la publication de
-[bibliothèques](https://code.gouv.fr/#/libs).
+[bibliothèques](https://code.gouv.fr/public/#/libs).

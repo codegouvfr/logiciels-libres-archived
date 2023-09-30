@@ -20,7 +20,7 @@ A "forked" repository is repository derived from another one.
 <a id="lib"></a>
 # Library
 
-On [code.gouv.fr](https://code.gouv.fr/#/libs), a library is a set of
+On [code.gouv.fr](https://code.gouv.fr/public/#/libs), a library is a set of
 functions packaged and distributed on a specific platform,
 e.g. https://npmjs.com.
 
@@ -73,12 +73,6 @@ repository: the number of "dependants" is listed here in the "Reuse"
 column of the list of repositories.
 
 <a id="papillon"></a>
-# Services
-
-[code.gouv.fr](https://code.gouv.fr/#/services) displays a list of
-services relying on free software and accessible to public agents.
-
-<a id="swh"></a>
 # Software Heritage
 
 [Software Heritage](https://www.softwareheritage.org) is a project
@@ -109,7 +103,7 @@ In a Git source code repository, a tag is a label attached to a
 commit.  The tag can be annotated or not.  A tag generally signals 
 a new release of the source code.
 
-[code.gouv.fr](https://code.gouv.fr/#/tags) liste tags from
+[code.gouv.fr](https://code.gouv.fr/public/#/tags) liste tags from
 repositories containing a `publiccode.yml` file, a `CONTRIBUTING.md`
 file or from which are published
-[libraries](https://code.gouv.fr/#/libs).
+[libraries](https://code.gouv.fr/public/#/libs).
