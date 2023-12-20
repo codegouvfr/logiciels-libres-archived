@@ -16,6 +16,7 @@ Nous y publions des contenus liés à [code.gouv.fr](https://code.gouv.fr) et à
 - Convention 2022 avec l'association OW2 ([PDF](docs/Convention_OW2_Dinum_2022.pdf))
 - Convention 2023 avec la fondation [NLnet](https://nlnet.nl) ([PDF](docs/DINUM-NLNET-convention-subvention-23112022.pdf))
 - Convention 2023 avec l'ADULLACT ([PDF](docs/Convention_DINUM_Adullact_2023.pdf))
+- Convention 2024 avec l'association Descodeuses ([PDF](docs/Convention_Descodeuses_Dinum_2024.pdf))
 
 # Archives
 
