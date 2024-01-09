@@ -55,7 +55,7 @@ Pour les retours devant rester confidentiels (failles de sécurité, demandes pe
 
 # Licence
 
-2021-2023 DINUM, Etalab.
+2021-2024 DINUM, Etalab.
 
 Le contenu de ce dépôt est publié sous [licence Ouverte 2.0](LICENSE.md).
 
