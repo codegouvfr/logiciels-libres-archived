@@ -28,6 +28,7 @@ Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez consulter la pa
 -   [documentation](https://git.sr.ht/~codegouvfr/documentation) : Toute la documentation de la mission logiciels libres
 -   [guide-juridique-logiciel-libre](https://git.sr.ht/~codegouvfr/guide-juridique-logiciel-libre) : Guide interactif pour savoir si vous devez publier un code source.
 -   [logiciels-libres](https://git.sr.ht/~codegouvfr/read-logiciels-libres) : Ce dépôt, qui contient les sources de [ce wiki](https://man.sr.ht/~codegouvfr/logiciels-libres/index.md).
+-   [codegouvfr-outils](https://git.sr.ht/~codegouvfr/codegouvfr-outils) : Divers outils
 
 Pour suivre l'activité sur l'ensemble des dépôts, vous pouvez consulter la page [sr.ht/~codegouvfr/logiciels-libres/feed](https://sr.ht/~codegouvfr/logiciels-libres/feed).
 
