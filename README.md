@@ -1,3 +1,4 @@
+[![img](https://img.shields.io/badge/code.gouv.fr-ouvert-mediumseagreen.svg)](https://code.gouv.fr/documentation/#/publier.md)
 [![img](https://img.shields.io/badge/Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~codegouvfr/readme-logiciels-libres/blob/master/LICENSE.md)
 
 
